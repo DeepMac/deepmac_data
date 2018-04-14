@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0030DD",
+			"OUISize": 24,
+			"OrgAddress": "1518 BROOKHOLLOW DRIVE\\nSUITE #19\\nSANTA ANA  CA  92705\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "INDIGITA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0030DD",
+			"OUISize": 24,
+			"OrgAddress": "1518 BROOKHOLLOW DRIVE\\nSUITE #19\\nSANTA ANA CA 92705\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "INDIGITA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "change",
+			"OUI": "0030DD",
+			"OUISize": 24,
+			"OrgAddress": "30 Corporate Park Drive\\nSuite 310\\nIrvine CA 92606\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "INDIGITA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0030DD",
+			"OUISize": 24,
+			"OrgAddress": "30 Corporate Park Drive\\nIrvine  CA  92606\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "INDIGITA CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

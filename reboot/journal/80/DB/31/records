@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-30",
+			"EventType": "add",
+			"OUI": "80DB31",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 49, Sec. 4, Jhongyang Rd., Tu Cheng Dist.,\\nNew Taipei City  23675\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Power Quotient International Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "80DB31",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 49, Sec. 4, Jhongyang Rd., Tu Cheng Dist.,\\nNew Taipei City  23675\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Power Quotient International Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "80DB31",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 49, Sec. 4, Jhongyang Rd., Tu Cheng Dist.,\\nNew Taipei City    23675\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Power Quotient International Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

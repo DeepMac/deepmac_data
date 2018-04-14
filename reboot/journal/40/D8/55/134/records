@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D855134",
+			"OUISize": 36,
+			"OrgAddress": "Martinsplatz 3\\nPatersdorf Bavaria 94265\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "digitech GmbH &amp; Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

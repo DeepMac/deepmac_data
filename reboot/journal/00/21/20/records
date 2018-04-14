@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "002120",
+			"OUISize": 24,
+			"OrgAddress": "2958 Cleveland Ave. N\\nRoseville MN 55113\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sequel Technologies, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-01-20",
+			"EventType": "change",
+			"OUI": "002120",
+			"OUISize": 24,
+			"OrgAddress": "2951 Cleveland Ave N\\nRoseville MN 55113\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sequel Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002120",
+			"OUISize": 24,
+			"OrgAddress": "2951 Cleveland Ave N\\nRoseville  MN  55113\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Sequel Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23D2",
+			"OUISize": 36,
+			"OrgAddress": "Francesc Macia, 1\\nMolins de Rei Barcelona 08750\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Adilec Enginyeria SL",
+			"Source": "IEEE"
+		}
+	]
+}

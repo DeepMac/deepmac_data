@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D855125",
+			"OUISize": 36,
+			"OrgAddress": "Jegindoevej 4\\nViborg  8800\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Scandyna A/S",
+			"Source": "IEEE"
+		}
+	]
+}

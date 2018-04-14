@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-21",
+			"EventType": "add",
+			"OUI": "0017FC",
+			"OUISize": 24,
+			"OrgAddress": "16F Parkview Office Tower,\\nJeongja-dong, Bundang-gu,\\nSeongnam Gyeonggi 463-863\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Suprema Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0017FC",
+			"OUISize": 24,
+			"OrgAddress": "16F Parkview Office Tower,\\nSeongnam  Gyeonggi  463-863\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Suprema Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20A0",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 131276\\nBryanston  2021\\n\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "CYNAPS",
+			"Source": "IEEE"
+		}
+	]
+}

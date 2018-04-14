@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E5A",
+			"OUISize": 36,
+			"OrgAddress": "1217 Hayashi-cho\\nTakamatushi Kagawa 7610301\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUTEC INC.",
+			"Source": "IEEE"
+		}
+	]
+}

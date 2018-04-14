@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-18",
+			"EventType": "add",
+			"OUI": "5CF286D",
+			"OUISize": 28,
+			"OrgAddress": "5121 Castello Drive\\nNaples    34103-1927\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BrightSky, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

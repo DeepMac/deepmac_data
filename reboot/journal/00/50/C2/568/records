@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2568",
+			"OUISize": 36,
+			"OrgAddress": "3651 FAU Blvd., Suite 215\\nBoca Raton FL 33431\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GeoFocus, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

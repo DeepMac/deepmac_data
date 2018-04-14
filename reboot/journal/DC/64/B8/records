@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "add",
+			"OUI": "DC64B8",
+			"OUISize": 24,
+			"OrgAddress": "5th Floor,No 4 ,Road 1,ShangXue Technology industrial Park,LongGang district,ShenZhen,GuangDong,China\\nShenZhen  GuangDong  518129\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen JingHanDa Electronics Co.Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

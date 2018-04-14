@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-17",
+			"EventType": "add",
+			"OUI": "241C04",
+			"OUISize": 24,
+			"OrgAddress": "2/F, Block A, Tsinghua Information Harbor, North Section\\nShenzhen Hi-Tech Park, Nanshan District\\nShenzhen Guangdong 518057\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHENZHEN JEHE TECHNOLOGY DEVELOPMENT CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "241C04",
+			"OUISize": 24,
+			"OrgAddress": "2/F, Block A, Tsinghua Information Harbor, North Section\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN JEHE TECHNOLOGY DEVELOPMENT CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

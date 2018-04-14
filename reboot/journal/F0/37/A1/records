@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-15",
+			"EventType": "add",
+			"OUI": "F037A1",
+			"OUISize": 24,
+			"OrgAddress": "Huike industrial park,Minying industrial park,Shuitian country\\nShiyan,Baoan District\\nSHENZHEN GUANGDONG 518108\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Huike Electronics (SHENZHEN) CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F037A1",
+			"OUISize": 24,
+			"OrgAddress": "Huike industrial park,Minying industrial park,Shuitian country,Shiyan,Baoan District\\nSHENZHEN  GUANGDONG  518108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huike Electronics (SHENZHEN) CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

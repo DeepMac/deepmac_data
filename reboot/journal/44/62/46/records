@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-28",
+			"EventType": "add",
+			"OUI": "446246",
+			"OUISize": 24,
+			"OrgAddress": "Bernstrasse 4\\nWorb    3076\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Comat AG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "004061",
+			"OUISize": 24,
+			"OrgAddress": "(LIN KOU INDUSTRIAL ZONE SEC,4\\n27, HSI-SHIH LAKE ROAD\\nKUEI-SHAN HSIANG\\n",
+			"OrgCountry": "TAOYUAN COUNTY, TAIWAN R.O.C.",
+			"OrgName": "DATATECH ENTERPRISES CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004061",
+			"OUISize": 24,
+			"OrgAddress": "(LIN KOU INDUSTRIAL ZONE SEC,4\\n27, HSI-SHIH LAKE ROAD KUEI-SHAN HSIANG\\n\\n",
+			"OrgCountry": "TAOYUAN COUNTY TAIWAN R.O.C.",
+			"OrgName": "DATATECH ENTERPRISES CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004061",
+			"OUISize": 24,
+			"OrgAddress": "(LIN KOU INDUSTRIAL ZONE SEC,4\\n27, HSI-SHIH LAKE ROAD KUEI-SHAN HSIANG\\nTAOYUAN COUNTY TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "DATATECH ENTERPRISES CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "004061",
+			"OUISize": 24,
+			"OrgAddress": "(LIN KOU INDUSTRIAL ZONE SEC,4\\n27, HSI-SHIH LAKE ROAD KUEI-SHAN HSIANG\\nTAOYUAN COUNTY TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "DATATECH ENTERPRISES CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004061",
+			"OUISize": 24,
+			"OrgAddress": "(LIN KOU INDUSTRIAL ZONE SEC,4\\nTAOYUAN COUNTY  TAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "DATATECH ENTERPRISES CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

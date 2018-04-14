@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-29",
+			"EventType": "add",
+			"OUI": "A02195",
+			"OUISize": 24,
+			"OrgAddress": "#416, Maetan 3-dong\\nYeongtong-gu\\nSuwon-si Gyeonggi-do 443-742\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Samsung Electronics Digital Imaging",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A02195",
+			"OUISize": 24,
+			"OrgAddress": "#416, Maetan 3-dong\\nSuwon-si  Gyeonggi-do  443-742\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics Digital Imaging",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-25",
+			"EventType": "change",
+			"OUI": "A02195",
+			"OUISize": 24,
+			"OrgAddress": "#416, Maetan 3-dong\\nSuwon-si  Gyeonggi-do  443-742\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

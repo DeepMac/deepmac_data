@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2748",
+			"OUISize": 36,
+			"OrgAddress": "143 Ladies Mile\\nEllerslie\\nAuckland  1051\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Letechnic Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

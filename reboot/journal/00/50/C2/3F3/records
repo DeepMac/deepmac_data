@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer Str. 12 Ã¯Â¿Â½ 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer Str. 12 Ã¢ÂÂ 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer Str. 12 â 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer Str. 12 Ã¢ÂÂ 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer Str. 12 â 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer Str. 12 Ã¢ÂÂ 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer Str. 12 ÃÂ¢Ã¢ÂÂ¬Ã¢ÂÂ 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer StraÃe 12 - 14\\n68309 Mannheim\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec GerÃ¤tebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer StraÃe 12 - 14\\nMannheim  68309\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer StraÃÅ¸e 12 - 14\\nMannheim  68309\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C23F3",
+			"OUISize": 36,
+			"OrgAddress": "Cochemer StraÃe 12 - 14\\nMannheim  68309\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hytec Geraetebau GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

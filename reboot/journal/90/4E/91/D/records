@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-31",
+			"EventType": "add",
+			"OUI": "904E91D",
+			"OUISize": 28,
+			"OrgAddress": "Tylova 1/57\\nPlzen    301 28\\n\\n",
+			"OrgCountry": "CZ",
+			"OrgName": "SKODA ELECTRIC a.s.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D2F",
+			"OUISize": 36,
+			"OrgAddress": "PO Box G\\nFishers New York 14453\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Key Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

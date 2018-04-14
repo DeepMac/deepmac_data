@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-16",
+			"EventType": "add",
+			"OUI": "70B3D5EA0",
+			"OUISize": 36,
+			"OrgAddress": "48 rue RenÃ© CLAIR\\nPARIS    75018\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "PARK24",
+			"Source": "IEEE"
+		}
+	]
+}

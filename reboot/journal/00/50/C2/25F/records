@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C225F",
+			"OUISize": 36,
+			"OrgAddress": "Hubertus Liebrecht Str. 10-12\\nBiberach D-BW 88483\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Handtmann Maschinenfabrik GmbH&Co.KG",
+			"Source": "IEEE"
+		}
+	]
+}

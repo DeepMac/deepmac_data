@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C236D",
+			"OUISize": 36,
+			"OrgAddress": "3469 North First St.\\nSan Jose California 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Oplink Communications",
+			"Source": "IEEE"
+		}
+	]
+}

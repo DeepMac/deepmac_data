@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D2C",
+			"OUISize": 36,
+			"OrgAddress": "370 N. Main St.\\nMarlborough CT 06447\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Schneider Electric Motion USA",
+			"Source": "IEEE"
+		}
+	]
+}

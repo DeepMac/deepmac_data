@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "add",
+			"OUI": "001C7D",
+			"OUISize": 24,
+			"OrgAddress": "15 Changi Business Park Central 1\\n5th Level\\n486057\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Excelpoint Manufacturing Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-01-14",
+			"EventType": "change",
+			"OUI": "001C7D",
+			"OUISize": 24,
+			"OrgAddress": "15, Changi Industrial Park\\nCentral 1, 5th Level\\n486057\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Excelpoint Manufacturing Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "001C7D",
+			"OUISize": 24,
+			"OrgAddress": "15, Changi Business Park\\nCentral 1, 5th Level\\n486057\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Excelpoint Manufacturing Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C7D",
+			"OUISize": 24,
+			"OrgAddress": "15, Changi Business Park\\n486057\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "Excelpoint Manufacturing Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

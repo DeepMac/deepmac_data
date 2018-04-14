@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-25",
+			"EventType": "add",
+			"OUI": "383A215",
+			"OUISize": 28,
+			"OrgAddress": "Studencheskaya str. 16-130\\nEkaterinburg    620137\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "OOO NPP Uraltechnologiya",
+			"Source": "IEEE"
+		}
+	]
+}

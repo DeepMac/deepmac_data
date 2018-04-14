@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-03-01",
+			"EventType": "add",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag Hammrskjölds väg 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Åmic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag HammrskjÃ¶lds vÃ¤g 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Ãmic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag Hammrskjölds väg 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Åmic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag HammrskjÃÂ¶lds vÃÂ¤g 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ÃÂmic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag Hammrskjölds väg 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Åmic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag HammrskjÃÂ¶lds vÃÂ¤g 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ÃÂmic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag HammrskjÃÂ¶lds vÃÂ¤g 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Ãâ¦mic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag HammrskjÃÂÃÂÃÂÃÂ¶lds vÃÂÃÂÃÂÃÂ¤g 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ÃÂÃÂÃÂ¢Ã¢ÂÂ¬ÃÂ¦mic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nDag HammarskjÃ¶lds vÃ¤g 52 B\\nUppsala  75183\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Ãmic AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BA1",
+			"OUISize": 24,
+			"OrgAddress": "Uppsala science park\\nUppsala    75183\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Ãmic AB",
+			"Source": "IEEE"
+		}
+	]
+}

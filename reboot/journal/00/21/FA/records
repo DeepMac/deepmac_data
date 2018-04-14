@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "0021FA",
+			"OUISize": 24,
+			"OrgAddress": "Tekniikantie 21\\nEspoo Uusimaa 02150\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "A4SP Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "0021FA",
+			"OUISize": 24,
+			"OrgAddress": "Keilaranta 19 D\\nEspoo Uusimaa 02150\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "A4SP Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0021FA",
+			"OUISize": 24,
+			"OrgAddress": "Keilaranta 19 D\\nEspoo  Uusimaa  02150\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "A4SP Technologies Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

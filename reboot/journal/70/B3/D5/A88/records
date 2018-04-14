@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-05",
+			"EventType": "add",
+			"OUI": "70B3D5A88",
+			"OUISize": 36,
+			"OrgAddress": "No.1 Shunhua Road, Gaoxin District\\nJinan  Shangdong  250101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shangdong Bosure Automation Technology Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

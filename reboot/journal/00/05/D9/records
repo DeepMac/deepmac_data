@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005D9",
+			"OUISize": 24,
+			"OrgAddress": "ASIC Venture Town 5F,\\n1330-3 Seocho2-Dong, Seocho-Ku,\\n\\n",
+			"OrgCountry": "Seoul, KOREA (135-072)",
+			"OrgName": "Techno Valley, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0005D9",
+			"OUISize": 24,
+			"OrgAddress": "ASIC Venture Town 5F,\\n1330-3 Seocho2-Dong, Seocho-Ku,\\n\\n",
+			"OrgCountry": "Seoul KOREA (135-072)",
+			"OrgName": "Techno Valley, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0005D9",
+			"OUISize": 24,
+			"OrgAddress": "ASIC Venture Town 5F,\\n1330-3 Seocho2-Dong, Seocho-Ku,\\nSeoul  135-072\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Techno Valley, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005D9",
+			"OUISize": 24,
+			"OrgAddress": "ASIC Venture Town 5F,\\nSeoul    135-072\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Techno Valley, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

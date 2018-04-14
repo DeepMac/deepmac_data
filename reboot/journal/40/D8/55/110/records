@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-03",
+			"EventType": "add",
+			"OUI": "40D855110",
+			"OUISize": 36,
+			"OrgAddress": "NanYouTianAn industrial park Tower4\\nNanshan District\\nShenzhen Guangdong 518054\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Aplex Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

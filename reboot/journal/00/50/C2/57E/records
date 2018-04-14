@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C257E",
+			"OUISize": 36,
+			"OrgAddress": "1 Chemin des CHAUX\\nSaint-Etienne Loire 42000\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Digital Way",
+			"Source": "IEEE"
+		}
+	]
+}

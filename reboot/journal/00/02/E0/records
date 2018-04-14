@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0002E0",
+			"OUISize": 24,
+			"OrgAddress": "Borsigstrasse 10\\nD70469 Stuttgart\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ETAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0002E0",
+			"OUISize": 24,
+			"OrgAddress": "BorsigstraÃe 10\\nD70469 Stuttgart\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ETAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0002E0",
+			"OUISize": 24,
+			"OrgAddress": "Borsigstrasse 10\\nD70469 Stuttgart\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ETAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0002E0",
+			"OUISize": 24,
+			"OrgAddress": "BorsigstraÃe 10\\nD70469 Stuttgart\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ETAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0002E0",
+			"OUISize": 24,
+			"OrgAddress": "BorsigstraÃe 10\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ETAS GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

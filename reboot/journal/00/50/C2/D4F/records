@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D4F",
+			"OUISize": 36,
+			"OrgAddress": "Saseler Bogen 4a\\nHamburg  22393\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SECOM GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

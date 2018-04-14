@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000CC0",
+			"OUISize": 24,
+			"OrgAddress": "Niittylanpolku 16\\nBox 16\\nHelsinki  00621\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Genera Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000CC0",
+			"OUISize": 24,
+			"OrgAddress": "Niittylanpolku 16\\nHelsinki    00621\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Genera Oy",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-06-13",
+			"EventType": "add",
+			"OUI": "001880",
+			"OUISize": 24,
+			"OrgAddress": "2900 Lakeside Drive\\nSuite 100\\nSanta Clara CA 95054\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Mobilygen",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "001880",
+			"OUISize": 24,
+			"OrgAddress": "2900 Lakeside Drive\\nSuite 100\\nSanta Clara CA 95054\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Maxim Integrated Circuits",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-02",
+			"EventType": "change",
+			"OUI": "001880",
+			"OUISize": 24,
+			"OrgAddress": "120 San Gabriel Dr.\\nSunnyvale CA 94086\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Maxim Integrated Products",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "001880",
+			"OUISize": 24,
+			"OrgAddress": "160 Rio Robles\\nM/S: C2-1\\nSan Jose CA 95134\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Maxim Integrated Products",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001880",
+			"OUISize": 24,
+			"OrgAddress": "160 Rio Robles\\nSan Jose  CA  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Maxim Integrated Products",
+			"Source": "IEEE"
+		}
+	]
+}

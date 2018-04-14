@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-10-29",
+			"EventType": "add",
+			"OUI": "001639",
+			"OUISize": 24,
+			"OrgAddress": "Technovill 4F,272-3 Yatap3\\nBundang\\nSeongnam Kyeonggi 463-836\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UBIQUAM Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001639",
+			"OUISize": 24,
+			"OrgAddress": "Technovill 4F,272-3 Yatap3\\nSeongnam  Kyeonggi  463-836\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "UBIQUAM Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-09",
+			"EventType": "change",
+			"OUI": "001639",
+			"OUISize": 24,
+			"OrgAddress": "Technovill 4F,272-3 Yatap3\\nSeongnam  Kyeonggi  463-836\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Ubiquam Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

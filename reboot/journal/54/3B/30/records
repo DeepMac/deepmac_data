@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-19",
+			"EventType": "add",
+			"OUI": "543B30",
+			"OUISize": 24,
+			"OrgAddress": "Riedstrasse 12\\nZÃ¼rich  Dietikon  8953\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "duagon AG",
+			"Source": "IEEE"
+		}
+	]
+}

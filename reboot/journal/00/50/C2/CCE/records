@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CCE",
+			"OUISize": 36,
+			"OrgAddress": "404 Wyman Street\\nSuite 400\\nWaltham MA 02451\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Mac-Gray Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

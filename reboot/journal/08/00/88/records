@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "080088",
+			"OUISize": 24,
+			"OrgAddress": "310 INTERLOCKEN PARKWAY\\nBROOMFIELD  CO  80021-3464\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MCDATA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "080088",
+			"OUISize": 24,
+			"OrgAddress": "310 INTERLOCKEN PARKWAY\\nBROOMFIELD CO 80021-3464\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MCDATA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "080088",
+			"OUISize": 24,
+			"OrgAddress": "1745 Technology Dr.\\nSan Jose CA 95110\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Brocade Communications Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "080088",
+			"OUISize": 24,
+			"OrgAddress": "1745 Technology Dr.\\nSan Jose  CA  95110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Brocade Communications Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "change",
+			"OUI": "080088",
+			"OUISize": 24,
+			"OrgAddress": "130 Holger Way\\nSan Jose  CA  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Brocade Communications Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

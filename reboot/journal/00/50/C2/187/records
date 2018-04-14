@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2187",
+			"OUISize": 36,
+			"OrgAddress": "Unit 2, Buckingway Business Park\\nSwavesey Cambridge CB24 4UQ\\n\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Cyan Technology Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

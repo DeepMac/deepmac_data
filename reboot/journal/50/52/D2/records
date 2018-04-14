@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-24",
+			"EventType": "add",
+			"OUI": "5052D2",
+			"OUISize": 24,
+			"OrgAddress": "8 floor,D Building,Paradise Software Park,No. 3 Xidoumen Road, Xihu District, Hangzhou\\nHangzhou  Zhejiang  310013\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou Telin Technologies Co., Limited",
+			"Source": "IEEE"
+		}
+	]
+}

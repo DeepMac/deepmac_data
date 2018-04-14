@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27CD",
+			"OUISize": 36,
+			"OrgAddress": "2075 Corte del Nogal\\nSuite N\\nCarlsbad CA 92011\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Precision MicroControl Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

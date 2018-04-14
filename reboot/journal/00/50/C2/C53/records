@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C53",
+			"OUISize": 36,
+			"OrgAddress": "Kokkedal Industripark 4\\nKokkedal  2980\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Eilersen Electric A/S",
+			"Source": "IEEE"
+		}
+	]
+}

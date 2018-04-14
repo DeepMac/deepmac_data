@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-03-04",
+			"EventType": "add",
+			"OUI": "FCE23F",
+			"OUISize": 24,
+			"OrgAddress": "Via Pastrengo 3/b\\nSeriate Bergamo 24068\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "CLAY PAKY SPA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "FCE23F",
+			"OUISize": 24,
+			"OrgAddress": "Via Pastrengo 3/b\\nSeriate  Bergamo  24068\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "CLAY PAKY SPA",
+			"Source": "IEEE"
+		}
+	]
+}

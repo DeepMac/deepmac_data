@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-05",
+			"EventType": "add",
+			"OUI": "D4C8B0",
+			"OUISize": 24,
+			"OrgAddress": "69,Tung-Yuan Rd\\nChung-Li City  Tao-Yuan County  32000\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Prime Electronics & Satellitics Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

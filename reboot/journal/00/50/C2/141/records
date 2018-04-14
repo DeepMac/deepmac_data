@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2141",
+			"OUISize": 36,
+			"OrgAddress": "Norrbergrgatan 8\\nVaxholm  18532\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Time Terminal Adductor Group AB",
+			"Source": "IEEE"
+		}
+	]
+}

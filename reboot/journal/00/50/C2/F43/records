@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F43",
+			"OUISize": 36,
+			"OrgAddress": "33 VARSHAVSKOE SHOSSE\\nMoscow  117105\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Special Systems Engineering Center LLC",
+			"Source": "IEEE"
+		}
+	]
+}

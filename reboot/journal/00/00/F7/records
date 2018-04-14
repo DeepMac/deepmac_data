@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0000F7",
+			"OUISize": 24,
+			"OrgAddress": "3/F NO. 712 MINTSU E. ROAD\\nTAIPEI, TAIWAN\\n\\n",
+			"OrgCountry": "ROC",
+			"OrgName": "YOUTH KEEP ENTERPRISE CO LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "0000F7",
+			"OUISize": 24,
+			"OrgAddress": "3/F NO. 712 MINTSU E. ROAD\\nTAIPEI, TAIWAN\\nROC\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "YOUTH KEEP ENTERPRISE CO LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0000F7",
+			"OUISize": 24,
+			"OrgAddress": "3/F NO. 712 MINTSU E. ROAD\\nTAIPEI, TAIWAN\\nROC\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "YOUTH KEEP ENTERPRISE CO LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0000F7",
+			"OUISize": 24,
+			"OrgAddress": "3/F NO. 712 MINTSU E. ROAD\\nROC\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "YOUTH KEEP ENTERPRISE CO LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020A6",
+			"OUISize": 24,
+			"OrgAddress": "295 NORTH BERNARDO AVENUE\\nMOUNTAIN VIEW  CA  94043\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PROXIM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0020A6",
+			"OUISize": 24,
+			"OrgAddress": "295 NORTH BERNARDO AVENUE\\nMOUNTAIN VIEW CA 94043\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PROXIM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-23",
+			"EventType": "change",
+			"OUI": "0020A6",
+			"OUISize": 24,
+			"OrgAddress": "1561 Buckeye Drive\\nMilpitas CA 95035\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Proxim Wireless",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020A6",
+			"OUISize": 24,
+			"OrgAddress": "1561 Buckeye Drive\\nMilpitas  CA  95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Proxim Wireless",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C243B",
+			"OUISize": 36,
+			"OrgAddress": "Batiment Placel, route de vannes\\nSAUTRON Pays de la loire 44880\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "A3IP",
+			"Source": "IEEE"
+		}
+	]
+}

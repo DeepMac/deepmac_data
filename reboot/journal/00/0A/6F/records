@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000A6F",
+			"OUISize": 24,
+			"OrgAddress": "5F, No. 324, Sec. 1, Junghua Rd.\\nHsinChu  300\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ZyTera Technologies Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-14",
+			"EventType": "change",
+			"OUI": "000A6F",
+			"OUISize": 24,
+			"OrgAddress": "2Fl. No. 58 Park Ave. II\\nS.B.I.P., Hsinchu  30077\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ZyFLEX Technologies Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000A6F",
+			"OUISize": 24,
+			"OrgAddress": "2Fl. No. 58 Park Ave. II\\nS.B.I.P., Hsinchu  30077\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ZyFLEX Technologies Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000A6F",
+			"OUISize": 24,
+			"OrgAddress": "2Fl. No. 58 Park Ave. II\\nS.B.I.P., Hsinchu    30077\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ZyFLEX Technologies Inc",
+			"Source": "IEEE"
+		}
+	]
+}

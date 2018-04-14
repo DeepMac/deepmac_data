@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2766",
+			"OUISize": 36,
+			"OrgAddress": "Olgastrasse 72\\nFriedrichshafen  88045\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "EMTEC Elektronische Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C2766",
+			"OUISize": 36,
+			"OrgAddress": "Gottlieb-Daimler-Strasse 10\\nRavensburg  88214\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gutermann Technology GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

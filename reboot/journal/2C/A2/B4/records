@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-15",
+			"EventType": "add",
+			"OUI": "2CA2B4",
+			"OUISize": 24,
+			"OrgAddress": "6200 Shingle Creek Pkwy, Suite 400\\nMinneapolis Minnesota 55430\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Fortify Technologies, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-18",
+			"EventType": "delete",
+			"OUI": "2CA2B4",
+			"OUISize": 24,
+			"OrgAddress": "6200 Shingle Creek Pkwy, Suite 400\\nMinneapolis Minnesota 55430\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Fortify Technologies, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-06",
+			"EventType": "add",
+			"OUI": "2CA2B4",
+			"OUISize": 24,
+			"OrgAddress": "6200 Shingle Creek Pkwy, Suite 400\\nMinneapolis Minnesota 55430\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Fortify Technologies, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "2CA2B4",
+			"OUISize": 24,
+			"OrgAddress": "6200 Shingle Creek Pkwy, Suite 400\\nMinneapolis  Minnesota  55430\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Fortify Technologies, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

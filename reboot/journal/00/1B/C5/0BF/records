@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-15",
+			"EventType": "add",
+			"OUI": "001BC50BF",
+			"OUISize": 36,
+			"OrgAddress": "707, Daerung Post Tower 6, 50-3\\nGasan-Dong, Geumcheon-Gu\\nSeoul  153715\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "TN Core Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC50BF",
+			"OUISize": 36,
+			"OrgAddress": "707, Daerung Post Tower 6, 50-3\\nSeoul  -  153715\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "TN Core Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

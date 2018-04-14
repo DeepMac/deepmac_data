@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "add",
+			"OUI": "001E25",
+			"OUISize": 24,
+			"OrgAddress": "1101, 11th Fl., Anyang K-center building, 1591-9\\nGwanyang-dong, Dongan-gu\\nAnyang Gyeonggi-do 431-815\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Intek Digital Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001E25",
+			"OUISize": 24,
+			"OrgAddress": "1101, 11th Fl., Anyang K-center building, 1591-9\\nAnyang  Gyeonggi-do  431-815\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Intek Digital Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-03",
+			"EventType": "change",
+			"OUI": "001E25",
+			"OUISize": 24,
+			"OrgAddress": "1101, 11th Fl., Anyang K-center building, 1591-9\\nAnyang  Gyeonggi-do  431-815\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "INTEK DIGITAL",
+			"Source": "IEEE"
+		}
+	]
+}

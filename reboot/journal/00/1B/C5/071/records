@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-08",
+			"EventType": "add",
+			"OUI": "001BC5071",
+			"OUISize": 36,
+			"OrgAddress": "Room 301, Chow Yei Ching Building,\\nThe University of Hong Kong, Pokfulam Road, Pokfulam\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Center for E-Commerce Infrastructure Development, The University of Hong Kong",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC5071",
+			"OUISize": 36,
+			"OrgAddress": "Room 301, Chow Yei Ching Building,\\n\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Center for E-Commerce Infrastructure Development, The University of Hong Kong",
+			"Source": "IEEE"
+		}
+	]
+}

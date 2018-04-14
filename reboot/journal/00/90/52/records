@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "009052",
+			"OUISize": 24,
+			"OrgAddress": "VIA GRANDI, 5\\n40013 CASTELMAGGIORE BO\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "SELCOM ELETTRONICA S.R.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009052",
+			"OUISize": 24,
+			"OrgAddress": "VIA GRANDI, 5\\n40013 CASTELMAGGIORE BO\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "SELCOM ELETTRONICA S.R.L.",
+			"Source": "IEEE"
+		}
+	]
+}

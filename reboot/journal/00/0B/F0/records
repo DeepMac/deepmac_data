@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000BF0",
+			"OUISize": 24,
+			"OrgAddress": "C.P.O.Box 6912\\nYe Kwan-dong 19-1\\nChong-gu Seoul 82\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "MoTEX Products Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000BF0",
+			"OUISize": 24,
+			"OrgAddress": "C.P.O.Box 6912\\nChong-gu  Seoul  82\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "MoTEX Products Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2ECF",
+			"OUISize": 36,
+			"OrgAddress": "13F-9 NO.2 CHENG PA RD. ZHONGHE DIST.,\\nNEW TAIPEI   23511\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "TAIWAN HIPLUS CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2ECF",
+			"OUISize": 36,
+			"OrgAddress": "13F-9 NO.2 CHENG PA RD. ZHONGHE DIST.,\\nNEW TAIPEI  23511\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "TAIWAN HIPLUS CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2ECF",
+			"OUISize": 36,
+			"OrgAddress": "13F-9 NO.2 CHENG PA RD. ZHONGHE DIST.,\\nNEW TAIPEI  23511\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "TAIWAN HIPLUS CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

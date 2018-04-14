@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-13",
+			"EventType": "add",
+			"OUI": "70B3D59B6",
+			"OUISize": 36,
+			"OrgAddress": "Via della Scienza, 27\\nVerona    37139\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Intercomp S.p.A.",
+			"Source": "IEEE"
+		}
+	]
+}

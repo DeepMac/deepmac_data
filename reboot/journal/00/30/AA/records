@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0030AA",
+			"OUISize": 24,
+			"OrgAddress": "2F-4, NO.18/N. 609, SEC. 5\\nCHUN-HSIN ROAD, SAN CHUNG\\nTAIPEI COUNTY\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "AXUS MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0030AA",
+			"OUISize": 24,
+			"OrgAddress": "2F-4, NO.18/N. 609, SEC. 5\\nCHUN-HSIN ROAD, SAN CHUNG TAIPEI COUNTY\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "AXUS MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0030AA",
+			"OUISize": 24,
+			"OrgAddress": "2F-4, NO.18/N. 609, SEC. 5\\nCHUN-HSIN ROAD, SAN CHUNG TAIPEI COUNTY\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AXUS MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0030AA",
+			"OUISize": 24,
+			"OrgAddress": "2F-4, NO.18/N. 609, SEC. 5\\nCHUN-HSIN ROAD, SAN CHUNG TAIPEI COUNTY\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "AXUS MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0030AA",
+			"OUISize": 24,
+			"OrgAddress": "2F-4, NO.18/N. 609, SEC. 5\\nCHUN-HSIN ROAD, SAN CHUNG TAIPEI COUNTY\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AXUS MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0030AA",
+			"OUISize": 24,
+			"OrgAddress": "2F-4, NO.18/N. 609, SEC. 5\\nTAIWAN  TAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AXUS MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

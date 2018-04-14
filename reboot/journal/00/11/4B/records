@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "00114B",
+			"OUISize": 24,
+			"OrgAddress": "Triftweg 21-26\\nBirkenwerder Brandenburg 16547\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Francotyp-Postalia AG & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-01-17",
+			"EventType": "change",
+			"OUI": "00114B",
+			"OUISize": 24,
+			"OrgAddress": "Triftweg 21-26\\nBirkenwerder Brandenburg 16547\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Francotyp-Postalia Beteiligungs Aktiengesellschaft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-01-19",
+			"EventType": "change",
+			"OUI": "00114B",
+			"OUISize": 24,
+			"OrgAddress": "Triftweg 21-26\\nBirkenwerder Brandenburg 16547\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Francotyp-Postalia GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00114B",
+			"OUISize": 24,
+			"OrgAddress": "Triftweg 21-26\\nBirkenwerder  Brandenburg  16547\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Francotyp-Postalia GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

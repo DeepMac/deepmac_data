@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A2D",
+			"OUISize": 36,
+			"OrgAddress": "3-1-1, Shin-yokohama, Kouhoku-ku\\nYokohama Kanagawa-ken 222-8505\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Inventure Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

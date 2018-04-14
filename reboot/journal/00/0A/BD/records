@@ -1,0 +1,35 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000ABD",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "change",
+			"OUI": "000ABD",
+			"OUISize": 24,
+			"OrgAddress": "25 Corporate Circle\\nAlbany NY 12203\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Rupprecht & Patashnick Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000ABD",
+			"OUISize": 24,
+			"OrgAddress": "25 Corporate Circle\\nAlbany  NY  12203\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Rupprecht & Patashnick Co.",
+			"Source": "IEEE"
+		}
+	]
+}

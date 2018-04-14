@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-09",
+			"EventType": "add",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmö  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmÃ¶  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmö  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmÃÂ¶  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmö  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmÃÂ¶  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmÃ¶  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmÃÂÃÂÃÂÃÂ¶  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmÃ¶  SE-212 39\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001253",
+			"OUISize": 24,
+			"OrgAddress": "Kabingatan 9\\nMalmÃ¶    SE-212 39\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "AudioDev AB",
+			"Source": "IEEE"
+		}
+	]
+}

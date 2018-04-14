@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C261A",
+			"OUISize": 36,
+			"OrgAddress": "89 Leuning Street\\nSouth Hackensack NJ 07606\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Communication Components Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

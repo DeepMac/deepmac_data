@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2018",
+			"OUISize": 36,
+			"OrgAddress": "Laemmerweg 32\\nD-89079 Ulm\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "CAD-UL GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

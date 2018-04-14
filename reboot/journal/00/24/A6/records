@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "Vulkanhöhe / B410\\nDreis - Brück  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "VulkanhÃ¶he / B410\\nDreis - BrÃ¼ck  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "Vulkanhöhe / B410\\nDreis - Brück  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "VulkanhÃÂ¶he / B410\\nDreis - BrÃÂ¼ck  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "Vulkanhöhe / B410\\nDreis - Brück  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "VulkanhÃÂ¶he / B410\\nDreis - BrÃÂ¼ck  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "VulkanhÃ¶he / B410\\nDreis - BrÃ¼ck  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "VulkanhÃÂÃÂÃÂÃÂ¶he / B410\\nDreis - BrÃÂÃÂÃÂÃÂ¼ck  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "VulkanhÃ¶he / B410\\nDreis-BrÃ¼ck  54552\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0024A6",
+			"OUISize": 24,
+			"OrgAddress": "VulkanhÃ¶he / B410\\nDreis-BrÃ¼ck    54552\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "TELESTAR DIGITAL GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

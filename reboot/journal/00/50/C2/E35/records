@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E35",
+			"OUISize": 36,
+			"OrgAddress": "15560-D Rockfield Blvd.\\nIrvine CA 92618\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Omnica Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

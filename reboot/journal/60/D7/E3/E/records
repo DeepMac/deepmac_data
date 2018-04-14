@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-02",
+			"EventType": "add",
+			"OUI": "60D7E3E",
+			"OUISize": 28,
+			"OrgAddress": "#301, 53, Jeonpa-ro, Manan-gu, Anyang-si\\nGyeonggi-do    14084\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "HuBDIC CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

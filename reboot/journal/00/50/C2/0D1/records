@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20D1",
+			"OUISize": 36,
+			"OrgAddress": "415 S. McClintock Dr.\\nSuite 5\\nTempe AZ 85281\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Renaissance Networking, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

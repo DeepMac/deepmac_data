@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005B5",
+			"OUISize": 24,
+			"OrgAddress": "137-060\\n858-31 Yujeong BLD, Bangbae-Dong\\n\\n",
+			"OrgCountry": "Secho-Gu, Seoul, KOREA",
+			"OrgName": "Broadcom Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0005B5",
+			"OUISize": 24,
+			"OrgAddress": "137-060\\n858-31 Yujeong BLD, Bangbae-Dong\\n\\n",
+			"OrgCountry": "Secho-Gu Seoul, KOREA",
+			"OrgName": "Broadcom Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0005B5",
+			"OUISize": 24,
+			"OrgAddress": "137-060\\n858-31 Yujeong BLD, Bangbae-Dong\\nSecho-Gu Seoul,\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Broadcom Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005B5",
+			"OUISize": 24,
+			"OrgAddress": "137-060\\nSecho-Gu  Seoul,\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Broadcom Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

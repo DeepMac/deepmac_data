@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-21",
+			"EventType": "add",
+			"OUI": "0C2AE7",
+			"OUISize": 24,
+			"OrgAddress": "Building 23, Zone 18 of ABP, No. 188\\nSouth 4th Ring Road West\\nBeijing 100160\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Beijing General Research Institute of Mining and Metallurgy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0C2AE7",
+			"OUISize": 24,
+			"OrgAddress": "Building 23, Zone 18 of ABP, No. 188\\nBeijing  100160\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing General Research Institute of Mining and Metallurgy",
+			"Source": "IEEE"
+		}
+	]
+}

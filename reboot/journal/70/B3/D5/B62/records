@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-12",
+			"EventType": "add",
+			"OUI": "70B3D5B62",
+			"OUISize": 36,
+			"OrgAddress": "75-5, Imojiya\\nChikuma-city  Nagano Prefecture  387-0015\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Sakura Seiki Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

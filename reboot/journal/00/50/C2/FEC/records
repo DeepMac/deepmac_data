@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "0050C2FEC",
+			"OUISize": 36,
+			"OrgAddress": "1F., No.8, Alley 6, Lane 19, Fuhe Rd\\nYonghe Dist.\\nNew Taipei City  23449\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "First System Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

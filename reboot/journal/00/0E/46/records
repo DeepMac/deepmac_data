@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E46",
+			"OUISize": 24,
+			"OrgAddress": "3335-2, Shimonaka, Sanwa-mura\\nNakakubiki-gun Niigata 943-0222\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Niigata Seimitsu Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E46",
+			"OUISize": 24,
+			"OrgAddress": "3335-2, Shimonaka, Sanwa-mura\\nNakakubiki-gun  Niigata  943-0222\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Niigata Seimitsu Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

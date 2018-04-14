@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-26",
+			"EventType": "add",
+			"OUI": "948854",
+			"OUISize": 24,
+			"OrgAddress": "12500 TI Boulevard\\nDallas TX 75243\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Texas Instruments",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "948854",
+			"OUISize": 24,
+			"OrgAddress": "12500 TI Boulevard\\nDallas  TX  75243\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Texas Instruments",
+			"Source": "IEEE"
+		}
+	]
+}

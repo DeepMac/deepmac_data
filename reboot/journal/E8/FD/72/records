@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-09",
+			"EventType": "add",
+			"OUI": "E8FD72",
+			"OUISize": 24,
+			"OrgAddress": "No.2,277 Lane,Yongdeng Road,Putuo District,Shanghai,China\\nShanghai  Shanghai  200000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHANGHAI LINGUO TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

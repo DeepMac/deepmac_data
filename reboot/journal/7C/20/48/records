@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-13",
+			"EventType": "add",
+			"OUI": "7C2048",
+			"OUISize": 24,
+			"OrgAddress": "116 Village Boulevard\\nSuite 200\\nPrinceton New Jersey 08540\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "KoamTac",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "7C2048",
+			"OUISize": 24,
+			"OrgAddress": "116 Village Boulevard\\nPrinceton  New Jersey  08540\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "KoamTac",
+			"Source": "IEEE"
+		}
+	]
+}

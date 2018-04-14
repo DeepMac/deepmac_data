@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-01-23",
+			"EventType": "add",
+			"OUI": "00133D",
+			"OUISize": 24,
+			"OrgAddress": "9540 Vassar Avenue\\nChatsworth CA 91311\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Micro Memory LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-30",
+			"EventType": "change",
+			"OUI": "00133D",
+			"OUISize": 24,
+			"OrgAddress": "9540 Vassar Avenue\\nChatsworth CA 91311\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Micro Memory Curtiss Wright Co",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00133D",
+			"OUISize": 24,
+			"OrgAddress": "9540 Vassar Avenue\\nChatsworth  CA  91311\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Micro Memory Curtiss Wright Co",
+			"Source": "IEEE"
+		}
+	]
+}

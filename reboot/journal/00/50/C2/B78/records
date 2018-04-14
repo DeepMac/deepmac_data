@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B78",
+			"OUISize": 36,
+			"OrgAddress": "4F 647-39Deungchon-Dong Kangseo-Gu\\nSeoul  157-840\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Folink",
+			"Source": "IEEE"
+		}
+	]
+}

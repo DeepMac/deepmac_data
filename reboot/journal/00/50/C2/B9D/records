@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B9D",
+			"OUISize": 36,
+			"OrgAddress": "Riedinger Strasse 10\\nEssen  45141\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "W. Vershoven GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

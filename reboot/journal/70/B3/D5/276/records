@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-04",
+			"EventType": "add",
+			"OUI": "70B3D5276",
+			"OUISize": 36,
+			"OrgAddress": "Vagohid u. 2.\\nDebrecen    4034\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "TELL Software Hungaria Kft.",
+			"Source": "IEEE"
+		}
+	]
+}

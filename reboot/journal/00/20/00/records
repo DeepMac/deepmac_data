@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002000",
+			"OUISize": 24,
+			"OrgAddress": "740 NEW CIRCLE ROAD\\nBLDG. 35\\nLEXINGTON  KY  40550\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LEXMARK INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002000",
+			"OUISize": 24,
+			"OrgAddress": "740 NEW CIRCLE ROAD\\nBLDG. 35\\nLEXINGTON KY 40550\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LEXMARK INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002000",
+			"OUISize": 24,
+			"OrgAddress": "740 NEW CIRCLE ROAD\\nLEXINGTON  KY  40550\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "LEXMARK INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

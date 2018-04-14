@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C267D",
+			"OUISize": 36,
+			"OrgAddress": "Schlossstrasse 119\\nOlching  D-82140\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ESA  Messtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

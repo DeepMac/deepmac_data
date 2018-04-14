@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0040CA",
+			"OUISize": 24,
+			"OrgAddress": "6F. FORMOSA PLASTICS REAR BLDG\\n201-24 TUNG HWA N. RD.\\nTAIPEI\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "FIRST INTERNAT'L COMPUTER, INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0040CA",
+			"OUISize": 24,
+			"OrgAddress": "6F. FORMOSA PLASTICS REAR BLDG\\n201-24 TUNG HWA N. RD. TAIPEI\\n\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "FIRST INTERNAT'L COMPUTER, INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-02-06",
+			"EventType": "change",
+			"OUI": "0040CA",
+			"OUISize": 24,
+			"OrgAddress": "FIC Building\\nNo 300 Yang Guang Street\\nNeihu Taipei 114 Taipei 114\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "FIRST INTERNAT'L COMPUTER, INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0040CA",
+			"OUISize": 24,
+			"OrgAddress": "FIC Building\\nNo 300 Yang Guang Street\\nNeihu Taipei 114 Taipei 114\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "FIRST INTERNAT'L COMPUTER, INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0040CA",
+			"OUISize": 24,
+			"OrgAddress": "FIC Building\\nNeihu  Taipei 114  Taipei 114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "FIRST INTERNAT'L COMPUTER, INC",
+			"Source": "IEEE"
+		}
+	]
+}

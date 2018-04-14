@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-24",
+			"EventType": "add",
+			"OUI": "F8983A",
+			"OUISize": 24,
+			"OrgAddress": "Number 13 first floor Y1 cultural creative park bantian\\nshen zhen     51800\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Leeman International (HongKong) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

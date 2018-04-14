@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A20",
+			"OUISize": 36,
+			"OrgAddress": "South Stour Avenue\\nAshford Kent TN23 7RS\\n\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Quorum Technologies Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

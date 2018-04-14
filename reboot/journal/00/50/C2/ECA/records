@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-26",
+			"EventType": "add",
+			"OUI": "0050C2ECA",
+			"OUISize": 36,
+			"OrgAddress": "98 Inverness Dr East\\nEnglewood CO 80112\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BitWise Controls",
+			"Source": "IEEE"
+		}
+	]
+}

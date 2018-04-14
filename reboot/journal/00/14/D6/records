@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-07",
+			"EventType": "add",
+			"OUI": "0014D6",
+			"OUISize": 24,
+			"OrgAddress": "#710, Byuksan Digital Valley 2,\\nKasan-Dong, Keumcheon-Gu,\\nSeoul  153 783\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Jeongmin Electronics Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014D6",
+			"OUISize": 24,
+			"OrgAddress": "#710, Byuksan Digital Valley 2,\\nSeoul    153 783\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Jeongmin Electronics Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

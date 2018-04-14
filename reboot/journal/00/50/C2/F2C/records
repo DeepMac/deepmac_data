@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F2C",
+			"OUISize": 36,
+			"OrgAddress": "Dukelska 2192\\nBenesov CZ 25601\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "Terratel Technology s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

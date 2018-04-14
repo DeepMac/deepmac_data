@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-06",
+			"EventType": "add",
+			"OUI": "604A1C",
+			"OUISize": 24,
+			"OrgAddress": "No.377,Fude 1st Rd\\nXizhi City\\nTaipei  221\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "SUYIN Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "604A1C",
+			"OUISize": 24,
+			"OrgAddress": "No.377,Fude 1st Rd\\nTaipei    221\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SUYIN Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C4C",
+			"OUISize": 36,
+			"OrgAddress": "Gustav-Stresemann-Weg 11\\nMuenster NRW 48155\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Lancier Monitoring GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

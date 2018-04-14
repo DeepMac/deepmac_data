@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2259",
+			"OUISize": 36,
+			"OrgAddress": "Borgarfjordsgatan 7\\nKISTA STOCKHOLM SE-16440\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Omicron Ceti AB",
+			"Source": "IEEE"
+		}
+	]
+}

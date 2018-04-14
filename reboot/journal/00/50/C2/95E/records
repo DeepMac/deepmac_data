@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C295E",
+			"OUISize": 36,
+			"OrgAddress": "39465 Paseo Padre Pkwy\\nSuite 3700\\nFremont CA 94538\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BEEcube Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

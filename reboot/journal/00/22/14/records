@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "002214",
+			"OUISize": 24,
+			"OrgAddress": "560-2, Shibjong-1dong, Pupyoung-gu\\n5th Research Team\\nPupyoung-gu Incheon 403-847\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "RINNAI KOREA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002214",
+			"OUISize": 24,
+			"OrgAddress": "560-2, Shibjong-1dong, Pupyoung-gu\\nPupyoung-gu  Incheon  403-847\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "RINNAI KOREA",
+			"Source": "IEEE"
+		}
+	]
+}

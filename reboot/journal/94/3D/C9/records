@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-04",
+			"EventType": "add",
+			"OUI": "943DC9",
+			"OUISize": 24,
+			"OrgAddress": "Ginza 4-12-15 Chuo-ku\\nTokyo    104-0061\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Asahi Net, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

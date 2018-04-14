@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-22",
+			"EventType": "add",
+			"OUI": "1C7B23",
+			"OUISize": 24,
+			"OrgAddress": "Qianwangang Road 218\\nQingdao  Shandong  266510\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao Hisense Communications Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

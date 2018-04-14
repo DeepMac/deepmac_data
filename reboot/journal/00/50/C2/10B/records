@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C210B",
+			"OUISize": 36,
+			"OrgAddress": "Fuggerstrasse 9\\nD-92224 Amberg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MarekMicro GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

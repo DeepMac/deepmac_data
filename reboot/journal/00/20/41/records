@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "002041",
+			"OUISize": 24,
+			"OrgAddress": "SUWON P.O. BOX 106, SUWON\\nKYUNGGI-DO\\n\\n",
+			"OrgCountry": "KOREA  440-600",
+			"OrgName": "DATA NET",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002041",
+			"OUISize": 24,
+			"OrgAddress": "SUWON P.O. BOX 106, SUWON\\nKYUNGGI-DO\\n\\n",
+			"OrgCountry": "KOREA 440-600",
+			"OrgName": "DATA NET",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "002041",
+			"OUISize": 24,
+			"OrgAddress": "SUWON P.O. BOX 106, SUWON\\nKYUNGGI-DO\\nKOREA 440-600\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "DATA NET",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002041",
+			"OUISize": 24,
+			"OrgAddress": "SUWON P.O. BOX 106, SUWON\\nKOREA  440-600\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DATA NET",
+			"Source": "IEEE"
+		}
+	]
+}

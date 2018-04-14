@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AED",
+			"OUISize": 36,
+			"OrgAddress": "Parc Haute Technologie, Bat 6\\n694 Avenue Maurice Donat\\nMougins  06250\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "3Roam",
+			"Source": "IEEE"
+		}
+	]
+}

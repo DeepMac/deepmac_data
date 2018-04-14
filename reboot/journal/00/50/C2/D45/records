@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D45",
+			"OUISize": 36,
+			"OrgAddress": "Grafenauer Str. 22\\nFreyung Bavaria 94078\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Technagon GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

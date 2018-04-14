@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-04",
+			"EventType": "add",
+			"OUI": "70B3D5550",
+			"OUISize": 36,
+			"OrgAddress": "Fritz-Kotz-Str. 8\\nWiehl  NRW  51674\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Merten GmbH&CoKG",
+			"Source": "IEEE"
+		}
+	]
+}

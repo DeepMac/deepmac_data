@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-06-08",
+			"EventType": "add",
+			"OUI": "A0133B",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,\\nXindian Dist. New Taipei City  231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Copyright ï¿½ HiTi Digital, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "A0133B",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,\\nXindian Dist. New Taipei City 231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Copyright Â© HiTi Digital, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "A0133B",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,\\nXindian Dist. New Taipei City  231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Copyright © HiTi Digital, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "A0133B",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,\\nXindian Dist. New Taipei City 231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Copyright ÃÂÃÂ© HiTi Digital, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "A0133B",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,\\nXindian Dist. New Taipei City 231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Copyright Â© HiTi Digital, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-02-14",
+			"EventType": "change",
+			"OUI": "A0133B",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,\\nXindian Dist. New Taipei City 231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "HiTi Digital, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A0133B",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.225, Sec. 3, Beixin Rd., Xindian Dist.,\\nXindian Dist.  New Taipei City  231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "HiTi Digital, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

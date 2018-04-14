@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060B9",
+			"OUISize": 24,
+			"OrgAddress": "2-6-1 KITAMIKATA, TAKATSU-KU\\nKAWASAKI-SHI\\n\\n",
+			"OrgCountry": "213  JAPAN",
+			"OrgName": "NITSUKO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060B9",
+			"OUISize": 24,
+			"OrgAddress": "2-6-1 KITAMIKATA, TAKATSU-KU\\nKAWASAKI-SHI\\n\\n",
+			"OrgCountry": "213 JAPAN",
+			"OrgName": "NITSUKO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0060B9",
+			"OUISize": 24,
+			"OrgAddress": "2-6-1 KITAMIKATA, TAKATSU-KU\\nKAWASAKI-SHI 213\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NITSUKO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "change",
+			"OUI": "0060B9",
+			"OUISize": 24,
+			"OrgAddress": "2-6-1,Kitamikata,Takatsu-ku\\nKawasaki  213-8511\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NEC Infrontia Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-07-10",
+			"EventType": "change",
+			"OUI": "0060B9",
+			"OUISize": 24,
+			"OrgAddress": "2-6-1,Kitamikata,Takatsu-ku\\nKawasaki  213-8511\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NEC Platforms, Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060B9",
+			"OUISize": 24,
+			"OrgAddress": "2-6-1,Kitamikata,Takatsu-ku\\nKawasaki    213-8511\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NEC Platforms, Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

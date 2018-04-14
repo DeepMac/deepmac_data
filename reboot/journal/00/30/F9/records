@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0030F9",
+			"OUISize": 24,
+			"OrgAddress": "room #506 S/W Support Center\\n294 Songrim-dong Dong-gu Inchon-City\\n\\n",
+			"OrgCountry": "South Korea (zip:401-070)",
+			"OrgName": "Sollae Systems Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0030F9",
+			"OUISize": 24,
+			"OrgAddress": "room #506 S/W Support Center\\n294 Songrim-dong Dong-gu Inchon-City\\n\\n",
+			"OrgCountry": "South Korea (zip:401-070",
+			"OrgName": "Sollae Systems Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0030F9",
+			"OUISize": 24,
+			"OrgAddress": "room #506 S/W Support Center\\n294 Songrim-dong Dong-gu Inchon-City\\n(zip:401-070\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Sollae Systems Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-02-09",
+			"EventType": "change",
+			"OUI": "0030F9",
+			"OUISize": 24,
+			"OrgAddress": "607 Incheo IT Tower\\n592-5, Dohwa-1-dong\\nNam-gu Incheon\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Sollae Systems Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0030F9",
+			"OUISize": 24,
+			"OrgAddress": "607 Incheo IT Tower\\nNam-gu  Incheon\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Sollae Systems Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-10",
+			"EventType": "add",
+			"OUI": "70B3D52BD",
+			"OUISize": 36,
+			"OrgAddress": "Airport Boulevard B 210\\nRheinmuenster    77836\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "mg-sensor GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-20",
+			"EventType": "add",
+			"OUI": "98AAFC0",
+			"OUISize": 28,
+			"OrgAddress": "No.99-5 Huaihe Middle Road E.& T Development Zone Dalian, China\\nDalian  Liaoning  116600\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Dalian Eastern Display Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

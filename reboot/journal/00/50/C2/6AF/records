@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26AF",
+			"OUISize": 36,
+			"OrgAddress": "Torshamnsgatan 39\\nKista-Stockholm  SE-16482\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Nanoradio AB",
+			"Source": "IEEE"
+		}
+	]
+}

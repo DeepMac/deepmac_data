@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-10-13",
+			"EventType": "add",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "Böttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "BÃ¶ttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "Böttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "BÃÂ¶ttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "Böttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "BÃÂ¶ttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "BÃ¶ttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "BÃÂÃÂÃÂÃÂ¶ttgerstrasse 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "BÃ¶ttgerstraÃe 40\\nWeiden i.d.OPf. Bayern 92637\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001622",
+			"OUISize": 24,
+			"OrgAddress": "BÃ¶ttgerstraÃe 40\\nWeiden i.d.OPf.  Bayern  92637\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "BBH SYSTEMS GMBH",
+			"Source": "IEEE"
+		}
+	]
+}

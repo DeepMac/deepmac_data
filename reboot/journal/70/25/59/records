@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "702559",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III, Science-Based Industrial Park\\nHsinchu  308\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "702559",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III, Science-Based Industrial Park\\nHsinchu  308\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "702559",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III, Science-Based Industrial Park\\nHsinchu  308\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "702559",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III, Science-Based Industrial Park\\nHsinchu    308\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-04",
+			"EventType": "change",
+			"OUI": "702559",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III, Science-Based Industrial Park\\nHsinchu    308\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CyberTAN Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

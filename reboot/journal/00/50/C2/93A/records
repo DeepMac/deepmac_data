@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C293A",
+			"OUISize": 36,
+			"OrgAddress": "Brandstraat 8a\\nIndustrial area E17/3\\nLokeren Oost Vlaanderen B-9160\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "ALPHATRONICS nv",
+			"Source": "IEEE"
+		}
+	]
+}

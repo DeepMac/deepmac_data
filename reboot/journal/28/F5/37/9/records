@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "add",
+			"OUI": "28F5379",
+			"OUISize": 28,
+			"OrgAddress": "Peter-Henlein-StraÃe 5\\nVillingen-Schwenningen  Baden-WÃ¼rttemberg  78056\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Herbert Waldmann GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

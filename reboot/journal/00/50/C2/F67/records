@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-09",
+			"EventType": "add",
+			"OUI": "0050C2F67",
+			"OUISize": 36,
+			"OrgAddress": "4441 Albert St.\\nOakland CA 94619\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Celestial Audio",
+			"Source": "IEEE"
+		}
+	]
+}

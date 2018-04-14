@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-01-26",
+			"EventType": "add",
+			"OUI": "001B38",
+			"OUISize": 24,
+			"OrgAddress": "NO. 25, THE 3RD AVENUE\\nKUNSHAN EXPORT PROCESSING ZONE\\nKUNSHAN CITY SUZHOU PROVINCE 215300\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "COMPAL ELECTRONICS TECHNOLOGIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "001B38",
+			"OUISize": 24,
+			"OrgAddress": "NO. 25, THE 3RD AVENUE\\nKUNSHAN EXPORT PROCESSING ZONE\\nKUNSHAN CITY SUZHOU PROVINCE 215300\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B38",
+			"OUISize": 24,
+			"OrgAddress": "NO. 25, THE 3RD AVENUE\\nKUNSHAN CITY  SUZHOU PROVINCE  215300\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

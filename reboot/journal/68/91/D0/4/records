@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-17",
+			"EventType": "add",
+			"OUI": "6891D04",
+			"OUISize": 28,
+			"OrgAddress": "2F.-2, No.83, Sec. 2, Gongdao 5th Rd., East Dist.\\nHsinchu    30070\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "G-TECH Instruments Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

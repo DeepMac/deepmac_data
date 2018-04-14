@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C244D",
+			"OUISize": 36,
+			"OrgAddress": "23409 Industrial Park Ct.\\nFarmington Hills MI 48335\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Electro-Matic Products, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

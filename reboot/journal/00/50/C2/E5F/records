@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E5F",
+			"OUISize": 36,
+			"OrgAddress": "Inustriering 21\\nRuggell Principality of Liechtenstein 9491\\n\\n",
+			"OrgCountry": "LIECHTENSTEIN",
+			"OrgName": "Pantec Engineering AG",
+			"Source": "IEEE"
+		}
+	]
+}

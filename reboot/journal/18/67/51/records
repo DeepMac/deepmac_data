@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-15",
+			"EventType": "add",
+			"OUI": "186751",
+			"OUISize": 24,
+			"OrgAddress": "Zum Wasserwerk 3\\nVï¿½lklingen  66333\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KOMEG Industrielle Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "186751",
+			"OUISize": 24,
+			"OrgAddress": "Zum Wasserwerk 3\\nVÃ¶lklingen  66333\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KOMEG Industrielle Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "186751",
+			"OUISize": 24,
+			"OrgAddress": "Zum Wasserwerk 3\\nVölklingen  66333\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KOMEG Industrielle Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "186751",
+			"OUISize": 24,
+			"OrgAddress": "Zum Wasserwerk 3\\nVÃÂÃÂ¶lklingen  66333\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KOMEG Industrielle Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "186751",
+			"OUISize": 24,
+			"OrgAddress": "Zum Wasserwerk 3\\nVÃ¶lklingen  66333\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KOMEG Industrielle Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "186751",
+			"OUISize": 24,
+			"OrgAddress": "Zum Wasserwerk 3\\nVÃ¶lklingen    66333\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "KOMEG Industrielle Messtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "00073B",
+			"OUISize": 24,
+			"OrgAddress": "Kleyerstrasse 94\\n60326 Frankfurt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tenovis GmbH & Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00073B",
+			"OUISize": 24,
+			"OrgAddress": "KleyerstraÃe 94\\n60326 Frankfurt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tenovis GmbH & Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00073B",
+			"OUISize": 24,
+			"OrgAddress": "Kleyerstrasse 94\\n60326 Frankfurt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tenovis GmbH & Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00073B",
+			"OUISize": 24,
+			"OrgAddress": "KleyerstraÃe 94\\n60326 Frankfurt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tenovis GmbH & Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00073B",
+			"OUISize": 24,
+			"OrgAddress": "KleyerstraÃe 94\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Tenovis GmbH & Co KG",
+			"Source": "IEEE"
+		}
+	]
+}

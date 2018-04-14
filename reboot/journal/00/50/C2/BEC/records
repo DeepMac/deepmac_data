@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BEC",
+			"OUISize": 36,
+			"OrgAddress": "246 Airport Road\\nJohnstown Pa 15904\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DRS Laruel Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C01D",
+			"OUISize": 24,
+			"OrgAddress": "3101 WHIPPLE RD., #27\\nUNION CITY  CA  94587\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GRAND JUNCTION NETWORKS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C01D",
+			"OUISize": 24,
+			"OrgAddress": "3101 WHIPPLE RD., #27\\nUNION CITY CA 94587\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GRAND JUNCTION NETWORKS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C01D",
+			"OUISize": 24,
+			"OrgAddress": "3101 WHIPPLE RD., #27\\nUNION CITY  CA  94587\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "GRAND JUNCTION NETWORKS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-08-01",
+			"EventType": "add",
+			"OUI": "E818635",
+			"OUISize": 28,
+			"OrgAddress": "#604, TOWER A NEW TRADE PLAZA\\n6 ON PING STREET, SHATIN, NT,\\nHONG KONG HONG KONG 999077\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "WETEK ELECTRONICS LIMITED",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E818635",
+			"OUISize": 28,
+			"OrgAddress": "#604, TOWER A NEW TRADE PLAZA\\nHONG KONG  HONG KONG  999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "WETEK ELECTRONICS LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E9A",
+			"OUISize": 36,
+			"OrgAddress": "535 Legget Drive\\n3rd Floor\\nKanata, Ontario K2K 3B8\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Solace Systems",
+			"Source": "IEEE"
+		}
+	]
+}

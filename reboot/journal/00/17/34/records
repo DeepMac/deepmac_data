@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-01-30",
+			"EventType": "add",
+			"OUI": "001734",
+			"OUISize": 24,
+			"OrgAddress": "2540 Junction Ave.\\nSan Jose California 95134-1902\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LGC Wireless Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-21",
+			"EventType": "change",
+			"OUI": "001734",
+			"OUISize": 24,
+			"OrgAddress": "2540 Junction Ave.\\nSan Jose California 95134-1902\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADC Telecommunications",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-22",
+			"EventType": "change",
+			"OUI": "001734",
+			"OUISize": 24,
+			"OrgAddress": "541 E Trimble Road\\nSan Jose California 95134-1224\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADC Telecommunications",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001734",
+			"OUISize": 24,
+			"OrgAddress": "541 E Trimble Road\\nSan Jose  California  95134-1224\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ADC Telecommunications",
+			"Source": "IEEE"
+		}
+	]
+}

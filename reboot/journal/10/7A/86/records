@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-18",
+			"EventType": "add",
+			"OUI": "107A86",
+			"OUISize": 24,
+			"OrgAddress": "No.15, Gaoyang S. Rd\\nLong-tan Township\\nTaoyuan County  325-44\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "U&U ENGINEERING INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "107A86",
+			"OUISize": 24,
+			"OrgAddress": "No.15, Gaoyang S. Rd\\nTaoyuan County    325-44\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "U&U ENGINEERING INC.",
+			"Source": "IEEE"
+		}
+	]
+}

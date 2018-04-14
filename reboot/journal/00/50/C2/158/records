@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2158",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 43550\\nBaltimore MD 21236-0550\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Communication Solutions, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

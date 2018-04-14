@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-09-03",
+			"EventType": "add",
+			"OUI": "001990",
+			"OUISize": 24,
+			"OrgAddress": "2-15 TECHNO-PARK 1-CHOME\\nSHIMONOPPORO, ATSUBETSU-KU\\nSAPPORO HOKKAIDO 004-0015\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ELM DATA Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001990",
+			"OUISize": 24,
+			"OrgAddress": "2-15 TECHNO-PARK 1-CHOME\\nSAPPORO  HOKKAIDO  004-0015\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ELM DATA Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

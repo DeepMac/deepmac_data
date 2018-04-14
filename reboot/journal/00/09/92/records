@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000992",
+			"OUISize": 24,
+			"OrgAddress": "7F,No.3,Alley 6,Lane 235,Pao-Chiao Rd\\nHsin-Tien Taipei Hsien 231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "InterEpoch Technology,INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000992",
+			"OUISize": 24,
+			"OrgAddress": "7F,No.3,Alley 6,Lane 235,Pao-Chiao Rd\\nHsin-Tien Taipei Hsien 231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "InterEpoch Technology,INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000992",
+			"OUISize": 24,
+			"OrgAddress": "7F,No.3,Alley 6,Lane 235,Pao-Chiao Rd\\nHsin-Tien Taipei Hsien 231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "InterEpoch Technology,INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000992",
+			"OUISize": 24,
+			"OrgAddress": "7F,No.3,Alley 6,Lane 235,Pao-Chiao Rd\\nHsin-Tien  Taipei Hsien  231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "InterEpoch Technology,INC.",
+			"Source": "IEEE"
+		}
+	]
+}

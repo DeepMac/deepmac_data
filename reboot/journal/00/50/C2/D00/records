@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D00",
+			"OUISize": 36,
+			"OrgAddress": "Im Gehren 15\\nUberlingen Baden-Wurttemberg 88662\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bodensee Gravitymeter Geosystem GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2D00",
+			"OUISize": 36,
+			"OrgAddress": "Im Gehren 15\\nUberlingen Baden-WÃ¼rttemberg 88662\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bodensee Gravitymeter Geosystem GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2D00",
+			"OUISize": 36,
+			"OrgAddress": "Im Gehren 15\\nUberlingen Baden-WÃÂ¼rttemberg 88662\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bodensee Gravitymeter Geosystem GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2D00",
+			"OUISize": 36,
+			"OrgAddress": "Im Gehren 15\\nUberlingen Baden-WÃ¼rttemberg 88662\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bodensee Gravitymeter Geosystem GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

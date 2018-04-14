@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000C12",
+			"OUISize": 24,
+			"OrgAddress": "Lessingstrasse 14\\nLangebrueck Saxony D-01465\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micro-Optronic-Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000C12",
+			"OUISize": 24,
+			"OrgAddress": "Lessingstrasse 14\\nLangebrÃ¼ck Saxony D-01465\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micro-Optronic-Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000C12",
+			"OUISize": 24,
+			"OrgAddress": "Lessingstrasse 14\\nLangebrueck Saxony D-01465\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micro-Optronic-Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000C12",
+			"OUISize": 24,
+			"OrgAddress": "Lessingstrasse 14\\nLangebrÃ¼ck Saxony D-01465\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micro-Optronic-Messtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C12",
+			"OUISize": 24,
+			"OrgAddress": "Lessingstrasse 14\\nLangebrÃ¼ck  Saxony  D-01465\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Micro-Optronic-Messtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

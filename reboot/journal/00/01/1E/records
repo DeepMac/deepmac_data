@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00011E",
+			"OUISize": 24,
+			"OrgAddress": "240 Terence Matthews Cres.- Ste #102\\nKanata, Ontario\\n\\n",
+			"OrgCountry": "CANADA, K2M-2C4",
+			"OrgName": "Precidia Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "change",
+			"OUI": "00011E",
+			"OUISize": 24,
+			"OrgAddress": "10A Hearst Way, Kanata,\\nOntario, K2L 2P4\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Precidia Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00011E",
+			"OUISize": 24,
+			"OrgAddress": "10A Hearst Way\\nKanata Ontario K2M-2C4\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Precidia Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00011E",
+			"OUISize": 24,
+			"OrgAddress": "10A Hearst Way\\nKanata  Ontario K2M-2C4\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Precidia Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

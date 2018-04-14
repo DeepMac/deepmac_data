@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-04-03",
+			"EventType": "add",
+			"OUI": "000FB0",
+			"OUISize": 24,
+			"OrgAddress": "581 Juikuang Road,Neihu,\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Compal Electronics,INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000FB0",
+			"OUISize": 24,
+			"OrgAddress": "581 Juikuang Road,Neihu,\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Compal Electronics,INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000FB0",
+			"OUISize": 24,
+			"OrgAddress": "581 Juikuang Road,Neihu,\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Compal Electronics,INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-17",
+			"EventType": "change",
+			"OUI": "000FB0",
+			"OUISize": 24,
+			"OrgAddress": "581 Juikuang Road,Neihu,\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "COMPAL ELECTRONICS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

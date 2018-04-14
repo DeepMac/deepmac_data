@@ -1,0 +1,103 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "Am Beutwang 4\\nNuertingen BW 72622\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Betec Engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-03-24",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "Nï¿½rtingen Branch\\nRaidwanger Str. 12\\nNï¿½rtingen BW D-72622\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "NÃ¼rtingen Branch\\nRaidwanger Str. 12\\nNÃ¼rtingen BW D-72622\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "Nï¿½rtingen Branch\\nRaidwanger Str. 12\\nNï¿½rtingen BW D-72622\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "NÃ¼rtingen Branch\\nRaidwanger Str. 12\\nNÃ¼rtingen BW D-72622\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "Nürtingen Branch\\nRaidwanger Str. 12\\nNürtingen BW D-72622\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "NÃÂÃÂ¼rtingen Branch\\nRaidwanger Str. 12\\nNÃÂÃÂ¼rtingen BW D-72622\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "NÃ¼rtingen Branch\\nRaidwanger StraÃe 12\\nNÃ¼rtingen BW D-72622\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002222",
+			"OUISize": 24,
+			"OrgAddress": "NÃ¼rtingen Branch\\nNÃ¼rtingen  BW  D-72622\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Schaffner Deutschland GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

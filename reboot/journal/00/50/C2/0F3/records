@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20F3",
+			"OUISize": 36,
+			"OrgAddress": "6th Fl. Bojung Bldg.\\n158-2, Sokchon-dong, Songpa-Ku\\nSeoul 138-190\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Young Computer Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

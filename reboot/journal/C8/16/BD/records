@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-12",
+			"EventType": "add",
+			"OUI": "C816BD",
+			"OUISize": 24,
+			"OrgAddress": "Qingdao Hisense Electric Co.,Ltd.\\n11,Jiangxi Road\\nQingdao Shandong 266071\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HISENSE ELECTRIC CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "C816BD",
+			"OUISize": 24,
+			"OrgAddress": "Qingdao Hisense Electric Co.,Ltd.\\nQingdao  Shandong  266071\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HISENSE ELECTRIC CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-24",
+			"EventType": "change",
+			"OUI": "C816BD",
+			"OUISize": 24,
+			"OrgAddress": "Qianwangang Road 218\\nQingdao  Shandong  266510\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao Hisense Communications Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

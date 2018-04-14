@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C027",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 329\\nNORTH PLAINS  OR  97133\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CIPHER SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C027",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 329\\nNORTH PLAINS OR 97133\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CIPHER SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "change",
+			"OUI": "00C027",
+			"OUISize": 24,
+			"OrgAddress": "1800 NW 169th Place\\nSuite B-100\\nBeaverton OR 97217\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CIPHER SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "change",
+			"OUI": "00C027",
+			"OUISize": 24,
+			"OrgAddress": "1800 NW 169th Place\\nSuite B-100\\nBeaverton OR 97006\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CIPHER SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00C027",
+			"OUISize": 24,
+			"OrgAddress": "22115 NW Imbrie Dr #285\\nHillsboro OR 97124\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CIPHER SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C027",
+			"OUISize": 24,
+			"OrgAddress": "22115 NW Imbrie Dr #285\\nHillsboro  OR  97124\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CIPHER SYSTEMS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

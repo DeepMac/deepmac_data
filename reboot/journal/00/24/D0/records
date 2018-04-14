@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0024D0",
+			"OUISize": 24,
+			"OrgAddress": "SOGOOD Science Park,Aviation Road,XiXiang Town,Bao'an District,\\nShenzhen Guangzhou 518102\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen SOGOOD Industry CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0024D0",
+			"OUISize": 24,
+			"OrgAddress": "SOGOOD Science Park,Aviation Road,XiXiang Town,Bao'an District,\\nShenzhen  Guangzhou  518102\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen SOGOOD Industry CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000CA3",
+			"OUISize": 24,
+			"OrgAddress": "10783 Bell Court\\nRancho Cucamonga CA 19730\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Rancho Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000CA3",
+			"OUISize": 24,
+			"OrgAddress": "10783 Bell Court\\nRancho Cucamonga  CA  19730\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Rancho Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000619",
+			"OUISize": 24,
+			"OrgAddress": "18F-6, No. 79, Sec. 1,\\nHsin Tai Wu Rd.\\n\\n",
+			"OrgCountry": "Hsinchih, Taipei, TAIWAN",
+			"OrgName": "Connection Technology Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000619",
+			"OUISize": 24,
+			"OrgAddress": "18F-6, No. 79, Sec. 1,\\nHsin Tai Wu Rd.\\n\\n",
+			"OrgCountry": "Hsinchih Taipei, TAIWAN",
+			"OrgName": "Connection Technology Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "000619",
+			"OUISize": 24,
+			"OrgAddress": "18F-6, No. 79, Sec. 1,\\nHsin Tai Wu Rd.\\nHsinchih Taipei,\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Connection Technology Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000619",
+			"OUISize": 24,
+			"OrgAddress": "18F-6, No. 79, Sec. 1,\\nHsin Tai Wu Rd.\\nHsinchih Taipei,\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Connection Technology Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000619",
+			"OUISize": 24,
+			"OrgAddress": "18F-6, No. 79, Sec. 1,\\nHsin Tai Wu Rd.\\nHsinchih Taipei,\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Connection Technology Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000619",
+			"OUISize": 24,
+			"OrgAddress": "18F-6, No. 79, Sec. 1,\\nHsinchih  Taipei,\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Connection Technology Systems",
+			"Source": "IEEE"
+		}
+	]
+}

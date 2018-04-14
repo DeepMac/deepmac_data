@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃ¯Â¿Â½e 50d\\nNÃ¯Â¿Â½rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃe 50d\\nNÃ¼rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "Klingenhofstraße 50d\\nNürnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃe 50d\\nNÃ¼rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "Klingenhofstraße 50d\\nNürnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃe 50d\\nNÃ¼rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃÂÃÂ¸e 50d\\nNÃÂÃÂ¼rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃe 50d\\nNÃ¼rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃÅ¸e 50d\\nNÃÂ¼rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C288F",
+			"OUISize": 36,
+			"OrgAddress": "KlingenhofstraÃe 50d\\nNÃ¼rnberg Bayern 90411\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Keynote SIGOS GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

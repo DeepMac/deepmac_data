@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-10",
+			"EventType": "add",
+			"OUI": "70B3D536F",
+			"OUISize": 36,
+			"OrgAddress": "Dircksenstr. 40\\nBerlin  Berlin  10178\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "BuddyGuard GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

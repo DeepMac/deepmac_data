@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2744",
+			"OUISize": 36,
+			"OrgAddress": "A305, International Tech Park\\n328 Airport Road\\nSuzhou Jiangsu 215021\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Avonaco Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

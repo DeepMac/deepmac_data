@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-22",
+			"EventType": "add",
+			"OUI": "34C0F9",
+			"OUISize": 24,
+			"OrgAddress": "1 Allen-Bradley Dr.\\nMayfield Heights  OH  44124-6118\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Rockwell Automation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-29",
+			"EventType": "add",
+			"OUI": "649A08",
+			"OUISize": 24,
+			"OrgAddress": "Layer 13,Haosheng Business Center,Dongbin Road,Nanshan District\\nShenzhen  guangdong  518052\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen SuperElectron Technology Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

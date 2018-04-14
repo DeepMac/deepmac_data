@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2138",
+			"OUISize": 36,
+			"OrgAddress": "Offsermannsheider Str. 184\\n51515 Kurten\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Delphin Technology AG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-08-26",
+			"EventType": "add",
+			"OUI": "3C4937",
+			"OUISize": 24,
+			"OrgAddress": "Auf dem Schueffel 3\\nLÃ¼denscheid Germany 58513\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ASSMANN Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-09-03",
+			"EventType": "change",
+			"OUI": "3C4937",
+			"OUISize": 24,
+			"OrgAddress": "Auf dem Schueffel 3\\nLuedenscheid Germany 58513\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ASSMANN Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "3C4937",
+			"OUISize": 24,
+			"OrgAddress": "Auf dem Schueffel 3\\nLuedenscheid  Germany  58513\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ASSMANN Electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

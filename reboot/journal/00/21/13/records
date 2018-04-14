@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas São Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas SÃ£o Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas São Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas SÃÂ£o Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas São Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas SÃÂ£o Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas SÃ£o Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas SÃÂÃÂÃÂÃÂ£o Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas SÃ£o Paulo 13086-902\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002113",
+			"OUISize": 24,
+			"OrgAddress": "Road Campinas Mogi-Mirim km 118,5\\nCampinas  SÃ£o Paulo  13086-902\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Padtec S/A",
+			"Source": "IEEE"
+		}
+	]
+}

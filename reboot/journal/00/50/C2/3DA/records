@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23DA",
+			"OUISize": 36,
+			"OrgAddress": "Mendip Court\\nBath Road\\nWells Somerset BA5 3DG\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "M5 Data Limited",
+			"Source": "IEEE"
+		}
+	]
+}

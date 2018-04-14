@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EBB",
+			"OUISize": 36,
+			"OrgAddress": "Hammarbacken 4 A\\nSollentuna  SE-19149\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "TimeTerminal Adductor Group AB",
+			"Source": "IEEE"
+		}
+	]
+}

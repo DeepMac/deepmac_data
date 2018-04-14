@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-01",
+			"EventType": "add",
+			"OUI": "B4A5EF",
+			"OUISize": 24,
+			"OrgAddress": "violet_liu@sercomm.com\\nMiao-Lih Hsuan    115\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Sercomm Corporation.",
+			"Source": "IEEE"
+		}
+	]
+}

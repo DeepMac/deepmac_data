@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-26",
+			"EventType": "add",
+			"OUI": "70B3D55A3",
+			"OUISize": 36,
+			"OrgAddress": "Godovikova , 9, Moscow\\nMoscow  RUSSIA  129085\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "CT Company",
+			"Source": "IEEE"
+		}
+	]
+}

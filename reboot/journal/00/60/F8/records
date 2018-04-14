@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060F8",
+			"OUISize": 24,
+			"OrgAddress": "955 GREEN VALLEY CRESCENT\\nSUITE #165\\nOTTAWA, ONTARIO\\n",
+			"OrgCountry": "CANADA  K2C 3V4",
+			"OrgName": "LORAN INTERNATIONAL TECHN. INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060F8",
+			"OUISize": 24,
+			"OrgAddress": "955 GREEN VALLEY CRESCENT\\nSUITE #165 OTTAWA, ONTARIO\\n\\n",
+			"OrgCountry": "CANADA K2C 3V4",
+			"OrgName": "LORAN INTERNATIONAL TECHN. INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0060F8",
+			"OUISize": 24,
+			"OrgAddress": "955 GREEN VALLEY CRESCENT\\nSUITE #165\\nOTTAWA, ONTARIO K2C 3V4\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Loran International Technologies Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060F8",
+			"OUISize": 24,
+			"OrgAddress": "955 GREEN VALLEY CRESCENT\\nOTTAWA, ONTARIO K2C 3V4\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Loran International Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

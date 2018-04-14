@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B3A",
+			"OUISize": 36,
+			"OrgAddress": "16F Queen's Tower-B, 3-3\\nMinatomirai 2-chome,Nishi-ku\\nYokohama Kanagawa 220-6116\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Nikon Systems Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

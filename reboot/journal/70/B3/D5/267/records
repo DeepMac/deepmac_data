@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-30",
+			"EventType": "add",
+			"OUI": "70B3D5267",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbestrasse 4\\nSissach    4450\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Zehntner Testing Instruments",
+			"Source": "IEEE"
+		}
+	]
+}

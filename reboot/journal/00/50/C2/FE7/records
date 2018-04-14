@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "0050C2FE7",
+			"OUISize": 36,
+			"OrgAddress": "Albert-Leimer-Platz 1\\nStadtbergen  86391\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Erhardt+Leimer GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

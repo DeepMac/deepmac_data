@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-19",
+			"EventType": "add",
+			"OUI": "84C7EA",
+			"OUISize": 24,
+			"OrgAddress": "Nya Vattentornet\\nLund  SE  22128\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Sony Mobile Communications AB",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25F3",
+			"OUISize": 36,
+			"OrgAddress": "ul. Municypalna 33\\nWarszawa  02-281\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "POSNET Polska S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

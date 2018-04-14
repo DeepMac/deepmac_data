@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28E8",
+			"OUISize": 36,
+			"OrgAddress": "Stubbenweg 15\\nOldenburg Niedersachsen 26125\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich Kuhnt GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

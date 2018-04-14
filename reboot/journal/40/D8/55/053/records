@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "add",
+			"OUI": "40D855053",
+			"OUISize": 36,
+			"OrgAddress": "Platinum Building, St John's Innovation Park\\nCowley Road\\nCambridge Cambridgeshire CB4 0WS\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Amantys Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

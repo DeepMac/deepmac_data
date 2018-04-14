@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F2C",
+			"OUISize": 24,
+			"OrgAddress": "Bldg 1, Suite 235\\n8601 RR 2222\\nAustin TX 78730\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Uplogix, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F2C",
+			"OUISize": 24,
+			"OrgAddress": "Bldg 1, Suite 235\\nAustin  TX  78730\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Uplogix, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

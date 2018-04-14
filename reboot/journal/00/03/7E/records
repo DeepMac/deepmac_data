@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00037E",
+			"OUISize": 24,
+			"OrgAddress": "150, Shiang-Shung N. Rd.,\\n\\n\\n",
+			"OrgCountry": "Taichung, Taiwan 403, R.O.C.",
+			"OrgName": "PORTech Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00037E",
+			"OUISize": 24,
+			"OrgAddress": "150, Shiang-Shung N. Rd.,\\n\\n\\n",
+			"OrgCountry": "Taichung Taiwan 403, R.O.C.",
+			"OrgName": "PORTech Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00037E",
+			"OUISize": 24,
+			"OrgAddress": "150, Shiang-Shung N. Rd.,\\nTaichung Taiwan 403, R.O.C.\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "PORTech Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "00037E",
+			"OUISize": 24,
+			"OrgAddress": "150, Shiang-Shung N. Rd.,\\nTaichung Taiwan 403, R.O.C.\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "PORTech Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00037E",
+			"OUISize": 24,
+			"OrgAddress": "150, Shiang-Shung N. Rd.,\\nTaichung Taiwan 403, R.O.C.\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "PORTech Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00037E",
+			"OUISize": 24,
+			"OrgAddress": "150, Shiang-Shung N. Rd.,\\nTaichung  Taiwan  403, R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "PORTech Communications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

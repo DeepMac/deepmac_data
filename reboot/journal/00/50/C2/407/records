@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2407",
+			"OUISize": 36,
+			"OrgAddress": "2 rue du Charles DE GAULLE\\n27220 27220\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "AIE Etudes",
+			"Source": "IEEE"
+		}
+	]
+}

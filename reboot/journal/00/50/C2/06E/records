@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C206E",
+			"OUISize": 36,
+			"OrgAddress": "7900 East Pleasant Valley Rd.\\nIndependence OH 44131\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Avtron Manufacturing Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

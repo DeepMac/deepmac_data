@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "40D855028",
+			"OUISize": 36,
+			"OrgAddress": "748 Park Ave\\nHuntington NY 11743\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Integrated Control Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

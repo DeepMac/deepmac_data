@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃ¯Â¿Â½e 13/IV\\nBaden-WÃ¯Â¿Â½rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃe 13/IV\\nBaden-WÃ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "Stolzenbergstraße 13/IV\\nBaden-Württemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃe 13/IV\\nBaden-WÃ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "Stolzenbergstraße 13/IV\\nBaden-Württemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃe 13/IV\\nBaden-WÃ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃÂÃÂ¸e 13/IV\\nBaden-WÃÂÃÂ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃÅ¸e 13/IV\\nBaden-WÃÂ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃe 13/IV\\nBaden-WÃ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃÅ¸e 13/IV\\nBaden-WÃÂ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2ADB",
+			"OUISize": 36,
+			"OrgAddress": "StolzenbergstraÃe 13/IV\\nBaden-WÃ¼rttemberg 76532\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GO engineering GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

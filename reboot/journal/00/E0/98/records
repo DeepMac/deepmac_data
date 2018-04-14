@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E098",
+			"OUISize": 24,
+			"OrgAddress": "12F-3, NO. 333, SEC. 1\\nGUAN-FU ROAD HSIN-CHU\\n\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "ABOCOM SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00E098",
+			"OUISize": 24,
+			"OrgAddress": "12F-3, NO. 333, SEC. 1\\nGUAN-FU ROAD HSIN-CHU\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "ABOCOM SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E098",
+			"OUISize": 24,
+			"OrgAddress": "12F-3, NO. 333, SEC. 1\\nGUAN-FU ROAD\\nHSIN-CHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AboCom Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "00E098",
+			"OUISize": 24,
+			"OrgAddress": "12F-3, NO. 333, SEC. 1\\nGUAN-FU ROAD\\nHSIN-CHU\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "AboCom Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00E098",
+			"OUISize": 24,
+			"OrgAddress": "12F-3, NO. 333, SEC. 1\\nGUAN-FU ROAD\\nHSIN-CHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AboCom Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E098",
+			"OUISize": 24,
+			"OrgAddress": "12F-3, NO. 333, SEC. 1\\nHSIN-CHU\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AboCom Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "00E098",
+			"OUISize": 24,
+			"OrgAddress": "12F-3, NO. 333, SEC. 1\\nHSIN-CHU    12345\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AboCom",
+			"Source": "IEEE"
+		}
+	]
+}

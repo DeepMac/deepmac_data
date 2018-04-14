@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C209A",
+			"OUISize": 36,
+			"OrgAddress": "32 Wadai, Tsukuba-shi\\nIbaraki, 300-4292\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NBO Development Center Sekusui Chemical Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-07",
+			"EventType": "add",
+			"OUI": "04714BB",
+			"OUISize": 28,
+			"OrgAddress": "4F ,No.65 , SHITAN ROAD , NEIHU DIST.\\nTAIPEI    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "DIGIBEST TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

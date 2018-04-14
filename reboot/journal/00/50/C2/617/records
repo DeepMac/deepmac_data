@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2617",
+			"OUISize": 36,
+			"OrgAddress": "Dept of Comp. Eng. CNU\\n220 Gung-dong, Yuseong-gu\\nDaejeon  305-764\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "NARINET, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

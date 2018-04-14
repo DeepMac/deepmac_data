@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A6E",
+			"OUISize": 36,
+			"OrgAddress": "Corner Vale & Suttor Roads\\nPO Box 745\\nMoss Vale NSW 2577\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "Screen Technics Pty Limited",
+			"Source": "IEEE"
+		}
+	]
+}

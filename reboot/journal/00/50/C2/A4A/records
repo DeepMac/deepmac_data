@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A4A",
+			"OUISize": 36,
+			"OrgAddress": "Via Antiniana, 115\\nPozzuoli Napoli 80078\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "DITRON S.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

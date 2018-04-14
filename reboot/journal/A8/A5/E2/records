@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-20",
+			"EventType": "add",
+			"OUI": "A8A5E2",
+			"OUISize": 24,
+			"OrgAddress": "Am Hessentuch 6-8\\nDetmold  Nordrhein-Westfalen  32758\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MSF-Vathauer Antriebstechnik GmbH & Co KG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A97",
+			"OUISize": 36,
+			"OrgAddress": "14 rue Jean Perrin\\nZI du Chapitre\\nTOULOUSE  31100\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MICROSYSTEMES",
+			"Source": "IEEE"
+		}
+	]
+}

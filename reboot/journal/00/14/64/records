@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-04-14",
+			"EventType": "add",
+			"OUI": "001464",
+			"OUISize": 24,
+			"OrgAddress": "Lermontova str, 3\\nPenza region 440026\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Cryptosoft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001464",
+			"OUISize": 24,
+			"OrgAddress": "Lermontova str, 3\\nPenza region  440026\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Cryptosoft",
+			"Source": "IEEE"
+		}
+	]
+}

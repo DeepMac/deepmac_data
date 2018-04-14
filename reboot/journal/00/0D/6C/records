@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-06-01",
+			"EventType": "add",
+			"OUI": "000D6C",
+			"OUISize": 24,
+			"OrgAddress": "45 E ST Joseph St.\\nArcadia CA 91006\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "M-Audio",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D6C",
+			"OUISize": 24,
+			"OrgAddress": "45 E ST Joseph St.\\nArcadia  CA  91006\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "M-Audio",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28F3",
+			"OUISize": 36,
+			"OrgAddress": "104 Sharron Avenue\\nPlattsburgh NY 12901\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Curtis Door Systems Inc",
+			"Source": "IEEE"
+		}
+	]
+}

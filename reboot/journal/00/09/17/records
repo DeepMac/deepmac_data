@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000917",
+			"OUISize": 24,
+			"OrgAddress": "8F-2, No 386, Sec 5 Nanjing East Road.\\nTaipei  105\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "WEM Technology Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000917",
+			"OUISize": 24,
+			"OrgAddress": "8F-2, No 386, Sec 5 Nanjing East Road.\\nTaipei  105\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "WEM Technology Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000917",
+			"OUISize": 24,
+			"OrgAddress": "8F-2, No 386, Sec 5 Nanjing East Road.\\nTaipei  105\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "WEM Technology Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000917",
+			"OUISize": 24,
+			"OrgAddress": "8F-2, No 386, Sec 5 Nanjing East Road.\\nTaipei    105\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "WEM Technology Inc",
+			"Source": "IEEE"
+		}
+	]
+}

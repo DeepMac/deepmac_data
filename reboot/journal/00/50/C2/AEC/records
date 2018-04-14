@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AEC",
+			"OUISize": 36,
+			"OrgAddress": "Paul-Lenz-Str. 5\\nFriedberg Bayern 86316\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Fritz Pauker Ingenieure GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

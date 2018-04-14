@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-30",
+			"EventType": "add",
+			"OUI": "383A212",
+			"OUISize": 28,
+			"OrgAddress": "6F, Bld#A, Dezhong Industrial Park, Yangmei Village, Bantian Town, Longgang District\\nShenzhen  Guangdong  518129\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen HS Fiber Communication Equipment CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

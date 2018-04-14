@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C245D",
+			"OUISize": 36,
+			"OrgAddress": "740 Harold Crescent\\nThunder Bay Ontario P7C 5H7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Digital Engineering, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

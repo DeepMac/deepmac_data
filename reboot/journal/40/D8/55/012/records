@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "40D855012",
+			"OUISize": 36,
+			"OrgAddress": "6385 W. 74th Street\\nBedford Park IL 60638\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sencon Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

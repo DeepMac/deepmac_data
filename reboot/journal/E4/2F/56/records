@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-03",
+			"EventType": "add",
+			"OUI": "E42F56",
+			"OUISize": 24,
+			"OrgAddress": "Pfungstaedter Str. 92\\nDarmstadt    64297\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "OptoMET GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

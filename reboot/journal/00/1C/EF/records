@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "add",
+			"OUI": "001CEF",
+			"OUISize": 24,
+			"OrgAddress": "669, Ruey Kuang Road, Neihu\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Primax Electronics LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001CEF",
+			"OUISize": 24,
+			"OrgAddress": "669, Ruey Kuang Road, Neihu\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Primax Electronics LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001CEF",
+			"OUISize": 24,
+			"OrgAddress": "669, Ruey Kuang Road, Neihu\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Primax Electronics LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-27",
+			"EventType": "change",
+			"OUI": "001CEF",
+			"OUISize": 24,
+			"OrgAddress": "669, Ruey Kuang Road, Neihu\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Primax Electronics Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

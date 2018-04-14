@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-07-27",
+			"EventType": "add",
+			"OUI": "FCF528",
+			"OUISize": 24,
+			"OrgAddress": "No. 6, Innovation Road 2, Hsinchu Science Park\\nHsinchu Taiwan 300\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ZyXEL Communications Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "FCF528",
+			"OUISize": 24,
+			"OrgAddress": "No. 6 Innovation Road II, Science Park, Hsinchu, Taiwan\\nHsinchu  Taiwan  300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ZyXEL Communications Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-29",
+			"EventType": "change",
+			"OUI": "FCF528",
+			"OUISize": 24,
+			"OrgAddress": "No. 6 Innovation Road II, Science Park\\nHsichu  Taiwan  300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ZyXEL Communications Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-26",
+			"EventType": "change",
+			"OUI": "FCF528",
+			"OUISize": 24,
+			"OrgAddress": "No. 6 Innovation Road II, Science Park\\nHsichu  Taiwan  300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Zyxel Communications Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

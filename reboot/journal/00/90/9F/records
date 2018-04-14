@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00909F",
+			"OUISize": 24,
+			"OrgAddress": "8580 DORSEY RUN ROAD\\nJESSUP  MD  20794\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIGI-DATA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00909F",
+			"OUISize": 24,
+			"OrgAddress": "8580 DORSEY RUN ROAD\\nJESSUP MD 20794\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIGI-DATA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-27",
+			"EventType": "change",
+			"OUI": "00909F",
+			"OUISize": 24,
+			"OrgAddress": "8920-D Route 108\\nColumbia MD 21045\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIGI-DATA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00909F",
+			"OUISize": 24,
+			"OrgAddress": "7165 Columbia Gateway Drive\\nColumbia MD 21045\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIGI-DATA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00909F",
+			"OUISize": 24,
+			"OrgAddress": "7165 Columbia Gateway Drive\\nColumbia  MD  21045\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DIGI-DATA CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

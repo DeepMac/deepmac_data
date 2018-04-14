@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "add",
+			"OUI": "001FBF",
+			"OUISize": 24,
+			"OrgAddress": "1F, No.12, R&D Road,\\nScience-based Ind. Park,\\nHsin-Chu, 300  886\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Fulhua Microelectronics Corp. Taiwan Branch",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001FBF",
+			"OUISize": 24,
+			"OrgAddress": "1F, No.12, R&D Road,\\nScience-based Ind. Park,\\nHsin-Chu, 300  886\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Fulhua Microelectronics Corp. Taiwan Branch",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001FBF",
+			"OUISize": 24,
+			"OrgAddress": "1F, No.12, R&D Road,\\nHsin-Chu, 300    886\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Fulhua Microelectronics Corp. Taiwan Branch",
+			"Source": "IEEE"
+		}
+	]
+}

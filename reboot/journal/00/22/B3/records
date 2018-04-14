@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "0022B3",
+			"OUISize": 24,
+			"OrgAddress": "Via Ruffilli, 1\\nCurno Bergamo 24035\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Sei S.p.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0022B3",
+			"OUISize": 24,
+			"OrgAddress": "Via Ruffilli, 1\\nCurno  Bergamo  24035\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Sei S.p.A.",
+			"Source": "IEEE"
+		}
+	]
+}

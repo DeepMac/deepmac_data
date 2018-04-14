@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-09",
+			"EventType": "add",
+			"OUI": "50B363",
+			"OUISize": 24,
+			"OrgAddress": "Av. Eng. Luis Carlos Berrini , 1297\\nSÃ£o Paulo  SÃ£o Paulo  04571010\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Digitron da Amazonia S/A",
+			"Source": "IEEE"
+		}
+	]
+}

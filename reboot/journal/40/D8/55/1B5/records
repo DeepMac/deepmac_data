@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "add",
+			"OUI": "40D8551B5",
+			"OUISize": 36,
+			"OrgAddress": "Eppsteiner Strasse 13\\nEppstein Hessen 65817\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "A+EC Klein Ingenieurbuero",
+			"Source": "IEEE"
+		}
+	]
+}

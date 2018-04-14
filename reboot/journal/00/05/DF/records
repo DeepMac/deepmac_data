@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005DF",
+			"OUISize": 24,
+			"OrgAddress": "1130 Webbwood Drive, Unit A\\nSudbury, Ontario\\n\\n",
+			"OrgCountry": "Canada P3C 3B7",
+			"OrgName": "Electronic Innovation, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0005DF",
+			"OUISize": 24,
+			"OrgAddress": "1130 Webbwood Drive, Unit A\\nSudbury, Ontario\\nP3C 3B7\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Electronic Innovation, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-02-20",
+			"EventType": "change",
+			"OUI": "0005DF",
+			"OUISize": 24,
+			"OrgAddress": "12731 Cannington Way SW\\nCalgary, AB T2W 1Z7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Electronic Innovation, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005DF",
+			"OUISize": 24,
+			"OrgAddress": "12731 Cannington Way SW\\nCalgary, AB  T2W 1Z7\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Electronic Innovation, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-09-25",
+			"EventType": "add",
+			"OUI": "001992",
+			"OUISize": 24,
+			"OrgAddress": "10 North Ave\\nBurlington MA 01803\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Bluesocket, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-06",
+			"EventType": "change",
+			"OUI": "001992",
+			"OUISize": 24,
+			"OrgAddress": "901 Explorer Blvd.\\nHuntsville AL 35806-2807\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADTRAN INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001992",
+			"OUISize": 24,
+			"OrgAddress": "901 Explorer Blvd.\\nHuntsville  AL  35806-2807\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ADTRAN INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-07",
+			"EventType": "change",
+			"OUI": "001992",
+			"OUISize": 24,
+			"OrgAddress": "901 Explorer Blvd.\\nHuntsville  AL  35806-2807\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Adtran Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-08",
+			"EventType": "change",
+			"OUI": "001992",
+			"OUISize": 24,
+			"OrgAddress": "901 Explorer Blvd.\\nHuntsville  AL  35806-2807\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Adtran Inc",
+			"Source": "IEEE"
+		}
+	]
+}

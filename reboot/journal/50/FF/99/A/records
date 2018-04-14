@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-27",
+			"EventType": "add",
+			"OUI": "50FF99A",
+			"OUISize": 28,
+			"OrgAddress": "Werner-Heisenberg-Str. 1\\nMagdeburg  Sachsen-Anh.  39106\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "metraTec GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃ¯Â¿Â½dio Cidade de Coimbra\\nRua D. Manuel I, nÃ¯Â¿Â½92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃ¡dio Cidade de Coimbra\\nRua D. Manuel I, nÂº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "Estádio Cidade de Coimbra\\nRua D. Manuel I, nº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃ¡dio Cidade de Coimbra\\nRua D. Manuel I, nÂº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "Estádio Cidade de Coimbra\\nRua D. Manuel I, nº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃ¡dio Cidade de Coimbra\\nRua D. Manuel I, nÂº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃÂÃÂ¡dio Cidade de Coimbra\\nRua D. Manuel I, nÃÂÃÂº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃÂ¡dio Cidade de Coimbra\\nRua D. Manuel I, nÃÂº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃ¡dio Cidade de Coimbra\\nRua D. Manuel I, n.Âº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃÂ¡dio Cidade de Coimbra\\nRua D. Manuel I, n.ÃÂº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C29B9",
+			"OUISize": 36,
+			"OrgAddress": "EstÃ¡dio Cidade de Coimbra\\nRua D. Manuel I, n.Âº92\\nCoimbra  3030-320\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ISA - Intelligent Sensing Anywhere, S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

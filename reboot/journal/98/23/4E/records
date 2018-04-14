@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-01",
+			"EventType": "add",
+			"OUI": "98234E",
+			"OUISize": 24,
+			"OrgAddress": "Gartenweg 46\\nBuonas  Zug  6343\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Micromedia AG",
+			"Source": "IEEE"
+		}
+	]
+}

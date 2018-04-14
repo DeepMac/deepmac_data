@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001005",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 54, MT. EDGECOMBE\\n71 MARSHALL DRIVE\\n4300 DURBAN\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "UEC COMMERCIAL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001005",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 54, MT. EDGECOMBE\\n71 MARSHALL DRIVE 4300 DURBAN\\n\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "UEC COMMERCIAL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001005",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 54,\\nMT. EDGECOMBE\\n4300 DURBAN\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "UEC COMMERCIAL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001005",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 54,\\n4300 DURBAN\\n\\n",
+			"OrgCountry": "ZA",
+			"OrgName": "UEC COMMERCIAL",
+			"Source": "IEEE"
+		}
+	]
+}

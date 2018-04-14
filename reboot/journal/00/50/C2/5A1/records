@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25A1",
+			"OUISize": 36,
+			"OrgAddress": "Wirgenesveg 1\\nBranch Wireless Systems\\nBARKAKER VESTFOLD N-3157\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Vestfold Butikkdata AS",
+			"Source": "IEEE"
+		}
+	]
+}

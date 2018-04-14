@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2406",
+			"OUISize": 36,
+			"OrgAddress": "One Alewife Center, Suite 200\\nCambridge MA 02140\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CoreStreet, Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

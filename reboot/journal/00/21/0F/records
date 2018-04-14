@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "00210F",
+			"OUISize": 24,
+			"OrgAddress": "1943 Isaac Newton Sq\\nSuite 200\\nReston VA 20190\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cernium Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00210F",
+			"OUISize": 24,
+			"OrgAddress": "1943 Isaac Newton Sq\\nReston  VA  20190\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cernium Corp",
+			"Source": "IEEE"
+		}
+	]
+}

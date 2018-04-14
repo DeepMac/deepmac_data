@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-03-11",
+			"EventType": "add",
+			"OUI": "24B6B8",
+			"OUISize": 24,
+			"OrgAddress": "Via Edison 1\\nSegrate Milano 20090\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "FRIEM SPA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "24B6B8",
+			"OUISize": 24,
+			"OrgAddress": "Via Edison 1\\nSegrate  Milano  20090\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "FRIEM SPA",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B45",
+			"OUISize": 36,
+			"OrgAddress": "40-15-9\\nBrundavan Colony\\nVijayawada Andhra Pradesh 520010\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "Efftronics Systems (P) Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

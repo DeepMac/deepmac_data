@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000A4A",
+			"OUISize": 24,
+			"OrgAddress": "1905 Grandtech Centre,\\n8 On Ping St.  Siu Lek Yuen\\nShatin N.T.\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Targa Systems Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000A4A",
+			"OUISize": 24,
+			"OrgAddress": "1905 Grandtech Centre,\\nShatin  N.T.\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Targa Systems Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

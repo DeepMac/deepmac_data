@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2813",
+			"OUISize": 36,
+			"OrgAddress": "2465 Augustine Dr\\nSanta Clara CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Intelleflex Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

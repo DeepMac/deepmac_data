@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-19",
+			"EventType": "add",
+			"OUI": "1CA0D38",
+			"OUISize": 28,
+			"OrgAddress": "Avda. de los Trabajadores nÂº2 1ÂªPlanta\\nIllescas  Toledo  45200\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "Desarrollos y Soluciones Guinea I+D S.L.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-01-24",
+			"EventType": "add",
+			"OUI": "0004E6",
+			"OUISize": 24,
+			"OrgAddress": "443, 8th Floor, Guna Complex\\nAnnasalai, Chennai-600 018\\n\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "Banyan Network Private Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0004E6",
+			"OUISize": 24,
+			"OrgAddress": "443, 8th Floor, Guna Complex\\nAnnasalai, Chennai-600 018\\nINDIA\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "Banyan Network Private Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0004E6",
+			"OUISize": 24,
+			"OrgAddress": "443, 8th Floor, Guna Complex\\nAnnasalai, Chennai-600 018\\n\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "Banyan Network Private Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0004E6",
+			"OUISize": 24,
+			"OrgAddress": "443, 8th Floor, Guna Complex\\nAnnasalai, Chennai-600 018\\nINDIA\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "Banyan Network Private Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0004E6",
+			"OUISize": 24,
+			"OrgAddress": "443, 8th Floor, Guna Complex\\nAnnasalai, Chennai-600 018\\n\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "Banyan Network Private Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0004E6",
+			"OUISize": 24,
+			"OrgAddress": "443, 8th Floor, Guna Complex\\n\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "Banyan Network Private Limited",
+			"Source": "IEEE"
+		}
+	]
+}

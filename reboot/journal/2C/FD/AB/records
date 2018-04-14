@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-22",
+			"EventType": "add",
+			"OUI": "2CFDAB",
+			"OUISize": 24,
+			"OrgAddress": "No.19, Gaoxin 4th Road, Wuhan East Lake High-tech Zone, Wuhan\\nWuhan  Hubei  430000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

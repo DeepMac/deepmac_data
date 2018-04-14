@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "009037",
+			"OUISize": 24,
+			"OrgAddress": "4633 OLD IRONSIDES - STE #310\\nSANTA CLARA  CA  95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ACUCOMM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009037",
+			"OUISize": 24,
+			"OrgAddress": "4633 OLD IRONSIDES - STE #310\\nSANTA CLARA CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ACUCOMM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009037",
+			"OUISize": 24,
+			"OrgAddress": "4633 OLD IRONSIDES - STE #310\\nSANTA CLARA  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ACUCOMM, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

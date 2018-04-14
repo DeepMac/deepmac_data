@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "add",
+			"OUI": "649B24",
+			"OUISize": 24,
+			"OrgAddress": "YBP East Tower 5F,\\n134 Godo-cho, Hogogaya-ku,\\nYokohama city Kanagawa 240-0005\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "V Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "649B24",
+			"OUISize": 24,
+			"OrgAddress": "YBP East Tower 5F,\\nYokohama city  Kanagawa  240-0005\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "V Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

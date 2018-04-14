@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23B2",
+			"OUISize": 36,
+			"OrgAddress": "Computer Engineering TVAN\\n1101 Market St., MP5G-C\\nChattanooga TN 37402\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Tennessee Valley Authority",
+			"Source": "IEEE"
+		}
+	]
+}

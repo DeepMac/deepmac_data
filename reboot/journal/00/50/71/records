@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "005071",
+			"OUISize": 24,
+			"OrgAddress": "1-11, KAMITOMATSURI 4-CHOME\\nUTSUNOMIYA-SHI, TOCHIGI-KEN\\n\\n",
+			"OrgCountry": "320-8520  JAPAN",
+			"OrgName": "AIWA CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "005071",
+			"OUISize": 24,
+			"OrgAddress": "1-11, KAMITOMATSURI 4-CHOME\\nUTSUNOMIYA-SHI, TOCHIGI-KEN\\n\\n",
+			"OrgCountry": "320-8520 JAPAN",
+			"OrgName": "AIWA CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "005071",
+			"OUISize": 24,
+			"OrgAddress": "1-11, KAMITOMATSURI 4-CHOME\\nUTSUNOMIYA-SHI, TOCHIGI-KEN 320-85\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "AIWA CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "005071",
+			"OUISize": 24,
+			"OrgAddress": "1-11, KAMITOMATSURI 4-CHOME\\nUTSUNOMIYA-SHI, TOCHIGI-KEN 320-85\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "AIWA CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

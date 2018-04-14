@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "0050C2FEE",
+			"OUISize": 36,
+			"OrgAddress": "Bodematta 12\\nHeitenried FR 1714\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Sparks Instruments SA",
+			"Source": "IEEE"
+		}
+	]
+}

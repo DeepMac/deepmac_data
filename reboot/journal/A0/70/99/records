@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-28",
+			"EventType": "add",
+			"OUI": "A07099",
+			"OUISize": 24,
+			"OrgAddress": "NO.122, Room 2006, 20/F, Qingyun Contemporary Tower, Building 9, Manting Fangyuan Residential District, Qing Yun Li, Hai Dian District\\n\\n\\n",
+			"OrgCountry": "Beijing    100036",
+			"OrgName": "Beijing Huacan Electronics Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-29",
+			"EventType": "change",
+			"OUI": "A07099",
+			"OUISize": 24,
+			"OrgAddress": "NO.122, Room 2006, 20/F, Qingyun Contemporary Tower, Building 9, Manting Fangyuan Residential District, Qing Yun Li, Hai Dian District\\nBeijing    100036\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Huacan Electronics Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E15",
+			"OUISize": 36,
+			"OrgAddress": "Takamatsu-cyo 1-100\\nTachikawa-shi Tokyo 190-0011\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "IHI Scube Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

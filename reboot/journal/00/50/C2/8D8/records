@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28D8",
+			"OUISize": 36,
+			"OrgAddress": "160 Oak Street\\nBuilding 5, Unit 512\\nGlastonbury CT 06033\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Array Technologies Inc",
+			"Source": "IEEE"
+		}
+	]
+}

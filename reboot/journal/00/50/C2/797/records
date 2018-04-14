@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃ¯Â¿Â½ckenstr. 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃ¼ckenstr. 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "Brückenstr. 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃ¼ckenstr. 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "Brückenstr. 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃ¼ckenstr. 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃÂÃÂ¼ckenstr. 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃ¼ckenstraÃe 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃÂ¼ckenstraÃÅ¸e 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2797",
+			"OUISize": 36,
+			"OrgAddress": "BrÃ¼ckenstraÃe 8\\nErlangen Bayern 91056\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tiefenbach Control Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

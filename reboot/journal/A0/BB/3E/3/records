@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-03",
+			"EventType": "add",
+			"OUI": "A0BB3E3",
+			"OUISize": 28,
+			"OrgAddress": "31 Mira str.\\nUfa Republic of Bashkortostan 450112\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "WiteRiver Technology LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A0BB3E3",
+			"OUISize": 28,
+			"OrgAddress": "31 Mira str.\\nUfa  Republic of Bashkortostan  450112\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "WiteRiver Technology LLC",
+			"Source": "IEEE"
+		}
+	]
+}

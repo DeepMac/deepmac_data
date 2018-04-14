@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-13",
+			"EventType": "add",
+			"OUI": "4C7872",
+			"OUISize": 24,
+			"OrgAddress": "Via Torchio, 57\\nSan Maurizio d'Opaglio  (Novara)  28017\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Cav. Uff. Giacomo Cimberio S.p.A.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0000FE",
+			"OUISize": 24,
+			"OrgAddress": "190 ADMIRAL COCHRANE DRIVE\\nSUITE 130\\nANNAPOLIS, MD  21401\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ANNAPOLIS MICRO SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0000FE",
+			"OUISize": 24,
+			"OrgAddress": "190 ADMIRAL COCHRANE DRIVE\\nSUITE 130\\nANNAPOLIS MD 21401\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ANNAPOLIS MICRO SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0000FE",
+			"OUISize": 24,
+			"OrgAddress": "190 ADMIRAL COCHRANE DRIVE\\nANNAPOLIS  MD  21401\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ANNAPOLIS MICRO SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-04",
+			"EventType": "change",
+			"OUI": "0000FE",
+			"OUISize": 24,
+			"OrgAddress": "190 ADMIRAL COCHRANE DRIVE\\nANNAPOLIS  MD  21401\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Annapolis Micro Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

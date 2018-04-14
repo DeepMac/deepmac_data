@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-10-13",
+			"EventType": "add",
+			"OUI": "001616",
+			"OUISize": 24,
+			"OrgAddress": "No.1 Jen-Ai Road, HsinChu Industrial Park,\\nHuKou Hsiang HsinChu Hsien 303\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "BROWAN COMMUNICATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001616",
+			"OUISize": 24,
+			"OrgAddress": "No.1 Jen-Ai Road, HsinChu Industrial Park,\\nHuKou Hsiang HsinChu Hsien 303\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "BROWAN COMMUNICATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001616",
+			"OUISize": 24,
+			"OrgAddress": "No.1 Jen-Ai Road, HsinChu Industrial Park,\\nHuKou Hsiang  HsinChu Hsien  303\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "BROWAN COMMUNICATION INC.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22B0",
+			"OUISize": 36,
+			"OrgAddress": "#102 Electronics Bldg. 220-10, Buen 2Dong, Kangbuk-Ku\\nSeoul  142-705\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Telda Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

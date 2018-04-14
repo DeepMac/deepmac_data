@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C256E",
+			"OUISize": 36,
+			"OrgAddress": "Bodycha 68B\\nWarszawa Mazowieckie 02-495\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "LAB-EL ELEKTRONIKA LABORATORYJNA S.J.",
+			"Source": "IEEE"
+		}
+	]
+}

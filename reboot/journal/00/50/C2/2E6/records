@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22E6",
+			"OUISize": 36,
+			"OrgAddress": "605 McMurray Rd.\\nWaterloo Ontario N2V 2E9\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "DALSA",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "008094",
+			"OUISize": 24,
+			"OrgAddress": "ADN\\nS-205 22 MALMO\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ALFA LAVAL AUTOMATION AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "008094",
+			"OUISize": 24,
+			"OrgAddress": "ADN\\nS-205 22 MALMO\\nSWEDEN\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ALFA LAVAL AUTOMATION AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "008094",
+			"OUISize": 24,
+			"OrgAddress": "ADN\\nS-205 22 MALMO\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ALFA LAVAL AUTOMATION AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "008094",
+			"OUISize": 24,
+			"OrgAddress": "ADN\\nS-205 22 MALMO\\nSWEDEN\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ALFA LAVAL AUTOMATION AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "008094",
+			"OUISize": 24,
+			"OrgAddress": "ADN\\nS-205 22 MALMO\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "ALFA LAVAL AUTOMATION AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "008094",
+			"OUISize": 24,
+			"OrgAddress": "ADN\\n\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "ALFA LAVAL AUTOMATION AB",
+			"Source": "IEEE"
+		}
+	]
+}

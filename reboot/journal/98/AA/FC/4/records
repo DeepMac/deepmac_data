@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-29",
+			"EventType": "add",
+			"OUI": "98AAFC4",
+			"OUISize": 28,
+			"OrgAddress": "Marksa, 14\\nObninsk  Kaluga reg.  249035\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "RPE RADICO",
+			"Source": "IEEE"
+		}
+	]
+}

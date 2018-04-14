@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EC0",
+			"OUISize": 36,
+			"OrgAddress": "840 First Avenue\\nSuite 300\\nKing of Prussia PA 19406\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "UgMO Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-29",
+			"EventType": "add",
+			"OUI": "001A58",
+			"OUISize": 24,
+			"OrgAddress": "Nordlichtstrasse 63\\nBerlin  D-13405\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Celectronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "001A58",
+			"OUISize": 24,
+			"OrgAddress": "Nordlichtstrasse 63\\nBerlin  D-13405\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "CCV Deutschland GmbH - Celectronic eHealth Div.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001A58",
+			"OUISize": 24,
+			"OrgAddress": "Gertraudenstrasse 18\\nBerlin  D-10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "CCV Deutschland GmbH - Celectronic eHealth Div.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A58",
+			"OUISize": 24,
+			"OrgAddress": "Gertraudenstrasse 18\\nBerlin    D-10178\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "CCV Deutschland GmbH - Celectronic eHealth Div.",
+			"Source": "IEEE"
+		}
+	]
+}

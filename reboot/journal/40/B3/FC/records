@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-04-08",
+			"EventType": "add",
+			"OUI": "40B3FC",
+			"OUISize": 24,
+			"OrgAddress": "Rm 901-902, 9/F, Nathan Centre,\\n580G-K Nathan Road, Mongkok,\\nKowloon\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Logital Co. Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "40B3FC",
+			"OUISize": 24,
+			"OrgAddress": "Rm 901-902, 9/F, Nathan Centre,\\nKowloon\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Logital Co. Limited",
+			"Source": "IEEE"
+		}
+	]
+}

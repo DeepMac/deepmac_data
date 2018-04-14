@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000772",
+			"OUISize": 24,
+			"OrgAddress": "No. 388, Ningqiao Road,\\nPudong Jinqiao, Shanghai\\n201206\\n",
+			"OrgCountry": "P.R. CHINA",
+			"OrgName": "Shanghai Bell Company Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "000772",
+			"OUISize": 24,
+			"OrgAddress": "No. 388, Ningqiao Road,\\nPudong Jinqiao, Shanghai\\n201206\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shanghai Bell Company Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "change",
+			"OUI": "000772",
+			"OUISize": 24,
+			"OrgAddress": "No. 388, Ningqiao Road,\\nPudong Jinqiao, Shanghai\\n201206\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Alcatel Shanghai Bell Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000772",
+			"OUISize": 24,
+			"OrgAddress": "No. 388, Ningqiao Road,\\n201206\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Alcatel Shanghai Bell Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-22",
+			"EventType": "change",
+			"OUI": "000772",
+			"OUISize": 24,
+			"OrgAddress": "No. 389, Ningqiao Road, Pudong Jinqiao\\nShanghai    201206\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Alcatel-Lucent Shanghai Bell Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

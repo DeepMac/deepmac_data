@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001068",
+			"OUISize": 24,
+			"OrgAddress": "SAEHAN B/D/, 27-1 SUPYO-DONG\\nCHUNG-GU\\nSEOUL\\n",
+			"OrgCountry": "KOREA (100-230)",
+			"OrgName": "COMOS TELECOM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001068",
+			"OUISize": 24,
+			"OrgAddress": "SAEHAN B/D/, 27-1 SUPYO-DONG\\nCHUNG-GU SEOUL\\n\\n",
+			"OrgCountry": "KOREA (100-230)",
+			"OrgName": "COMOS TELECOM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001068",
+			"OUISize": 24,
+			"OrgAddress": "SAEHAN B/D/, 27-1 SUPYO-DONG\\nCHUNG-GU, SEOUL 100-230\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "COMOS TELECOM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001068",
+			"OUISize": 24,
+			"OrgAddress": "SAEHAN B/D/, 27-1 SUPYO-DONG\\nCHUNG-GU,  SEOUL (100-230)\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "COMOS TELECOM",
+			"Source": "IEEE"
+		}
+	]
+}

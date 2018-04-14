@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000A00",
+			"OUISize": 24,
+			"OrgAddress": "8F, No 69-5, Sec.2, Chung Cheng East Rd.\\nTaipei  251\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Mediatek Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000A00",
+			"OUISize": 24,
+			"OrgAddress": "8F, No 69-5, Sec.2, Chung Cheng East Rd.\\nTaipei  251\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Mediatek Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000A00",
+			"OUISize": 24,
+			"OrgAddress": "8F, No 69-5, Sec.2, Chung Cheng East Rd.\\nTaipei  251\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Mediatek Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000A00",
+			"OUISize": 24,
+			"OrgAddress": "8F, No 69-5, Sec.2, Chung Cheng East Rd.\\nTaipei    251\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Mediatek Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

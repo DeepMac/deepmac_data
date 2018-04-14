@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C4A",
+			"OUISize": 36,
+			"OrgAddress": "670 North Commercial Street\\nSuite 400\\nManchester New Hampshire 03101\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Herrick Technology Laboratories, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

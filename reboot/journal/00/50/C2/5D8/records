@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25D8",
+			"OUISize": 36,
+			"OrgAddress": "114 QUAI DU RHONE\\nMIRIBEL RHONE-ALPES 01708\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "TECHNIFOR SAS",
+			"Source": "IEEE"
+		}
+	]
+}

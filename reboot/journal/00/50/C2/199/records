@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2199",
+			"OUISize": 36,
+			"OrgAddress": "2600 Argentia RD\\nMississauga Ontario L5N 5V4\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Survalent Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

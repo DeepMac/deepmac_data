@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C75",
+			"OUISize": 36,
+			"OrgAddress": "Dyregaardsvej 2\\nSkovlunde Copenhagen 2740\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Rovsing A/S",
+			"Source": "IEEE"
+		}
+	]
+}

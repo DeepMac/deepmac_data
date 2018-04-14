@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001170",
+			"OUISize": 24,
+			"OrgAddress": "VIA PER VIMERCATE\\nUSMATE VELATE MILANO 20040\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "GSC SRL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001170",
+			"OUISize": 24,
+			"OrgAddress": "VIA PER VIMERCATE\\nUSMATE VELATE  MILANO  20040\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "GSC SRL",
+			"Source": "IEEE"
+		}
+	]
+}

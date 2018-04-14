@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-09",
+			"EventType": "add",
+			"OUI": "4048FD5",
+			"OUISize": 28,
+			"OrgAddress": "No.36 Ma Cheng Road,\\nHangzhou  Zhejiang  310012\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "The 52nd Research Institute of China Electronic Technology Group Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

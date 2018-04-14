@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "85 SCARSDALE ROAD-STE.#201\\nDON MILLS, ONTARIO\\n\\n",
+			"OrgCountry": "CANADA  M3B 2R2",
+			"OrgName": "TELESYSTEMS SLW, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "3875 Embassy Parkway\\nAksron  OH  44334\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Aironet Wireless Communication",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "3875 Embassy Parkway\\nAksron OH 44334\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Aironet Wireless Communication",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "3875 Embassy Parkway\\nAkron OH 44334\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Aironet Wireless Communication",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "170 West Tasman Dr.\\nSan Jose CA 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cisco Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "170 W. Tasman Drive\\nSan Jose CA 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cisco Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "170 W. Tasman Drive\\nSan Jose  CA  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cisco Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "004096",
+			"OUISize": 24,
+			"OrgAddress": "170 W. Tasman Drive\\nSan Jose  CA  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cisco Systems, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-02",
+			"EventType": "add",
+			"OUI": "70886B2",
+			"OUISize": 28,
+			"OrgAddress": "111, Maeyeong-ro 345beon-gil, Yeongtong-gu\\nSuwon-si  Gyeonggi-do  16703\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "CVnet",
+			"Source": "IEEE"
+		}
+	]
+}

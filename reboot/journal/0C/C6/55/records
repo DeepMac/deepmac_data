@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-13",
+			"EventType": "add",
+			"OUI": "0CC655",
+			"OUISize": 24,
+			"OrgAddress": "Room 1801,18F, North Star Times Tower,\\nNo.8,Beichen East Road\\nChaoyang District Beijing 100101\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Wuxi YSTen Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0CC655",
+			"OUISize": 24,
+			"OrgAddress": "Room 1801,18F, North Star Times Tower,\\nChaoyang District  Beijing  100101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Wuxi YSTen Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

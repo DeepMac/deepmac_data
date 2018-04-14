@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000221",
+			"OUISize": 24,
+			"OrgAddress": "12F-12, No. 79, Sec. 1 Hsin Tai Wu Rd.\\nHSICHI, Taipei County\\n\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "DSP Application, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000221",
+			"OUISize": 24,
+			"OrgAddress": "12F-12, No. 79, Sec. 1 Hsin Tai Wu Rd.\\nHSICHI, Taipei County\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "DSP Application, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000221",
+			"OUISize": 24,
+			"OrgAddress": "12F-12, No. 79, Sec. 1 Hsin Tai Wu Rd.\\nHSICHI, Taipei County\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "DSP Application, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000221",
+			"OUISize": 24,
+			"OrgAddress": "12F-12, No. 79, Sec. 1 Hsin Tai Wu Rd.\\nHSICHI, Taipei County\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "DSP Application, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000221",
+			"OUISize": 24,
+			"OrgAddress": "12F-12, No. 79, Sec. 1 Hsin Tai Wu Rd.\\nTAIWAN\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "DSP Application, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551BC",
+			"OUISize": 36,
+			"OrgAddress": "Takakura building F3 465-2  Senshouji-chou\\ntakatujitouri yanaginobannba nishiiru shimogyou-ku\\nkyoto-shi kyoto-fu 600-8076\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KbDevice,Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C264F",
+			"OUISize": 36,
+			"OrgAddress": "Dachdeckerstr. 16\\nWaldbuettelbrunn Bayern 97297\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MA Lighting Technology GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

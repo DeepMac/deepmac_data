@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0024F2",
+			"OUISize": 24,
+			"OrgAddress": "No. 25, Chu-Kung 3rd Lane, Chu-Hou Tsung, Jen-Wu Hsiang,\\nKaohsiung Hsien Taiwan 81448\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Uniphone Telecommunication Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-04-30",
+			"EventType": "change",
+			"OUI": "0024F2",
+			"OUISize": 24,
+			"OrgAddress": "No. 25, Chu-Kung 3rd Lane, Chu-Hou Tsung, Jen-Wu Hsiang,\\nKaohsiung Hsien  81448\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Uniphone Telecommunication Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "0024F2",
+			"OUISize": 24,
+			"OrgAddress": "No. 25, Chu-Kung 3rd Lane, Chu-Hou Tsung, Jen-Wu Hsiang,\\nKaohsiung Hsien  81448\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Uniphone Telecommunication Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-28",
+			"EventType": "change",
+			"OUI": "0024F2",
+			"OUISize": 24,
+			"OrgAddress": "No. 25, Chu-Kung 3rd Lane, Chu-Hou Tsung, Jen-Wu Hsiang,\\nKaohsiung Hsien  81448\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Uniphone Telecommunication Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0024F2",
+			"OUISize": 24,
+			"OrgAddress": "No. 25, Chu-Kung 3rd Lane, Chu-Hou Tsung, Jen-Wu Hsiang,\\nKaohsiung Hsien  81448\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Uniphone Telecommunication Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0024F2",
+			"OUISize": 24,
+			"OrgAddress": "No. 25, Chu-Kung 3rd Lane, Chu-Hou Tsung, Jen-Wu Hsiang,\\nKaohsiung Hsien    81448\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Uniphone Telecommunication Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

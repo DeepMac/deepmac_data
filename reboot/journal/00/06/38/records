@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000638",
+			"OUISize": 24,
+			"OrgAddress": "1543-6, Seocho-dong, Seocho-gu,\\n\\n\\n",
+			"OrgCountry": "Seoul, KOREA 137-073",
+			"OrgName": "Sungjin C&C Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000638",
+			"OUISize": 24,
+			"OrgAddress": "1543-6, Seocho-dong, Seocho-gu,\\n\\n\\n",
+			"OrgCountry": "Seoul KOREA 137-073",
+			"OrgName": "Sungjin C&C Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "000638",
+			"OUISize": 24,
+			"OrgAddress": "1543-6, Seocho-dong, Seocho-gu,\\nSeoul  137-073\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Sungjin C&C Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000638",
+			"OUISize": 24,
+			"OrgAddress": "1543-6, Seocho-dong, Seocho-gu,\\nSeoul    137-073\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Sungjin C&C Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

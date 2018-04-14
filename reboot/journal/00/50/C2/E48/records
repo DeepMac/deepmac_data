@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E48",
+			"OUISize": 36,
+			"OrgAddress": "195 E Algonquin Road\\nDes Plaines IL 60090\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ITW Reyflex North America",
+			"Source": "IEEE"
+		}
+	]
+}

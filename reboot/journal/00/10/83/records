@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001083",
+			"OUISize": 24,
+			"OrgAddress": "MAIL STOP 43UC\\n19420 HOMESTEAD ROAD\\nCUPERTINO  CA  95014\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "HEWLETT-PACKARD COMPANY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "001083",
+			"OUISize": 24,
+			"OrgAddress": "MAIL STOP 42LE\\n110000 WOLFE ROAD\\nCUPERTINO  CA  95014\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "HEWLETT-PACKARD COMPANY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001083",
+			"OUISize": 24,
+			"OrgAddress": "MAIL STOP 42LE\\n110000 WOLFE ROAD\\nCUPERTINO CA 95014\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "HEWLETT-PACKARD COMPANY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001083",
+			"OUISize": 24,
+			"OrgAddress": "MAIL STOP 42LE\\nCUPERTINO  CA  95014\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "HEWLETT-PACKARD COMPANY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-10",
+			"EventType": "change",
+			"OUI": "001083",
+			"OUISize": 24,
+			"OrgAddress": "MAIL STOP 42LE\\nCUPERTINO  CA  95014\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Hewlett Packard",
+			"Source": "IEEE"
+		}
+	]
+}

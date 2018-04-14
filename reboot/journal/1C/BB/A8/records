@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-22",
+			"EventType": "add",
+			"OUI": "1CBBA8",
+			"OUISize": 24,
+			"OrgAddress": "39, 50 let SSSR\\nUfa Bashkortostan 450071\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "OJSC \"Ufimskiy Zavod \"Promsvyaz\"",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "1CBBA8",
+			"OUISize": 24,
+			"OrgAddress": "39, 50 let SSSR\\nUfa  Bashkortostan  450071\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "OJSC Ufimskiy Zavod Promsvyaz",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000017",
+			"OUISize": 24,
+			"OrgAddress": "26540 AGOURA ROAD\\nCALABASAS  CA  91302\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TEKELEC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000017",
+			"OUISize": 24,
+			"OrgAddress": "26540 AGOURA ROAD\\nCALABASAS CA 91302\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TEKELEC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000017",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "change",
+			"OUI": "000017",
+			"OUISize": 24,
+			"OrgAddress": "26540 AGOURA ROAD\\nCALABASAS CA 91302\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TEKELEC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-17",
+			"EventType": "change",
+			"OUI": "000017",
+			"OUISize": 24,
+			"OrgAddress": "4200 Network Circle\\nSanta Clara CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Oracle",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000017",
+			"OUISize": 24,
+			"OrgAddress": "4200 Network Circle\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Oracle",
+			"Source": "IEEE"
+		}
+	]
+}

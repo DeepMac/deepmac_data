@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C212C",
+			"OUISize": 36,
+			"OrgAddress": "21314 Lassen St.\\nChatsworth CA 91311\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Delta Tau Data Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

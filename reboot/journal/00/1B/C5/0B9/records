@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-15",
+			"EventType": "add",
+			"OUI": "001BC50B9",
+			"OUISize": 36,
+			"OrgAddress": "13-4 Satsuki-cho\\nKanuma-shi Tochigi 3220014\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Denki Kogyo Company, Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC50B9",
+			"OUISize": 36,
+			"OrgAddress": "13-4 Satsuki-cho\\nKanuma-shi  Tochigi  3220014\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Denki Kogyo Company, Limited",
+			"Source": "IEEE"
+		}
+	]
+}

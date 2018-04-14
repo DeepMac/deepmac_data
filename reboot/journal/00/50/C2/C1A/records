@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C1A",
+			"OUISize": 36,
+			"OrgAddress": "Meguro F2 Building\\n1-8-8 Nakameguro\\nMeguro-ku Tokyo 153-0061\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SAM Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

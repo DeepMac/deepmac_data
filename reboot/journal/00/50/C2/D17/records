@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D17",
+			"OUISize": 36,
+			"OrgAddress": "K Nouzovu 2090/6\\nPraha 143 00\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "CUE, a.s.",
+			"Source": "IEEE"
+		}
+	]
+}

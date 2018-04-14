@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-01-11",
+			"EventType": "add",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la Vallée Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la VallÃ©e Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la Vallée Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la VallÃÂ©e Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la Vallée Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la VallÃÂ©e Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la VallÃ©e Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "11, rue du Chenival\\nBP 1\\nNesles la VallÃÂÃÂÃÂÃÂ©e Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "Ateliers R. LAUMONIER\\nBP 1\\nNesles-la-VallÃ©e Val d'Oise 95690\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B06",
+			"OUISize": 24,
+			"OrgAddress": "Ateliers R. LAUMONIER\\nNesles-la-VallÃ©e  Val d'Oise  95690\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Ateliers R. LAUMONIER",
+			"Source": "IEEE"
+		}
+	]
+}

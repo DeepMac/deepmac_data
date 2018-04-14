@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-01-19",
+			"EventType": "add",
+			"OUI": "ACF0B2",
+			"OUISize": 24,
+			"OrgAddress": "No.32, Lane 30, Long Yuan Rd.\\nLong-Tan Taoyuan 32544\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Becker Electronics Taiwan Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "ACF0B2",
+			"OUISize": 24,
+			"OrgAddress": "No.32, Lane 30, Long Yuan Rd.\\nLong-Tan Taoyuan 32544\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Becker Electronics Taiwan Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "ACF0B2",
+			"OUISize": 24,
+			"OrgAddress": "No.32, Lane 30, Long Yuan Rd.\\nLong-Tan  Taoyuan  32544\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Becker Electronics Taiwan Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

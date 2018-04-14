@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C201F",
+			"OUISize": 36,
+			"OrgAddress": "Burkheimer Str. 3\\nD79111 Freiburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KBS Industrieelektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

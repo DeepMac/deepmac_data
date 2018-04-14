@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-01",
+			"EventType": "add",
+			"OUI": "44AAE8",
+			"OUISize": 24,
+			"OrgAddress": "Gewerbestrasse 11\\nLandsham Bavaria 85652\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nanotec Electronic GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "44AAE8",
+			"OUISize": 24,
+			"OrgAddress": "Gewerbestrasse 11\\nLandsham  Bavaria  85652\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Nanotec Electronic GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

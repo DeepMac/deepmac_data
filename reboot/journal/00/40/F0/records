@@ -1,0 +1,136 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "69-52 NAGAKUDE KANIHARA,\\nNAGAKUT. CH.\\nAICH-GUN AICHI-KEN 480-11\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MICRO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "69-52 NAGAKUDE KANIHARA,\\nNAGAKUT. CH. AICH-GUN AICHI-KEN 480-11\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MICRO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "69-52 NAGAKUDE KANIHARA,\\nNAGAKUT. CH. AICH-GUN AICHI-KEN 480-11\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MICRO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-04",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "69-52 NAGAKUDE KANIHARA,\\nNAGAKUT. CH.\\nAICH-GUN AICHI-KEN   48011\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MICRO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-12",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4R,\\n205,Kibutake,Nagakute&#8208; Cho,\\nAICH-GUN AICHI  480-1117\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-16",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4F,\\n205,Kibutake,Nagakute&#8208; Cho,\\nAichi-gun AICHI  480-1117\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4F,\\n205,Kibutake,NagakuteâCho,\\nAichi-gun AICHI  480-1117\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4F,\\n205,Kibutake,Nagakute&#8208; Cho,\\nAichi-gun AICHI  480-1117\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4F,\\n205,Kibutake,NagakuteâCho,\\nAichi-gun AICHI  480-1117\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-05",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4F,\\n205,Kibutake,Nagakute?Cho,\\nAichi-gun AICHI  480-1117\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-14",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4F,\\n205,Kibutake,NagakuteâCho,\\nAichi-gun AICHI  480-1117\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0040F0",
+			"OUISize": 24,
+			"OrgAddress": "Yuzan Bldg. 4F,\\nAichi-gun AICHI    480-1117\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "MicroBrain,Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

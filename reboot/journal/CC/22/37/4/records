@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-17",
+			"EventType": "add",
+			"OUI": "CC22374",
+			"OUISize": 28,
+			"OrgAddress": "98 shunda road 9#,nanxiang town, Jianding district\\n\\n\\n",
+			"OrgCountry": "Shanghai, 200182P.R.    200182",
+			"OrgName": "SHANGHAI CARGOA M.&E.EQUIPMENT CO.LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-21",
+			"EventType": "change",
+			"OUI": "CC22374",
+			"OUISize": 28,
+			"OrgAddress": "98 shunda road 9#,nanxiang town, Jianding district\\nShanghai, 200182P.R.    200182\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHANGHAI CARGOA M.&E.EQUIPMENT CO.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

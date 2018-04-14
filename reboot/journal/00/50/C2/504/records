@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2504",
+			"OUISize": 36,
+			"OrgAddress": "11068 Randall St\\nSun Valley CA 91352\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Aphex Systems Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

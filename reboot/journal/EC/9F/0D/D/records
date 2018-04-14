@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-02",
+			"EventType": "add",
+			"OUI": "EC9F0DD",
+			"OUISize": 28,
+			"OrgAddress": "MartinkylÃ¤ntie 50\\nVantaa    01720\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "SKS Control Oy",
+			"Source": "IEEE"
+		}
+	]
+}

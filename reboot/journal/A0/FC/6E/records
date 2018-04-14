@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-02-21",
+			"EventType": "add",
+			"OUI": "A0FC6E",
+			"OUISize": 24,
+			"OrgAddress": "Lomena 7\\nKosice Slovakia 040 01\\n\\n",
+			"OrgCountry": "SLOVAKIA",
+			"OrgName": "Telegrafia a.s.",
+			"Source": "IEEE"
+		}
+	]
+}

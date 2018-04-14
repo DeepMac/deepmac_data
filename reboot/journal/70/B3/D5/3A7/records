@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-01",
+			"EventType": "add",
+			"OUI": "70B3D53A7",
+			"OUISize": 36,
+			"OrgAddress": "#505 kolon digital tower aston, gasan, geumcheon\\nseoul    08502\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Varikorea",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-07-16",
+			"EventType": "add",
+			"OUI": "24E6BA",
+			"OUISize": 24,
+			"OrgAddress": "Bld. 70, 5th line, V.O, St.\\nSt.-Petersburg  199048\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "JSC Zavod im. Kozitsky",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-07-21",
+			"EventType": "change",
+			"OUI": "24E6BA",
+			"OUISize": 24,
+			"OrgAddress": "Bld. 70, 5th line, V.O,\\nSt.-Petersburg  199048\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "JSC Zavod im. Kozitsky",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "24E6BA",
+			"OUISize": 24,
+			"OrgAddress": "Bld. 70, 5th line, V.O,\\nSt.-Petersburg    199048\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "JSC Zavod im. Kozitsky",
+			"Source": "IEEE"
+		}
+	]
+}

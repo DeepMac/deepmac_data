@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-29",
+			"EventType": "add",
+			"OUI": "70B3D5AAD",
+			"OUISize": 36,
+			"OrgAddress": "Max-Eyth-Str. 16\\nBad Mergentheim    97980\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Bartec GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

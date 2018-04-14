@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2354",
+			"OUISize": 36,
+			"OrgAddress": "1909 N. Glenville Suite 100\\nRichardson TX 75081\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Advanced IP Communications",
+			"Source": "IEEE"
+		}
+	]
+}

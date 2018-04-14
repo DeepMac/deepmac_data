@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-09",
+			"EventType": "add",
+			"OUI": "1C57D8",
+			"OUISize": 24,
+			"OrgAddress": "16, 3rd Mytischinskaya st.\\nMoscow    129626\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Kraftway Corporation PLC",
+			"Source": "IEEE"
+		}
+	]
+}

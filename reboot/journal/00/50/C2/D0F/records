@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D0F",
+			"OUISize": 36,
+			"OrgAddress": "Bahnhofstrasse 18\\nMurten FR 3280\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Saia-Burgess Controls AG",
+			"Source": "IEEE"
+		}
+	]
+}

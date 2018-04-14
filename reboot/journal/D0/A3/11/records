@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-11-23",
+			"EventType": "add",
+			"OUI": "D0A311",
+			"OUISize": 24,
+			"OrgAddress": "Oberer Kaiserweg 6\\nRothenburg o.d.T. Bayern 91541\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Neuberger Gebï¿½udeautomation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "D0A311",
+			"OUISize": 24,
+			"OrgAddress": "Oberer Kaiserweg 6\\nRothenburg o.d.T. Bayern 91541\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Neuberger GebÃ¯Â¿Â½udeautomation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "D0A311",
+			"OUISize": 24,
+			"OrgAddress": "Oberer Kaiserweg 6\\nRothenburg o.d.T. Bayern 91541\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Neuberger Gebï¿½udeautomation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "D0A311",
+			"OUISize": 24,
+			"OrgAddress": "Oberer Kaiserweg 6\\nRothenburg o.d.T. Bayern 91541\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Neuberger GebÃÂÃÂ¯ÃÂÃÂ¿ÃÂÃÂ½udeautomation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "D0A311",
+			"OUISize": 24,
+			"OrgAddress": "Oberer Kaiserweg 6\\nRothenburg o.d.T. Bayern 91541\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Neuberger GebÃ¤udeautomation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D0A311",
+			"OUISize": 24,
+			"OrgAddress": "Oberer Kaiserweg 6\\nRothenburg o.d.T.  Bayern  91541\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Neuberger GebÃ¤udeautomation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

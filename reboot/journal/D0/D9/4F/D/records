@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-23",
+			"EventType": "add",
+			"OUI": "D0D94FD",
+			"OUISize": 28,
+			"OrgAddress": "7F The 6th Byucksan Digital Valley 481-4 Gasan-Dong Geumcheon-Gu\\nSEOUL    08501\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DUKSANMECASYS CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

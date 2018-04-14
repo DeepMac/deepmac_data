@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E4C",
+			"OUISize": 36,
+			"OrgAddress": "Esp 100\\nEindhoven Noord Brabant 5633 AA\\n\\n",
+			"OrgCountry": "NETHERLANDS",
+			"OrgName": "Applied Micro Electronics \"AME\" BV",
+			"Source": "IEEE"
+		}
+	]
+}

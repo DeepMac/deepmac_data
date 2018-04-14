@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-08",
+			"EventType": "add",
+			"OUI": "70B3D512B",
+			"OUISize": 36,
+			"OrgAddress": "1 - 5628 Riverbend Drive\\nBurnaby  BC  V3N 0C1\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "RIC Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

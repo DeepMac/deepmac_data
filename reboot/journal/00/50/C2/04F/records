@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C204F",
+			"OUISize": 36,
+			"OrgAddress": "311 Courthouse Road\\nPrinceton WV 24740\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Luma Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

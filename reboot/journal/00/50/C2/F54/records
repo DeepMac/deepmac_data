@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F54",
+			"OUISize": 36,
+			"OrgAddress": "Am Krebsbach 2\\nIhringen  79241\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hella Gutmann Solutions GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

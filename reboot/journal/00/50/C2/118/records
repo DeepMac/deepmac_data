@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2118",
+			"OUISize": 36,
+			"OrgAddress": "Nystaden 1\\nSE-952 61 Kalix\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Microbit 2.0 AB",
+			"Source": "IEEE"
+		}
+	]
+}

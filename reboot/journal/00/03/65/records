@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000365",
+			"OUISize": 24,
+			"OrgAddress": "6th Fl. Anam Tower,\\n702-10 Yeoksam-dong,\\nKangnam-ku, Seoul\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "Kira Information & Communications, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000365",
+			"OUISize": 24,
+			"OrgAddress": "6th Fl. Anam Tower,\\n702-10 Yeoksam-dong, Kangnam-ku, Seoul\\n\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "Kira Information & Communications, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000365",
+			"OUISize": 24,
+			"OrgAddress": "6th Fl. Anam Tower,\\n702-10 Yeoksam-dong, Kangnam-ku, Seoul\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Kira Information & Communications, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000365",
+			"OUISize": 24,
+			"OrgAddress": "6th Fl. Anam Tower,\\n\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Kira Information & Communications, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

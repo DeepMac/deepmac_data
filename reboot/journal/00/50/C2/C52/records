@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C52",
+			"OUISize": 36,
+			"OrgAddress": "2601 SE Loop 289\\nSuite B\\nLubbock TX 79404\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Smartfield, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

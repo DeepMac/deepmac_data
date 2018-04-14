@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-24",
+			"EventType": "add",
+			"OUI": "046785",
+			"OUISize": 24,
+			"OrgAddress": "Gewerbeparkstr. 20\\nReichshof-Wehnrath NRW 51580\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "scemtec Hard- und Software fuer Mess- und Steuerungstechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-30",
+			"EventType": "add",
+			"OUI": "0026B1",
+			"OUISize": 24,
+			"OrgAddress": "3rd FLOOR, HYUNDAI AQUA PALACE 785, WOO 1-DONG, HAEUNDAEGU\\nBUSAN  612-822\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Harman/Navis",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-12-16",
+			"EventType": "change",
+			"OUI": "0026B1",
+			"OUISize": 24,
+			"OrgAddress": "3rd FLOOR, HYUNDAI AQUA PALACE 785, WOO 1-DONG, HAEUNDAEGU\\nBUSAN  612-822\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Navis Auto Motive Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "0026B1",
+			"OUISize": 24,
+			"OrgAddress": "Busan, Centumjungang-ro 78, Centum Greentower 8th floor\\nBUSAN  612-822\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Navis Auto Motive Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0026B1",
+			"OUISize": 24,
+			"OrgAddress": "Busan, Centumjungang-ro 78, Centum Greentower 8th floor\\nBUSAN    612-822\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Navis Auto Motive Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

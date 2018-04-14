@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "0004B4",
+			"OUISize": 24,
+			"OrgAddress": "18 rue Joseph BARA\\n92130 Issy-les-Molineaux\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CIAC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0004B4",
+			"OUISize": 24,
+			"OrgAddress": "18 rue Joseph BARA\\n92130 Issy-les-Molineaux\\nFRANCE\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CIAC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0004B4",
+			"OUISize": 24,
+			"OrgAddress": "18 rue Joseph BARA\\n92130 Issy-les-Molineaux\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CIAC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0004B4",
+			"OUISize": 24,
+			"OrgAddress": "18 rue Joseph BARA\\n92130 Issy-les-Molineaux\\nFRANCE\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CIAC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0004B4",
+			"OUISize": 24,
+			"OrgAddress": "18 rue Joseph BARA\\n92130 Issy-les-Molineaux\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CIAC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0004B4",
+			"OUISize": 24,
+			"OrgAddress": "18 rue Joseph BARA\\n\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "CIAC",
+			"Source": "IEEE"
+		}
+	]
+}

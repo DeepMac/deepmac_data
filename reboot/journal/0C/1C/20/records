@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-29",
+			"EventType": "add",
+			"OUI": "0C1C20",
+			"OUISize": 24,
+			"OrgAddress": "242, Cheomdan-ro\\nJeju-si  Jeju-do  63309\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Kakao Corp",
+			"Source": "IEEE"
+		}
+	]
+}

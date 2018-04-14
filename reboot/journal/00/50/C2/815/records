@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2815",
+			"OUISize": 36,
+			"OrgAddress": "Str. Laptari Tei, Nr. 1\\nBl. 26, Sc.A, Ap. 48, Sector 2\\nBucuresti  023626\\n",
+			"OrgCountry": "ROMANIA",
+			"OrgName": "microC Design SRL",
+			"Source": "IEEE"
+		}
+	]
+}

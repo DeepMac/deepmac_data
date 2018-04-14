@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-29",
+			"EventType": "add",
+			"OUI": "542F8A",
+			"OUISize": 24,
+			"OrgAddress": "Av. Buriti, 1900 â Setor B â Distrito Industrial\\nManaus  Amazonas  69075-000\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO",
+			"Source": "IEEE"
+		}
+	]
+}

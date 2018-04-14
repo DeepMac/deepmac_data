@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C4E",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbestrasse 14\\nZuchwil Solothurn 4528\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Elaso AG",
+			"Source": "IEEE"
+		}
+	]
+}

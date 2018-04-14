@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2455",
+			"OUISize": 36,
+			"OrgAddress": "1172 Century Drive\\nBuilding B, Suite 280\\nLouisville Colorado 80027\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AirCell, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

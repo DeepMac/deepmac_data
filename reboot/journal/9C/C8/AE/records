@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-21",
+			"EventType": "add",
+			"OUI": "9CC8AE",
+			"OUISize": 24,
+			"OrgAddress": "1 Becton Drive\\nFranklin Lakes  MA   07417-1880\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Becton, Dickinson  and Company",
+			"Source": "IEEE"
+		}
+	]
+}

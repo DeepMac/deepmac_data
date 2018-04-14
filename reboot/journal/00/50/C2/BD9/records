@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BD9",
+			"OUISize": 36,
+			"OrgAddress": "12180 Prichard Farm Road\\nMaryland Heights MO 63043\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AMS Controls, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

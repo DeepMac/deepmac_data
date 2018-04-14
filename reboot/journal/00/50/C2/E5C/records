@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E5C",
+			"OUISize": 36,
+			"OrgAddress": "4th Floor, Jinhyun  Building, Neong-dong, 246-2, Kwangjin-Gu\\nSEOUL  143-849\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "MCOPIA Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

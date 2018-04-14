@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22D8",
+			"OUISize": 36,
+			"OrgAddress": "PO BOX 5258\\nTALLAHASSEE FL 32314\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SYN-TECH SYSTEMS INC",
+			"Source": "IEEE"
+		}
+	]
+}

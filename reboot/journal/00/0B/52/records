@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B52",
+			"OUISize": 24,
+			"OrgAddress": "No. 17, Lane 63, Hsin-Jung Road, Ping-Ch\\nTao-Yuan  324\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "JOYMAX ELECTRONICS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-11-17",
+			"EventType": "change",
+			"OUI": "000B52",
+			"OUISize": 24,
+			"OrgAddress": "No.5 Dong-Yuan Road 2, Jhong-Li Industrial Park,\\nJhong-Li City,\\nTao-Yuan  32063\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "JOYMAX ELECTRONICS CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000B52",
+			"OUISize": 24,
+			"OrgAddress": "No.5 Dong-Yuan Road 2, Jhong-Li Industrial Park,\\nJhong-Li City,\\nTao-Yuan  32063\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "JOYMAX ELECTRONICS CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B52",
+			"OUISize": 24,
+			"OrgAddress": "No.5 Dong-Yuan Road 2, Jhong-Li Industrial Park,\\nTao-Yuan    32063\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "JOYMAX ELECTRONICS CO. LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

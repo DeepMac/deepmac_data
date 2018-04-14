@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2EE2",
+			"OUISize": 36,
+			"OrgAddress": "Millennium Park 12\\nLustenau Vorarlberg 6890\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "System Industrie Electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

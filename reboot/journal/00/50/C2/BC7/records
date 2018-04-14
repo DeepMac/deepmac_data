@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BC7",
+			"OUISize": 36,
+			"OrgAddress": "Gottfried-Schenker-Str. 2\\nLichtenau Saxony 09244\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "PTS GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-28",
+			"EventType": "add",
+			"OUI": "70B3D547F",
+			"OUISize": 36,
+			"OrgAddress": "LuÃhardtstraÃe 6\\nBruchsal    76646\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ASE GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

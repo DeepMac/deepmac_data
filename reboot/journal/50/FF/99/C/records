@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-20",
+			"EventType": "add",
+			"OUI": "50FF99C",
+			"OUISize": 28,
+			"OrgAddress": "Celler Str. 5\\nLehrte  Select Your State or Province  31275\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Goetting KG",
+			"Source": "IEEE"
+		}
+	]
+}

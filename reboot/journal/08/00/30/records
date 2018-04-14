@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "080030",
+			"OUISize": 24,
+			"OrgAddress": "CH-1211 GENEVE 23\\n\\n\\n",
+			"OrgCountry": "SUISSE/SWITZERLAND",
+			"OrgName": "CERN",
+			"Source": "IEEE"
+		}
+	]
+}

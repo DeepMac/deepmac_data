@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-20",
+			"EventType": "add",
+			"OUI": "70B3D5378",
+			"OUISize": 36,
+			"OrgAddress": "l'orme des merisiers\\ngif sur yvette    91192\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "synchrotron SOLEIL",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2770",
+			"OUISize": 36,
+			"OrgAddress": "22000 Fraserwood Way\\nRichmond BC V6W 1J6\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Cadex Electronics Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

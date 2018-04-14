@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25A4",
+			"OUISize": 36,
+			"OrgAddress": "EZAN, Academician Semenov Avenue, 9,\\nChernogolovka Moscow Region 142432\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Federal State Unitary Enterprise Experimental Factory for Sc",
+			"Source": "IEEE"
+		}
+	]
+}

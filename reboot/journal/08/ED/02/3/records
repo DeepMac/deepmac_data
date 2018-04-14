@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-05",
+			"EventType": "add",
+			"OUI": "08ED023",
+			"OUISize": 28,
+			"OrgAddress": "No. 100 # 9, Shu Gang West Road, HanJiang Area,\\nYangzhou   Jiangsu  225100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Jiangsu Logread Network Technology Co., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

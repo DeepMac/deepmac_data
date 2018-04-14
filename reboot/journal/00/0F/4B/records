@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F4B",
+			"OUISize": 24,
+			"OrgAddress": "43 Nagog Park\\nActon MA 01720\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Katana Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "change",
+			"OUI": "000F4B",
+			"OUISize": 24,
+			"OrgAddress": "900 Chelmsford Street\\nTower 1 Floor 2\\nLowell MA 01851\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Virtual Iron Software, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-01-28",
+			"EventType": "change",
+			"OUI": "000F4B",
+			"OUISize": 24,
+			"OrgAddress": "900 Chelmsford Street\\nTower 1 Floor 2\\nLowell MA 01851\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Oracle Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F4B",
+			"OUISize": 24,
+			"OrgAddress": "900 Chelmsford Street\\nLowell  MA  01851\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Oracle Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

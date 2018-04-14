@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-06-13",
+			"EventType": "add",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de Rubí, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de RubÃ­, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de Rubí, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de RubÃÂ­, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de Rubí, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de RubÃÂ­, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de RubÃ­, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de RubÃÂÃÂÃÂÃÂ­, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de RubÃ­, 292 B\\nPol. Ind. Can Guitard\\nTerrassa Barcelona 08228\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001824",
+			"OUISize": 24,
+			"OrgAddress": "Ctra. de RubÃ­, 292 B\\nTerrassa  Barcelona  08228\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "Kimaldi Electronics, S.L.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-03-07",
+			"EventType": "add",
+			"OUI": "70B3D5507",
+			"OUISize": 36,
+			"OrgAddress": "2F, No. 7, Ln. 140, Sec. 3, Linsen Rd., Tainan City 704, Taiwan\\nTainan Tainan 704\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Human Oriented Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-04-19",
+			"EventType": "change",
+			"OUI": "70B3D5507",
+			"OUISize": 36,
+			"OrgAddress": "Rm 1021, 10/F SOLO Bldg\\n41-43 Carnarvon Road\\nTsimshatsui Kowloon\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Human Oriented Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D5507",
+			"OUISize": 36,
+			"OrgAddress": "Rm 1021, 10/F SOLO Bldg\\nTsimshatsui  Kowloon\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Human Oriented Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

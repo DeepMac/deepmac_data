@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-14",
+			"EventType": "add",
+			"OUI": "6C5976",
+			"OUISize": 24,
+			"OrgAddress": "Rm 907, Building 1, Lane 399, Shengxia Road,Zhangjiang Hi-Tech Park,Pudong District,Shanghai\\nShanghai  Shanghai  201203\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Tricheer Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

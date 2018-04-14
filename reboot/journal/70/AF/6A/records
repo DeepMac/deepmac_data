@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-27",
+			"EventType": "add",
+			"OUI": "70AF6A",
+			"OUISize": 24,
+			"OrgAddress": "ORIENTAL CYBERPORT, HIGHTECH 6 ROAD\\nSHENZHEN  GUANGDONG  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN FENGLIAN TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

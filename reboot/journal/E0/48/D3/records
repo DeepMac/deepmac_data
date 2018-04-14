@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-09",
+			"EventType": "add",
+			"OUI": "E048D3",
+			"OUISize": 24,
+			"OrgAddress": "No.999,Dacheng East Road,\\nFenghua  Zhejiang  315500\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "MOBIWIRE MOBILES (NINGBO) CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

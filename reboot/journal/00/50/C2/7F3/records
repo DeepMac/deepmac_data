@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27F3",
+			"OUISize": 36,
+			"OrgAddress": "ZA Le Patureau de la Grange\\nPRUNIERS EN SOLOGNE LOIR ET CHER 41200\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SOREC",
+			"Source": "IEEE"
+		}
+	]
+}

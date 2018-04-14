@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C286E",
+			"OUISize": 36,
+			"OrgAddress": "603-2, Janggok-ri, Jori-eup\\nPaju Gyeonggi-do 413-825\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "HANYANG ELECTRIC CP., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

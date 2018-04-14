@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-06",
+			"EventType": "add",
+			"OUI": "AC64DD1",
+			"OUISize": 28,
+			"OrgAddress": "Staryy Petrovsko-Razumovsky proyezd, 1/23, bld.1\\nMoscow    127287\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "JSC InfoTeCS",
+			"Source": "IEEE"
+		}
+	]
+}

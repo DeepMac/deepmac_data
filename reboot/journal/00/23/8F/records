@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "00238F",
+			"OUISize": 24,
+			"OrgAddress": "2-18-10,SHIMURA\\nITABASHI-KU TOKYO 174-8550\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIDEC COPAL CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00238F",
+			"OUISize": 24,
+			"OrgAddress": "2-18-10,SHIMURA\\nITABASHI-KU  TOKYO  174-8550\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NIDEC COPAL CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

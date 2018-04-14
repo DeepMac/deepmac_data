@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-09-09",
+			"EventType": "add",
+			"OUI": "0015BB",
+			"OUISize": 24,
+			"OrgAddress": "Hannoversche Str. 1-5\\nNiestetal Hessen 34266\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SMA Technologie AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "0015BB",
+			"OUISize": 24,
+			"OrgAddress": "Sonnenallee 1\\nNiestetal Hessen 34266\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SMA Solar Technology AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0015BB",
+			"OUISize": 24,
+			"OrgAddress": "Sonnenallee 1\\nNiestetal  Hessen  34266\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SMA Solar Technology AG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C0F0",
+			"OUISize": 24,
+			"OrgAddress": "17600 NEWHOPE STREET\\nFOUNTAIN VALLEY  CA  92708\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "KINGSTON TECHNOLOGY CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C0F0",
+			"OUISize": 24,
+			"OrgAddress": "17600 NEWHOPE STREET\\nFOUNTAIN VALLEY CA 92708\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "KINGSTON TECHNOLOGY CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C0F0",
+			"OUISize": 24,
+			"OrgAddress": "17600 NEWHOPE STREET\\nFOUNTAIN VALLEY  CA  92708\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "KINGSTON TECHNOLOGY CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-03",
+			"EventType": "change",
+			"OUI": "00C0F0",
+			"OUISize": 24,
+			"OrgAddress": "17600 NEWHOPE STREET\\nFOUNTAIN VALLEY  CA  92708\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Kingston Technology Company, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

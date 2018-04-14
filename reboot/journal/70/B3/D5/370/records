@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-07",
+			"EventType": "add",
+			"OUI": "70B3D5370",
+			"OUISize": 36,
+			"OrgAddress": "112 S. Lakeview Canyon Rd., Suite 100\\nWestlake Village  CA  91362\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Inphi Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

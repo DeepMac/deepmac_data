@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-02",
+			"EventType": "add",
+			"OUI": "8CAB8E",
+			"OUISize": 24,
+			"OrgAddress": "No.3666,Sixian Rd.,Songjiang District,Shanghai,P.R.China\\nShanghai  Shanghai  201616\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Feixun Communication Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

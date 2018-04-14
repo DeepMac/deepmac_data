@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2435",
+			"OUISize": 36,
+			"OrgAddress": "Manuel Tovar, 38\\nMadrid  28034\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "ADATEL TELECOMUNICACIONES S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

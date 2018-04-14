@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-06",
+			"EventType": "add",
+			"OUI": "70B3D5D44",
+			"OUISize": 36,
+			"OrgAddress": "Alexander-Diehl-StraÃe, 2A\\nMainz  Deutschland  55130\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ic-automation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

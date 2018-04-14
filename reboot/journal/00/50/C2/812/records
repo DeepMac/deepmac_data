@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2812",
+			"OUISize": 36,
+			"OrgAddress": "Rue des Pres 137\\nBiel/Bienne BE 2503\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Femto SA",
+			"Source": "IEEE"
+		}
+	]
+}

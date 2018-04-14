@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020DF",
+			"OUISize": 24,
+			"OrgAddress": "2-29, HEIAN-CHO, TSURUMI-KU\\nYOKOHAMA, 230\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KYOSAN ELECTRIC MFG. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020DF",
+			"OUISize": 24,
+			"OrgAddress": "2-29, HEIAN-CHO, TSURUMI-KU\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KYOSAN ELECTRIC MFG. CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

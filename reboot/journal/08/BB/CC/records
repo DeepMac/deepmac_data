@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "08BBCC",
+			"OUISize": 24,
+			"OrgAddress": "FRIEDRICHSTRASSE 10\\n25436 TORNESCH\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AK-NORD EDV VERTRIEBSGES. MBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "08BBCC",
+			"OUISize": 24,
+			"OrgAddress": "FRIEDRICHSTRASSE 10\\n25436 TORNESCH\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AK-NORD EDV VERTRIEBSGES. mbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "08BBCC",
+			"OUISize": 24,
+			"OrgAddress": "FRIEDRICHSTRASSE 10\\n25436 TORNESCH\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AK-NORD EDV VERTRIEBSGES. mbH",
+			"Source": "IEEE"
+		}
+	]
+}

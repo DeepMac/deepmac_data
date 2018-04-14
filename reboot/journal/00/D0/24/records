@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00D024",
+			"OUISize": 24,
+			"OrgAddress": "Modular Vision Systems Division\\nIn-Sight Products Group\\n7352 SW Durham Road\\nPortland, OR 97224",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cognex Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "change",
+			"OUI": "00D024",
+			"OUISize": 24,
+			"OrgAddress": "Modular Vision Systems Division\\nIn-Sight Products Group\\n15865 SW 74th Avenue, Suite 105\\nPortland, OR 97224",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cognex Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00D024",
+			"OUISize": 24,
+			"OrgAddress": "Modular Vision Systems Division\\nIn-Sight Products Group 15865 SW 74th Av\\nPortland OR 97224\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cognex Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00D024",
+			"OUISize": 24,
+			"OrgAddress": "Modular Vision Systems Division\\nPortland  OR  97224\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cognex Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

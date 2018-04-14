@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2255",
+			"OUISize": 36,
+			"OrgAddress": "Abbey House, 1650 Arlington Business Par\\nTheale\\nReading Berkshire RG7 4SA\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "STMicroelectronics (R&D) Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

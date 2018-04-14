@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2542",
+			"OUISize": 36,
+			"OrgAddress": "7F.,No. 137, Jian Yi Rd.\\nChung Ho City Taipei Hsien 23585\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "AVerMedia Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2542",
+			"OUISize": 36,
+			"OrgAddress": "7F.,No. 137, Jian Yi Rd.\\nChung Ho City Taipei Hsien 23585\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AVerMedia Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

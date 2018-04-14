@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-08-05",
+			"EventType": "add",
+			"OUI": "70B3D5327",
+			"OUISize": 36,
+			"OrgAddress": "BÃ¸gekildevej 4\\nHasselager Danmark 8361\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Seneco A/S",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D5327",
+			"OUISize": 36,
+			"OrgAddress": "BÃ¸gekildevej 4\\nHasselager  Danmark  8361\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Seneco A/S",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-15",
+			"EventType": "add",
+			"OUI": "001BC50A7",
+			"OUISize": 36,
+			"OrgAddress": "Via Ugo Foscolo, 156\\nGandino Bergamo 24024\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "L.G.L. Electronics S.p.a.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC50A7",
+			"OUISize": 36,
+			"OrgAddress": "Via Ugo Foscolo, 156\\nGandino  Bergamo  24024\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "L.G.L. Electronics S.p.a.",
+			"Source": "IEEE"
+		}
+	]
+}

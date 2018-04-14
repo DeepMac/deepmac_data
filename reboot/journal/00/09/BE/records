@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0009BE",
+			"OUISize": 24,
+			"OrgAddress": "10-13-1, Nishibori\\nSaitama-shi Saitama 338-8501\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Mamiya-OP Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "0009BE",
+			"OUISize": 24,
+			"OrgAddress": "3-23-10, Negishi Minami-ku\\nSaitama-shi Saitama 336-8581\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Mamiya-OP Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0009BE",
+			"OUISize": 24,
+			"OrgAddress": "3-23-10, Negishi Minami-ku\\nSaitama-shi  Saitama  336-8581\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Mamiya-OP Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-29",
+			"EventType": "add",
+			"OUI": "34D0B8C",
+			"OUISize": 28,
+			"OrgAddress": "3F, No. 6, Lane 148, Li De St., Chungho Dist.\\n\\n\\n",
+			"OrgCountry": "New Taipei City  Taiwan  235",
+			"OrgName": "Glory Mark Electronic Ltd. Taiwan Branch (B.V.I.)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-30",
+			"EventType": "change",
+			"OUI": "34D0B8C",
+			"OUISize": 28,
+			"OrgAddress": "3F, No. 6, Lane 148, Li De St., Chungho Dist.\\nNew Taipei City  Taiwan  235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Glory Mark Electronic Ltd. Taiwan Branch (B.V.I.)",
+			"Source": "IEEE"
+		}
+	]
+}

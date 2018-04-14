@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-21",
+			"EventType": "add",
+			"OUI": "2C4D79",
+			"OUISize": 24,
+			"OrgAddress": "No.268 Dongfang Road\\nWeifang  Shandong  261000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GoerTek Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "change",
+			"OUI": "2C4D79",
+			"OUISize": 24,
+			"OrgAddress": "No.268 Dongfang Road\\nWeifang  Shandong  261000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Weifang GoerTek Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

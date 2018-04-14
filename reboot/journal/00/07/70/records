@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000770",
+			"OUISize": 24,
+			"OrgAddress": "9th Fl. Chungjln\\n53-5 Wonhyo-Ro 3Ga\\nSeoul  140-719\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "Locusnetworks Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "000770",
+			"OUISize": 24,
+			"OrgAddress": "9th Fl. Chungjln\\n53-5 Wonhyo-Ro 3Ga\\nSeoul  140-719\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Locusnetworks Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-18",
+			"EventType": "change",
+			"OUI": "000770",
+			"OUISize": 24,
+			"OrgAddress": "Ubiquoss B/D, 68, Pangyo-ro 255beon-gil,\\nBundang-gu, Seongnam-si, Gyeonggi-do, 464-400\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Ubiquoss Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000770",
+			"OUISize": 24,
+			"OrgAddress": "Ubiquoss B/D, 68, Pangyo-ro 255beon-gil,\\n\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Ubiquoss Inc",
+			"Source": "IEEE"
+		}
+	]
+}

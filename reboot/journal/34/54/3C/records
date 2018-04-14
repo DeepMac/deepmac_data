@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-10",
+			"EventType": "add",
+			"OUI": "34543C",
+			"OUISize": 24,
+			"OrgAddress": "8F,SIA TOYOSU PRIME SQUARE,5-6-36,Toyosu\\nKoto-ku  Tokyo  1350061\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "TAKAOKA TOKO CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

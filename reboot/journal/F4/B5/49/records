@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-23",
+			"EventType": "add",
+			"OUI": "F4B549",
+			"OUISize": 24,
+			"OrgAddress": "Room202, No.23 Wanghai Road, 2nd Software Park,\\nXiamen Fujian 361006\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Yeastar Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F4B549",
+			"OUISize": 24,
+			"OrgAddress": "Room202, No.23 Wanghai Road, 2nd Software Park,\\nXiamen  Fujian  361006\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Yeastar Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-07",
+			"EventType": "change",
+			"OUI": "F4B549",
+			"OUISize": 24,
+			"OrgAddress": "3/F, Guanri Road, 2nd Software Park\\nXiamen  Fujian  361006\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Xiamen Yeastar Information Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-15",
+			"EventType": "change",
+			"OUI": "F4B549",
+			"OUISize": 24,
+			"OrgAddress": "3/F, No. 46 Guanri Road, 2nd Software Park\\nXiamen  Fujian  361006\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Xiamen Yeastar Information Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

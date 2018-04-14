@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CC2",
+			"OUISize": 36,
+			"OrgAddress": "Novell 58\\nBarcelona  08014\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "ConectaIP Tecnologia S.L.",
+			"Source": "IEEE"
+		}
+	]
+}

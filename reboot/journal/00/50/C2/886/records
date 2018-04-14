@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2886",
+			"OUISize": 36,
+			"OrgAddress": "Datavagen 37\\nAskim Vastra Gotaland 436 32\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Transas Scandinavia AB",
+			"Source": "IEEE"
+		}
+	]
+}

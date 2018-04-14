@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0023CE",
+			"OUISize": 24,
+			"OrgAddress": "12F TOKYO-NISHIIKEBUKURO Bilg.,\\n1-7-7, Nishi-ikebukuro\\nToshima-ku, Tokyo 171-0021\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KITA DENSHI CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0023CE",
+			"OUISize": 24,
+			"OrgAddress": "12F TOKYO-NISHIIKEBUKURO Bilg.,\\nToshima-ku,  Tokyo  171-0021\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KITA DENSHI CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

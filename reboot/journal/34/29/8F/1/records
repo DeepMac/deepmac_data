@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-12",
+			"EventType": "add",
+			"OUI": "34298F1",
+			"OUISize": 28,
+			"OrgAddress": "No. 25, Yizhou Avenue, Gaoxin\\nChengdu  Sichuan  610000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Chengdu Meross Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

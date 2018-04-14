@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C090",
+			"OUISize": 24,
+			"OrgAddress": "VIA MACCANI, 169\\n38100 TRENTO (TN)\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "PRAIM S.R.L.",
+			"Source": "IEEE"
+		}
+	]
+}

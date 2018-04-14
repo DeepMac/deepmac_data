@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-22",
+			"EventType": "add",
+			"OUI": "28F5378",
+			"OUISize": 28,
+			"OrgAddress": "Tianliao Building F14 East Block (New Materials Industrial Park), Xueyuan Road, Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "1MORE, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-14",
+			"EventType": "add",
+			"OUI": "388602",
+			"OUISize": 24,
+			"OrgAddress": "Waldstr.92\\nDietzenbach    63128\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Flexoptix GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

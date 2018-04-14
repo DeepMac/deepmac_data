@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006026",
+			"OUISize": 24,
+			"OrgAddress": "11 COLUMBIA\\nLAGUNA HILLS  CA  92656\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VIKING COMPONENTS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006026",
+			"OUISize": 24,
+			"OrgAddress": "11 COLUMBIA\\nLAGUNA HILLS CA 92656\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VIKING COMPONENTS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-03-20",
+			"EventType": "change",
+			"OUI": "006026",
+			"OUISize": 24,
+			"OrgAddress": "11 COLUMBIA\\nLAGUNA HILLS CA 92656\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VIKING Modular Solutions",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006026",
+			"OUISize": 24,
+			"OrgAddress": "11 COLUMBIA\\nLAGUNA HILLS  CA  92656\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "VIKING Modular Solutions",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-04-19",
+			"EventType": "add",
+			"OUI": "141FBAB",
+			"OUISize": 28,
+			"OrgAddress": "12F, Block 1, NO 7866, Humin Rd, Minhang District, Shanghai, China\\nShanghai Shanghai 200000\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Newings Communication CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "141FBAB",
+			"OUISize": 28,
+			"OrgAddress": "12F, Block 1, NO 7866, Humin Rd, Minhang District, Shanghai, China\\nShanghai  Shanghai  200000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Newings Communication CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

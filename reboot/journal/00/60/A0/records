@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060A0",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES, INC.\\n13805 1ST AVENUE NORTH\\nPLYMOUTH  MN  55441-5455\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SWITCHED NETWORK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060A0",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES, INC.\\n13805 1ST AVENUE NORTH\\nPLYMOUTH MN 55441-5455\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SWITCHED NETWORK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0060A0",
+			"OUISize": 24,
+			"OrgAddress": "13805 1ST AVENUE NORTH\\nPLYMOUTH MN 55441-5455\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SWITCHED NETWORK TECHNOLOGIES, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060A0",
+			"OUISize": 24,
+			"OrgAddress": "13805 1ST AVENUE NORTH\\nPLYMOUTH  MN  55441-5455\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SWITCHED NETWORK TECHNOLOGIES, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

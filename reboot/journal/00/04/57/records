@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "000457",
+			"OUISize": 24,
+			"OrgAddress": "2 Fl., No. 5, Alley 22,\\nLane 513, Jui Kuang Road,\\n\\n",
+			"OrgCountry": "Nei Hu, Taipei, TAIWAN 114",
+			"OrgName": "Universal Access Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000457",
+			"OUISize": 24,
+			"OrgAddress": "2 Fl., No. 5, Alley 22,\\nLane 513, Jui Kuang Road,\\n\\n",
+			"OrgCountry": "Nei Hu Taipei, TAIWAN 114",
+			"OrgName": "Universal Access Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000457",
+			"OUISize": 24,
+			"OrgAddress": "2 Fl., No. 5, Alley 22,\\nLane 513, Jui Kuang Road,\\nNei Hu Taipei, TAIWAN 114\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Universal Access Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000457",
+			"OUISize": 24,
+			"OrgAddress": "2 Fl., No. 5, Alley 22,\\nLane 513, Jui Kuang Road,\\nNei Hu Taipei, TAIWAN 114\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Universal Access Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000457",
+			"OUISize": 24,
+			"OrgAddress": "2 Fl., No. 5, Alley 22,\\nLane 513, Jui Kuang Road,\\nNei Hu Taipei, TAIWAN 114\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Universal Access Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000457",
+			"OUISize": 24,
+			"OrgAddress": "2 Fl., No. 5, Alley 22,\\nNei Hu  Taipei,  TAIWAN 114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Universal Access Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

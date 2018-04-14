@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-09",
+			"EventType": "add",
+			"OUI": "2C279EA",
+			"OUISize": 28,
+			"OrgAddress": "349 Marshall Avenue, Suite 100\\nSaint Louis    63119\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Exegy Inc",
+			"Source": "IEEE"
+		}
+	]
+}

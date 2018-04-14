@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C260B",
+			"OUISize": 36,
+			"OrgAddress": "7028 Rockrose Ter\\nCarlsbad CA 92011\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Shanghai QianJin Electronic Equipment Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

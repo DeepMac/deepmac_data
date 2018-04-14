@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E81",
+			"OUISize": 36,
+			"OrgAddress": "2020 Kraft Drive\\nSuite 3040\\nBlacksburg VA 24060\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Adaptive Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

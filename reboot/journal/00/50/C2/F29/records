@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F29",
+			"OUISize": 36,
+			"OrgAddress": "211 West Boden Street\\nMilwaukee Wisconsin 53207\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RADYNE CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-06-01",
+			"EventType": "add",
+			"OUI": "EC4670",
+			"OUISize": 24,
+			"OrgAddress": "Lange Wand 9\\nBad Pyrmont NDS 31812\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Meinberg Funkuhren GmbH &amp; Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "EC4670",
+			"OUISize": 24,
+			"OrgAddress": "Lange Wand 9\\nBad Pyrmont NDS 31812\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Meinberg Funkuhren GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "EC4670",
+			"OUISize": 24,
+			"OrgAddress": "Lange Wand 9\\nBad Pyrmont NDS 31812\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Meinberg Funkuhren GmbH &amp; Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "EC4670",
+			"OUISize": 24,
+			"OrgAddress": "Lange Wand 9\\nBad Pyrmont NDS 31812\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Meinberg Funkuhren GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "EC4670",
+			"OUISize": 24,
+			"OrgAddress": "Lange Wand 9\\nBad Pyrmont  NDS  31812\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Meinberg Funkuhren GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

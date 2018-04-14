@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E3C",
+			"OUISize": 24,
+			"OrgAddress": "20 Bomax Drive\\nIthaca New York 14850\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TransAct Technoloiges Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "000E3C",
+			"OUISize": 24,
+			"OrgAddress": "20 Bomax Drive\\nIthaca New York 14850\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Transact Technologies Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E3C",
+			"OUISize": 24,
+			"OrgAddress": "20 Bomax Drive\\nIthaca  New York  14850\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Transact Technologies Inc",
+			"Source": "IEEE"
+		}
+	]
+}

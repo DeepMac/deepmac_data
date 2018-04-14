@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060D7",
+			"OUISize": 24,
+			"OrgAddress": "DE LAUSANNE (EPFL)\\nECUBLENS\\nCH-1015 LAUSANNE\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "ECOLE POLYTECHNIQUE FEDERALE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060D7",
+			"OUISize": 24,
+			"OrgAddress": "DE LAUSANNE (EPFL)\\nECUBLENS CH-1015 LAUSANNE\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "ECOLE POLYTECHNIQUE FEDERALE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0060D7",
+			"OUISize": 24,
+			"OrgAddress": "ECUBLENS\\nCH-1015 LAUSANNE\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE (EPFL)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060D7",
+			"OUISize": 24,
+			"OrgAddress": "ECUBLENS\\nCH-1015 LAUSANNE\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE (EPFL)",
+			"Source": "IEEE"
+		}
+	]
+}

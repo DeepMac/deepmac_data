@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00E6D3",
+			"OUISize": 24,
+			"OrgAddress": "2520 MISSION COLLEGE ROAD\\nSANTA CLARA  CA  95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NIXDORF COMPUTER CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00E6D3",
+			"OUISize": 24,
+			"OrgAddress": "2520 MISSION COLLEGE ROAD\\nSANTA CLARA CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NIXDORF COMPUTER CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E6D3",
+			"OUISize": 24,
+			"OrgAddress": "2520 MISSION COLLEGE ROAD\\nSANTA CLARA  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NIXDORF COMPUTER CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

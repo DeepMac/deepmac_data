@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020BC",
+			"OUISize": 24,
+			"OrgAddress": "UNIT 3, 118-122 BOWDEN STREET\\nMEADOWBANK NSW\\n\\n",
+			"OrgCountry": "AUSTRALIA  2114",
+			"OrgName": "JTEC PTY LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0020BC",
+			"OUISize": 24,
+			"OrgAddress": "UNIT 3, 118-122 BOWDEN STREET\\nMEADOWBANK NSW\\n\\n",
+			"OrgCountry": "AUSTRALIA 2114",
+			"OrgName": "JTEC PTY LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0020BC",
+			"OUISize": 24,
+			"OrgAddress": "UNIT 3, 118-122 BOWDEN STREET\\nMEADOWBANK NSW 2114\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "JTEC PTY LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "change",
+			"OUI": "0020BC",
+			"OUISize": 24,
+			"OrgAddress": "Unit 3, 118-122 Bowden St\\nMEADOWBANK NSW 2114\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "Long Reach Networks Pty Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020BC",
+			"OUISize": 24,
+			"OrgAddress": "Unit 3, 118-122 Bowden St\\nMEADOWBANK NSW 2114\\n\\n",
+			"OrgCountry": "AU",
+			"OrgName": "Long Reach Networks Pty Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

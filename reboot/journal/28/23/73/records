@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-29",
+			"EventType": "add",
+			"OUI": "282373",
+			"OUISize": 24,
+			"OrgAddress": "JÃ¤msÃ¤nkatu 2\\nHelsinki  Uusimaa  00520\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Digita",
+			"Source": "IEEE"
+		}
+	]
+}

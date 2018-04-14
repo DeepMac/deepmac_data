@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AF5",
+			"OUISize": 36,
+			"OrgAddress": "Cisovicka 246\\nMnisek pod Brdy Stredocesky kraj 25210\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "Kramara s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

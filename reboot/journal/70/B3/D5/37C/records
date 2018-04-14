@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-14",
+			"EventType": "add",
+			"OUI": "70B3D537C",
+			"OUISize": 36,
+			"OrgAddress": "Pirkkalaistie 1\\nNokia    37100\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Merus Power Dynamics Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

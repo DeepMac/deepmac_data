@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n10 KINGS COLLEGE RD.\\nTORONTO, ONTARIO M5S 1A4\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "UNIVERSITY OF TORONTO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n10 KINGS COLLEGE RD. TORONTO, ONTARIO M5\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "UNIVERSITY OF TORONTO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n10 KINGS COLLEGE RD. TORONTO, ONTARIO M5\\nCANADA\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "UNIVERSITY OF TORONTO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-10",
+			"EventType": "change",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n10 KINGS COLLEGE RD. TORONTO, ONTARIO M5\\nCANADA\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Tattile SRL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n10 KINGS COLLEGE RD. TORONTO, ONTARIO M5\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Tattile SRL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n10 KINGS COLLEGE RD. TORONTO, ONTARIO M5\\nCANADA\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Tattile SRL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n10 KINGS COLLEGE RD. TORONTO, ONTARIO M5\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Tattile SRL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "008046",
+			"OUISize": 24,
+			"OrgAddress": "DEPT. OF ELECTRICAL ENGIN'ING\\n\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Tattile SRL",
+			"Source": "IEEE"
+		}
+	]
+}

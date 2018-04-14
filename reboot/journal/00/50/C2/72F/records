@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C272F",
+			"OUISize": 36,
+			"OrgAddress": "55 Trottier Bay\\nWinnipeg Manitoba R3T 3R3\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Priority Electronics Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-12",
+			"EventType": "add",
+			"OUI": "3C7F6F",
+			"OUISize": 24,
+			"OrgAddress": "19F~23F,Luther Bldg.42, Olympic-ro 35da-gil, Songpa-gu,\\nSeoul  Seoul  05510\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Telechips, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

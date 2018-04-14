@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-19",
+			"EventType": "add",
+			"OUI": "70B3D5A30",
+			"OUISize": 36,
+			"OrgAddress": "Longhua New District Qing Xiang Road, Bao Neng Technology Park\\nSHEN ZHEN  GUANG DONG  518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHEN ZHEN HUAWANG TECHNOLOGY CO; LTD",
+			"Source": "IEEE"
+		}
+	]
+}

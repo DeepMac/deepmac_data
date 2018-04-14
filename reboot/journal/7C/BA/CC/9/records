@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-11",
+			"EventType": "add",
+			"OUI": "7CBACC9",
+			"OUISize": 28,
+			"OrgAddress": "xinfeng west 3RD\\nDongguan    523041\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Yongguan Electronic Technology (D.G)LTD",
+			"Source": "IEEE"
+		}
+	]
+}

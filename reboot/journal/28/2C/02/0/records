@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-28",
+			"EventType": "add",
+			"OUI": "282C020",
+			"OUISize": 28,
+			"OrgAddress": "Yagisawa2-17-20\\nNishiTokyo-city  Tokyo  202-0022\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "SAKATA DENKI Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

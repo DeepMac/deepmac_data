@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-04-08",
+			"EventType": "add",
+			"OUI": "30B5F1",
+			"OUISize": 24,
+			"OrgAddress": "1210 PDAY research center streer 2\\nnorth of Zhongguan vallege Haidian district\\nPeiking  100190\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Aitexin Technology Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "30B5F1",
+			"OUISize": 24,
+			"OrgAddress": "1210 PDAY research center streer 2\\nPeiking    100190\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Aitexin Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

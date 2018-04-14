@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-06-22",
+			"EventType": "add",
+			"OUI": "D8D27C",
+			"OUISize": 24,
+			"OrgAddress": "Pï¿½ Circuito nï¿½10\\nLasarte-Oria Guipuzcoa 20160\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "JEMA ENERGY, SA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "D8D27C",
+			"OUISize": 24,
+			"OrgAddress": "PÃÂº Circuito nÃÂº10\\nLasarte-Oria Guipuzcoa 20160\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "JEMA ENERGY, SA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "D8D27C",
+			"OUISize": 24,
+			"OrgAddress": "PÂº Circuito nÂº10\\nLasarte-Oria Guipuzcoa 20160\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "JEMA ENERGY, SA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D8D27C",
+			"OUISize": 24,
+			"OrgAddress": "PÂº Circuito nÂº10\\nLasarte-Oria  Guipuzcoa  20160\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "JEMA ENERGY, SA",
+			"Source": "IEEE"
+		}
+	]
+}

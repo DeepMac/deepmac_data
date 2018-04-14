@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000EAC",
+			"OUISize": 24,
+			"OrgAddress": "NO.3,Wu-Kung 5Rd., Wu-Ku Ind Park\\nTaipei County  248\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "MINTRON ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000EAC",
+			"OUISize": 24,
+			"OrgAddress": "NO.3,Wu-Kung 5Rd., Wu-Ku Ind Park\\nTaipei County  248\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "MINTRON ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000EAC",
+			"OUISize": 24,
+			"OrgAddress": "NO.3,Wu-Kung 5Rd., Wu-Ku Ind Park\\nTaipei County    248\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "MINTRON ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

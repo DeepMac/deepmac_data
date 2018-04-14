@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "0050C2FE4",
+			"OUISize": 36,
+			"OrgAddress": "1107 Hazeltine Blvd.\\nSuite 535\\nChaska MN 55318\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RTT Mobile Interpretation",
+			"Source": "IEEE"
+		}
+	]
+}

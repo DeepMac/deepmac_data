@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-13",
+			"EventType": "add",
+			"OUI": "8CA2FD",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 52226\\nBoston  MA  02205\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Starry, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

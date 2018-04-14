@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-11",
+			"EventType": "add",
+			"OUI": "48C58D",
+			"OUISize": 24,
+			"OrgAddress": "Industriestrasse 48\\nKronach  Bavaria  96317\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Lear Corporation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

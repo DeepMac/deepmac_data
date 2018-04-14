@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-02",
+			"EventType": "add",
+			"OUI": "001A27",
+			"OUISize": 24,
+			"OrgAddress": "8F, Seongdo Building, 587-23\\nSinsa-Dong, Gangnam-Gu\\nSeoul  135-747\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Ubistar",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A27",
+			"OUISize": 24,
+			"OrgAddress": "8F, Seongo Building, 587-23\\nSeoul    135-747\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Ubistar",
+			"Source": "IEEE"
+		}
+	]
+}

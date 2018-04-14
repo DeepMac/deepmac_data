@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E33",
+			"OUISize": 36,
+			"OrgAddress": "3-8-1, Kurigidai, Asao-ku, Kawasaki-shi,\\nKanagawa  215-0032\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Morita Technical Center Company",
+			"Source": "IEEE"
+		}
+	]
+}

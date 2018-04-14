@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-24",
+			"EventType": "add",
+			"OUI": "58FCDB8",
+			"OUISize": 28,
+			"OrgAddress": "4/F,Building No.2,401 Caobao Road\\nShanghai 200233\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shanghai Qianjin Electronic Equipment Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

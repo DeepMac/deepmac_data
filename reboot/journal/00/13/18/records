@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-12-15",
+			"EventType": "add",
+			"OUI": "001318",
+			"OUISize": 24,
+			"OrgAddress": "Rm.401, Bldg.A, Bundang Techno Park 150, Yatap-Dong, Bundang-Gu, Sungnam-Si, Gyunggi-Do, 463-760, Korea\\nSungnam Gyunggi 463-760\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "DGSTATION Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001318",
+			"OUISize": 24,
+			"OrgAddress": "Rm.401, Bldg.A, Bundang Techno Park 150, Yatap-Dong, Bundang-Gu, Sungnam-Si, Gyunggi-Do, 463-760, Korea\\nSungnam  Gyunggi  463-760\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DGSTATION Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-04",
+			"EventType": "add",
+			"OUI": "70F8E74",
+			"OUISize": 28,
+			"OrgAddress": "4ï¼5ï¼18,Hommachi,Chuo-ku\\nOsaka-city  Osaka-fu  541-0053\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "CLIP Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-17",
+			"EventType": "add",
+			"OUI": "70B3D57E5",
+			"OUISize": 36,
+			"OrgAddress": "Nuijamiestentie 3 c 1\\nHelsinki  Select State  00400\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Megaflex Oy",
+			"Source": "IEEE"
+		}
+	]
+}

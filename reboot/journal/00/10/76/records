@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001076",
+			"OUISize": 24,
+			"OrgAddress": "JULICHER STR. 338B\\nD-52070 AACHEN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "EUREM GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001076",
+			"OUISize": 24,
+			"OrgAddress": "JULICHER STR. 338B\\nD-52070 AACHEN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "EUREM GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001076",
+			"OUISize": 24,
+			"OrgAddress": "JULICHER STR. 338B\\nD-52070 AACHEN\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EUREM GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005CC",
+			"OUISize": 24,
+			"OrgAddress": "1F, No. 173, Gung Yuan Road,\\n\\n\\n",
+			"OrgCountry": "Hsinchu City, Taiwan 30054",
+			"OrgName": "Sumtel Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0005CC",
+			"OUISize": 24,
+			"OrgAddress": "1F, No. 173, Gung Yuan Road,\\n\\n\\n",
+			"OrgCountry": "Hsinchu City Taiwan 30054",
+			"OrgName": "Sumtel Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0005CC",
+			"OUISize": 24,
+			"OrgAddress": "1F, No. 173, Gung Yuan Road,\\nHsinchu City  30054\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Sumtel Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0005CC",
+			"OUISize": 24,
+			"OrgAddress": "1F, No. 173, Gung Yuan Road,\\nHsinchu City  30054\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Sumtel Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0005CC",
+			"OUISize": 24,
+			"OrgAddress": "1F, No. 173, Gung Yuan Road,\\nHsinchu City  30054\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Sumtel Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005CC",
+			"OUISize": 24,
+			"OrgAddress": "1F, No. 173, Gung Yuan Road,\\nHsinchu City    30054\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Sumtel Communications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

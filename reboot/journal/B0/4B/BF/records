@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-06",
+			"EventType": "add",
+			"OUI": "B04BBF",
+			"OUISize": 24,
+			"OrgAddress": "JL.PALEM 1 BLOK DS-6\\nKAWASAN INDUSTRI BATIK LIPPO CIKARANG, DESA CIBATU, KECAMATAN CIKARANG SELATAN  BEKASI JAWA BARAT  17550\\n\\n",
+			"OrgCountry": "ID",
+			"OrgName": "PT HAN SUNG ELECTORONICS INDONESIA",
+			"Source": "IEEE"
+		}
+	]
+}

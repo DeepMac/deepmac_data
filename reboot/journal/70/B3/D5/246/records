@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-11",
+			"EventType": "add",
+			"OUI": "70B3D5246",
+			"OUISize": 36,
+			"OrgAddress": "710 N Maple Rd\\nSaline  MI  48176\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Saline Lectronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

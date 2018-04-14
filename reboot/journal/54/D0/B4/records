@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-22",
+			"EventType": "add",
+			"OUI": "54D0B4",
+			"OUISize": 24,
+			"OrgAddress": "3rd Floor,No,44,GuanRi Road,Software Park,XiaMen\\nXiaMen  Fujian  361000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Xiamen Four-Faith Communication Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

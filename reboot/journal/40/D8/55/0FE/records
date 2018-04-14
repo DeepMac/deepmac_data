@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-28",
+			"EventType": "add",
+			"OUI": "40D8550FE",
+			"OUISize": 36,
+			"OrgAddress": "55 Ubi Avenue 1 #07-04\\nSingapore  408935\\n\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Cytech Technology Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

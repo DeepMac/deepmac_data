@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-12",
+			"EventType": "add",
+			"OUI": "88E628",
+			"OUISize": 24,
+			"OrgAddress": "Floor 3, Bldg. 5, Area B, Xinfu Industrial Park, Chongqing Rd., Baoan Dist,Shenzhen,Guangdong, China\\nShenzhen   Guangdong  518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Kezhonglong Optoelectronic Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

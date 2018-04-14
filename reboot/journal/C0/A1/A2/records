@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-24",
+			"EventType": "add",
+			"OUI": "C0A1A2",
+			"OUISize": 24,
+			"OrgAddress": "410 West Harrison ST #200\\nSeattle  WA  98119\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "MarqMetrix",
+			"Source": "IEEE"
+		}
+	]
+}

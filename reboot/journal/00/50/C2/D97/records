@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D97",
+			"OUISize": 36,
+			"OrgAddress": "Stettiner Str. 3\\nGermering Bavaraia 82110\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERS electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

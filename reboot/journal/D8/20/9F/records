@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-20",
+			"EventType": "add",
+			"OUI": "D8209F",
+			"OUISize": 24,
+			"OrgAddress": "GeiselberstraÃe 17 / 6 Floor\\nVienna  Vienna  1110\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Cubro Acronet GesmbH",
+			"Source": "IEEE"
+		}
+	]
+}

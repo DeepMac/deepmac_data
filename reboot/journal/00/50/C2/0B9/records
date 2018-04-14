@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20B9",
+			"OUISize": 36,
+			"OrgAddress": "Theodor Korner Alle 16\\n02763 Zittau\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Helmut Mauell GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

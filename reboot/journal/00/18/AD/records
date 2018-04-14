@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-06-15",
+			"EventType": "add",
+			"OUI": "0018AD",
+			"OUISize": 24,
+			"OrgAddress": "6100,Uenohara\\nIna-shi Nagano 396-8511\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIDEC SANKYO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-07-01",
+			"EventType": "change",
+			"OUI": "0018AD",
+			"OUISize": 24,
+			"OrgAddress": "5329, Shimosuwa-machi, Suwa-gun\\nNagano 393-8511\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIDEC SANKYO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0018AD",
+			"OUISize": 24,
+			"OrgAddress": "5329, Shimosuwa-machi, Suwa-gun\\nNagano  393-8511\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NIDEC SANKYO CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

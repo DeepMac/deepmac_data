@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26EB",
+			"OUISize": 36,
+			"OrgAddress": "1024 Firestone Pkwy\\nLa Vergne TN 37086\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Harrison Audio, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

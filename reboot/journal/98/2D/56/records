@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-13",
+			"EventType": "add",
+			"OUI": "982D56",
+			"OUISize": 24,
+			"OrgAddress": "88 Hoff Street #106\\nSan Francisco CA 94110\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Resolution Audio",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "982D56",
+			"OUISize": 24,
+			"OrgAddress": "88 Hoff Street #106\\nSan Francisco  CA  94110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Resolution Audio",
+			"Source": "IEEE"
+		}
+	]
+}

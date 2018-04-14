@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CCA",
+			"OUISize": 36,
+			"OrgAddress": "1 NAN LING ROAD\\nXIN ER CUN, SHA JIN ZHEN, BAO AN\\nSHENZHEN  518125\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SANMINA-SCI SHENZHEN",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "change",
+			"OUI": "0050C2CCA",
+			"OUISize": 36,
+			"OrgAddress": "1 NAN LING ROAD\\nXIN ER CUN, SHA JIN ZHEN, BAO AN\\nSHENZHEN  518125\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SANMINA SHENZHEN",
+			"Source": "IEEE"
+		}
+	]
+}

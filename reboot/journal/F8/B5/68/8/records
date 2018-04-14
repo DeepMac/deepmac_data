@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-13",
+			"EventType": "add",
+			"OUI": "F8B5688",
+			"OUISize": 28,
+			"OrgAddress": "Torshamnsgatan 35\\nKISTA    164 40\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Maven Wireless AB",
+			"Source": "IEEE"
+		}
+	]
+}

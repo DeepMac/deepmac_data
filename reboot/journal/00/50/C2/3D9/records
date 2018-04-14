@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23D9",
+			"OUISize": 36,
+			"OrgAddress": "Rehbichler Weg 26\\nPfronten Bayern 87459\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bavaria Digital Technik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

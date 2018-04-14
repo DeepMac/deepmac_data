@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "0050C2EFD",
+			"OUISize": 36,
+			"OrgAddress": "PO 106\\nOrnskoldsvik  89123\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Sanmina-SCI",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "change",
+			"OUI": "0050C2EFD",
+			"OUISize": 36,
+			"OrgAddress": "PO 106\\nOrnskoldsvik  89123\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Sanmina",
+			"Source": "IEEE"
+		}
+	]
+}

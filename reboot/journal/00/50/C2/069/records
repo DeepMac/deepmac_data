@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2069",
+			"OUISize": 36,
+			"OrgAddress": "Via Industriale TR. 3, 15\\n25060 Cellatica (BS)\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "EC Elettronica S.R.L.",
+			"Source": "IEEE"
+		}
+	]
+}

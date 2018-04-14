@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2627",
+			"OUISize": 36,
+			"OrgAddress": "4F Naewae Bldg.382-5\\nYatap Bundang\\nSungnam Gyeonggi 463-827\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "JungleSystem Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

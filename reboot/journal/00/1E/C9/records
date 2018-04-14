@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001EC9",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way, MS RR5-45\\nRound Rock Texas 78682\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Dell Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-24",
+			"EventType": "change",
+			"OUI": "001EC9",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way, MS RR5-45\\nRound Rock Texas 78682\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "2Wire, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-23",
+			"EventType": "change",
+			"OUI": "001EC9",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way, MS RR5-45\\nRound Rock Texas 78682\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Dell Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001EC9",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way,  MS RR5-45\\nRound Rock  Texas  78682\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-17",
+			"EventType": "change",
+			"OUI": "001EC9",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way,  MS RR5-45\\nRound Rock  Texas  78682\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

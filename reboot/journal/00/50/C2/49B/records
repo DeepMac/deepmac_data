@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C249B",
+			"OUISize": 36,
+			"OrgAddress": "11 butternut drive\\nvernon new jersey 07462\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "vg controls, inc",
+			"Source": "IEEE"
+		}
+	]
+}

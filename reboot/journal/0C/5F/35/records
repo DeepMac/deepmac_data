@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-08",
+			"EventType": "add",
+			"OUI": "0C5F35",
+			"OUISize": 24,
+			"OrgAddress": "5627 Stoneridge Drive, Suite 316\\nPleasanton  CA  94588\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Niagara Video Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

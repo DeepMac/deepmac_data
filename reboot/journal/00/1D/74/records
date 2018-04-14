@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "add",
+			"OUI": "001D74",
+			"OUISize": 24,
+			"OrgAddress": "301,3F Building 211,No.214 Hongqi Road, Nankai District, Tianjin China\\nTianjin  300190\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Tianjin China-Silicon Microelectronics Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001D74",
+			"OUISize": 24,
+			"OrgAddress": "301,3F Building 211,No.214 Hongqi Road, Nankai District, Tianjin China\\nTianjin    300190\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Tianjin China-Silicon Microelectronics Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

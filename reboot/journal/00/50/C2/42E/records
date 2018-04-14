@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C242E",
+			"OUISize": 36,
+			"OrgAddress": "Allerfeldstr. 17\\nSpringe Niedersachsen 31832\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Oelmann Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

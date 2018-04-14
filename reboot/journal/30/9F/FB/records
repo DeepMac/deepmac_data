@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-29",
+			"EventType": "add",
+			"OUI": "309FFB",
+			"OUISize": 24,
+			"OrgAddress": "4F,No. 6 Innovation Road II, Hsinchu Science Park\\nHsinchu    300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Ardomus Networks Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

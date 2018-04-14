@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2641",
+			"OUISize": 36,
+			"OrgAddress": "609, Junganginduspia, #517-13, Sangdaeweon-Dong, Jungweon-Gu\\nSeongnam Gyunggi-Do 462-713\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "NEO Information Systems Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

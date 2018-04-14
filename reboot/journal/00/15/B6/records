@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-09-09",
+			"EventType": "add",
+			"OUI": "0015B6",
+			"OUISize": 24,
+			"OrgAddress": "1-1 Shinmeiwa-cho\\nTakarazuka Hyogo 665-8550\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ShinMaywa Industries, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0015B6",
+			"OUISize": 24,
+			"OrgAddress": "1-1 Shinmeiwa-cho\\nTakarazuka  Hyogo  665-8550\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ShinMaywa Industries, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

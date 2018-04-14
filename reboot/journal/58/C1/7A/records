@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-08",
+			"EventType": "add",
+			"OUI": "58C17A",
+			"OUISize": 24,
+			"OrgAddress": "Unit B2, Linhay Business Park,\\nAshburton  Devon  TQ13 7UP\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "Cambium Networks Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AA8",
+			"OUISize": 36,
+			"OrgAddress": "Alsembergsesteenweg 2 B3\\nBuizingen  1501\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "Nexans Cabling Solutions",
+			"Source": "IEEE"
+		}
+	]
+}

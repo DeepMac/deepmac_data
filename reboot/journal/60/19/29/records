@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-06-15",
+			"EventType": "add",
+			"OUI": "601929",
+			"OUISize": 24,
+			"OrgAddress": "1-4F,Building 5,YuSheng Industrial Park,No.467,Section Xixiang\\nNational Highway 107,Xixiang,Bao An District\\nShenzhen 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "VOLTRONIC POWER TECHNOLOGY(SHENZHEN) CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "601929",
+			"OUISize": 24,
+			"OrgAddress": "1-4F,Building 5,YuSheng Industrial Park,No.467,Section Xixiang,National Highway 107,Xixiang,Bao An District,Shenzhen,China\\nShenzhen  Shenzhen  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "VOLTRONIC POWER TECHNOLOGY(SHENZHEN) CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-10",
+			"EventType": "add",
+			"OUI": "1C88793",
+			"OUISize": 28,
+			"OrgAddress": "2F, Wing D, Building 5, Software Industry Base, No.14, Haitian 2nd Road, Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Xiaoxi Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

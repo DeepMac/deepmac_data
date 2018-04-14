@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B55",
+			"OUISize": 36,
+			"OrgAddress": "Nagaoka4-73,Nakaku\\nOkayama  703-8221\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SANYO ELECTRONIC INDUSTRIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

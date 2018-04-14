@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-24",
+			"EventType": "add",
+			"OUI": "F88A3C6",
+			"OUISize": 28,
+			"OrgAddress": "RM# 712-35, 7th Floor,  #2 Xin Xi Road, Shangdi, Haidian District\\nBeijing    100085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Zhong Chuang Communication Technology Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

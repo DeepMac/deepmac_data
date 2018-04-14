@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C218F",
+			"OUISize": 36,
+			"OrgAddress": "2-19 Shodai-Tadika\\nHirakata-City Osaka 573-1132\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MATSUI MFG CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

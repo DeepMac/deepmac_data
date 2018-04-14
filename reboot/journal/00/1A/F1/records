@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-01-06",
+			"EventType": "add",
+			"OUI": "001AF1",
+			"OUISize": 24,
+			"OrgAddress": "Friisgatan 33, 4v\\nMalmoe  21421\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Embedded Artists AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-30",
+			"EventType": "change",
+			"OUI": "001AF1",
+			"OUISize": 24,
+			"OrgAddress": "Sodra Promenaden 51\\nMalmoe  211 38\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Embedded Artists AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-14",
+			"EventType": "change",
+			"OUI": "001AF1",
+			"OUISize": 24,
+			"OrgAddress": "Davidshallsgatan 16\\nMalmoe  21145\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Embedded Artists AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001AF1",
+			"OUISize": 24,
+			"OrgAddress": "Davidshallsgatan 16\\nMalmoe    21145\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Embedded Artists AB",
+			"Source": "IEEE"
+		}
+	]
+}

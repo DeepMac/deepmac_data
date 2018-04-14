@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23B3",
+			"OUISize": 36,
+			"OrgAddress": "3-6-7 Sotokanda Chiyoda-ku\\nTokyo  101-0021\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Media Lab., Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

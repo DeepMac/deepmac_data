@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2279",
+			"OUISize": 36,
+			"OrgAddress": "3-50 Wakabayashi-cho\\nYao-shi Osaka 581-0038\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "PATLITE Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

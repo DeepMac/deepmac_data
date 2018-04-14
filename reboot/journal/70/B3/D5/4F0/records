@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-09-16",
+			"EventType": "add",
+			"OUI": "70B3D54F0",
+			"OUISize": 36,
+			"OrgAddress": "901., Siu Fung Hong Building\\n239-241 Wing Lok Street.\\nHong Kong Hong Kong 852\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Li Seng Technology Ltd.,",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D54F0",
+			"OUISize": 36,
+			"OrgAddress": "901., Siu Fung Hong Building\\nHong Kong  Hong Kong  852\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Li Seng Technology Ltd.,",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-04",
+			"EventType": "add",
+			"OUI": "7C5A67",
+			"OUISize": 24,
+			"OrgAddress": "#611, Gyeonggi Venture Yeonsung University\\n111, Anyang-ro, Manan-gu\\nAnyang-si Gyeonggi-do 430731\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "JNC Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "7C5A67",
+			"OUISize": 24,
+			"OrgAddress": "#611, Gyeonggi Venture Yeonsung University\\nAnyang-si  Gyeonggi-do  430731\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "JNC Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

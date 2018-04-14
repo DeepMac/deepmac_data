@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E0F",
+			"OUISize": 36,
+			"OrgAddress": "Damgade 71\\nSonderborg  6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Trentino Systems",
+			"Source": "IEEE"
+		}
+	]
+}

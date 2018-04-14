@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-07-24",
+			"EventType": "add",
+			"OUI": "0011E0",
+			"OUISize": 24,
+			"OrgAddress": "9F, No.1, Jin-Shan 7th St.\\nHsinchu  300\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "U-MEDIA Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "0011E0",
+			"OUISize": 24,
+			"OrgAddress": "9F, No.1 Jin-Shan St.\\nHsinchu  300\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "U-MEDIA Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0011E0",
+			"OUISize": 24,
+			"OrgAddress": "9F, No.1 Jin-Shan St.\\nHsinchu  300\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "U-MEDIA Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0011E0",
+			"OUISize": 24,
+			"OrgAddress": "9F, No.1 Jin-Shan St.\\nHsinchu    300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "U-MEDIA Communications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

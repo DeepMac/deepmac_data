@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-07",
+			"EventType": "add",
+			"OUI": "0C6F9C",
+			"OUISize": 24,
+			"OrgAddress": "Suite 900, 630 3rd Avenue S.W.\\nCALGARY  ALBERTA  T2P 4L4\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Shaw Communications Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

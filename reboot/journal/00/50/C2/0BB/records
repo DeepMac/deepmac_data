@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20BB",
+			"OUISize": 36,
+			"OrgAddress": "Goeschwitzer Str.32\\nD-07745 Jena\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MAZet GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-25",
+			"EventType": "add",
+			"OUI": "60EFC6",
+			"OUISize": 24,
+			"OrgAddress": "5F, TongXin Technology Park,HengGang,LongGang,Shenzhen,China\\nShenzhen  GuangDong  518115\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Chima Technologies Co Limited",
+			"Source": "IEEE"
+		}
+	]
+}

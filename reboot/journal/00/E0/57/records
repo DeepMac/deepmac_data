@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E057",
+			"OUISize": 24,
+			"OrgAddress": "FASHION BD., 3RD FR,\\n1194, DOONSAN 2 DONG\\nSEO-GU, TAEJON\\n",
+			"OrgCountry": "KOREA, 302-173",
+			"OrgName": "HAN MICROTELECOM. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00E057",
+			"OUISize": 24,
+			"OrgAddress": "FASHION BD., 3RD FR,\\n1194, DOONSAN 2 DONG SEO-GU, TAEJON\\n\\n",
+			"OrgCountry": "KOREA KOREA 302-173",
+			"OrgName": "HAN MICROTELECOM. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E057",
+			"OUISize": 24,
+			"OrgAddress": "FASHION BD., 3RD FR,\\n1194, DOONSAN 2\\nDONG SEO-GU, TAEJON KOREA 302-173\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "HAN MICROTELECOM. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E057",
+			"OUISize": 24,
+			"OrgAddress": "FASHION BD., 3RD FR,\\nDONG SEO-GU, TAEJON  KOREA 302-173\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "HAN MICROTELECOM. CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

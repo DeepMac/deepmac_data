@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26D7",
+			"OUISize": 36,
+			"OrgAddress": "1651 N. Glenville Dr., Suite 201\\nRichardson TX 75081\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Mavenir System, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

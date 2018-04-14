@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-02-12",
+			"EventType": "add",
+			"OUI": "4045DA",
+			"OUISize": 24,
+			"OrgAddress": "Building 1, Spreadtrum Center, No.2288, Zuchongzhi Rd\\nZhangjiang High-Tech Park, Pudong District,\\nShanghai 201203\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Spreadtrum Communications (Shanghai) Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

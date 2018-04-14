@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-03",
+			"EventType": "add",
+			"OUI": "2CFD37",
+			"OUISize": 24,
+			"OrgAddress": "101 West Renner RD Suite 280\\nRichardson  TX  75082\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Blue Calypso, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000954",
+			"OUISize": 24,
+			"OrgAddress": "Chlumova 17\\nPraha 3  130 00\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "AMiT spol. s. r. o.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "000954",
+			"OUISize": 24,
+			"OrgAddress": "Naskove 3\\n150 00 Praha 5\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "AMiT spol. s. r. o.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000954",
+			"OUISize": 24,
+			"OrgAddress": "Naskove 3\\n150 00  Praha 5\\n\\n",
+			"OrgCountry": "CZ",
+			"OrgName": "AMiT spol. s. r. o.",
+			"Source": "IEEE"
+		}
+	]
+}

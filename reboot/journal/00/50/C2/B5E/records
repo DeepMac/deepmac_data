@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B5E",
+			"OUISize": 36,
+			"OrgAddress": "2217-2 Hayashicho\\nTakamatsu Kagawa 761-0301\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Palgiken Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-03-22",
+			"EventType": "add",
+			"OUI": "00141F",
+			"OUISize": 24,
+			"OrgAddress": "#365(Techno-park, 301 dong, 901 ho,) Samjung-dong, Ohjung-ku,\\nBucheon-shi Kyunggi-do 421-809\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "SunKwang Electronics Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00141F",
+			"OUISize": 24,
+			"OrgAddress": "#365(Techno-park, 301 dong, 901 ho,) Samjung-dong, Ohjung-ku,\\nBucheon-shi  Kyunggi-do  421-809\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "SunKwang Electronics Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

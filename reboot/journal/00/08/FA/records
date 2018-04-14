@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0008FA",
+			"OUISize": 24,
+			"OrgAddress": "Foersterweg 36-38\\nBarntrup NRW D-32683\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Karl E.Brinkmann GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0008FA",
+			"OUISize": 24,
+			"OrgAddress": "Foersterweg 36-38\\nBarntrup  NRW  D-32683\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Karl E.Brinkmann GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-12",
+			"EventType": "change",
+			"OUI": "0008FA",
+			"OUISize": 24,
+			"OrgAddress": "SÃ¼dstraÃe 38\\nBarntrup  NRW  D-32683\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "KEB Automation KG",
+			"Source": "IEEE"
+		}
+	]
+}

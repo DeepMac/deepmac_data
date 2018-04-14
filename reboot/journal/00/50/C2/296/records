@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2296",
+			"OUISize": 36,
+			"OrgAddress": "25A Technology Dr.\\nIrvine CA 92618\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "OpVista",
+			"Source": "IEEE"
+		}
+	]
+}

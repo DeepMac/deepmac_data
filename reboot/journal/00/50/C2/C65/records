@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C65",
+			"OUISize": 36,
+			"OrgAddress": "Zona Industrial da Taboeira, Lote 31D\\nAveiro  3800-055 - AVEIRO\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "Micro I/O Servicos de Electronica, Lda",
+			"Source": "IEEE"
+		}
+	]
+}

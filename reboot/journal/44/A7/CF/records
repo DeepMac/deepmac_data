@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-27",
+			"EventType": "add",
+			"OUI": "44A7CF",
+			"OUISize": 24,
+			"OrgAddress": "10-1, Higashikotari 1\\nNagaokakyo-shi Kyoto 617-8555\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Murata Manufacturing Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "44A7CF",
+			"OUISize": 24,
+			"OrgAddress": "2288, Oaza-Ohshinohara, Yasu-cho,\\nYasu-gun Shiga 520-2393\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Murata Manufacturing Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "44A7CF",
+			"OUISize": 24,
+			"OrgAddress": "2288, Oaza-Ohshinohara, Yasu-cho,\\nYasu-gun  Shiga  520-2393\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Murata Manufacturing Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

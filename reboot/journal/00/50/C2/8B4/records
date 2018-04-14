@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28B4",
+			"OUISize": 36,
+			"OrgAddress": "Borgeskogen\\nStokke  3160\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Sandar Telecast AS",
+			"Source": "IEEE"
+		}
+	]
+}

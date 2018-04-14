@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E08A",
+			"OUISize": 24,
+			"OrgAddress": "FOUNDRY LANE\\nSMETHWICK, WARLEY\\nWEST MIDLANDS,\\n",
+			"OrgCountry": "ENGLAND  B66 2LP",
+			"OrgName": "GEC AVERY, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00E08A",
+			"OUISize": 24,
+			"OrgAddress": "FOUNDRY LANE\\nSMETHWICK, WARLEY WEST MIDLANDS,\\n\\n",
+			"OrgCountry": "ENGLAND B66 2LP",
+			"OrgName": "GEC AVERY, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E08A",
+			"OUISize": 24,
+			"OrgAddress": "FOUNDRY LANE\\nSMETHWICK, WARLEY\\nWEST MIDLANDS, B66 2LP England\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "GEC AVERY, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E08A",
+			"OUISize": 24,
+			"OrgAddress": "FOUNDRY LANE\\nWEST MIDLANDS, B66 2LP  England\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "GEC AVERY, LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

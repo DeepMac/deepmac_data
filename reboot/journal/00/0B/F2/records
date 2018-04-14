@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000BF2",
+			"OUISize": 24,
+			"OrgAddress": "No. 24-1, Pei Shih Chou, Ming Ho Vill.\\nShan Sun Hsiang Tainan Hsien 180\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Chih-Kan Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000BF2",
+			"OUISize": 24,
+			"OrgAddress": "No. 24-1, Pei Shih Chou, Ming Ho Vill.\\nShan Sun Hsiang Tainan Hsien 180\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Chih-Kan Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000BF2",
+			"OUISize": 24,
+			"OrgAddress": "No. 24-1, Pei Shih Chou, Ming Ho Vill.\\nShan Sun Hsiang  Tainan Hsien  180\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Chih-Kan Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

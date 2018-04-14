@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CEE",
+			"OUISize": 36,
+			"OrgAddress": "Phorusgasse 8\\nVienna  1040\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "EMBED-IT OG",
+			"Source": "IEEE"
+		}
+	]
+}

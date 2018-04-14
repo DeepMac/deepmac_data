@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-06-01",
+			"EventType": "add",
+			"OUI": "000D20",
+			"OUISize": 24,
+			"OrgAddress": "Kinshi 3-2-1\\nArcaEast 17F\\nSumida-ku Tokyo 130-6591\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ASAHIKASEI TECHNOSYSTEM CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "000D20",
+			"OUISize": 24,
+			"OrgAddress": "Shinjuku First-West 17F\\n23-7,Nishishinjuku 1-chome\\nSumida-ku Tokyo 160-0023\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ASAHIKASEI TECHNOSYSTEM CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "000D20",
+			"OUISize": 24,
+			"OrgAddress": "Kanda Jinbocho 1-105\\n23-7,Nishishinjuku 1-chome\\nChiyoda-ku Tokyo 101-8101\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ASAHIKASEI TECHNOSYSTEM CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-29",
+			"EventType": "change",
+			"OUI": "000D20",
+			"OUISize": 24,
+			"OrgAddress": "Kanda Jinbocho 1-105\\nChiyoda-ku Tokyo 101-8101\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ASAHIKASEI TECHNOSYSTEM CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D20",
+			"OUISize": 24,
+			"OrgAddress": "Kanda Jinbocho 1-105\\nChiyoda-ku  Tokyo  101-8101\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ASAHIKASEI TECHNOSYSTEM CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-08",
+			"EventType": "add",
+			"OUI": "986D350",
+			"OUISize": 28,
+			"OrgAddress": "25F, Malata Technology Building, No. 9998 Shennan Avenue, Hi-techPark, Nanshan District\\nShenzhen  GUANGDONG  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen MALATA Mobile Communication Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-31",
+			"EventType": "add",
+			"OUI": "6C6EFE",
+			"OUISize": 24,
+			"OrgAddress": "11th Fl., 1-B U-SPACE Bldg.\\nDaewangpangyo-ro, Bundang-gu\\nSeongnam Gyeonggi-do 463-400\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Core Logic Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "6C6EFE",
+			"OUISize": 24,
+			"OrgAddress": "11th Fl., 1-B U-SPACE Bldg.\\nSeongnam  Gyeonggi-do  463-400\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Core Logic Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-20",
+			"EventType": "add",
+			"OUI": "385610",
+			"OUISize": 24,
+			"OrgAddress": "119 University Ave.\\nPalo Alto  CA  94301\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CANDY HOUSE, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

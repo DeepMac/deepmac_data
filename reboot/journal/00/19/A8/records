@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-09-25",
+			"EventType": "add",
+			"OUI": "0019A8",
+			"OUISize": 24,
+			"OrgAddress": "915 Enterprise Blvd.\\nSuite 200\\nAllen Texas 75013\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "WiQuest Communications, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "0019A8",
+			"OUISize": 24,
+			"OrgAddress": "915 Enterprise Blvd.\\nSuite 200\\nAllen Texas 75013\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "WiQuest Communications",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0019A8",
+			"OUISize": 24,
+			"OrgAddress": "915 Enterprise Blvd.\\nAllen  Texas  75013\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "WiQuest Communications",
+			"Source": "IEEE"
+		}
+	]
+}

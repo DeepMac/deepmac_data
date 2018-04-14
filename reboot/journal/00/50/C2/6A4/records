@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26A4",
+			"OUISize": 36,
+			"OrgAddress": "Ottergemsesteenweg-Zuid 729\\nGENT Ooost-Vlaanderen 9000\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "TELETASK",
+			"Source": "IEEE"
+		}
+	]
+}

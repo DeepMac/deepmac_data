@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001F0B",
+			"OUISize": 24,
+			"OrgAddress": "\\nPenza  440011\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Federal State Unitary Enterprise Industrial Union\"Electropribor\"",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001F0B",
+			"OUISize": 24,
+			"OrgAddress": "\\nPenza    440011\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Federal State Unitary Enterprise Industrial UnionElectropribor",
+			"Source": "IEEE"
+		}
+	]
+}

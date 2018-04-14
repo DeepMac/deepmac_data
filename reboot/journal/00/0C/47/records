@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000C47",
+			"OUISize": 24,
+			"OrgAddress": "21th FL Startower 737, Yeoksam-dong\\nKangnam-Ku\\nSeoul  135-984\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "SK Teletech(R&D Planning Team)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C47",
+			"OUISize": 24,
+			"OrgAddress": "21th FL Startower 737, Yeoksam-dong\\nSeoul    135-984\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "SK Teletech(R&D Planning Team)",
+			"Source": "IEEE"
+		}
+	]
+}

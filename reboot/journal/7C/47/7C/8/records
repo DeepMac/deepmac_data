@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-05",
+			"EventType": "add",
+			"OUI": "7C477C8",
+			"OUISize": 28,
+			"OrgAddress": "3/F Building 11, Lishan Industrial Park, Yueliangwan,Nanshan District\\nShenzhen  Guangdong  518054\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Eunicum Electric Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

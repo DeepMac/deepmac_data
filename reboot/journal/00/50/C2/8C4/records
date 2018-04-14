@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28C4",
+			"OUISize": 36,
+			"OrgAddress": "Av. Ipiranga 6681 Building 94 Room 7\\nPorto Alegre RS 90619-900\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Soldig Industria e Comercio de Equipamentos Eletronicos LTDA",
+			"Source": "IEEE"
+		}
+	]
+}

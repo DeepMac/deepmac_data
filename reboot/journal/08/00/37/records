@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "080037",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED TECH & ENG'G CENTER\\n9-50 CHUO 2-CHOME, EBINA-SHI\\nKANAGAWA 243-0432\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI-XEROX CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "080037",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED TECH & ENG'G CENTER\\n9-50 CHUO 2-CHOME, EBINA-SHI KANAGAWA 24\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI-XEROX CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "080037",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED TECH & ENG'G CENTER\\n9-50 CHUO 2-CHOME, EBINA-SHI KANAGAWA 24\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI-XEROX CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "080037",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED TECH & ENG'G CENTER\\n9-50 CHUO 2-CHOME, EBINA-SHI KANAGAWA 24\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI-XEROX CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "080037",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED TECH & ENG'G CENTER\\n9-50 CHUO 2-CHOME, EBINA-SHI KANAGAWA 24\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI-XEROX CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "080037",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED TECH & ENG'G CENTER\\n9-50 CHUO 2-CHOME, EBINA-SHI KANAGAWA 24\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI-XEROX CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "080037",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED TECH & ENG'G CENTER\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "FUJI-XEROX CO. LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

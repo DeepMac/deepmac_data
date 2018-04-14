@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-06-13",
+			"EventType": "add",
+			"OUI": "0018A5",
+			"OUISize": 24,
+			"OrgAddress": "Rm D302E,No.185 3F-2,Kur-Wong Road,\\nLung-Tang,\\nTao-yuan,  325\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ADigit Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0018A5",
+			"OUISize": 24,
+			"OrgAddress": "Rm D302E,No.185 3F-2,Kur-Wong Road,\\nLung-Tang,\\nTao-yuan,  325\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ADigit Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0018A5",
+			"OUISize": 24,
+			"OrgAddress": "Rm D302E,No.185 3F-2,Kur-Wong Road,\\nTao-yuan,    325\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ADigit Technologies Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

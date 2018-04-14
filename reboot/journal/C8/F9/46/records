@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-16",
+			"EventType": "add",
+			"OUI": "C8F946",
+			"OUISize": 24,
+			"OrgAddress": "20F.-13, No. 79, Sec. 1, Xintai 5th Rd, Xizhi Dist.\\n\\n\\n",
+			"OrgCountry": "New Taipei City  Taiwan  22101",
+			"OrgName": "LOCOSYS Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-21",
+			"EventType": "change",
+			"OUI": "C8F946",
+			"OUISize": 24,
+			"OrgAddress": "20F.-13, No. 79, Sec. 1, Xintai 5th Rd, Xizhi Dist.\\nNew Taipei City  Taiwan  22101\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "LOCOSYS Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

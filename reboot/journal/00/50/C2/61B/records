@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C261B",
+			"OUISize": 36,
+			"OrgAddress": "636 Cure Boivin Blvd.\\nBoisbriand Quebec J7G 2A7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "NCI Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

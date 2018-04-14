@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C254C",
+			"OUISize": 36,
+			"OrgAddress": "Via Boncompagni, 34\\nMilan  20139\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Sintecnos srl",
+			"Source": "IEEE"
+		}
+	]
+}

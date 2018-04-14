@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C236A",
+			"OUISize": 36,
+			"OrgAddress": "Box 733\\nSKELLEFTEA SE 93127\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Optronic Partner pr AB",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C233E",
+			"OUISize": 36,
+			"OrgAddress": "533 Fellowship Rd\\nSuite 250\\nMt Laurel NJ 08054\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CA Technology, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BFD",
+			"OUISize": 36,
+			"OrgAddress": "Mecklenburger Str. 32 - 36\\nKiel Schleswig Holstein 24106\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Ernemann Cine Tec GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

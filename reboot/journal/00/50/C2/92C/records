@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C292C",
+			"OUISize": 36,
+			"OrgAddress": "1308 West 635 South\\nOrem UT 84058\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Exatrol Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

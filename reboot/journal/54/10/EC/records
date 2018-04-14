@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-05",
+			"EventType": "add",
+			"OUI": "5410EC",
+			"OUISize": 24,
+			"OrgAddress": "2355 W. Chandler Blvd.\\nChandler  AZ  85224\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Microchip Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

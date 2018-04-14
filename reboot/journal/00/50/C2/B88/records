@@ -1,0 +1,136 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃ¯Â¿Â½e 4\\nKÃ¯Â¿Â½ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  KÃ¯Â¿Â½ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃe 4\\nKÃ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  KÃ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-Straße 4\\nKöln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  Köln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃe 4\\nKÃ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  KÃ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-Straße 4\\nKöln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  Köln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃe 4\\nKÃ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  KÃ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃÂÃÂ¸e 4\\nKÃÂÃÂ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  KÃÂÃÂ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃÅ¸e 4\\nKÃÂ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  KÃÂ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃe 4\\nKÃ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "GIgatronik  KÃ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃe 4\\nKÃ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gigatronik  KÃ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃÅ¸e 4\\nKÃÂ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gigatronik  KÃÂ¶ln GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2B88",
+			"OUISize": 36,
+			"OrgAddress": "Ruth-Hallensleben-StraÃe 4\\nKÃ¶ln  50739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gigatronik  KÃ¶ln GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

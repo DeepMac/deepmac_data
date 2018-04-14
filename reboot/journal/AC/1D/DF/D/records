@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-21",
+			"EventType": "add",
+			"OUI": "AC1DDFD",
+			"OUISize": 28,
+			"OrgAddress": "Cheerstrasse 16\\nLuzern    6014\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Elekon AG",
+			"Source": "IEEE"
+		}
+	]
+}

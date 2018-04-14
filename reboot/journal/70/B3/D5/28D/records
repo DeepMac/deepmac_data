@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-09",
+			"EventType": "add",
+			"OUI": "70B3D528D",
+			"OUISize": 36,
+			"OrgAddress": "LeopoldstraÃe 236\\nMunich    80807\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Technica Engineering GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2671",
+			"OUISize": 36,
+			"OrgAddress": "2903 Delta Drive\\nColorado Springs CO 80910\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Skyline Products, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

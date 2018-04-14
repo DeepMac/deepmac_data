@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0024A3",
+			"OUISize": 24,
+			"OrgAddress": "1875 S.Grant Street\\nSte#620\\nSanmateo CA 94402\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sonim Technologies Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0024A3",
+			"OUISize": 24,
+			"OrgAddress": "1875 S.Grant Street\\nSanmateo  CA  94402\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Sonim Technologies Inc",
+			"Source": "IEEE"
+		}
+	]
+}

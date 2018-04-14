@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "2CF203",
+			"OUISize": 24,
+			"OrgAddress": "DOSAB, KARANFIL SOK, NO:6\\nBURSA 16369\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "EMKO ELEKTRONIK SAN VE TIC AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "2CF203",
+			"OUISize": 24,
+			"OrgAddress": "DOSAB, KARANFIL SOK, NO:6\\nBURSA 16369\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "EMKO ELEKTRONIK SAN VE TIC AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "2CF203",
+			"OUISize": 24,
+			"OrgAddress": "DOSAB, KARANFIL SOK, NO:6\\nBURSA 16369\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "EMKO ELEKTRONIK SAN VE TIC AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "2CF203",
+			"OUISize": 24,
+			"OrgAddress": "DOSAB, KARANFIL SOK, NO:6\\nBURSA  16369\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "EMKO ELEKTRONIK SAN VE TIC AS",
+			"Source": "IEEE"
+		}
+	]
+}

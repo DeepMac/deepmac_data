@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-08",
+			"EventType": "add",
+			"OUI": "001BC5068",
+			"OUISize": 36,
+			"OrgAddress": "Turgutreis Mah. Barbaros Cad.\\nGiyimkent Kooperatif Ici Vadi BulvarÃ½ No:1\\nEsenler / ISTANBUL  34235\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "HCS KABLOLAMA SISTEMLERI SAN. ve TIC.A.S.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC5068",
+			"OUISize": 36,
+			"OrgAddress": "Turgutreis Mah. Barbaros Cad.\\nEsenler / ISTANBUL    34235\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "HCS KABLOLAMA SISTEMLERI SAN. ve TIC.A.S.",
+			"Source": "IEEE"
+		}
+	]
+}

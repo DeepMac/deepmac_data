@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-20",
+			"EventType": "add",
+			"OUI": "6891D0A",
+			"OUISize": 28,
+			"OrgAddress": "14F IT Castle-2, 137 Gasan Digital 1-ro, Geumcheon-gu\\nSeoul    08506\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "WiseCube",
+			"Source": "IEEE"
+		}
+	]
+}

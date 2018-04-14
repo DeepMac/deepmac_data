@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-10",
+			"EventType": "add",
+			"OUI": "34008AD",
+			"OUISize": 28,
+			"OrgAddress": "NO.1 CHENGJI ROAD ,CHENGHUA DISTRICT\\nCHENGDU CITY  SICHUAN  610000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ChengDu HuiZhong Cloud Information Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

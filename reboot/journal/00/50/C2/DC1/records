@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DC1",
+			"OUISize": 36,
+			"OrgAddress": "Rm 2A6, 3/F, Sing Win Factory Building,15-17 Shing Yip St,\\nKwun Tong\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Acrux Technology Limited",
+			"Source": "IEEE"
+		}
+	]
+}

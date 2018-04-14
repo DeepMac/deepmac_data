@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-27",
+			"EventType": "add",
+			"OUI": "34049ED",
+			"OUISize": 28,
+			"OrgAddress": "Nanshan\\nShenzhen  Guangdong  518061\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "uikismart",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-31",
+			"EventType": "add",
+			"OUI": "D45DDF",
+			"OUISize": 24,
+			"OrgAddress": "5F No. 76, Ligong St., Beitou District\\nTaipei City  Taiwan  112\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "PEGATRON CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

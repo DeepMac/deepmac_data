@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F21",
+			"OUISize": 36,
+			"OrgAddress": "580 kamashimo\\nakaiwa-city okayama-pref. 709-0732\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEITEC Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

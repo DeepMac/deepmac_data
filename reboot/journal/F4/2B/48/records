@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-01",
+			"EventType": "add",
+			"OUI": "F42B48",
+			"OUISize": 24,
+			"OrgAddress": "15 Gonen\\nPetah Tiqva    4925915\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Ubiqam",
+			"Source": "IEEE"
+		}
+	]
+}

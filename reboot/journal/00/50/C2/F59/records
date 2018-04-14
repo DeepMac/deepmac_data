@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "add",
+			"OUI": "0050C2F59",
+			"OUISize": 36,
+			"OrgAddress": "2904 Back Acre Circle\\nMount Airy MD 21771\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "G3 Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

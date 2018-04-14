@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-06",
+			"EventType": "add",
+			"OUI": "986D356",
+			"OUISize": 28,
+			"OrgAddress": "HasengartenstraÃe 14\\nWiesbaden  Hessen  65189\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Vitronic Dr.-Ing. Stein Bildverarbeitungssysteme GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050EA",
+			"OUISize": 24,
+			"OrgAddress": "17101 E. OHIO DRIVE\\nAURORA  CO  80017\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "XEL COMMUNICTIONS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050EA",
+			"OUISize": 24,
+			"OrgAddress": "17101 E. OHIO DRIVE\\nAURORA CO 80017\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "XEL COMMUNICTIONS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0050EA",
+			"OUISize": 24,
+			"OrgAddress": "17101 E. OHIO DRIVE\\nAURORA CO 80017\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "XEL COMMUNICATIONS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050EA",
+			"OUISize": 24,
+			"OrgAddress": "17101 E. OHIO DRIVE\\nAURORA  CO  80017\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "XEL COMMUNICATIONS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0010AB",
+			"OUISize": 24,
+			"OrgAddress": "100 MAEDA-CHO, TOTSUKA-KU\\nYOKOHAMA\\n\\n",
+			"OrgCountry": "244 JAPAN",
+			"OrgName": "KOITO INDUSTRIES, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0010AB",
+			"OUISize": 24,
+			"OrgAddress": "100 MAEDA-CHO, TOTSUKA-KU\\nYOKOHAMA 244\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KOITO INDUSTRIES, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-07-26",
+			"EventType": "change",
+			"OUI": "0010AB",
+			"OUISize": 24,
+			"OrgAddress": "100 MAEDA-CHO, TOTSUKA-KU\\nYOKOHAMA 244 KANAGAWA 244-8569\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KOITO ELECTRIC INDUSTRIES, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0010AB",
+			"OUISize": 24,
+			"OrgAddress": "100 MAEDA-CHO, TOTSUKA-KU\\nYOKOHAMA 244  KANAGAWA  244-8569\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KOITO ELECTRIC INDUSTRIES, LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

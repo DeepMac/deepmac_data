@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-19",
+			"EventType": "add",
+			"OUI": "08BEAC",
+			"OUISize": 24,
+			"OrgAddress": "No. 278, Xinhu 1st Road, Neihu Dict.,\\nTaipei City  Taiwan  11494\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Edimax Technology Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-20",
+			"EventType": "change",
+			"OUI": "08BEAC",
+			"OUISize": 24,
+			"OrgAddress": "No. 278, Xinhu 1st Road\\nTaipei City  Neihu Dist  248\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Edimax Technology Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

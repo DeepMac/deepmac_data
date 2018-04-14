@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-08",
+			"EventType": "add",
+			"OUI": "001BC509B",
+			"OUISize": 36,
+			"OrgAddress": "B-4F,Pangyo Silicon Park 613\\nSampyeong-dong,Bundang-gu\\nseongnam-si Gyeonggi-do 463-400\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "YIK Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC509B",
+			"OUISize": 36,
+			"OrgAddress": "B-4F,Pangyo Silicon Park 613\\nseongnam-si  Gyeonggi-do  463-400\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "YIK Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

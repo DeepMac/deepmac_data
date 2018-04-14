@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-23",
+			"EventType": "add",
+			"OUI": "58ECE1",
+			"OUISize": 24,
+			"OrgAddress": "1791 Deere Ave.\\nIrvine California 92606\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Newport Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "58ECE1",
+			"OUISize": 24,
+			"OrgAddress": "1791 Deere Ave.\\nIrvine  California  92606\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Newport Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

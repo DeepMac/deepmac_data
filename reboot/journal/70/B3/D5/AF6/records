@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-16",
+			"EventType": "add",
+			"OUI": "70B3D5AF6",
+			"OUISize": 36,
+			"OrgAddress": "Via Giardini 1271/A\\nModena  Italy  41126\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "S.C.E. srl",
+			"Source": "IEEE"
+		}
+	]
+}

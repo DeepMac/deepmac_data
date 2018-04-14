@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DD4",
+			"OUISize": 36,
+			"OrgAddress": "1004\\nIshimori-cyo\\nFukui-si Fukui-ken 910-0122\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SYSTECH",
+			"Source": "IEEE"
+		}
+	]
+}

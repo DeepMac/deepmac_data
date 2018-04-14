@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24A5",
+			"OUISize": 36,
+			"OrgAddress": "5310 N. Pioneer Road\\nGibsonia PA 15044\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Teledyne Monitor Labs",
+			"Source": "IEEE"
+		}
+	]
+}

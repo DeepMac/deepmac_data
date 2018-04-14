@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25F9",
+			"OUISize": 36,
+			"OrgAddress": "Hauptstrasse 84\\nKreuzlingen TG 8280\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "ROTHARY Solutions AG",
+			"Source": "IEEE"
+		}
+	]
+}

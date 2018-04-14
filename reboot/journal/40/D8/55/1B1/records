@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "add",
+			"OUI": "40D8551B1",
+			"OUISize": 36,
+			"OrgAddress": "Via Parini, 8\\nPorto Mantovano MN 46047\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Logos 01 S.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

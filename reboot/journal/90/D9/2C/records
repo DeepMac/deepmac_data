@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-09",
+			"EventType": "add",
+			"OUI": "90D92C",
+			"OUISize": 24,
+			"OrgAddress": "Auriedstrasse 10\\nBoesingen Fribourg 3178\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "HUG-WITSCHI AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "90D92C",
+			"OUISize": 24,
+			"OrgAddress": "Auriedstrasse 10\\nBoesingen  Fribourg  3178\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "HUG-WITSCHI AG",
+			"Source": "IEEE"
+		}
+	]
+}

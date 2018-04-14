@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-09",
+			"EventType": "add",
+			"OUI": "40D8550B1",
+			"OUISize": 36,
+			"OrgAddress": "Building 5, New Town Science & Technology Park\\nNo.69 Olympic Stadium Street\\nNanjing China 210019\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Nanjing TIANSU Automation Control System Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "add",
+			"OUI": "70B3D5D6C",
+			"OUISize": 36,
+			"OrgAddress": "OchshÃ¤user Str. 45\\nKassel    34123\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "GP Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

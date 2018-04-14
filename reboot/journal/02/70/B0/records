@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0270B0",
+			"OUISize": 24,
+			"OrgAddress": "11717 EXPLORATION LANE\\nGERMANTOWN  MD 20767\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "M/A-COM INC. COMPANIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0270B0",
+			"OUISize": 24,
+			"OrgAddress": "11717 EXPLORATION LANE\\nGERMANTOWN MD 20767\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "M/A-COM INC. COMPANIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0270B0",
+			"OUISize": 24,
+			"OrgAddress": "11717 EXPLORATION LANE\\nGERMANTOWN  MD  20767\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "M/A-COM INC. COMPANIES",
+			"Source": "IEEE"
+		}
+	]
+}

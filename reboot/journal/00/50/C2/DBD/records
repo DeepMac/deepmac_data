@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DBD",
+			"OUISize": 36,
+			"OrgAddress": "Gosposvetska 84\\nMaribor  2000\\n\\n",
+			"OrgCountry": "SLOVENIA",
+			"OrgName": "Margento R&D",
+			"Source": "IEEE"
+		}
+	]
+}

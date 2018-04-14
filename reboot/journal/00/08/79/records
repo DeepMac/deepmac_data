@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "add",
+			"OUI": "000879",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 200\\nMatthews NC 28106\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CEM Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000879",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 200\\nMatthews  NC  28106\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CEM Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

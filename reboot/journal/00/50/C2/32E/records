@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C232E",
+			"OUISize": 36,
+			"OrgAddress": "Avinguda Via Augusta, 71-73\\nPlanta 4\\nSant Cugat del Valles Barcelona 08174\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "MANUSA-GEST, S.L.",
+			"Source": "IEEE"
+		}
+	]
+}

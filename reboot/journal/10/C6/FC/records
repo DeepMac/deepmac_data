@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-18",
+			"EventType": "add",
+			"OUI": "10C6FC",
+			"OUISize": 24,
+			"OrgAddress": "1200 East 151st Street\\nOlathe  KS 66062\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Garmin International",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "10C6FC",
+			"OUISize": 24,
+			"OrgAddress": "1200 East 151st Street\\nOlathe KS 66062\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Garmin International",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "10C6FC",
+			"OUISize": 24,
+			"OrgAddress": "1200 East 151st Street\\nOlathe  KS 66062\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Garmin International",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "10C6FC",
+			"OUISize": 24,
+			"OrgAddress": "1200 East 151st Street\\nOlathe KS 66062\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Garmin International",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "10C6FC",
+			"OUISize": 24,
+			"OrgAddress": "1200 East 151st Street\\nOlathe   KS  66062\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Garmin International",
+			"Source": "IEEE"
+		}
+	]
+}

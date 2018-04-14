@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2071",
+			"OUISize": 36,
+			"OrgAddress": "117-11, Jungchon-Dong, Jung-Gu\\nTaejon, 301-080\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "NetVision Telecom",
+			"Source": "IEEE"
+		}
+	]
+}

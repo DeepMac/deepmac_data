@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28BC",
+			"OUISize": 36,
+			"OrgAddress": "2080 Arlingate Ln.\\nColumbus Ohio 43228\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Honeywell Sensotec",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-07",
+			"EventType": "add",
+			"OUI": "70B3D5BD9",
+			"OUISize": 36,
+			"OrgAddress": "124, Jungdae-ro, Songpa-gu\\nseoul    05829\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "SolwayTech",
+			"Source": "IEEE"
+		}
+	]
+}

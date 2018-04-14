@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "add",
+			"OUI": "70B3D5C77",
+			"OUISize": 36,
+			"OrgAddress": "Åebnem Sokak TavukÃ§uoglu\\nIstanbul  BostancÄ±/KadÄ±kÃ¶y  34744\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "YÃ¶nnet AkÄ±llÄ± Bina ve Otomasyon Sistemleri",
+			"Source": "IEEE"
+		}
+	]
+}

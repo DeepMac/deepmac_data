@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-13",
+			"EventType": "add",
+			"OUI": "64317E",
+			"OUISize": 24,
+			"OrgAddress": "14F-8, No. 258, Lian Cheng Rd.\\nChung Ho City, Taipei Hsien  235\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Dexin Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-15",
+			"EventType": "change",
+			"OUI": "64317E",
+			"OUISize": 24,
+			"OrgAddress": "14F-8, No. 258, Lian Cheng Rd.\\nChung Ho City, Taipei Hsien  235\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Dexin Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-27",
+			"EventType": "change",
+			"OUI": "64317E",
+			"OUISize": 24,
+			"OrgAddress": "14F-8, No. 258, Lian Cheng Rd.\\nChung Ho City, Taipei Hsien  235\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Dexin Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-28",
+			"EventType": "change",
+			"OUI": "64317E",
+			"OUISize": 24,
+			"OrgAddress": "14F-8, No. 258, Lian Cheng Rd.\\nChung Ho City, Taipei Hsien  235\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Dexin Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "64317E",
+			"OUISize": 24,
+			"OrgAddress": "14F-8, No. 258, Lian Cheng Rd.\\nChung Ho City, Taipei Hsien  235\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Dexin Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "64317E",
+			"OUISize": 24,
+			"OrgAddress": "14F-8, No. 258, Lian Cheng Rd.\\nChung Ho City, Taipei Hsien    235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Dexin Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

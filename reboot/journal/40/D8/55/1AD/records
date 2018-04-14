@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "add",
+			"OUI": "40D8551AD",
+			"OUISize": 36,
+			"OrgAddress": "Am Huettberg 38\\nFloersbachtal Hessen 63639\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "WICHER DIGITAL TECHNIK",
+			"Source": "IEEE"
+		}
+	]
+}

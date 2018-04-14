@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "009066",
+			"OUISize": 24,
+			"OrgAddress": "4510 E. THOUSAND OAKS BLVD.\\nSUITE #201\\nWESTLAKE VILLAGE  CA  91362\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TROIKA DESIGN, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "change",
+			"OUI": "009066",
+			"OUISize": 24,
+			"OrgAddress": "2829 Townsgate Road,\\nSuite 200\\nWestlake Village, CA 91361\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Troika Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009066",
+			"OUISize": 24,
+			"OrgAddress": "2829 Townsgate Road,\\nSuite 200\\nWestlake Village CA 91361\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Troika Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009066",
+			"OUISize": 24,
+			"OrgAddress": "2829 Townsgate Road,\\nWestlake Village  CA  91361\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Troika Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-17",
+			"EventType": "add",
+			"OUI": "1C88795",
+			"OUISize": 28,
+			"OrgAddress": "3/F,Building A,Quanyongyuan industrial park,Langkou industrial area,Dalang,Bao'an District,Shenzhen,China\\nShenzhen    518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHENFREELINK ELECTRONIC CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

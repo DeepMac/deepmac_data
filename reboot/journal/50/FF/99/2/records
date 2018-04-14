@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-28",
+			"EventType": "add",
+			"OUI": "50FF992",
+			"OUISize": 28,
+			"OrgAddress": "8/F,NO.100,LANGKOU INDUSTRLAL PARK,DALANG STREET,NEW LONGHUA DISTRCT,SHENZHEN,R.R.C\\nShenzhen    518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": " SHENZHEN KINGVT ELECTRONICS CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

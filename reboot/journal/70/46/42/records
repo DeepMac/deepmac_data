@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-06-22",
+			"EventType": "add",
+			"OUI": "704642",
+			"OUISize": 24,
+			"OrgAddress": "No.80, Lane 258, Sec. 3, Hansi W. Rd.,\\nBeitun District,\\nTaichung  40647\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "CHYNG HONG ELECTRONIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "704642",
+			"OUISize": 24,
+			"OrgAddress": "No.80, Lane 258, Sec. 3, Hansi W. Rd.,\\nBeitun District,\\nTaichung  40647\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CHYNG HONG ELECTRONIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "704642",
+			"OUISize": 24,
+			"OrgAddress": "No.80, Lane 258, Sec. 3, Hansi W. Rd.,\\nTaichung    40647\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CHYNG HONG ELECTRONIC CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

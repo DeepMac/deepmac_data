@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2049",
+			"OUISize": 36,
+			"OrgAddress": "8375 Melrose\\nLenexa KS 66214\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Computer Concepts Corp",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-29",
+			"EventType": "add",
+			"OUI": "40D855159",
+			"OUISize": 36,
+			"OrgAddress": "Pfannerstrasse 75\\nWangen  88239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "PLATINUM GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

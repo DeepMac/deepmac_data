@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006027",
+			"OUISize": 24,
+			"OrgAddress": "415 PINEDA COURT\\nMELBOURNE  FL  32940\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GENERAL TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "006027",
+			"OUISize": 24,
+			"OrgAddress": "General Technology Division\\n415 PINEDA COURT\\nMELBOURNE  FL  32940\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Superior Modular Products",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006027",
+			"OUISize": 24,
+			"OrgAddress": "General Technology Division\\n415 PINEDA COURT\\nMELBOURNE FL 32940\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Superior Modular Products",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006027",
+			"OUISize": 24,
+			"OrgAddress": "General Technology Division\\nMELBOURNE  FL  32940\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Superior Modular Products",
+			"Source": "IEEE"
+		}
+	]
+}

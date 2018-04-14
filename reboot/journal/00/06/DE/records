@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "0006DE",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 681509\\nFranklin TN 37068\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Flash Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0006DE",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 681509\\nFranklin  TN  37068\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Flash Technology",
+			"Source": "IEEE"
+		}
+	]
+}

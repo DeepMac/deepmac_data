@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EB9",
+			"OUISize": 36,
+			"OrgAddress": "20 Avenue Didier Daurat\\nToulouse  31400\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "ALPHA-MOS",
+			"Source": "IEEE"
+		}
+	]
+}

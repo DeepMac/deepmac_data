@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-19",
+			"EventType": "add",
+			"OUI": "28EED3",
+			"OUISize": 24,
+			"OrgAddress": "Room 201 , Building A former Qianhai Shenzhen-Hong Kong cooperation zone Shenzhen Bay all the way to No. 1 ( settled in Shenzhen Qianhai Business Secretary , Ltd. )\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Super D Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

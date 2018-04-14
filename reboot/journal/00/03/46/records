@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000346",
+			"OUISize": 24,
+			"OrgAddress": "1-6-10 Uchikanda\\nChiyoda-Ku\\nTokyo l101\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Yagi Antenna Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "change",
+			"OUI": "000346",
+			"OUISize": 24,
+			"OrgAddress": "1-6-10 Uchikanda\\nChiyoda-Ku\\nTokyo l101\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Hitachi Kokusai Electric, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000346",
+			"OUISize": 24,
+			"OrgAddress": "1-6-10 Uchikanda\\nChiyoda-Ku Tokyo l101\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Hitachi Kokusai Electric, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000346",
+			"OUISize": 24,
+			"OrgAddress": "1-6-10 Uchikanda\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Hitachi Kokusai Electric, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

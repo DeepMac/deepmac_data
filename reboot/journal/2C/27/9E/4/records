@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-06",
+			"EventType": "add",
+			"OUI": "2C279E4",
+			"OUISize": 28,
+			"OrgAddress": "No.255 Changjiang Road\\nShijiazhuang  Hebei  050000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shijiazhuang King Transportation Equipment Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

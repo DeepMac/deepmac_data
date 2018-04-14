@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-22",
+			"EventType": "add",
+			"OUI": "282536",
+			"OUISize": 24,
+			"OrgAddress": "Rm.1001,Unit 4,Bld.B,Kexing Science Park,Keyuan Road, Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN HOLATEK CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

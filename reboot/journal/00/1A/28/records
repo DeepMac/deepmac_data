@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-02",
+			"EventType": "add",
+			"OUI": "001A28",
+			"OUISize": 24,
+			"OrgAddress": "7F., No.3 Lane 91, Dongmei Rd.\\nHsinchu  30070\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ASWT Co., LTD. Taiwan Branch H.K.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001A28",
+			"OUISize": 24,
+			"OrgAddress": "7F., No.3 Lane 91, Dongmei Rd.\\nHsinchu  30070\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ASWT Co., LTD. Taiwan Branch H.K.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A28",
+			"OUISize": 24,
+			"OrgAddress": "7F., No.3 Lane 91, Dongmei Rd.\\nHsinchu    30070\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASWT Co., LTD. Taiwan Branch H.K.",
+			"Source": "IEEE"
+		}
+	]
+}

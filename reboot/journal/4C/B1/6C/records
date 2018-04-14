@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-07-14",
+			"EventType": "add",
+			"OUI": "4CB16C",
+			"OUISize": 24,
+			"OrgAddress": "HuaWei Industrial Baseï¿½ï¿½BanTian,LongGang\\nShenZhen GuangDong 518129\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "4CB16C",
+			"OUISize": 24,
+			"OrgAddress": "HuaWei Industrial BaseÂ£Â¬BanTian,LongGang\\nShenZhen GuangDong 518129\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "4CB16C",
+			"OUISize": 24,
+			"OrgAddress": "HuaWei Industrial Base£¬BanTian,LongGang\\nShenZhen GuangDong 518129\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "4CB16C",
+			"OUISize": 24,
+			"OrgAddress": "HuaWei Industrial BaseÃÂÃÂ£ÃÂÃÂ¬BanTian,LongGang\\nShenZhen GuangDong 518129\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "4CB16C",
+			"OUISize": 24,
+			"OrgAddress": "HuaWei Industrial Base BanTian,LongGang\\nShenZhen GuangDong 518129\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "4CB16C",
+			"OUISize": 24,
+			"OrgAddress": "D1-4,Huawei Industrial Base,Bantian,Longgang\\nShenZhen GuangDong 518129\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "4CB16C",
+			"OUISize": 24,
+			"OrgAddress": "D1-4,Huawei Industrial Base,Bantian,Longgang\\nShenZhen  GuangDong  518129\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-25",
+			"EventType": "add",
+			"OUI": "38B8EB3",
+			"OUISize": 28,
+			"OrgAddress": "Hub Salo, Tehdaskatu 6\\nSalo    24100\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Aina Wireless Inc",
+			"Source": "IEEE"
+		}
+	]
+}

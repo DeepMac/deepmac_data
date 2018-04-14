@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002342",
+			"OUISize": 24,
+			"OrgAddress": "4216 6th Ave NW\\nSeattle WA 98107\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Coffee Equipment Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002342",
+			"OUISize": 24,
+			"OrgAddress": "4216 6th Ave NW\\nSeattle  WA  98107\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Coffee Equipment Company",
+			"Source": "IEEE"
+		}
+	]
+}

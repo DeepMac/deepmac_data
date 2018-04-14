@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DC7",
+			"OUISize": 36,
+			"OrgAddress": "Shangling Industrial Area, Hengli Town\\nDongguan  523467\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "AGT Holdings Limited",
+			"Source": "IEEE"
+		}
+	]
+}

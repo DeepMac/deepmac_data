@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-20",
+			"EventType": "add",
+			"OUI": "38B8EB2",
+			"OUISize": 28,
+			"OrgAddress": "Marie-Curie-Strasse 8\\nLÃ¶rrach    DE-79539\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "barox Kommunikation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2714",
+			"OUISize": 36,
+			"OrgAddress": "PARQUE TECNOLOGICO EDIFICIO 108\\nZAMUDIO BIZKAIA 48170\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "T.E.AM., S. A.",
+			"Source": "IEEE"
+		}
+	]
+}

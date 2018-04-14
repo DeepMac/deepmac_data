@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-19",
+			"EventType": "add",
+			"OUI": "24B88C",
+			"OUISize": 24,
+			"OrgAddress": "Mario Tower 814, 222-12\\nGuro-dong, Guro-gu\\nSeoul  152-050\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Crenus Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "24B88C",
+			"OUISize": 24,
+			"OrgAddress": "Mario Tower 814, 222-12\\nSeoul    152-050\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Crenus Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2596",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 3453, Mail Stop 9\\n915 Deguigne Drive\\nSunnyvale CA 94088\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SPANSION",
+			"Source": "IEEE"
+		}
+	]
+}

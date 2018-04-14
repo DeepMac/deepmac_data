@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "add",
+			"OUI": "40D85508A",
+			"OUISize": 36,
+			"OrgAddress": "Bruchweg 10\\nKetsch Baden-Wuerttemberg 68775\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Leder Elektronik Design",
+			"Source": "IEEE"
+		}
+	]
+}

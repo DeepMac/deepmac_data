@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-04",
+			"EventType": "add",
+			"OUI": "04714B1",
+			"OUISize": 28,
+			"OrgAddress": "380 Portage Ave.\\nPalo Alto  CA  94306\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "uAvionix Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

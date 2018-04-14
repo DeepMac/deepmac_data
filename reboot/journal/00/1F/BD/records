@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "add",
+			"OUI": "001FBD",
+			"OUISize": 24,
+			"OrgAddress": "10300 Campus Point Drive\\nSan Diego CA 92121\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Kyocera Wireless Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001FBD",
+			"OUISize": 24,
+			"OrgAddress": "10300 Campus Point Drive\\nSan Diego  CA  92121\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Kyocera Wireless Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

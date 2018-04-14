@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2705",
+			"OUISize": 36,
+			"OrgAddress": "Femstykket 6\\nLynge  3540\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Hauch & Bach ApS",
+			"Source": "IEEE"
+		}
+	]
+}

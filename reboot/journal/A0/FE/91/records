@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "A0FE91",
+			"OUISize": 24,
+			"OrgAddress": "Derendinger Strasse 40\\nTuebingen  72072\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AVAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "A0FE91",
+			"OUISize": 24,
+			"OrgAddress": "Derendinger Strasse 40\\nTuebingen  72072\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AVAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "A0FE91",
+			"OUISize": 24,
+			"OrgAddress": "Derendinger Strasse 40\\nTuebingen  72072\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AVAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A0FE91",
+			"OUISize": 24,
+			"OrgAddress": "Derendinger Strasse 40\\nTuebingen    72072\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AVAT Automation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

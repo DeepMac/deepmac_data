@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-12",
+			"EventType": "add",
+			"OUI": "143F27",
+			"OUISize": 24,
+			"OrgAddress": "Kaarinantie 700\\nTurku    20540\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Noccela Oy",
+			"Source": "IEEE"
+		}
+	]
+}

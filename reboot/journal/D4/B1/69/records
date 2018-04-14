@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-04",
+			"EventType": "add",
+			"OUI": "D4B169",
+			"OUISize": 24,
+			"OrgAddress": ",Le Shi Building, No.105 Yaojiayuan Road,Chaoyang District,Beijing,China\\nbeijing  beijing  100025\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Le Shi Zhi Xin Electronic Technology (Tianjin) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

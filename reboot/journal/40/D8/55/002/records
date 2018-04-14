@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "40D855002",
+			"OUISize": 36,
+			"OrgAddress": "7th Floor,No51,Huanxing Road,Bingjiang\\nHangzhou Zhejiang 310052\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Hangzhou Chenxiao Technologies Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-30",
+			"EventType": "add",
+			"OUI": "F88A3CA",
+			"OUISize": 28,
+			"OrgAddress": "Herrschaftswiesen 11\\nKoblach    6842\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Protos GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

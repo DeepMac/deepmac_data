@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C204B",
+			"OUISize": 36,
+			"OrgAddress": "379 Science Dr.\\nMoorpark CA 93021\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Tecstar Demo Systems Division",
+			"Source": "IEEE"
+		}
+	]
+}

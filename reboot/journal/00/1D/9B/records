@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "add",
+			"OUI": "001D9B",
+			"OUISize": 24,
+			"OrgAddress": "Niitaka 1-10-9\\nYodogawa-Ku\\nOsaka  532-0033\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Hokuyo Automatic Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001D9B",
+			"OUISize": 24,
+			"OrgAddress": "Niitaka 1-10-9\\nOsaka    532-0033\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Hokuyo Automatic Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

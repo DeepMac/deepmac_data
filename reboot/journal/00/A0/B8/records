@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00A0B8",
+			"OUISize": 24,
+			"OrgAddress": "3718 N. ROCK ROAD\\nWICHITA  KS  67226-1397\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SYMBIOS LOGIC INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00A0B8",
+			"OUISize": 24,
+			"OrgAddress": "3718 N. ROCK ROAD\\nWICHITA KS 67226-1397\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SYMBIOS LOGIC INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00A0B8",
+			"OUISize": 24,
+			"OrgAddress": "2001 Danfield Ct.\\nFort Collins CO 80525\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SYMBIOS LOGIC INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00A0B8",
+			"OUISize": 24,
+			"OrgAddress": "2001 Danfield Ct.\\nFort Collins  CO  80525\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SYMBIOS LOGIC INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-01",
+			"EventType": "change",
+			"OUI": "00A0B8",
+			"OUISize": 24,
+			"OrgAddress": "2001 Danfield Ct.\\nFort Collins  CO  80525\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NetApp",
+			"Source": "IEEE"
+		}
+	]
+}

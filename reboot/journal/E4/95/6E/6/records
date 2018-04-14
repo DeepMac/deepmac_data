@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-25",
+			"EventType": "add",
+			"OUI": "E4956E6",
+			"OUISize": 28,
+			"OrgAddress": "9th Blvd.Changxing New Tech.Industry Zone,Shajing Town,Baoan District\\nshenzhen Guangdong 518104\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHENZHEN JOYETECH ELECTRONICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E4956E6",
+			"OUISize": 28,
+			"OrgAddress": "9th Blvd.Changxing New Tech.Industry Zone,Shajing Town,Baoan District\\nshenzhen  Guangdong  518104\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN JOYETECH ELECTRONICS CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

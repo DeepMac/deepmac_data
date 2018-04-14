@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-07-07",
+			"EventType": "add",
+			"OUI": "24EE3A",
+			"OUISize": 24,
+			"OrgAddress": "No.3 South Herui Road Hi-tech Zone\\nChengdu City Sichuan 611731\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Chengdu Yingji Electronic Hi-tech Co Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "24EE3A",
+			"OUISize": 24,
+			"OrgAddress": "No.3 South Herui Road Hi-tech Zone\\nChengdu City  Sichuan  611731\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Chengdu Yingji Electronic Hi-tech Co Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

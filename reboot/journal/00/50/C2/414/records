@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2414",
+			"OUISize": 36,
+			"OrgAddress": "Barrio Ventas, 35\\nIrun Gipuzkoa 20305\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Talleres de Escoriaza SA",
+			"Source": "IEEE"
+		}
+	]
+}

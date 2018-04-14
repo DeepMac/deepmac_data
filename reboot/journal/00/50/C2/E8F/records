@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E8F",
+			"OUISize": 36,
+			"OrgAddress": "Niels Bohrs vej 42,\\nStilling Skanderborg 8660\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "STT Condigi A/S",
+			"Source": "IEEE"
+		}
+	]
+}

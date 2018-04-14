@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2957",
+			"OUISize": 36,
+			"OrgAddress": "Ankerstr. 73\\nKoenigsbach Baden-Wuertemberg 75203\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "STRATEC Control Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2957",
+			"OUISize": 36,
+			"OrgAddress": "AnkerstraÃe 73\\nKoenigsbach Baden-WÃ¼rttemberg 75203\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "STRATEC Control Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2957",
+			"OUISize": 36,
+			"OrgAddress": "AnkerstraÃÅ¸e 73\\nKoenigsbach Baden-WÃÂ¼rttemberg 75203\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "STRATEC Control Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2957",
+			"OUISize": 36,
+			"OrgAddress": "AnkerstraÃe 73\\nKoenigsbach Baden-WÃ¼rttemberg 75203\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "STRATEC Control Systems",
+			"Source": "IEEE"
+		}
+	]
+}

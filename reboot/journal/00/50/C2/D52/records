@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D52",
+			"OUISize": 36,
+			"OrgAddress": "Kirchenstr. 38\\nNeckarsteinach  69239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "F+D Feinwerk- und Drucktechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

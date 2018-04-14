@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DF9",
+			"OUISize": 36,
+			"OrgAddress": "D4 Platz 4\\nRoot  6039\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Jenny Science AG",
+			"Source": "IEEE"
+		}
+	]
+}

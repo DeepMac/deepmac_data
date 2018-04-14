@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C227E",
+			"OUISize": 36,
+			"OrgAddress": "13-17 Kende Str.\\nBudapest  H-1111\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "AnaLogic Computers Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

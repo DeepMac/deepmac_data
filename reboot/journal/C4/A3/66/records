@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-22",
+			"EventType": "add",
+			"OUI": "C4A366",
+			"OUISize": 24,
+			"OrgAddress": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China\\nshenzhen  guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "zte corporation",
+			"Source": "IEEE"
+		}
+	]
+}

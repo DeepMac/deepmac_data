@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DF7",
+			"OUISize": 36,
+			"OrgAddress": "Gydevang 21D\\nAlleroed  3450\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Combilent",
+			"Source": "IEEE"
+		}
+	]
+}

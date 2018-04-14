@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-03",
+			"EventType": "add",
+			"OUI": "E0B6F53",
+			"OUISize": 28,
+			"OrgAddress": "Gisun Industry Park,Dong Ao Village, Sha Tian Town,HuiYang District ,Huizhou China\\nHuizhou  Guangdong  518114\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huizhou GISUN Industrial CO. LTD",
+			"Source": "IEEE"
+		}
+	]
+}

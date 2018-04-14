@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-02",
+			"EventType": "add",
+			"OUI": "70886BB",
+			"OUISize": 28,
+			"OrgAddress": "No. 12 Yard, Zhong Guan Cun South St.\\nBeijing  Beijing  100081\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Strongleader Science & Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

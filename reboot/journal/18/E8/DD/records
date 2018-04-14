@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "18E8DD",
+			"OUISize": 24,
+			"OrgAddress": "Unit 4A.4F.B Building. Shenfubao Science and Technology Industrial Park\\nNo.3 Huang Huai Road, Futian Free Trade Zone\\nShenzhen Guangdong 518038\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "MODULETEK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "18E8DD",
+			"OUISize": 24,
+			"OrgAddress": "Unit 4A.4F.B Building. Shenfubao Science and Technology Industrial Park\\nNo.3 Huang Huai Road, Futian Free Trade Zone\\nShenzhen Guangdong 518038\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "MODULETEK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "18E8DD",
+			"OUISize": 24,
+			"OrgAddress": "Unit 4A.4F.B Building. Shenfubao Science and Technology Industrial Park\\nNo.3 Huang Huai Road, Futian Free Trade Zone\\nShenzhen Guangdong 518038\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "MODULETEK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "18E8DD",
+			"OUISize": 24,
+			"OrgAddress": "Unit 4A.4F.B Building. Shenfubao Science and Technology Industrial Park\\nShenzhen  Guangdong  518038\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "MODULETEK",
+			"Source": "IEEE"
+		}
+	]
+}

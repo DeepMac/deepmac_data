@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-05-09",
+			"EventType": "add",
+			"OUI": "340CED",
+			"OUISize": 24,
+			"OrgAddress": "Hudiksvallsgatan 8\\nStockholm 11330\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Moduel AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "340CED",
+			"OUISize": 24,
+			"OrgAddress": "Hudiksvallsgatan 8\\nStockholm  Stockholm  11330\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Moduel AB",
+			"Source": "IEEE"
+		}
+	]
+}

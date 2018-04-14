@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2798",
+			"OUISize": 36,
+			"OrgAddress": "Sehit Ismet Armagan sokak No:4/12\\nNisantasi\\nIstanbul  34363\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "Indefia",
+			"Source": "IEEE"
+		}
+	]
+}

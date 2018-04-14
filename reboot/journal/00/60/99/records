@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006099",
+			"OUISize": 24,
+			"OrgAddress": "686 WEST MAUDE AVE.,-STE #102\\nSUNNYVALE  CA  94086\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LAN MEDIA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006099",
+			"OUISize": 24,
+			"OrgAddress": "686 WEST MAUDE AVE.,-STE #102\\nSUNNYVALE CA 94086\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LAN MEDIA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-04-03",
+			"EventType": "change",
+			"OUI": "006099",
+			"OUISize": 24,
+			"OrgAddress": "2305 Camino Ramon\\nSuite 200\\nSan Ramon CA 94583\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SBE, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006099",
+			"OUISize": 24,
+			"OrgAddress": "4000 Executive Parkway\\nSan Ramon  CA  94583\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SBE, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

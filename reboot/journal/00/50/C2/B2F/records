@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B2F",
+			"OUISize": 36,
+			"OrgAddress": "5225 Hellyer Ave, Suite 200\\nSan Jose CA 95138\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "IntelliVision Technologies, Corp",
+			"Source": "IEEE"
+		}
+	]
+}

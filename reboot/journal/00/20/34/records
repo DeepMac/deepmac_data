@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002034",
+			"OUISize": 24,
+			"OrgAddress": "GUTENBERGSTR. 15\\n76437 RASTATT\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ROTEC INDUSTRIEAUTOMATION GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002034",
+			"OUISize": 24,
+			"OrgAddress": "GUTENBERGSTR. 15\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ROTEC INDUSTRIEAUTOMATION GMBH",
+			"Source": "IEEE"
+		}
+	]
+}

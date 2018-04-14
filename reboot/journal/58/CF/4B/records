@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-19",
+			"EventType": "add",
+			"OUI": "58CF4B",
+			"OUISize": 24,
+			"OrgAddress": "811 Willow Oak Drive\\nMissouri City Texas 77489\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Lufkin Industries",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "58CF4B",
+			"OUISize": 24,
+			"OrgAddress": "811 Willow Oak Drive\\nMissouri City  Texas  77489\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Lufkin Industries",
+			"Source": "IEEE"
+		}
+	]
+}

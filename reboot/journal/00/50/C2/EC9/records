@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-26",
+			"EventType": "add",
+			"OUI": "0050C2EC9",
+			"OUISize": 36,
+			"OrgAddress": "Science Park 105\\nAmsterdam  1098XG\\n\\n",
+			"OrgCountry": "NETHERLANDS",
+			"OrgName": "Amsterdam Scientific Instruments BV",
+			"Source": "IEEE"
+		}
+	]
+}

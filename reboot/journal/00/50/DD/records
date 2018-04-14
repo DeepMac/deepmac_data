@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050DD",
+			"OUISize": 24,
+			"OrgAddress": "POL. IND. ZONA FRANCA,\\nSECTOR C, CALLE D, N. 29\\n08040 BARCELONA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "SERRA SOLDADURA, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050DD",
+			"OUISize": 24,
+			"OrgAddress": "POL. IND. ZONA FRANCA,\\nSECTOR C, CALLE D, N. 29 08040 BARCELONA\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "SERRA SOLDADURA, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0050DD",
+			"OUISize": 24,
+			"OrgAddress": "POL. IND. ZONA FRANCA,\\nSECTOR C, CALLE D, N. 29 08040 BARCELONA\\nSPAIN\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "SERRA SOLDADURA, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0050DD",
+			"OUISize": 24,
+			"OrgAddress": "POL. IND. ZONA FRANCA,\\nSECTOR C, CALLE D, N. 29 08040 BARCELONA\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "SERRA SOLDADURA, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0050DD",
+			"OUISize": 24,
+			"OrgAddress": "POL. IND. ZONA FRANCA,\\nSECTOR C, CALLE D, N. 29 08040 BARCELONA\\nSPAIN\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "SERRA SOLDADURA, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0050DD",
+			"OUISize": 24,
+			"OrgAddress": "POL. IND. ZONA FRANCA,\\nSECTOR C, CALLE D, N. 29 08040 BARCELONA\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "SERRA SOLDADURA, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050DD",
+			"OUISize": 24,
+			"OrgAddress": "POL. IND. ZONA FRANCA,\\n\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "SERRA SOLDADURA, S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

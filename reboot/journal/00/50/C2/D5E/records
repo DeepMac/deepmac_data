@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D5E",
+			"OUISize": 36,
+			"OrgAddress": "2-6-35, Honcho\\nYonezawasi Yamagata 992-0037\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "infinitec co., ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

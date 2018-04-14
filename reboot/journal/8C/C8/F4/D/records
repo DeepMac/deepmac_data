@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-26",
+			"EventType": "add",
+			"OUI": "8CC8F4D",
+			"OUISize": 28,
+			"OrgAddress": "No.9 Yingfu Road,Haidian District\\nBeijing    100192\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Xinxunxintong Eletronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

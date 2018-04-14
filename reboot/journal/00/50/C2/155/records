@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2155",
+			"OUISize": 36,
+			"OrgAddress": "Drauegatan 7\\nGoteborg  SE-41250\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Enea Real Time AB",
+			"Source": "IEEE"
+		}
+	]
+}

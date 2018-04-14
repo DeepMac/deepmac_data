@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-07",
+			"EventType": "add",
+			"OUI": "7C4F7D",
+			"OUISize": 24,
+			"OrgAddress": "SKn TechnoPark 1207\\nSeongNam-Si  Gyenggi-do  13207\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Sawwave",
+			"Source": "IEEE"
+		}
+	]
+}

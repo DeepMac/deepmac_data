@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001086",
+			"OUISize": 24,
+			"OrgAddress": "40 HAZELWOOD DRIVE\\nAMHERST  NY  14228\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ATTO TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001086",
+			"OUISize": 24,
+			"OrgAddress": "40 HAZELWOOD DRIVE\\nAMHERST NY 14228\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ATTO TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "change",
+			"OUI": "001086",
+			"OUISize": 24,
+			"OrgAddress": "155 Crosspoint Pkwy.\\nAmherst NY 14068\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ATTO Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001086",
+			"OUISize": 24,
+			"OrgAddress": "155 Crosspoint Pkwy.\\nAmherst  NY  14068\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ATTO Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

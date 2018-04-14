@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E3F",
+			"OUISize": 24,
+			"OrgAddress": "12159 Business Park Dr, Suite 140\\nDraper Utah 84020\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Soronti, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E3F",
+			"OUISize": 24,
+			"OrgAddress": "12159 Business Park Dr, Suite 140\\nDraper  Utah  84020\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Soronti, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2532",
+			"OUISize": 36,
+			"OrgAddress": "11409 Valley View Road\\nEden Prairie MN 55344-3617\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NVE Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

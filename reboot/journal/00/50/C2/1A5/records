@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21A5",
+			"OUISize": 36,
+			"OrgAddress": "5# QUNYINGKEJIYUAN\\nSHANGDI HAIDIAN BEIJING\\nBEIJIN BEIJING 100084\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "NORCO",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-29",
+			"EventType": "add",
+			"OUI": "70B3D5BE3",
+			"OUISize": 36,
+			"OrgAddress": "239, Bolshaya Sadovaya\\nSaratov  Saratovskaya oblast  410005\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Saratov Electrounit Production Plant named after Sergo Ordzhonikidze, OJSC",
+			"Source": "IEEE"
+		}
+	]
+}

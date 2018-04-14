@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-08-12",
+			"EventType": "add",
+			"OUI": "701A04",
+			"OUISize": 24,
+			"OrgAddress": "4F 90 Chien 1 Rd.ChungHo\\nTaipei  23585\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Liteon Tech Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-08-13",
+			"EventType": "change",
+			"OUI": "701A04",
+			"OUISize": 24,
+			"OrgAddress": "4F 90 Chien 1 Rd.ChungHo\\nTaipei  23585\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Liteon Tech Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "701A04",
+			"OUISize": 24,
+			"OrgAddress": "4F 90 Chien 1 Rd.ChungHo\\nTaipei  23585\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Liteon Tech Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "701A04",
+			"OUISize": 24,
+			"OrgAddress": "4F 90 Chien 1 Rd.ChungHo\\nTaipei    23585\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Liteon Tech Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "701A04",
+			"OUISize": 24,
+			"OrgAddress": "4F 90 Chien 1 Rd.ChungHo\\nTaipei    23585\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Liteon Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

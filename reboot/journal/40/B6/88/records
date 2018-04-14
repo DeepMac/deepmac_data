@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-01",
+			"EventType": "add",
+			"OUI": "40B688",
+			"OUISize": 24,
+			"OrgAddress": "Binzackerstrasse 41\\nWetzikon    8620\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "LEGIC Identsystems AG",
+			"Source": "IEEE"
+		}
+	]
+}

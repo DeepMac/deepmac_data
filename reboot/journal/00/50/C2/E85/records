@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E85",
+			"OUISize": 36,
+			"OrgAddress": "Kounan2-16-7\\nShinagawa V-Tower 519\\nMinato-ku Tokyo 108-0075\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Cosmo Life Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

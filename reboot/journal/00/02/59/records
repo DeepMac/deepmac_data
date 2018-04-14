@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000259",
+			"OUISize": 24,
+			"OrgAddress": "8F, #99, Huaihai Rd, East,\\nShanghai,\\n\\n",
+			"OrgCountry": "CHINA 200021",
+			"OrgName": "Tsann Kuen China (Shanghai)Enterprise Co., Ltd. IT Group",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000259",
+			"OUISize": 24,
+			"OrgAddress": "8F, #99, Huaihai Rd, East,\\nShanghai,\\nCHINA 200021\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Tsann Kuen China (Shanghai)Enterprise Co., Ltd. IT Group",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000259",
+			"OUISize": 24,
+			"OrgAddress": "8F, #99, Huaihai Rd, East,\\nCHINA  200021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Tsann Kuen China (Shanghai)Enterprise Co., Ltd. IT Group",
+			"Source": "IEEE"
+		}
+	]
+}

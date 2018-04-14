@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27BB",
+			"OUISize": 36,
+			"OrgAddress": "125 Tzarigradsko shosse blvd.,\\nbl. 2, room 510\\nSofia  1113\\n",
+			"OrgCountry": "BULGARIA",
+			"OrgName": "InRay Solutions Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C36",
+			"OUISize": 36,
+			"OrgAddress": "August-Braun-Str. 1\\nWangen i.A.  88239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SET GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

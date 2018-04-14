@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-09-10",
+			"EventType": "add",
+			"OUI": "B43052",
+			"OUISize": 24,
+			"OrgAddress": "Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,\\nShenzhen GuangDong 518057\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Huawei Technologies Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B43052",
+			"OUISize": 24,
+			"OrgAddress": "Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,\\nShenzhen  GuangDong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huawei Technologies Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "B43052",
+			"OUISize": 24,
+			"OrgAddress": "Building 17,Nangang Industrial Park, Tangtou 3nd Industrial Estate,Shiyan Baoan District,\\nShenzhen  GuangDong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-10",
+			"EventType": "change",
+			"OUI": "B43052",
+			"OUISize": 24,
+			"OrgAddress": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park\\nDongguan    523808\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

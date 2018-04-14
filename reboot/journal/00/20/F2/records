@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020F2",
+			"OUISize": 24,
+			"OrgAddress": "801 BUCKEYE COURT\\nMILPITAS  CA  95035-7408\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MAXIMUM STRATEGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "0020F2",
+			"OUISize": 24,
+			"OrgAddress": "901 San Antonio Road\\nMS UMPK02-106\\nPalo Alto, CA 94043-4900\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SUN MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0020F2",
+			"OUISize": 24,
+			"OrgAddress": "901 San Antonio Road\\nMS UMPK02-106\\nPalo Alto CA 94043-4900\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SUN MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "change",
+			"OUI": "0020F2",
+			"OUISize": 24,
+			"OrgAddress": "4200 Network Circle\\nSanta Clara CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SUN MICROSYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-14",
+			"EventType": "change",
+			"OUI": "0020F2",
+			"OUISize": 24,
+			"OrgAddress": "500 Oracle Parkway\\nRedwood Shores CA 95065\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Oracle Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020F2",
+			"OUISize": 24,
+			"OrgAddress": "500 Oracle Parkway\\nRedwood Shores  CA  950565\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Oracle Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-02",
+			"EventType": "change",
+			"OUI": "0020F2",
+			"OUISize": 24,
+			"OrgAddress": "500 Oracle Parkway\\nRedwood Shores  CA  94065\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Oracle Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

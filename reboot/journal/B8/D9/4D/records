@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-10",
+			"EventType": "add",
+			"OUI": "B8D94D",
+			"OUISize": 24,
+			"OrgAddress": "250, route de l'Empereur\\nRueil Malmaison Cedex  hauts de seine  92848\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Sagemcom Broadband SAS",
+			"Source": "IEEE"
+		}
+	]
+}

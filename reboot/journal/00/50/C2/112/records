@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2112",
+			"OUISize": 36,
+			"OrgAddress": "141-143 Szabadsag U.\\n2040 Budaors\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "Compuworx",
+			"Source": "IEEE"
+		}
+	]
+}

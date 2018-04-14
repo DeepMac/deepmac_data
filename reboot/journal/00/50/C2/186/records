@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2186",
+			"OUISize": 36,
+			"OrgAddress": "Industriezone\\nMauren Liechtenstein 9493\\n\\n",
+			"OrgCountry": "LIECHTENSTEIN",
+			"OrgName": "Pantec Engineering AG",
+			"Source": "IEEE"
+		}
+	]
+}

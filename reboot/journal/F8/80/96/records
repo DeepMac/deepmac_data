@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-06",
+			"EventType": "add",
+			"OUI": "F88096",
+			"OUISize": 24,
+			"OrgAddress": "Rod. Visconde de Porto Seguro, n.Âº 2.660, Sitio Recreio dos Cafezais\\nValinhos  SP  13278327\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Elsys Equipamentos EletrÃ´nicos Ltda",
+			"Source": "IEEE"
+		}
+	]
+}

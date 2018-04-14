@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "add",
+			"OUI": "70B3D5FF7",
+			"OUISize": 36,
+			"OrgAddress": "Lindholmenspiren 3A\\nGÃ¶teborg  Vastra gÃ¶tland  41756\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Cybercom AB",
+			"Source": "IEEE"
+		}
+	]
+}

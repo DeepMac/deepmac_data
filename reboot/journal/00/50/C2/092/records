@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2092",
+			"OUISize": 36,
+			"OrgAddress": "248-4, YouSeong Twin Plaza Bldg, 4F\\nSeohyun-Dong, Bundang-Ku, Seongnam-City\\nKyungki-Do 463 050\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "DigitAll World Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

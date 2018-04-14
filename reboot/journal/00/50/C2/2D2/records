@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22D2",
+			"OUISize": 36,
+			"OrgAddress": "3950 DOW RD\\nMELBOURNE FL 32934\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AIRNET COMMUNICATIONS CORP",
+			"Source": "IEEE"
+		}
+	]
+}

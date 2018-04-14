@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-14",
+			"EventType": "add",
+			"OUI": "64209F",
+			"OUISize": 24,
+			"OrgAddress": "Finlandsgatan 40\\nKista    16474\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Tilgin AB",
+			"Source": "IEEE"
+		}
+	]
+}

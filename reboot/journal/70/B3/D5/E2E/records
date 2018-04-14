@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-12",
+			"EventType": "add",
+			"OUI": "70B3D5E2E",
+			"OUISize": 36,
+			"OrgAddress": "U Sirotcince 353/7\\nLiberec    460 01\\n\\n",
+			"OrgCountry": "CZ",
+			"OrgName": "Merz s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

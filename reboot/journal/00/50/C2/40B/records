@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C240B",
+			"OUISize": 36,
+			"OrgAddress": "Obrucheva 52\\nMoscow  117393\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Center VOSPI JSC",
+			"Source": "IEEE"
+		}
+	]
+}

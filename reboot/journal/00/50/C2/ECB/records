@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2ECB",
+			"OUISize": 36,
+			"OrgAddress": "205 3-7-2\\nHigashitateishi\\nKatsushikaku Tokyo 124-0013\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FAL Corp",
+			"Source": "IEEE"
+		}
+	]
+}

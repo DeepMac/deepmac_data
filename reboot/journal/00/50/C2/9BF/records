@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29BF",
+			"OUISize": 36,
+			"OrgAddress": "Modranska 621\\nPrague Czech Republic 143 01\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "2N TELEKOMUNIKACE a.s.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-07",
+			"EventType": "add",
+			"OUI": "9C65F9",
+			"OUISize": 24,
+			"OrgAddress": "3F-1, No. 207, Fusing Rd.\\nTaoyuan  33066\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AcSiP Technology Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "9C65F9",
+			"OUISize": 24,
+			"OrgAddress": "3F-1, No. 207, Fusing Rd.\\nTaoyuan  Taiwan  33066\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AcSiP Technology Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

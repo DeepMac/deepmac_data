@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-07-20",
+			"EventType": "add",
+			"OUI": "2437EF",
+			"OUISize": 24,
+			"OrgAddress": "Via Cantonale 4\\nS. Antonino Ticino 6592\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "EMC Electronic Media Communication SA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "2437EF",
+			"OUISize": 24,
+			"OrgAddress": "Via Cantonale 4\\nS. Antonino  Ticino  6592\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "EMC Electronic Media Communication SA",
+			"Source": "IEEE"
+		}
+	]
+}

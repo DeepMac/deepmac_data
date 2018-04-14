@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0010F0",
+			"OUISize": 24,
+			"OrgAddress": "GMBH & CO. KG\\nAUF DEM STUTZELBERT\\nD-35745 HERBORN\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "RITTAL-WERK RUDOLF LOH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0010F0",
+			"OUISize": 24,
+			"OrgAddress": "GMBH & CO. KG\\nAUF DEM STUTZELBERT D-35745 HERBORN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "RITTAL-WERK RUDOLF LOH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "delete",
+			"OUI": "0010F0",
+			"OUISize": 24,
+			"OrgAddress": "GMBH & CO. KG\\nAUF DEM STUTZELBERT D-35745 HERBORN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "RITTAL-WERK RUDOLF LOH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-07-27",
+			"EventType": "add",
+			"OUI": "0010F0",
+			"OUISize": 24,
+			"OrgAddress": "AUF DEM STUTZELBERG\\nD-35745 HERBORN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "RITTAL-WERK RUDOLF LOH GmbH & Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0010F0",
+			"OUISize": 24,
+			"OrgAddress": "AUF DEM STUTZELBERG\\nD-35745 HERBORN\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "RITTAL-WERK RUDOLF LOH GmbH & Co.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-23",
+			"EventType": "add",
+			"OUI": "D0D94F1",
+			"OUISize": 28,
+			"OrgAddress": "Gartenstrasse 10\\nNeumuenster  Schleswig Holstein  24534\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "mycable GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

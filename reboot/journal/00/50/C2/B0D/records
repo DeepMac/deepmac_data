@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B0D",
+			"OUISize": 36,
+			"OrgAddress": "Sanno 3-45-3\\nSanno Hills 2F\\nOta ku Tokyo 143-0023\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Japan Electronics System, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

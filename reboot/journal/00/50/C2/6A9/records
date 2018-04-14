@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26A9",
+			"OUISize": 36,
+			"OrgAddress": "2313 Lockhill Selma Rd #242\\nSan Antonio TX 78230\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Armida Technologies Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

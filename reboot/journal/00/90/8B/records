@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00908B",
+			"OUISize": 24,
+			"OrgAddress": "2099 GATEWAY PLACE - #750\\nSAN JOSE  CA  95110\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CELL COMPUTING, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00908B",
+			"OUISize": 24,
+			"OrgAddress": "2099 GATEWAY PLACE - #750\\nSAN JOSE CA 95110\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CELL COMPUTING, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-10-01",
+			"EventType": "change",
+			"OUI": "00908B",
+			"OUISize": 24,
+			"OrgAddress": "2600 Fernbrook Lane\\nSuite 130\\nPlymouth MN 55447\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PFU Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-10",
+			"EventType": "change",
+			"OUI": "00908B",
+			"OUISize": 24,
+			"OrgAddress": "2600 Fernbrook Lane\\nSuite 130\\nPlymouth MN 55447\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Tattile SRL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00908B",
+			"OUISize": 24,
+			"OrgAddress": "2600 Fernbrook Lane\\nPlymouth  MN  55447\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Tattile SRL",
+			"Source": "IEEE"
+		}
+	]
+}

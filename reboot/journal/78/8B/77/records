@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-24",
+			"EventType": "add",
+			"OUI": "788B77",
+			"OUISize": 24,
+			"OrgAddress": "Sadovnicheskaya 44 s.4\\nMoscow    115035\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Standar Telecom",
+			"Source": "IEEE"
+		}
+	]
+}

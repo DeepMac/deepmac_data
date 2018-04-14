@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E2C",
+			"OUISize": 36,
+			"OrgAddress": "Meiendorfer Strasse 205\\nHamburg  22145\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "EN ElectronicNetwork Hamburg GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

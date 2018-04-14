@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-31",
+			"EventType": "add",
+			"OUI": "50D37F",
+			"OUISize": 24,
+			"OrgAddress": "6F, No. 1168 Huyi Road, Nanxiang Town Jiading District Shanghai 201800 CHINA\\nshanghai    201800\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Yu Fly Mikly Way Science and Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

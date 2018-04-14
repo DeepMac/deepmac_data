@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-02-16",
+			"EventType": "add",
+			"OUI": "AC0142",
+			"OUISize": 24,
+			"OrgAddress": "Dzerbenes iela 14\\nRiga  LV-1006\\n\\n",
+			"OrgCountry": "LATVIA",
+			"OrgName": "Uriel Technologies SIA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "AC0142",
+			"OUISize": 24,
+			"OrgAddress": "Dzerbenes iela 14\\nRiga    LV-1006\\n\\n",
+			"OrgCountry": "LV",
+			"OrgName": "Uriel Technologies SIA",
+			"Source": "IEEE"
+		}
+	]
+}

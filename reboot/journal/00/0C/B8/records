@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000CB8",
+			"OUISize": 24,
+			"OrgAddress": "z.H. Andreas Claus\\nGänsemarkt 16-18\\nEssen NRW 45127\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEDION AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "000CB8",
+			"OUISize": 24,
+			"OrgAddress": "z.H. Andreas Claus\\nGÃ¤nsemarkt 16-18\\nEssen NRW 45127\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEDION AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "000CB8",
+			"OUISize": 24,
+			"OrgAddress": "z.H. Andreas Claus\\nGänsemarkt 16-18\\nEssen NRW 45127\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEDION AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "000CB8",
+			"OUISize": 24,
+			"OrgAddress": "z.H. Andreas Claus\\nGÃÂ¤nsemarkt 16-18\\nEssen NRW 45127\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEDION AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "000CB8",
+			"OUISize": 24,
+			"OrgAddress": "z.H. Andreas Claus\\nGänsemarkt 16-18\\nEssen NRW 45127\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEDION AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-18",
+			"EventType": "change",
+			"OUI": "000CB8",
+			"OUISize": 24,
+			"OrgAddress": "Am Zehnthof 77\\nEssen NRW 45307\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEDION AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000CB8",
+			"OUISize": 24,
+			"OrgAddress": "Am Zehnthof 77\\nEssen  NRW  45307\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MEDION AG",
+			"Source": "IEEE"
+		}
+	]
+}

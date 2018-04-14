@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00306C",
+			"OUISize": 24,
+			"OrgAddress": "Greschbachstr. 12\\n76229 Karlsruhe\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hitex Holding GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00306C",
+			"OUISize": 24,
+			"OrgAddress": "GreschbachstraÃe 12\\n76229 Karlsruhe\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hitex Holding GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00306C",
+			"OUISize": 24,
+			"OrgAddress": "Greschbachstr. 12\\n76229 Karlsruhe\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hitex Holding GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00306C",
+			"OUISize": 24,
+			"OrgAddress": "GreschbachstraÃe 12\\n76229 Karlsruhe\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hitex Holding GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00306C",
+			"OUISize": 24,
+			"OrgAddress": "GreschbachstraÃe 12\\n76229 Karlsruhe\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Hitex Holding GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

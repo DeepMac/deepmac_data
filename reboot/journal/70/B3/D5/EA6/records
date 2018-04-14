@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-09",
+			"EventType": "add",
+			"OUI": "70B3D5EA6",
+			"OUISize": 36,
+			"OrgAddress": "Dmitriy Donskoy, 35A, 526\\nTver    170006\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Galios",
+			"Source": "IEEE"
+		}
+	]
+}

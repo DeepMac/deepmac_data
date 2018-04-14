@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B31",
+			"OUISize": 36,
+			"OrgAddress": "Businesspark Giessenmatt 2\\nSins AG CH-5643\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Shop Safe AG",
+			"Source": "IEEE"
+		}
+	]
+}

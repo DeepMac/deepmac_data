@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-02-09",
+			"EventType": "add",
+			"OUI": "001B69",
+			"OUISize": 24,
+			"OrgAddress": "16F, No. 295, Tz-Chrong Road\\nTamshui Taipei Hsien 25162\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Equaline Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "001B69",
+			"OUISize": 24,
+			"OrgAddress": "9F, No. 234, Section 4, Cheng-De Road,\\nTaipei Hsien 25162\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Equaline Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001B69",
+			"OUISize": 24,
+			"OrgAddress": "9F, No. 234, Section 4, Cheng-De Road,\\nTaipei Hsien 25162\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Equaline Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B69",
+			"OUISize": 24,
+			"OrgAddress": "9F, No. 234, Section 4, Cheng-De Road,\\nTaipei Hsien  25162\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Equaline Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

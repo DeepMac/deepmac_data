@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2544",
+			"OUISize": 36,
+			"OrgAddress": "16842 Von Karman Ave., Suite 100\\nIrvine CA 92606\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Zetera",
+			"Source": "IEEE"
+		}
+	]
+}

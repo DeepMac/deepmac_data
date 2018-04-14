@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-05-24",
+			"EventType": "add",
+			"OUI": "703187",
+			"OUISize": 24,
+			"OrgAddress": "ï¿½uï¿½ere Zwickauer Str. 8\\nZwickau  08064\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ACX GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "703187",
+			"OUISize": 24,
+			"OrgAddress": "ÃuÃere Zwickauer Str. 8\\nZwickau  08064\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ACX GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "703187",
+			"OUISize": 24,
+			"OrgAddress": "Äußere Zwickauer Str. 8\\nZwickau  08064\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ACX GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "703187",
+			"OUISize": 24,
+			"OrgAddress": "ÃÂÃ¢ÂÂuÃÂÃÂ¸ere Zwickauer Str. 8\\nZwickau  08064\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ACX GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "703187",
+			"OUISize": 24,
+			"OrgAddress": "ÃuÃere Zwickauer StraÃe 8\\nZwickau  08064\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ACX GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "703187",
+			"OUISize": 24,
+			"OrgAddress": "ÃuÃere Zwickauer StraÃe 8\\nZwickau    08064\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ACX GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

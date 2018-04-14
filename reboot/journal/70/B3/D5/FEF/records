@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-14",
+			"EventType": "add",
+			"OUI": "70B3D5FEF",
+			"OUISize": 36,
+			"OrgAddress": "22F,BUILDING-1 OF HUA RUI CENTER,FIRST JIANSHE ROAD,XIAOSHAN DISTRICT\\nHANGZHOU  ZHEJIANG  311200\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HANGZHOU HUALAN MICROELECTRONIQUE CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

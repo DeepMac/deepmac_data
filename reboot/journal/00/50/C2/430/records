@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2430",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 6729\\nSyracuse NY 13217\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Arcom Digital",
+			"Source": "IEEE"
+		}
+	]
+}

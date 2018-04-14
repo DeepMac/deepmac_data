@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-10-23",
+			"EventType": "add",
+			"OUI": "0CEFAFD",
+			"OUISize": 28,
+			"OrgAddress": "6th Radialnaya, 9\\nMoscow 115404\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "CJSC Â«Svyaz EngineeringÂ»",
+			"Source": "IEEE"
+		}
+	]
+}

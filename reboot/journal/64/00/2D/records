@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-25",
+			"EventType": "add",
+			"OUI": "64002D",
+			"OUISize": 24,
+			"OrgAddress": "13 PingDong Road 4 ,\\nNanping Sci & Tech, Indt'l Park\\nZhuhai GD  519060\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Powerlinq Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

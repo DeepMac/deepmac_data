@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00502D",
+			"OUISize": 24,
+			"OrgAddress": "1F, NO. 7, R&D 1ST ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "ACCEL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00502D",
+			"OUISize": 24,
+			"OrgAddress": "1F, NO. 7, R&D 1ST ROAD\\nSCIENCE-BASED INDUSTRIAL PARK HSINCHU\\n\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "ACCEL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00502D",
+			"OUISize": 24,
+			"OrgAddress": "1F, NO. 7, R&D 1ST ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ACCEL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "00502D",
+			"OUISize": 24,
+			"OrgAddress": "1F, NO. 7, R&D 1ST ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ACCEL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00502D",
+			"OUISize": 24,
+			"OrgAddress": "1F, NO. 7, R&D 1ST ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ACCEL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00502D",
+			"OUISize": 24,
+			"OrgAddress": "1F, NO. 7, R&D 1ST ROAD\\nHSINCHU\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ACCEL, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

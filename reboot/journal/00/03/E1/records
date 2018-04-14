@@ -1,0 +1,103 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "add",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F, No. 175, Ta-Tung Road, Sec. 1\\nHsi-Chih, Taipei Hsien,\\n\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F, No. 175, Ta-Tung Road, Sec. 1\\nHsi-Chih, Taipei Hsien,\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F, No. 175, Ta-Tung Road, Sec. 1\\nHsi-Chih, Taipei Hsien,\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F, No. 175, Ta-Tung Road, Sec. 1\\nHsi-Chih, Taipei Hsien,\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F,No.111-6,Shing-De Rd\\nSan-Chung,\\nTaipei   241\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F,No.111-6,Shing-De Rd\\nSan-Chung,\\nTaipei  241\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F,No.111-6,Shing-De Rd\\nSan-Chung,\\nTaipei   241\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F,No.111-6,Shing-De Rd\\nSan-Chung,\\nTaipei   241\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0003E1",
+			"OUISize": 24,
+			"OrgAddress": "9F,No.111-6,Shing-De Rd\\nTaipei     241\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Winmate Communication, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-28",
+			"EventType": "add",
+			"OUI": "70B3D5B97",
+			"OUISize": 36,
+			"OrgAddress": "5318 East 2nd. St, #700\\nLong Beach  CA  90803\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Canam Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

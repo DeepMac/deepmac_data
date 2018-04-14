@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-21",
+			"EventType": "add",
+			"OUI": "4C65A89",
+			"OUISize": 28,
+			"OrgAddress": "No.22 xihu industrial park ,xikeng henggang Town Longgang District\\nshenzhen   Guang Dong      518115\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN LISAIER TRONICS CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

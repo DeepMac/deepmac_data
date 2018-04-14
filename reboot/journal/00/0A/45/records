@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000A45",
+			"OUISize": 24,
+			"OrgAddress": "Naruse 1,348\\nMachida Tokyo 194-8566\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Audio-Technica Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000A45",
+			"OUISize": 24,
+			"OrgAddress": "Naruse 1,348\\nMachida  Tokyo  194-8566\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Audio-Technica Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

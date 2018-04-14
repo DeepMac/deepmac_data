@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2871",
+			"OUISize": 36,
+			"OrgAddress": "Woelkestrasse 11\\nSchweitenkirchen Bayern 85301\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "R-S-I Elektrotechnik GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

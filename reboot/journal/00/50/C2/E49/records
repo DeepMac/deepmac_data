@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E49",
+			"OUISize": 36,
+			"OrgAddress": "AV. IMPERATRIZ LEOPOLDINA, 1661\\nVILA HAMBURGUESA\\nSAO PAULO  05305-007\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "CTF TECHNOLOGIES DO BRASIL LTDA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2E49",
+			"OUISize": 36,
+			"OrgAddress": "AV. IMPERATRIZ LEOPOLDINA, 1661\\nVILA HAMBURGUESA\\nSÃ£o Paulo  05305-007\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "CTF TECHNOLOGIES DO BRASIL LTDA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2E49",
+			"OUISize": 36,
+			"OrgAddress": "AV. IMPERATRIZ LEOPOLDINA, 1661\\nVILA HAMBURGUESA\\nSÃÂ£o Paulo  05305-007\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "CTF TECHNOLOGIES DO BRASIL LTDA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2E49",
+			"OUISize": 36,
+			"OrgAddress": "AV. IMPERATRIZ LEOPOLDINA, 1661\\nVILA HAMBURGUESA\\nSÃ£o Paulo  05305-007\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "CTF TECHNOLOGIES DO BRASIL LTDA",
+			"Source": "IEEE"
+		}
+	]
+}

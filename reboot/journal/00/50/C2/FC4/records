@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FC4",
+			"OUISize": 36,
+			"OrgAddress": "Saiwai-cyo 2-1-17\\nChikusei Ibaraki 308-0848\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Kyowadensi",
+			"Source": "IEEE"
+		}
+	]
+}

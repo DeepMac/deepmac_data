@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2408",
+			"OUISize": 36,
+			"OrgAddress": "1724 Picasso Ave.\\nDavis CA 95616\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TERN, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

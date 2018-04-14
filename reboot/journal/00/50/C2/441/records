@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2441",
+			"OUISize": 36,
+			"OrgAddress": "103-15, Galwor-dong, Yongsan-gu\\nSeoul  140-807\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Sammi Information Systems Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

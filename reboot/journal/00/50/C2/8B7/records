@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28B7",
+			"OUISize": 36,
+			"OrgAddress": "Springfield\\nLinlithgow West Lothian EH49 7NX\\n\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Calnex Solutions Limited",
+			"Source": "IEEE"
+		}
+	]
+}

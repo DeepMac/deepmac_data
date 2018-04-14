@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-26",
+			"EventType": "add",
+			"OUI": "20EAC7",
+			"OUISize": 24,
+			"OrgAddress": "ROOM1002~1004,\\nBaoYuan HuaFeng Headquarters' Business Building, Xixiang Avenue (west) ,\\nBao'an District Shenzhen Guangdong 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHENZHEN RIOPINE ELECTRONICS CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "20EAC7",
+			"OUISize": 24,
+			"OrgAddress": "ROOM1002~1004, BaoYuan HuaFeng Headquarters' Business Building, Xixiang Avenue (west) , Bao'an District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN RIOPINE ELECTRONICS CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

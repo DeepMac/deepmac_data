@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27C5",
+			"OUISize": 36,
+			"OrgAddress": "3001 Summit Ave\\nSuite 100\\nPlano TX 75074\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Venture Research Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

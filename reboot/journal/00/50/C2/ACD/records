@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2ACD",
+			"OUISize": 36,
+			"OrgAddress": "Hermiankatu 6-8 H\\nTampere Suomi 33720\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "MeshWorks Wireless Oy",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-09-05",
+			"EventType": "add",
+			"OUI": "DCE71C",
+			"OUISize": 24,
+			"OrgAddress": "Kleinwoellmiss 53\\nSt. Martin a. W. Styria A-8580\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "AUG Elektronik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "DCE71C",
+			"OUISize": 24,
+			"OrgAddress": "Kleinwoellmiss 53\\nSt. Martin a. W.  Styria  A-8580\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "AUG Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C019",
+			"OUISize": 24,
+			"OrgAddress": "20 \"B\" STREET\\nBURLINGTON  MA  01803\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LEAP TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C019",
+			"OUISize": 24,
+			"OrgAddress": "20 \"B\" STREET\\nBURLINGTON MA 01803\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LEAP TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00C019",
+			"OUISize": 24,
+			"OrgAddress": "20\\nBURLINGTON MA 01803\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LEAP TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C019",
+			"OUISize": 24,
+			"OrgAddress": "20\\nBURLINGTON  MA  01803\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "LEAP TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

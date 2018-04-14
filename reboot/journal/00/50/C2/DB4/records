@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DB4",
+			"OUISize": 36,
+			"OrgAddress": "Klara Cetkin str., 10A\\nPerm Region 614010\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "ZAO NPC \"Kompjuternie Technologii\"",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "change",
+			"OUI": "0050C2DB4",
+			"OUISize": 36,
+			"OrgAddress": "Komsomolskiy av., 90-17\\nPerm Perm Region 614010\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "ZAO NPC \"Kompjuternie Technologii\"",
+			"Source": "IEEE"
+		}
+	]
+}

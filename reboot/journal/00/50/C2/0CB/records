@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20CB",
+			"OUISize": 36,
+			"OrgAddress": "1027 Avenue Dactan Lefebvre\\n06271 Villenaur Lou Pet cedex\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "STUDIEL",
+			"Source": "IEEE"
+		}
+	]
+}

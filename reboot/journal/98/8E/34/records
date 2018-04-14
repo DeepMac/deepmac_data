@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-09-30",
+			"EventType": "add",
+			"OUI": "988E34",
+			"OUISize": 24,
+			"OrgAddress": "No.288,LONGTAN ROAD,\\nJINHUA CITY ZHEJIANG PROVINCE, 321017\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "ZHEJIANG BOXSAM ELECTRONIC CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "988E34",
+			"OUISize": 24,
+			"OrgAddress": "No.288,LONGTAN ROAD,\\nJINHUA CITY  ZHEJIANG PROVINCE,  321017\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ZHEJIANG BOXSAM ELECTRONIC CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

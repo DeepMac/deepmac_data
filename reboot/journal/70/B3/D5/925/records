@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-11",
+			"EventType": "add",
+			"OUI": "70B3D5925",
+			"OUISize": 36,
+			"OrgAddress": "via Einaudi, 8\\nAlessandria  AL  15121\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Diamante Lighting Srl",
+			"Source": "IEEE"
+		}
+	]
+}

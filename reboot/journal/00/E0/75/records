@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E075",
+			"OUISize": 24,
+			"OrgAddress": "3700 STATE ST.,   STE#200\\nSANTA BARBARA  CA  93105\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ATLAS COMPUTER EQUIPMENT, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00E075",
+			"OUISize": 24,
+			"OrgAddress": "3700 STATE ST.,   STE#200\\nSANTA BARBARA CA 93105\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ATLAS COMPUTER EQUIPMENT, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "change",
+			"OUI": "00E075",
+			"OUISize": 24,
+			"OrgAddress": "127 Jetplex Circle\\nMadison AL 35758\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Verilink Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E075",
+			"OUISize": 24,
+			"OrgAddress": "127 Jetplex Circle\\nMadison  AL  35758\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Verilink Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

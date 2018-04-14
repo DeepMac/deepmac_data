@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020D4",
+			"OUISize": 24,
+			"OrgAddress": "2255 MARTIN AVE.,-SUITE \"F\"\\nSANTA CLARA  CA  95050\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ZEITNET INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "0020D4",
+			"OUISize": 24,
+			"OrgAddress": "35 INDUSTRIAL WAY\\nP.O. BOX 5005\\nROHESTER  NH  03866-5005\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CABLETRON - ZEITTNET INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0020D4",
+			"OUISize": 24,
+			"OrgAddress": "35 INDUSTRIAL WAY\\nP.O. BOX 5005\\nROHESTER NH 03866-5005\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CABLETRON - ZEITTNET INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020D4",
+			"OUISize": 24,
+			"OrgAddress": "35 INDUSTRIAL WAY\\nROHESTER  NH  03866-5005\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CABLETRON - ZEITTNET INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-03",
+			"EventType": "change",
+			"OUI": "0020D4",
+			"OUISize": 24,
+			"OrgAddress": "35 INDUSTRIAL WAY\\nROHESTER  NH  03866-5005\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cabletron Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

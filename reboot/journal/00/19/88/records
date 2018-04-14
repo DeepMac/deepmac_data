@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-09-03",
+			"EventType": "add",
+			"OUI": "001988",
+			"OUISize": 24,
+			"OrgAddress": "2107 N. 1st Street\\nSuite 540\\nSan Jose CA 95131\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Wi2Wi, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001988",
+			"OUISize": 24,
+			"OrgAddress": "2107 N. 1st Street\\nSan Jose  CA  95131\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Wi2Wi, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-21",
+			"EventType": "add",
+			"OUI": "78D800C",
+			"OUISize": 28,
+			"OrgAddress": "301,3/F,Longtangge,1183 Liuxian Avenue,Nanshan\\nShenzhen  Guangdong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Chenzhuo Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

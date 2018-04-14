@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D58",
+			"OUISize": 36,
+			"OrgAddress": "L.Kurbasa Ave 2-B\\nKiev  03148\\n\\n",
+			"OrgCountry": "UKRAINE",
+			"OrgName": "NIK-ELEKTRONIKA Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

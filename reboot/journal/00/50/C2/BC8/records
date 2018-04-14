@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BC8",
+			"OUISize": 36,
+			"OrgAddress": "22 Nederdale Close\\nYarm Stockton-on-Tees TS15 9UE\\n\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "AGWTech Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

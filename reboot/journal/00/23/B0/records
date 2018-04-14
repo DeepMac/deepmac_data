@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0023B0",
+			"OUISize": 24,
+			"OrgAddress": "11F, No. 111, Sec 2, Keelung Rd., Sinyi Distric\\nTaipei Taiwan 110\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "COMXION Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0023B0",
+			"OUISize": 24,
+			"OrgAddress": "11F, No. 111, Sec 2, Keelung Rd., Sinyi Distric\\nTaipei Taiwan 110\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "COMXION Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0023B0",
+			"OUISize": 24,
+			"OrgAddress": "11F, No. 111, Sec 2, Keelung Rd., Sinyi Distric\\nTaipei  Taiwan  110\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "COMXION Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

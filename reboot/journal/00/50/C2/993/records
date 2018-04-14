@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2993",
+			"OUISize": 36,
+			"OrgAddress": "101-511 DIGITAL EMPIRE 2\\n486, SHIN-DONG, YOUNG TONG-GU\\nSUWON-SI KYUNGGI-DO, 443-390\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UNETCONVERGENCE CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

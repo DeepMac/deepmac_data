@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2948",
+			"OUISize": 36,
+			"OrgAddress": "P.O. 180\\nKing Abdul Aziz Road, 16th Cross\\nAlkhobar Eastern Province 31952\\n",
+			"OrgCountry": "SAUDI ARABIA",
+			"OrgName": "ELECTRONIA",
+			"Source": "IEEE"
+		}
+	]
+}

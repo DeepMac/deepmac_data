@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-12-22",
+			"EventType": "add",
+			"OUI": "0CF3EE",
+			"OUISize": 24,
+			"OrgAddress": "Rue des Sors 3\\nMarin-Epaginer Neuchtel 2074\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "EM Microelectronic",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-14",
+			"EventType": "change",
+			"OUI": "0CF3EE",
+			"OUISize": 24,
+			"OrgAddress": "Rue des Sors 3\\nMarin-Epagnier Neuchatel 2074\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "EM Microelectronic",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0CF3EE",
+			"OUISize": 24,
+			"OrgAddress": "Rue des Sors 3\\nMarin-Epagnier  Neuchatel  2074\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "EM Microelectronic",
+			"Source": "IEEE"
+		}
+	]
+}

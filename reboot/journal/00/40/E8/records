@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0040E8",
+			"OUISize": 24,
+			"OrgAddress": "983 CONCORD STREET\\nFRAMINGHAM  MA 01701\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CHARLES RIVER DATA SYSTEMS,INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0040E8",
+			"OUISize": 24,
+			"OrgAddress": "983 CONCORD STREET\\nFRAMINGHAM MA 01701\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CHARLES RIVER DATA SYSTEMS,INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0040E8",
+			"OUISize": 24,
+			"OrgAddress": "983 CONCORD STREET\\nFRAMINGHAM  MA  01701\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CHARLES RIVER DATA SYSTEMS,INC",
+			"Source": "IEEE"
+		}
+	]
+}

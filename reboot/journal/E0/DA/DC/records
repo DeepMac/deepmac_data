@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-02",
+			"EventType": "add",
+			"OUI": "E0DADC",
+			"OUISize": 24,
+			"OrgAddress": "3-12, Moriyacho, Kanagawa-ku\\nYokohama-shi Kanagawa 221-0022\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "JVC KENWOOD Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E0DADC",
+			"OUISize": 24,
+			"OrgAddress": "3-12, Moriyacho, Kanagawa-ku\\nYokohama-shi  Kanagawa  221-0022\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "JVC KENWOOD Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

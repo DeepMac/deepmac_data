@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "add",
+			"OUI": "40D8550E1",
+			"OUISize": 36,
+			"OrgAddress": "Hellweg 203-205\\nSchloss Holte Nordrhein Westfalen 33758\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "STV Electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

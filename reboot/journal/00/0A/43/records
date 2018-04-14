@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000A43",
+			"OUISize": 24,
+			"OrgAddress": "12, Lane 551, Min-Tsu Road Sec. 5 Yang-M\\nTaoyuan  326\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Chunghwa Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000A43",
+			"OUISize": 24,
+			"OrgAddress": "12, Lane 551, Min-Tsu Road\\nSec. 5 Yang-Mei,\\nTaoyuan  326\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Chunghwa Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000A43",
+			"OUISize": 24,
+			"OrgAddress": "12, Lane 551, Min-Tsu Road\\nSec. 5 Yang-Mei,\\nTaoyuan  326\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Chunghwa Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000A43",
+			"OUISize": 24,
+			"OrgAddress": "12, Lane 551, Min-Tsu Road\\nTaoyuan    326\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Chunghwa Telecom Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27A0",
+			"OUISize": 36,
+			"OrgAddress": "2533 Centennial Blvd\\nJeffersonville IN 47130\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MedAvant Healthcare",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00204B",
+			"OUISize": 24,
+			"OrgAddress": "NO. 18, PEI YUAN ROAD\\nCHUNG-LI CITY, TAO-YUAN HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "AUTOCOMPUTER CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00204B",
+			"OUISize": 24,
+			"OrgAddress": "NO. 18, PEI YUAN ROAD\\nCHUNG-LI CITY, TAO-YUAN HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "AUTOCOMPUTER CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00204B",
+			"OUISize": 24,
+			"OrgAddress": "NO. 18, PEI YUAN ROAD\\nCHUNG-LI CITY, TAO-YUAN HSIEN\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "AUTOCOMPUTER CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00204B",
+			"OUISize": 24,
+			"OrgAddress": "NO. 18, PEI YUAN ROAD\\nCHUNG-LI CITY, TAO-YUAN HSIEN\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AUTOCOMPUTER CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00204B",
+			"OUISize": 24,
+			"OrgAddress": "NO. 18, PEI YUAN ROAD\\nTAIWAN  TAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AUTOCOMPUTER CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

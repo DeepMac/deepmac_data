@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-05-22",
+			"EventType": "add",
+			"OUI": "906FA9",
+			"OUISize": 24,
+			"OrgAddress": "No.1 Putian Road,Yuhuamenwai,Nanjing\\nNan Jing Jiang Su 210022\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "906FA9",
+			"OUISize": 24,
+			"OrgAddress": "No.1 Putian Road,Yuhuamenwai,Nanjing\\nNan Jing  Jiang Su  210022\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "NANJING PUTIAN TELECOMMUNICATIONS TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

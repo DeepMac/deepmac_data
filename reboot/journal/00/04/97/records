@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "000497",
+			"OUISize": 24,
+			"OrgAddress": "Schoellinger Feld 28\\n58300 Wetter, F.R.\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MacroSystem Digital Video AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000497",
+			"OUISize": 24,
+			"OrgAddress": "Schoellinger Feld 28\\n58300 Wetter, F.R.\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MacroSystem Digital Video AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000497",
+			"OUISize": 24,
+			"OrgAddress": "Schoellinger Feld 28\\n58300 Wetter, F.R.\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MacroSystem Digital Video AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000497",
+			"OUISize": 24,
+			"OrgAddress": "Schoellinger Feld 28\\n58300 Wetter, F.R.\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MacroSystem Digital Video AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000497",
+			"OUISize": 24,
+			"OrgAddress": "Schoellinger Feld 28\\n58300 Wetter, F.R.\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MacroSystem Digital Video AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000497",
+			"OUISize": 24,
+			"OrgAddress": "Schoellinger Feld 28\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MacroSystem Digital Video AG",
+			"Source": "IEEE"
+		}
+	]
+}

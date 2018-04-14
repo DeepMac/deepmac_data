@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-23",
+			"EventType": "add",
+			"OUI": "E084F3",
+			"OUISize": 24,
+			"OrgAddress": "87 Magill Street\\nSudbury  Ontario  P3Y1K6\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "High Grade Controls Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

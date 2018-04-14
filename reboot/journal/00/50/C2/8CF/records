@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28CF",
+			"OUISize": 36,
+			"OrgAddress": "6A Massada St.\\nHod Hasharon  45294\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "GigaLinx Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

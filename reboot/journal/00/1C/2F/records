@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "add",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "Stätzlinger Straße 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "StÃ¤tzlinger StraÃe 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "Stätzlinger Straße 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "StÃÂ¤tzlinger StraÃÂe 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "Stätzlinger Straße 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "StÃÂ¤tzlinger StraÃÂe 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "StÃÂ¤tzlinger StraÃÅ¸e 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "StÃÂÃÂÃÂÃÂ¤tzlinger StraÃÂÃÂÃÂÃÂ¸e 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "StÃ¤tzlinger  SStraÃe 70\\nAugsburg Bavaria 86165\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C2F",
+			"OUISize": 24,
+			"OrgAddress": "StÃ¤tzlinger  SStraÃe 70\\nAugsburg  Bavaria  86165\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Pfister GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

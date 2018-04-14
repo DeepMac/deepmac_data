@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FCB",
+			"OUISize": 36,
+			"OrgAddress": "Unit219A, 2/F, Enterprise Place, No.5 Science Park Science Park,\\nHong Kong Science Park\\nShatin\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Propagation Systems Limited",
+			"Source": "IEEE"
+		}
+	]
+}

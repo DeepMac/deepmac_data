@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A27",
+			"OUISize": 36,
+			"OrgAddress": "Bottenbacher Str. 78\\nKreuztal NRW 57223\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "meconet e. K.",
+			"Source": "IEEE"
+		}
+	]
+}

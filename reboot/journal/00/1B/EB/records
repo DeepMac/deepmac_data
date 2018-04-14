@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "add",
+			"OUI": "001BEB",
+			"OUISize": 24,
+			"OrgAddress": "8F., No.12, Wucyuan 7th Rd.\\nWugu Township\\nTaipei County  248\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "DMP Electronics INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001BEB",
+			"OUISize": 24,
+			"OrgAddress": "8F., No.12, Wucyuan 7th Rd.\\nWugu Township\\nTaipei County  248\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "DMP Electronics INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BEB",
+			"OUISize": 24,
+			"OrgAddress": "8F., No.12, Wucyuan 7th Rd.,\\nTaipei County    248\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "DMP Electronics INC.",
+			"Source": "IEEE"
+		}
+	]
+}

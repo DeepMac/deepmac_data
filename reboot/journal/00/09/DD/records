@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0009DD",
+			"OUISize": 24,
+			"OrgAddress": "Room 305, Bldg. 52 No. 195-28\\nSec. 4 Chung-Hsing Rd.\\nChutung, Hsinchu  310\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Mavin Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0009DD",
+			"OUISize": 24,
+			"OrgAddress": "Room 305, Bldg. 52 No. 195-28\\nSec. 4 Chung-Hsing Rd.\\nChutung, Hsinchu  310\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Mavin Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0009DD",
+			"OUISize": 24,
+			"OrgAddress": "Room 305, Bldg. 52 No. 195-28\\nSec. 4 Chung-Hsing Rd.\\nChutung, Hsinchu  310\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Mavin Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0009DD",
+			"OUISize": 24,
+			"OrgAddress": "Room 305, Bldg. 52 No. 195-28\\nChutung, Hsinchu    310\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Mavin Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

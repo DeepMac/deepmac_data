@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C279E",
+			"OUISize": 36,
+			"OrgAddress": "550 Bright Street\\nListowel Ontario N4W 3W3\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Benshaw Canada Controls, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

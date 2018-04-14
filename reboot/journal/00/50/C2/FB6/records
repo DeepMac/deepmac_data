@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FB6",
+			"OUISize": 36,
+			"OrgAddress": "Serdobolskaya street 65A\\nSt.Petersburg  197342\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "ARGUS-SPECTRUM",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-25",
+			"EventType": "add",
+			"OUI": "70B3D508D",
+			"OUISize": 36,
+			"OrgAddress": "505 room, No.6-18 building, XinHe road, Shajing town, Baoan district\\nSHENZHEN  GUANGDONG  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Clover Electronics Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

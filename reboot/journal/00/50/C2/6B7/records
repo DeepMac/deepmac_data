@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26B7",
+			"OUISize": 36,
+			"OrgAddress": "Nisso 15 Bld. 4F\\n2-17-19 Shinyokohama, Kohoku\\nYokohama Kanagawa 222-0033\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "System LSI CO.Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

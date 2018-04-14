@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-06-09",
+			"EventType": "add",
+			"OUI": "8C8E76",
+			"OUISize": 24,
+			"OrgAddress": "Groï¿½-Berliner Damm 37\\nBerlin  12487\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "taskit GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "8C8E76",
+			"OUISize": 24,
+			"OrgAddress": "GroÃ-Berliner Damm 37\\nBerlin  12487\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "taskit GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "8C8E76",
+			"OUISize": 24,
+			"OrgAddress": "Groß-Berliner Damm 37\\nBerlin  12487\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "taskit GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "8C8E76",
+			"OUISize": 24,
+			"OrgAddress": "GroÃÂÃÂ¸-Berliner Damm 37\\nBerlin  12487\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "taskit GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "8C8E76",
+			"OUISize": 24,
+			"OrgAddress": "GroÃ-Berliner Damm 37\\nBerlin  12487\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "taskit GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "8C8E76",
+			"OUISize": 24,
+			"OrgAddress": "GroÃ-Berliner Damm 37\\nBerlin    12487\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "taskit GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

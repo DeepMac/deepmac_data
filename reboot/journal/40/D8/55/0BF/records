@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "add",
+			"OUI": "40D8550BF",
+			"OUISize": 36,
+			"OrgAddress": "#199, Setec Industrial Park\\nDakan, Xili Town\\nNanshan District, Shenzhen Guangdong 518055\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen SETEC Power Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

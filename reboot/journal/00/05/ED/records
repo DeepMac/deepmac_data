@@ -1,0 +1,180 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Transferzentrum IE\\nWerk-VI-Strabe 26\\nA-8605 Kapfenberg\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneaum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Transferzentrum IE\\nWerk-VI-Strabe 26 A-8605 Kapfenberg\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneaum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Transferzentrum IE\\nWerk-VI-Strabe 26 A-8605 Kapfenberg\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-02-09",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte Poststraße 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte PoststraÃe 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte Poststraße 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte PoststraÃÂe 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte Poststraße 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte PoststraÃÂe 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte PoststraÃÅ¸e 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte PoststraÃÂÃÂÃÂÃÂ¸e 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte PoststraÃe 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte Poststrasse 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte PoststraÃe 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte Poststrasse 149\\n8020 Graz\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005ED",
+			"OUISize": 24,
+			"OrgAddress": "Alte Poststrasse 149\\n\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Technikum Joanneum GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

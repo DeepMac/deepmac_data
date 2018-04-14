@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AA7",
+			"OUISize": 36,
+			"OrgAddress": "Heimolantie 6\\nEspoo  02330\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Endeas Oy",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D6C",
+			"OUISize": 36,
+			"OrgAddress": "Product Development Department, Housing Hardware Devision\\n1-6-8, Fukuura, Kanazawa-ku\\nYokohama Kanagawa 236-0004\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ALPHA Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

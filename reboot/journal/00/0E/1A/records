@@ -1,0 +1,35 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E1A",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-08-14",
+			"EventType": "change",
+			"OUI": "000E1A",
+			"OUISize": 24,
+			"OrgAddress": "5800 Departure Drive\\nRaleigh NC 27616\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "JPS Communications",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E1A",
+			"OUISize": 24,
+			"OrgAddress": "5800 Departure Drive\\nRaleigh  NC  27616\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "JPS Communications",
+			"Source": "IEEE"
+		}
+	]
+}

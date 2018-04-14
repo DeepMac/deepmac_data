@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-18",
+			"EventType": "add",
+			"OUI": "50E971",
+			"OUISize": 24,
+			"OrgAddress": "230 Congress Street\\nBoston  MA  02110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Jibo, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

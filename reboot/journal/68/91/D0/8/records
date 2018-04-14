@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-19",
+			"EventType": "add",
+			"OUI": "6891D08",
+			"OUISize": 28,
+			"OrgAddress": "Ehrenbergstr. 11\\nIlmenau    98693\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "solvimus GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

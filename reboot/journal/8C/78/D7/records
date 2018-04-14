@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-21",
+			"EventType": "add",
+			"OUI": "8C78D7",
+			"OUISize": 24,
+			"OrgAddress": "Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District,Shenzhen,P.R.China\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN FAST TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

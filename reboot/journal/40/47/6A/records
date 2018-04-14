@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-15",
+			"EventType": "add",
+			"OUI": "40476A",
+			"OUISize": 24,
+			"OrgAddress": "655 4th St.\\nSan Francisco  CA  94107\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AG Acquisition Corp. d.b.a. ASTRO Gaming",
+			"Source": "IEEE"
+		}
+	]
+}

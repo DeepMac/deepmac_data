@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "00222B",
+			"OUISize": 24,
+			"OrgAddress": "101 Bilby Road\\nHackettstown NJ 07840\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Nucomm, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00222B",
+			"OUISize": 24,
+			"OrgAddress": "101 Bilby Road\\nHackettstown  NJ  07840\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Nucomm, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

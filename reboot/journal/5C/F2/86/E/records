@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-18",
+			"EventType": "add",
+			"OUI": "5CF286E",
+			"OUISize": 28,
+			"OrgAddress": "4-9-24 Nipponbashi, Naniwa-ku\\nOsaka    556-0005\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Daisen Electronic Industrial Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

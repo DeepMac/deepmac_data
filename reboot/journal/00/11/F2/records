@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-07-24",
+			"EventType": "add",
+			"OUI": "0011F2",
+			"OUISize": 24,
+			"OrgAddress": "17-th Line Vasilevsky Ostrov, 54-1\\nSt.Petersburg  199178\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Institute of Network Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0011F2",
+			"OUISize": 24,
+			"OrgAddress": "17-th Line Vasilevsky Ostrov, 54-1\\nSt.Petersburg    199178\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Institute of Network Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

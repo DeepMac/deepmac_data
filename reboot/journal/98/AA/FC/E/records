@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-29",
+			"EventType": "add",
+			"OUI": "98AAFCE",
+			"OUISize": 28,
+			"OrgAddress": "Al. Jana Pawla II 39a\\nKrakow    31-864\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "Comarch S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

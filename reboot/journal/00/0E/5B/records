@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E5B",
+			"OUISize": 24,
+			"OrgAddress": "9432 Baymeadows Way\\nSuite 150\\nJacksonville FL 32246\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ParkerVision - Direct2Data",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E5B",
+			"OUISize": 24,
+			"OrgAddress": "9432 Baymeadows Way\\nJacksonville  FL  32246\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ParkerVision - Direct2Data",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2105",
+			"OUISize": 36,
+			"OrgAddress": "Jakobsdalsvagen 17\\nSE-126 53 Hagersten\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Lumentis AB",
+			"Source": "IEEE"
+		}
+	]
+}

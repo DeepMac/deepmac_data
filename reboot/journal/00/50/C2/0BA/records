@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20BA",
+			"OUISize": 36,
+			"OrgAddress": "Parc Gutenberg\\n13 Voie La Cardon\\n91120 Palaiseau\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Pro-Active",
+			"Source": "IEEE"
+		}
+	]
+}

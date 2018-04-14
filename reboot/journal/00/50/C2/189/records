@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2189",
+			"OUISize": 36,
+			"OrgAddress": "Box 83\\nAlfta  822 22\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "CC Systems AB",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-02",
+			"EventType": "add",
+			"OUI": "0C130B",
+			"OUISize": 24,
+			"OrgAddress": "Lemminkaisenkatu 14-18 A\\nTurku  20520\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Uniqoteq Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0C130B",
+			"OUISize": 24,
+			"OrgAddress": "Lemminkaisenkatu 14-18 A\\nTurku    20520\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Uniqoteq Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

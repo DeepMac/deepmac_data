@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D0D",
+			"OUISize": 36,
+			"OrgAddress": "Bahnstrasse 29-31\\nRatingen NW 40878\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "DECA Card Engineering GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

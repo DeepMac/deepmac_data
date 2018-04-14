@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-08-23",
+			"EventType": "add",
+			"OUI": "1007231",
+			"OUISize": 28,
+			"OrgAddress": "Floor 6, Jinglong International Mansion,\\nChaoyang District Beijing 100107\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Beijing Assem Technology Co., ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "1007231",
+			"OUISize": 28,
+			"OrgAddress": "Floor 6, Jinglong International Plaza,\\nChaoyang District  Beijing  100107\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Assem Technology Co., ltd",
+			"Source": "IEEE"
+		}
+	]
+}

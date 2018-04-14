@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-03",
+			"EventType": "add",
+			"OUI": "C47C8DE",
+			"OUISize": 28,
+			"OrgAddress": "WiegelestraÃe 36\\nVienna    1230\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Labor Strauss Sicherungsanlagenbau GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

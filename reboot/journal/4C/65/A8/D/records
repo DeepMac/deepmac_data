@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-17",
+			"EventType": "add",
+			"OUI": "4C65A8D",
+			"OUISize": 28,
+			"OrgAddress": "Room 401, Block B, Fangheng Times Square, No. 10 Wangjing Street, Chaoyang District\\nBeijing    100102\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingping Technology (Beijing) Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

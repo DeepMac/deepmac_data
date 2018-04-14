@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001F6B",
+			"OUISize": 24,
+			"OrgAddress": "60-39,Kasan-dong,Kumchon-ku\\nSeoul  153-023\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "LG Electronics",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001F6B",
+			"OUISize": 24,
+			"OrgAddress": "60-39,Kasan-dong,Kumchon-ku\\nSeoul    153-801\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LG Electronics",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-19",
+			"EventType": "change",
+			"OUI": "001F6B",
+			"OUISize": 24,
+			"OrgAddress": "60-39,Kasan-dong,Kumchon-ku\\nSeoul    153-801\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LG Electronics (Mobile Communications)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-12",
+			"EventType": "change",
+			"OUI": "001F6B",
+			"OUISize": 24,
+			"OrgAddress": "60-39, Gasan-dong, Geumcheon-gu\\nSeoul    153-801\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LG Electronics (Mobile Communications)",
+			"Source": "IEEE"
+		}
+	]
+}

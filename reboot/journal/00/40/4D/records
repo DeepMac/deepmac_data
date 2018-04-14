@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00404D",
+			"OUISize": 24,
+			"OrgAddress": "M/S  \"O\"\\n20400 OBSERVATION DRIVE\\nGERMANTOWN  MD  20876\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TELECOMMUNICATIONS TECHNIQUES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00404D",
+			"OUISize": 24,
+			"OrgAddress": "M/S  \"O\"\\n20400 OBSERVATION DRIVE\\nGERMANTOWN MD 20876\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TELECOMMUNICATIONS TECHNIQUES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-11-16",
+			"EventType": "change",
+			"OUI": "00404D",
+			"OUISize": 24,
+			"OrgAddress": "M/S\\n20400 OBSERVATION DRIVE\\nGERMANTOWN MD 20876\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TELECOMMUNICATIONS TECHNIQUES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00404D",
+			"OUISize": 24,
+			"OrgAddress": "M/S\\nGERMANTOWN  MD  20876\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "TELECOMMUNICATIONS TECHNIQUES",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "0004AB",
+			"OUISize": 24,
+			"OrgAddress": "29 Habarzel Street.\\nTel-Aviv 69710\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Comverse Network Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0004AB",
+			"OUISize": 24,
+			"OrgAddress": "29 Habarzel Street.\\nTel-Aviv 69710\\nISRAEL\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Comverse Network Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0004AB",
+			"OUISize": 24,
+			"OrgAddress": "29 Habarzel Street.\\nTel-Aviv 69710\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Comverse Network Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0004AB",
+			"OUISize": 24,
+			"OrgAddress": "29 Habarzel Street.\\nTel-Aviv 69710\\nISRAEL\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Comverse Network Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0004AB",
+			"OUISize": 24,
+			"OrgAddress": "29 Habarzel Street.\\nTel-Aviv 69710\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Comverse Network Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0004AB",
+			"OUISize": 24,
+			"OrgAddress": "29 Habarzel Street.\\n\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Comverse Network Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

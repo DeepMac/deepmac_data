@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B4C",
+			"OUISize": 36,
+			"OrgAddress": "Torvet 5\\nSvendborg Fyn 5700\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "ElectroCom",
+			"Source": "IEEE"
+		}
+	]
+}

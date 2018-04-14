@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-03",
+			"EventType": "add",
+			"OUI": "98D3D2",
+			"OUISize": 24,
+			"OrgAddress": "Buchheimerstr. 4\\nErgersheim    91465\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MEKRA Lang GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EAA",
+			"OUISize": 36,
+			"OrgAddress": "65 Spir Brook Rd.\\nNashua New Hamshire 03060\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BAE Systems",
+			"Source": "IEEE"
+		}
+	]
+}

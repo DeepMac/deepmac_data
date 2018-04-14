@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-01-26",
+			"EventType": "add",
+			"OUI": "001B34",
+			"OUISize": 24,
+			"OrgAddress": "19F-1, Wen-Hwa 2nd Rd. Sec. 1,\\nLinkou Taipei County 244\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Focus System Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "001B34",
+			"OUISize": 24,
+			"OrgAddress": "19F-1, No. 266 Wen Hwa 2nd Rd., Sec. 1\\nLinkou Taipei County\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Focus System Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001B34",
+			"OUISize": 24,
+			"OrgAddress": "19F-1, No. 266 Wen Hwa 2nd Rd., Sec. 1\\nLinkou Taipei County\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Focus System Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B34",
+			"OUISize": 24,
+			"OrgAddress": "19F-1, No. 266 Wen Hwa 2nd Rd., Sec. 1\\nLinkou  Taipei County\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Focus System Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

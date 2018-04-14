@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-14",
+			"EventType": "add",
+			"OUI": "E8BB3D",
+			"OUISize": 24,
+			"OrgAddress": "Room 418, Building 1, Hua Mei Ju (D),\\nXinhu Road, Bao An\\nShenzhen Guangdong 518101\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Sino Prime-Tech Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E8BB3D",
+			"OUISize": 24,
+			"OrgAddress": "Room 418, Building 1, Hua Mei Ju (D),\\nShenzhen  Guangdong  518101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Sino Prime-Tech Limited",
+			"Source": "IEEE"
+		}
+	]
+}

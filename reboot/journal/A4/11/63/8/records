@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "add",
+			"OUI": "A411638",
+			"OUISize": 28,
+			"OrgAddress": "Jingxin Building, 2045 Suite , Chaoyang District\\nBeijing    100027\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Dspread Technology (Beijing) Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

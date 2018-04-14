@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2614",
+			"OUISize": 36,
+			"OrgAddress": "Vestre Rosten 81\\nTrekanten - 7th floor\\nTiller TRONDHEIM N-7075\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "SICOM AS",
+			"Source": "IEEE"
+		}
+	]
+}

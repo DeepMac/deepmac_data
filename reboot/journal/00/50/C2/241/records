@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2241",
+			"OUISize": 36,
+			"OrgAddress": "R. Lauro Linhares 589\\nFlorianopolis SC 88036-002\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Contronics Automacao Ltda",
+			"Source": "IEEE"
+		}
+	]
+}

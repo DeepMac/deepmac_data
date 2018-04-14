@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000252",
+			"OUISize": 24,
+			"OrgAddress": "One Carrier Place\\nFarmington, CT 06034-4015\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Carrier Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000252",
+			"OUISize": 24,
+			"OrgAddress": "One Carrier Place\\nFarmington CT 06034-4015\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Carrier Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000252",
+			"OUISize": 24,
+			"OrgAddress": "One Carrier Place\\nFarmington  CT  06034-4015\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Carrier Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C278C",
+			"OUISize": 36,
+			"OrgAddress": "4650 Norris Canyon Road\\nSan Ramon CA 94583\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Giga-tronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

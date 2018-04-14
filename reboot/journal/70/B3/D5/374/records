@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-20",
+			"EventType": "add",
+			"OUI": "70B3D5374",
+			"OUISize": 36,
+			"OrgAddress": "199034  V.O.  13  liniya,  6-8,  lit.A, office 40H,\\nSaint-Petersburg    199034\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "OOO NPP Mars-Energo",
+			"Source": "IEEE"
+		}
+	]
+}

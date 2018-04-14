@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C278D",
+			"OUISize": 36,
+			"OrgAddress": "3375 Scott Blvd. #300\\nSanta Clara CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Telairity",
+			"Source": "IEEE"
+		}
+	]
+}

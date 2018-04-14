@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00026A",
+			"OUISize": 24,
+			"OrgAddress": "Research & Development Dept.\\n43, Yoido-Dong,\\nYoungdeungpo-Ku\\n",
+			"OrgCountry": "Seoul, KOREA",
+			"OrgName": "Cocess Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00026A",
+			"OUISize": 24,
+			"OrgAddress": "Research & Development Dept.\\n43, Yoido-Dong, Youngdeungpo-Ku\\n\\n",
+			"OrgCountry": "Seoul Seoul KOREA",
+			"OrgName": "Cocess Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00026A",
+			"OUISize": 24,
+			"OrgAddress": "Research & Development Dept.\\n43, Yoido-Dong, Youngdeungpo-Ku\\nSeoul Seoul KOREA\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Cocess Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00026A",
+			"OUISize": 24,
+			"OrgAddress": "Research & Development Dept.\\nSeoul  Seoul  KOREA\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Cocess Telecom Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

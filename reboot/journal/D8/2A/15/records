@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-16",
+			"EventType": "add",
+			"OUI": "D82A15",
+			"OUISize": 24,
+			"OrgAddress": "Via Brennero 34\\nVipiteno Bolzano 39049\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Leitner SpA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D82A15",
+			"OUISize": 24,
+			"OrgAddress": "Via Brennero 34\\nVipiteno  Bolzano  39049\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Leitner SpA",
+			"Source": "IEEE"
+		}
+	]
+}

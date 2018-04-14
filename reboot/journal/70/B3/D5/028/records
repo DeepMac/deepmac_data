@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-29",
+			"EventType": "add",
+			"OUI": "70B3D5028",
+			"OUISize": 36,
+			"OrgAddress": "Hermann-Boessow-Str. 6-8\\nBad Oldesloe    D-23843\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AT-Automation Technology GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

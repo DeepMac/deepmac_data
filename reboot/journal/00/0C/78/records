@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000C78",
+			"OUISize": 24,
+			"OrgAddress": "207-210, Century Centre\\n44-46 Hung To Road, Kwun Tong\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "In-Tech Electronics Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-01-14",
+			"EventType": "change",
+			"OUI": "000C78",
+			"OUISize": 24,
+			"OrgAddress": "Unit A, 13/F., Wing Tai Centre\\n12 Hing Yip Street\\nKwun Tong Kowloon\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "In-Tech Electronics Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "000C78",
+			"OUISize": 24,
+			"OrgAddress": "Unit A, 13th Floor., Wing Tai Centre\\n12 Hing Yip Street\\nKwun Tong Kowloon\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "In-Tech Electronics Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C78",
+			"OUISize": 24,
+			"OrgAddress": "Unit A, 13th Floor., Wing Tai Centre\\nKwun Tong  Kowloon\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "In-Tech Electronics Limited",
+			"Source": "IEEE"
+		}
+	]
+}

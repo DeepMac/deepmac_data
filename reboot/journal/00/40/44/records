@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "004044",
+			"OUISize": 24,
+			"OrgAddress": "8,9F KOREAN TEACHER'S MUT.BLDG\\n35-3, YEOUIDO_DONG,\\nYEONGDEUNGPO_GU\\n",
+			"OrgCountry": "SEOUL, KOREA 150-010",
+			"OrgName": "QNIX COMPUTER CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004044",
+			"OUISize": 24,
+			"OrgAddress": "8,9F KOREAN TEACHER'S MUT.BLDG\\n35-3, YEOUIDO_DONG, YEONGDEUNGPO_GU\\n\\n",
+			"OrgCountry": "SEOUL KOREA 150-010",
+			"OrgName": "QNIX COMPUTER CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004044",
+			"OUISize": 24,
+			"OrgAddress": "8,9F KOREAN TEACHER'S MUT.BLDG\\n35-3, YEOUIDO_DONG, YEONGDEUNGPO_GU\\nSEOUL KOREA 150-010\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "QNIX COMPUTER CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004044",
+			"OUISize": 24,
+			"OrgAddress": "8,9F KOREAN TEACHER'S MUT.BLDG\\nSEOUL  KOREA  150-010\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "QNIX COMPUTER CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

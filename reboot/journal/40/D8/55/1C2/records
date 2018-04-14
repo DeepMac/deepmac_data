@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551C2",
+			"OUISize": 36,
+			"OrgAddress": "780 Montague expy. Suite 502\\nSuite 502\\nSan Jose California 95131\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Digital Display Systems",
+			"Source": "IEEE"
+		}
+	]
+}

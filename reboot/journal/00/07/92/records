@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000792",
+			"OUISize": 24,
+			"OrgAddress": "Kurze Strasse 29\\n70794 Filderstadt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Suetron Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000792",
+			"OUISize": 24,
+			"OrgAddress": "Kurze StraÃe 29\\n70794 Filderstadt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SÃ¼tron Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000792",
+			"OUISize": 24,
+			"OrgAddress": "Kurze Strasse 29\\n70794 Filderstadt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Suetron Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000792",
+			"OUISize": 24,
+			"OrgAddress": "Kurze StraÃe 29\\n70794 Filderstadt\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SÃ¼tron Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000792",
+			"OUISize": 24,
+			"OrgAddress": "Kurze StraÃe 29\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SÃ¼tron Electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

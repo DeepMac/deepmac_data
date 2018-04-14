@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000153",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.9 Lane 130, Min-Chyuan Rd.\\nHsin-Tien\\nTaipei\\n",
+			"OrgCountry": "231 TAIWAN",
+			"OrgName": "ARCHTEK TELECOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000153",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.9 Lane 130, Min-Chyuan Rd.\\nHsin-Tien Taipei\\n\\n",
+			"OrgCountry": "231 TAIWAN",
+			"OrgName": "ARCHTEK TELECOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000153",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.9 Lane 130, Min-Chyuan Rd.\\nHsin-Tien Taipei\\n231 TAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ARCHTEK TELECOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000153",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.9 Lane 130, Min-Chyuan Rd.\\nHsin-Tien Taipei\\n231 TAIWAN\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ARCHTEK TELECOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000153",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.9 Lane 130, Min-Chyuan Rd.\\nHsin-Tien Taipei\\n231 TAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ARCHTEK TELECOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000153",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.9 Lane 130, Min-Chyuan Rd.\\n231  TAIWAN\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ARCHTEK TELECOM CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-18",
+			"EventType": "add",
+			"OUI": "34F6D2",
+			"OUISize": 24,
+			"OrgAddress": "579,Yuan Shan Road\\nChung-Ho District\\nNew Taipei Taiwan 235\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Panasonic Taiwan Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

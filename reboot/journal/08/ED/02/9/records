@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-05",
+			"EventType": "add",
+			"OUI": "08ED029",
+			"OUISize": 28,
+			"OrgAddress": "Laitaatsillantie 3\\nSavonlinna    57170\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Savox Communications",
+			"Source": "IEEE"
+		}
+	]
+}

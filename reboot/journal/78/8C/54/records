@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-08",
+			"EventType": "add",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstrasse 551\\nZï¿½rich ZH 8048\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Enkom Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstrasse 551\\nZÃ¼rich ZH 8048\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Enkom Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstrasse 551\\nZï¿½rich ZH 8048\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Enkom Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstrasse 551\\nZÃ¼rich ZH 8048\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Enkom Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstrasse 551\\nZürich ZH 8048\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Enkom Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstrasse 551\\nZÃÂÃÂ¼rich ZH 8048\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Enkom Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstrasse 551\\nZÃ¼rich ZH 8048\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Enkom Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-13",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Glatt Tower\\nPO Box\\nZÃ¼rich 8301 Glattzentrum ZH\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Eltek Technologies LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-16",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Glatt Tower\\nPO Box 1133\\n8301 Glattzentrum ZH\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Eltek Technologies LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Glatt Tower\\n8301 Glattzentrum ZH\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Eltek Technologies LTD",
+			"Source": "IEEE"
+		}
+	]
+}

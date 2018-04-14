@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-11",
+			"EventType": "add",
+			"OUI": "E4D71D",
+			"OUISize": 24,
+			"OrgAddress": "8000 Jarvis Avenue  Ste. 200\\nNewark CA 94560\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Oraya Therapeutics",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E4D71D",
+			"OUISize": 24,
+			"OrgAddress": "8000 Jarvis Avenue  Ste. 200\\nNewark  CA  94560\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Oraya Therapeutics",
+			"Source": "IEEE"
+		}
+	]
+}

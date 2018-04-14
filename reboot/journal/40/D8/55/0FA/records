@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "add",
+			"OUI": "40D8550FA",
+			"OUISize": 36,
+			"OrgAddress": "Postbus 4257\\nEindhoven NB 5604 EG\\n\\n",
+			"OrgCountry": "NETHERLANDS",
+			"OrgName": "Marmitek BV",
+			"Source": "IEEE"
+		}
+	]
+}

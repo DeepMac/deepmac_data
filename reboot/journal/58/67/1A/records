@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-05-25",
+			"EventType": "add",
+			"OUI": "58671A",
+			"OUISize": 24,
+			"OrgAddress": "400 HAMILTON AVENUE\\nSUITE 130\\nPALO ALTO CA 94301\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BARNES&NOBLE.COM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "58671A",
+			"OUISize": 24,
+			"OrgAddress": "400 HAMILTON AVENUE\\nPALO ALTO  CA  94301\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BARNES&NOBLE.COM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "58671A",
+			"OUISize": 24,
+			"OrgAddress": "400 HAMILTON AVENUE\\nPALO ALTO  CA  94301\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Barnes&Noble",
+			"Source": "IEEE"
+		}
+	]
+}

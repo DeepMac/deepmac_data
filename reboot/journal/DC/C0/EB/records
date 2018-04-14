@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-22",
+			"EventType": "add",
+			"OUI": "DCC0EB",
+			"OUISize": 24,
+			"OrgAddress": "rue Alexandre Fichet\\nOust-Marest    80460\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "ASSA ABLOY CÃTE PICARDE",
+			"Source": "IEEE"
+		}
+	]
+}

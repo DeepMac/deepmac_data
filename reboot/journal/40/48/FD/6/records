@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-06",
+			"EventType": "add",
+			"OUI": "4048FD6",
+			"OUISize": 28,
+			"OrgAddress": "C. F. Tietgens Boulevard 25\\nOdense SÃ  Danmark  5220\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Swarco Technology ApS",
+			"Source": "IEEE"
+		}
+	]
+}

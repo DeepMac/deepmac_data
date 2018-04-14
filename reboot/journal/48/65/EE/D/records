@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-12",
+			"EventType": "add",
+			"OUI": "4865EED",
+			"OUISize": 28,
+			"OrgAddress": "Winn Tech Industrial Park Xianghe Rd.Xinmin Areaï¼Chang anï¼Dongguan City Guangdong Provinceï¼China.\\nDongguan  Guangdong  523879\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Winn Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

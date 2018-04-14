@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CA0",
+			"OUISize": 36,
+			"OrgAddress": "Feldbacher Strasse 77\\nBad Gleichenberg Styria 8344\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Kiefer technic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

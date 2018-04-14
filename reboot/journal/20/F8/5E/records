@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-11",
+			"EventType": "add",
+			"OUI": "20F85E",
+			"OUISize": 24,
+			"OrgAddress": "252 Shangying Road\\nGuishan Industrial Zone\\nTaoyuan County Taiwan 33341\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Quality Engineering Dept.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-01",
+			"EventType": "change",
+			"OUI": "20F85E",
+			"OUISize": 24,
+			"OrgAddress": "252 Shangying Road\\nGuishan Industrial Zone\\nTaoyuan County Taiwan 33341\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Delta Electronics",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "20F85E",
+			"OUISize": 24,
+			"OrgAddress": "252 Shangying Road\\nTaoyuan County  Taiwan  33341\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Delta Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

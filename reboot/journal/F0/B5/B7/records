@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-29",
+			"EventType": "add",
+			"OUI": "F0B5B7",
+			"OUISize": 24,
+			"OrgAddress": "Ytrebygdsvegen 215\\nBlomsterdalen  Hordaland  5258\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Disruptive Technologies Research AS",
+			"Source": "IEEE"
+		}
+	]
+}

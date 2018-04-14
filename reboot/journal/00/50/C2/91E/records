@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C291E",
+			"OUISize": 36,
+			"OrgAddress": "1970 Hwy 265\\nHollister MO 65672\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Automation Tec",
+			"Source": "IEEE"
+		}
+	]
+}

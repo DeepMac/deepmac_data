@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "add",
+			"OUI": "0003C0",
+			"OUISize": 24,
+			"OrgAddress": "3F, 1624-24, Bongchen-dong\\nKionak-gu, Seoul\\n\\n",
+			"OrgCountry": "SOUTH KOREA",
+			"OrgName": "RFTNC Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0003C0",
+			"OUISize": 24,
+			"OrgAddress": "3F, 1624-24, Bongchen-dong\\nKionak-gu, Seoul\\nSOUTH KOREA\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "RFTNC Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0003C0",
+			"OUISize": 24,
+			"OrgAddress": "3F, 1624-24, Bongchen-dong\\nSOUTH  KOREA\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "RFTNC Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

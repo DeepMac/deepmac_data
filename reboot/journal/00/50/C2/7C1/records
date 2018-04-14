@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27C1",
+			"OUISize": 36,
+			"OrgAddress": "1825 Sharp Point Drive, Suite 118\\nFort Collins CO 80525\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Primary Integration Encorp LLC",
+			"Source": "IEEE"
+		}
+	]
+}

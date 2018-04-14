@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-10",
+			"EventType": "add",
+			"OUI": "70B3D5A6F",
+			"OUISize": 36,
+			"OrgAddress": "29, Gonghang-daero 61-gil, Gangseo-gu\\nSeoul    07563\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "8Cups",
+			"Source": "IEEE"
+		}
+	]
+}

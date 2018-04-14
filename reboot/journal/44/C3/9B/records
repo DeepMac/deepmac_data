@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-07-07",
+			"EventType": "add",
+			"OUI": "44C39B",
+			"OUISize": 24,
+			"OrgAddress": "Pionerskaya 11a\\nBratsk Irkutsk 665717\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "OOO RUBEZH NPO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "44C39B",
+			"OUISize": 24,
+			"OrgAddress": "Pionerskaya 11a\\nBratsk  Irkutsk  665717\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "OOO RUBEZH NPO",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001163",
+			"OUISize": 24,
+			"OrgAddress": "VIA GHIAROLA VECCHIA 73\\nFIORANO MODENESE MODENA I-41042\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "SYSTEM SPA DEPT. ELECTRONICS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001163",
+			"OUISize": 24,
+			"OrgAddress": "VIA GHIAROLA VECCHIA 73\\nFIORANO MODENESE  MODENA  I-41042\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "SYSTEM SPA DEPT. ELECTRONICS",
+			"Source": "IEEE"
+		}
+	]
+}

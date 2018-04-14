@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-17",
+			"EventType": "add",
+			"OUI": "4CBB58",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Wugong 6th Rd., Wugu Dist.,\\nNew Taipei City 248,  248\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Chicony Electronics Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "4CBB58",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Wugong 6th Rd., Wugu Dist.,\\nNew Taipei City 248,  TAIWAN, REPUBLIC OF CHINA  248\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Chicony Electronics Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

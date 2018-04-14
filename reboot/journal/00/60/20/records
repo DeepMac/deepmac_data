@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006020",
+			"OUISize": 24,
+			"OrgAddress": "7246 SHARON DR., STE \"P\"\\nSAN JOSE  CA  95129\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PIVOTAL NETWORKING, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006020",
+			"OUISize": 24,
+			"OrgAddress": "7246 SHARON DR., STE \"P\"\\nSAN JOSE CA 95129\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PIVOTAL NETWORKING, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "006020",
+			"OUISize": 24,
+			"OrgAddress": "7246 SHARON DR., STE\\nSAN JOSE CA 95129\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PIVOTAL NETWORKING, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006020",
+			"OUISize": 24,
+			"OrgAddress": "7246 SHARON DR., STE\\nSAN JOSE  CA  95129\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "PIVOTAL NETWORKING, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

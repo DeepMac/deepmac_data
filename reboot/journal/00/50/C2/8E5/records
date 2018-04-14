@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28E5",
+			"OUISize": 36,
+			"OrgAddress": "Karl-Zucker-Str. 12\\nErlangen GERMANY D-91052\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Berthel GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

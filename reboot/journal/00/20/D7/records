@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020D7",
+			"OUISize": 24,
+			"OrgAddress": "3-33-18 TAKAIDOHIGASHI\\nSUGINAMI-KU\\nTOKYO 168\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "JAPAN MINICOMPUTER SYSTEMS CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0020D7",
+			"OUISize": 24,
+			"OrgAddress": "3-33-18 TAKAIDOHIGASHI\\nSUGINAMI-KU TOKYO 168\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "JAPAN MINICOMPUTER SYSTEMS CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0020D7",
+			"OUISize": 24,
+			"OrgAddress": "3-33-18 TAKAIDOHIGASHI\\nSUGINAMI-KU\\nTOKYO 168\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "JAPAN MINICOMPUTER SYSTEMS CO., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020D7",
+			"OUISize": 24,
+			"OrgAddress": "3-33-18 TAKAIDOHIGASHI\\nTOKYO 168\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "JAPAN MINICOMPUTER SYSTEMS CO., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

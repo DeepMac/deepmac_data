@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C239C",
+			"OUISize": 36,
+			"OrgAddress": "75-5 Imojiya\\nChikuma-city NAGANO 387-0015\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "TIYODA MFG CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

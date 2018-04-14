@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-16",
+			"EventType": "add",
+			"OUI": "F023B91",
+			"OUISize": 28,
+			"OrgAddress": "2 Place de Francfort\\nLyon    69003\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Ubiant",
+			"Source": "IEEE"
+		}
+	]
+}

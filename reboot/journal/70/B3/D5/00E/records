@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-03-24",
+			"EventType": "add",
+			"OUI": "70B3D500E",
+			"OUISize": 36,
+			"OrgAddress": "Gad Feinstein 13\\nOffice 225\\nRehovot  7638517\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Magosys Systems LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D500E",
+			"OUISize": 36,
+			"OrgAddress": "Gad Feinstein 13\\nRehovot    7638517\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Magosys Systems LTD",
+			"Source": "IEEE"
+		}
+	]
+}

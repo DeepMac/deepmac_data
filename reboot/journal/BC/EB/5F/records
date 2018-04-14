@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-03-25",
+			"EventType": "add",
+			"OUI": "BCEB5F",
+			"OUISize": 24,
+			"OrgAddress": "A-15, Huaqiao Economic Development Zone, Shuangyang, Luojiang,\\nquanzhou fujian 362000\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Fujian Beifeng Telecom Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "BCEB5F",
+			"OUISize": 24,
+			"OrgAddress": "A-15, Huaqiao Economic Development Zone, Shuangyang, Luojiang,\\nquanzhou  fujian  362000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fujian Beifeng Telecom Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

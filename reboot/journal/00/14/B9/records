@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-05-27",
+			"EventType": "add",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "67 AVE ANDRE MORIZET\\nBOULOGNE-BILLANCOURT ILE DE FRANCE 92100\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "STEPMIND",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue René Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue RenÃ© Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue René Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue RenÃÂ© Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue René Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue RenÃÂ© Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue RenÃ© Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue RenÃÂÃÂÃÂÃÂ© Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue RenÃ© Jacques\\nIssy les Moulineaux  92130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014B9",
+			"OUISize": 24,
+			"OrgAddress": "11-13 rue RenÃ© Jacques\\nIssy les Moulineaux    92130\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "MSTAR SEMICONDUCTOR",
+			"Source": "IEEE"
+		}
+	]
+}

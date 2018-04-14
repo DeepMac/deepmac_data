@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-26",
+			"EventType": "add",
+			"OUI": "70B3D5A4C",
+			"OUISize": 36,
+			"OrgAddress": "Kjelsaasveien 161\\nOslo  Oslo  0382\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Alere Technologies AS",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-26",
+			"EventType": "add",
+			"OUI": "C47C8DB",
+			"OUISize": 28,
+			"OrgAddress": "SECOND FLOOR,BLD 10,GRAIN INDUSTRIAL PARK,NO.299  GUANPING ROAD,GUANLAN NEW DISTRICT,SHENZHEN CITY,CHINA\\nShenzhen    518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GC AUTOMATION CO,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-29",
+			"EventType": "add",
+			"OUI": "40D855158",
+			"OUISize": 36,
+			"OrgAddress": "Ekmansgatan 3\\n411 SE- 41132\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Exibea AB",
+			"Source": "IEEE"
+		}
+	]
+}

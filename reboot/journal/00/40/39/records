@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "004039",
+			"OUISize": 24,
+			"OrgAddress": "FIBER OPTICS & TELECOM. DIV.\\n3-1-1 MARUNOUCHI CHIYODAKU\\nTOKYO 100\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "OPTEC DAIICHI DENKO CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004039",
+			"OUISize": 24,
+			"OrgAddress": "FIBER OPTICS & TELECOM. DIV.\\n3-1-1 MARUNOUCHI CHIYODAKU TOKYO 100\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "OPTEC DAIICHI DENKO CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-04",
+			"EventType": "add",
+			"OUI": "086A0A",
+			"OUISize": 24,
+			"OrgAddress": "10F,No.119,JIANKANG RD,ZHONGHE DIST\\nNEW TAIPEI  TAIWAN  23585\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASKEY COMPUTER CORP",
+			"Source": "IEEE"
+		}
+	]
+}

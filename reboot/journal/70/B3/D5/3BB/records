@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-03",
+			"EventType": "add",
+			"OUI": "70B3D53BB",
+			"OUISize": 36,
+			"OrgAddress": "PO BOX 850\\nCarlsborg  WA  98324\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "A-M Systems",
+			"Source": "IEEE"
+		}
+	]
+}

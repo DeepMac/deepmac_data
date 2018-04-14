@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-06-01",
+			"EventType": "add",
+			"OUI": "000D6B",
+			"OUISize": 24,
+			"OrgAddress": "Haandvaerkervej 1\\nRoedkaersbro DK DK-8840\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Mita-Teknik A/S",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D6B",
+			"OUISize": 24,
+			"OrgAddress": "Haandvaerkervej 1\\nRoedkaersbro    DK-8840\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Mita-Teknik A/S",
+			"Source": "IEEE"
+		}
+	]
+}

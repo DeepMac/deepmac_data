@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D60",
+			"OUISize": 36,
+			"OrgAddress": "318-19 Kondo-cho\\nTatebayashi Gunma 374-0042\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Nihon Kessho Koogaku Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "004049",
+			"OUISize": 24,
+			"OrgAddress": "FORRENSTRASSE\\nCH-6343 ROTKREUZ\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "TEGIMENTA AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004049",
+			"OUISize": 24,
+			"OrgAddress": "FORRENSTRASSE\\nCH-6343 ROTKREUZ\\nSWITZERLAND\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "TEGIMENTA AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-16",
+			"EventType": "change",
+			"OUI": "004049",
+			"OUISize": 24,
+			"OrgAddress": "FORRENSTRASSE\\n6343 ROTKREUZ\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Roche Diagnostics Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-12",
+			"EventType": "change",
+			"OUI": "004049",
+			"OUISize": 24,
+			"OrgAddress": "FORRENSTRASSE\\nROTKREUZ ZG 6343\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Roche Diagnostics International Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004049",
+			"OUISize": 24,
+			"OrgAddress": "FORRENSTRASSE\\nROTKREUZ  ZG  6343\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Roche Diagnostics International Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-02",
+			"EventType": "add",
+			"OUI": "001A1C",
+			"OUISize": 24,
+			"OrgAddress": "2 Ang Mo Kio St.64, Econ Building, #04-00\\nSingapore 569084\\n\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "GT&T Engineering Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A1C",
+			"OUISize": 24,
+			"OrgAddress": "2 Ang Mo Kio St.64, Econ Building, #04-00\\nSingapore  569084\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "GT&T Engineering Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

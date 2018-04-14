@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D50",
+			"OUISize": 36,
+			"OrgAddress": "1201 Clubhouse Dr.\\nBroomfield CO 80020\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Solbrig Electronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

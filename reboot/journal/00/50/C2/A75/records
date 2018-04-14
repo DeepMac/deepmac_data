@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A75",
+			"OUISize": 36,
+			"OrgAddress": "41 Kingfisher Court\\nHambridge Road\\nNewbury Berks RG14 5SJ\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "JTL Systems Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 237\\nSF-33101 TAMPERE\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "VALMET AUTOMATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 237\\nSF-33101 TAMPERE\\nFINLAND\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "VALMET AUTOMATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 237\\nSF-33101 TAMPERE\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "VALMET AUTOMATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 237\\nSF-33101 TAMPERE\\nFINLAND\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "VALMET AUTOMATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 237\\nSF-33101 TAMPERE\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "VALMET AUTOMATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-14",
+			"EventType": "change",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 237\\nSF-33101 TAMPERE\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Metso Automation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 237\\n\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Metso Automation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-26",
+			"EventType": "change",
+			"OUI": "0040AA",
+			"OUISize": 24,
+			"OrgAddress": "LentokentÃ¤nkatu 11, P.O.Box 237\\nTampere    FIN-3310\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Valmet Automation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-02",
+			"EventType": "add",
+			"OUI": "6C8FB5",
+			"OUISize": 24,
+			"OrgAddress": "Keilalahdentie 4\\nEspoo    02150\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Microsoft Mobile Oy",
+			"Source": "IEEE"
+		}
+	]
+}

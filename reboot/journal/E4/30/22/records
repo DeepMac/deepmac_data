@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-28",
+			"EventType": "add",
+			"OUI": "E43022",
+			"OUISize": 24,
+			"OrgAddress": "Plot O-2, Que Vo industrial park (Expanded area),\\nNam Son Commune, Bac Ninh City  Bac Ninh Province  000\\n\\n",
+			"OrgCountry": "VN",
+			"OrgName": "Hanwha Techwin Security Vietnam",
+			"Source": "IEEE"
+		}
+	]
+}

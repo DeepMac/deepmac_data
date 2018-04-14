@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-24",
+			"EventType": "add",
+			"OUI": "B45D50",
+			"OUISize": 24,
+			"OrgAddress": "1344 Crossman Ave\\nSunnyvale  CA  94089\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Aruba Networks",
+			"Source": "IEEE"
+		}
+	]
+}

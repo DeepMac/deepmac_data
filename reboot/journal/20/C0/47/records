@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-22",
+			"EventType": "add",
+			"OUI": "20C047",
+			"OUISize": 24,
+			"OrgAddress": "One Verizon Way\\nBasking Ridge    07030\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Verizon",
+			"Source": "IEEE"
+		}
+	]
+}

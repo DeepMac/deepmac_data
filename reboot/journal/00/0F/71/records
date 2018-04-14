@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F71",
+			"OUISize": 24,
+			"OrgAddress": "2-2-1,Seikai,Shimizu\\nShizuoka  424-0924\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Sanmei Electronics Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F71",
+			"OUISize": 24,
+			"OrgAddress": "2-2-1,Seikai,Shimizu\\nShizuoka    424-0924\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Sanmei Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

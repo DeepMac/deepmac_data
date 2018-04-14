@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-17",
+			"EventType": "add",
+			"OUI": "FCA22A",
+			"OUISize": 24,
+			"OrgAddress": "Jl. Taman Cibeunying No. 2\\nCihapit\\nBandung Jawa Barat 40114\\n",
+			"OrgCountry": "INDONESIA",
+			"OrgName": "PT. Callysta Multi Engineering",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "FCA22A",
+			"OUISize": 24,
+			"OrgAddress": "Jl. Taman Cibeunying No. 2\\nBandung  Jawa Barat  40114\\n\\n",
+			"OrgCountry": "ID",
+			"OrgName": "PT. Callysta Multi Engineering",
+			"Source": "IEEE"
+		}
+	]
+}

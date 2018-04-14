@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B4E",
+			"OUISize": 24,
+			"OrgAddress": "1915 Harrison Road\\nLongview TX 75604\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VertexRSI Antenna Products Division",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "change",
+			"OUI": "000B4E",
+			"OUISize": 24,
+			"OrgAddress": "1915 E. Harrison Road\\nLongview TX 75604\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VertexRSI, General Dynamics SatCOM Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "000B4E",
+			"OUISize": 24,
+			"OrgAddress": "3750 W. Loop 281\\nLongview TX 75604\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VertexRSI, General Dynamics SatCOM Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B4E",
+			"OUISize": 24,
+			"OrgAddress": "3750 W. Loop 281\\nLongview  TX  75604\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "VertexRSI, General Dynamics SatCOM Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

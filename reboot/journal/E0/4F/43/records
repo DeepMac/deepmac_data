@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-18",
+			"EventType": "add",
+			"OUI": "E04F43",
+			"OUISize": 24,
+			"OrgAddress": "141, Lane 351, Taiping Road, Sec.1,Tsao Tuen\\n\\n\\n",
+			"OrgCountry": "Nan-Tou  Taiwan  54261",
+			"OrgName": "Universal Global Scientific Industrial Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-19",
+			"EventType": "change",
+			"OUI": "E04F43",
+			"OUISize": 24,
+			"OrgAddress": "141, Lane 351, Taiping Road, Sec.1,Tsao Tuen\\nNan-Tou  Taiwan  54261\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Universal Global Scientific Industrial Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

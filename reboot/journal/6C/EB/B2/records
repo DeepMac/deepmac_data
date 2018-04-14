@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-06-24",
+			"EventType": "add",
+			"OUI": "6CEBB2",
+			"OUISize": 24,
+			"OrgAddress": "Nanjiang RD 111st,Daning\\nHumen Town\\nDongguan Guangdong 523930\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Dongguan Sen DongLv Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

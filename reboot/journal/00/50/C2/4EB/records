@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24EB",
+			"OUISize": 36,
+			"OrgAddress": "Via Volta 2\\nPonte Capriasca  6946\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Mandozzi Elettronica SA",
+			"Source": "IEEE"
+		}
+	]
+}

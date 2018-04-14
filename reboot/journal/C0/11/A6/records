@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-12-06",
+			"EventType": "add",
+			"OUI": "C011A6",
+			"OUISize": 24,
+			"OrgAddress": "Hrustalnaya 8a\\nPerm 614107\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Fort-Telecom ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "C011A6",
+			"OUISize": 24,
+			"OrgAddress": "Hrustalnaya 8a\\nPerm 614107\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Fort-Telecom ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "C011A6",
+			"OUISize": 24,
+			"OrgAddress": "Hrustalnaya 8a\\nPerm 614107\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Fort-Telecom ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "C011A6",
+			"OUISize": 24,
+			"OrgAddress": "Hrustalnaya 8a\\nPerm  614107\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Fort-Telecom ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

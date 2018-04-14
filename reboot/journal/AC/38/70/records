@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-28",
+			"EventType": "add",
+			"OUI": "AC3870",
+			"OUISize": 24,
+			"OrgAddress": "No.999, Qishan North 2nd Road, Information & Optoelectronics Park,\\nTorch Hi-tech Industry Development Zone\\nXiamen Fujian 361006\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Lenovo Mobile Communication Technology Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

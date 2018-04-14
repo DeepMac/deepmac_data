@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-19",
+			"EventType": "add",
+			"OUI": "4CE173A",
+			"OUISize": 28,
+			"OrgAddress": "Ettenbergstrasse 19\\nDeckenpfronn    75392\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "jvi",
+			"Source": "IEEE"
+		}
+	]
+}

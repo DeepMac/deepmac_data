@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060B7",
+			"OUISize": 24,
+			"OrgAddress": "1100 N. MAGNOLIA AVE.-STE \"A\"\\nEL CANON  CA  92020\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CHANNELMATIC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "0060B7",
+			"OUISize": 24,
+			"OrgAddress": "1700 GILLESPIE WAY\\nEL CAJON  CA  92020-0901\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CHANNELMATIC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060B7",
+			"OUISize": 24,
+			"OrgAddress": "1700 GILLESPIE WAY\\nEL CAJON CA 92020-0901\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CHANNELMATIC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060B7",
+			"OUISize": 24,
+			"OrgAddress": "1700 GILLESPIE WAY\\nEL CAJON  CA  92020-0901\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CHANNELMATIC, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

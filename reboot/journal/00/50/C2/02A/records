@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C202A",
+			"OUISize": 36,
+			"OrgAddress": "3888 Stewart Rd.\\nEugene OR 97402\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VersaLogic Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

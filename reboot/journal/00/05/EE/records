@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005EE",
+			"OUISize": 24,
+			"OrgAddress": "Bewator AB, Box 1275\\nSE-17124 Solnan\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "BEWATOR Group",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-05",
+			"EventType": "change",
+			"OUI": "0005EE",
+			"OUISize": 24,
+			"OrgAddress": "Englundavaegen 7\\nSolna  SE-171 41\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Siemens AB, Infrastructure & Cities, Building Technologies Division, IC BT SSP SP BA PR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005EE",
+			"OUISize": 24,
+			"OrgAddress": "Englundavaegen 7\\nSolna    SE-171 41\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Siemens AB, Infrastructure & Cities, Building Technologies Division, IC BT SSP SP BA PR",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-25",
+			"EventType": "change",
+			"OUI": "0005EE",
+			"OUISize": 24,
+			"OrgAddress": "Englundavaegen 7\\nSolna    SE-171 41\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Vanderbilt International (SWE) AB",
+			"Source": "IEEE"
+		}
+	]
+}

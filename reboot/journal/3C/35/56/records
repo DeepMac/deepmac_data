@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-01",
+			"EventType": "add",
+			"OUI": "3C3556",
+			"OUISize": 24,
+			"OrgAddress": "GroÃenhainer Str. 101\\nDresden  Saxony  01127\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Cognitec Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

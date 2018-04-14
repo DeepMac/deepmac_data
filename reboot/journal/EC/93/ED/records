@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-22",
+			"EventType": "add",
+			"OUI": "EC93ED",
+			"OUISize": 24,
+			"OrgAddress": "goroda Volos, 6, 904\\nRostov-on-Don    344010\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "DDoS-Guard LTD",
+			"Source": "IEEE"
+		}
+	]
+}

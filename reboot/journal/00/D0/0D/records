@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00D00D",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\nONE MICROMEERITICS DRIVE\\nNORCROSS  GA  30093-1877\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MICROMERITICS INSTRUMENT",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00D00D",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\nONE MICROMEERITICS DRIVE\\nNORCROSS GA 30093-1877\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MICROMERITICS INSTRUMENT",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00D00D",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\nNORCROSS  GA  30093-1877\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "MICROMERITICS INSTRUMENT",
+			"Source": "IEEE"
+		}
+	]
+}

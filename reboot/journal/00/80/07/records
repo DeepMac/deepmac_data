@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "008007",
+			"OUISize": 24,
+			"OrgAddress": "WERNER-VON-SIEMENS STRASSE 13\\nD-8037, OLCHING\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "DLOG NC-SYSTEME",
+			"Source": "IEEE"
+		}
+	]
+}

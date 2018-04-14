@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29E5",
+			"OUISize": 36,
+			"OrgAddress": "315 Jalan Ahmad Ibrahim\\n639940\\n\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Halliburton Far East Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

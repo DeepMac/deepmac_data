@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000D7A",
+			"OUISize": 24,
+			"OrgAddress": "190 Mddle Road, #19-05 Fortune Center\\n188979\\n\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "DiGATTO Asia Pacific Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D7A",
+			"OUISize": 24,
+			"OrgAddress": "190 Mddle Road, #19-05 Fortune Center\\n188979\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "DiGATTO Asia Pacific Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CD6",
+			"OUISize": 36,
+			"OrgAddress": "580 California Street, Suite 1200\\nSan Francisco CA 94104\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Arktan Systems",
+			"Source": "IEEE"
+		}
+	]
+}

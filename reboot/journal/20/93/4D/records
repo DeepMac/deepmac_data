@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-04-23",
+			"EventType": "add",
+			"OUI": "20934D",
+			"OUISize": 24,
+			"OrgAddress": "19-22# Building,,Star-net Science Plaza\\nJuyuanzhou, 618 Jinshan Road\\nFuzhou Fujian 350002\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Fujian Star-net Communication Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

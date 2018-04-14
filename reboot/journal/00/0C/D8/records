@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000CD8",
+			"OUISize": 24,
+			"OrgAddress": "Moltkestr. 13 - 31\\nFulda Hessen 36039\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "M. K. Juchheim GmbH & Co",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000CD8",
+			"OUISize": 24,
+			"OrgAddress": "MoltkestraÃe 13 - 31\\nFulda Hessen 36039\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "M. K. Juchheim GmbH & Co",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000CD8",
+			"OUISize": 24,
+			"OrgAddress": "Moltkestr. 13 - 31\\nFulda Hessen 36039\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "M. K. Juchheim GmbH & Co",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000CD8",
+			"OUISize": 24,
+			"OrgAddress": "MoltkestraÃe 13 - 31\\nFulda Hessen 36039\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "M. K. Juchheim GmbH & Co",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000CD8",
+			"OUISize": 24,
+			"OrgAddress": "MoltkestraÃe 13 - 31\\nFulda  Hessen  36039\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "M. K. Juchheim GmbH & Co",
+			"Source": "IEEE"
+		}
+	]
+}

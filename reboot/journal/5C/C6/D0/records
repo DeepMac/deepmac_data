@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-19",
+			"EventType": "add",
+			"OUI": "5CC6D0",
+			"OUISize": 24,
+			"OrgAddress": "13F,Block A,Skyworth Building,Gaoxin AVE.1.S,\\nNanshan District,\\nShenZhen GuangDong 518057\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Skyworth Digital technology(shenzhen)co.ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "5CC6D0",
+			"OUISize": 24,
+			"OrgAddress": "13F,Block A,Skyworth Building,Gaoxin AVE.1.S,\\nShenZhen  GuangDong  518057\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Skyworth Digital technology(shenzhen)co.ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-07",
+			"EventType": "change",
+			"OUI": "5CC6D0",
+			"OUISize": 24,
+			"OrgAddress": "13F,Block A,Skyworth Building,Gaoxin AVE.1.S,\\nShenZhen  GuangDong  518057\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Skyworth Digital Technology(Shenzhen) Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

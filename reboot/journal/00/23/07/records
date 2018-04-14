@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002307",
+			"OUISize": 24,
+			"OrgAddress": "312 3-DONG, GWANGMYUNG INDUSTRIAL COMPLEX 201\\nHAAN-DONG\\nGWANGMYUNG GYUNGGI 423060\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "FUTURE INNOVATION TECH CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002307",
+			"OUISize": 24,
+			"OrgAddress": "312 3-DONG, GWANGMYUNG INDUSTRIAL COMPLEX 201\\nGWANGMYUNG  GYUNGGI  423060\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "FUTURE INNOVATION TECH CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

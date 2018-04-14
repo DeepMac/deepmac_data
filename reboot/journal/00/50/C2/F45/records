@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F45",
+			"OUISize": 36,
+			"OrgAddress": "Rzepakowa 5e\\nKrakow malopolska 31-989\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "HUSTY M.Styczen J.Hupert Sp.J.",
+			"Source": "IEEE"
+		}
+	]
+}

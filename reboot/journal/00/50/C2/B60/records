@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B60",
+			"OUISize": 36,
+			"OrgAddress": "ul. Rangeva, 11-24\\nKovrov Vladimir region 601916\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "OOO NPF ATIS",
+			"Source": "IEEE"
+		}
+	]
+}

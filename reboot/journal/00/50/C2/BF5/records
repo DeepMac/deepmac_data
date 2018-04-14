@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BF5",
+			"OUISize": 36,
+			"OrgAddress": "840 ASSO\\nKAINAN CITY WAKAYAMA 642-0015\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "AILES ELECTRONICS CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

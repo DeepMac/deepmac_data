@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B69",
+			"OUISize": 36,
+			"OrgAddress": "Castello, 2737/f\\nVenezia VE 30122\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Thetis S.p.A.",
+			"Source": "IEEE"
+		}
+	]
+}

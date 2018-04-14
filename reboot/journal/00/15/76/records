@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-08-24",
+			"EventType": "add",
+			"OUI": "001576",
+			"OUISize": 24,
+			"OrgAddress": "Dina-Weissmann-Allee 6\\nViernheim Hessen 68519\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "scil animal care company GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001576",
+			"OUISize": 24,
+			"OrgAddress": "An der Strusbek 6\\n22926 Ahrensburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "LABiTec - Labor Biomedical Technologies GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001576",
+			"OUISize": 24,
+			"OrgAddress": "Dina-Weissmann-Allee 6\\nViernheim Hessen 68519\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "scil animal care company GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001576",
+			"OUISize": 24,
+			"OrgAddress": "An der Strusbek 6\\n22926 Ahrensburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "LABiTec - Labor Biomedical Technologies GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001576",
+			"OUISize": 24,
+			"OrgAddress": "An der Strusbek 6\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "LABiTec - Labor Biomedical Technologies GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

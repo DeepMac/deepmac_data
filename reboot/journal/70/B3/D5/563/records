@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-11",
+			"EventType": "add",
+			"OUI": "70B3D5563",
+			"OUISize": 36,
+			"OrgAddress": "Liandu District Information Industry Park 12\\nLishui  ZhejiangZhejiang Hao Teng Electronic Technology Co., Ltd.  323000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zhejiang Hao Teng Electronic Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-29",
+			"EventType": "add",
+			"OUI": "70B3D58F7",
+			"OUISize": 36,
+			"OrgAddress": "7-1-97, Polyarnaya st.\\nMoscow    127081\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "I.E. Sevko A.V.",
+			"Source": "IEEE"
+		}
+	]
+}

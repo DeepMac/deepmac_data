@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-04",
+			"EventType": "add",
+			"OUI": "28A6AC",
+			"OUISize": 24,
+			"OrgAddress": "Hammer Steindamm 3-25\\nHamburg  Germany  22089\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "seca gmbh & co. kg",
+			"Source": "IEEE"
+		}
+	]
+}

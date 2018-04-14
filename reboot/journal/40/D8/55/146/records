@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D855146",
+			"OUISize": 36,
+			"OrgAddress": "Im Hammertal 51\\nWitten NRW 58456\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pleiger Elektronik GmbH  and Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

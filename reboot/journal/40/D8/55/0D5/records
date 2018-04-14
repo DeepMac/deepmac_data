@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-10",
+			"EventType": "add",
+			"OUI": "40D8550D5",
+			"OUISize": 36,
+			"OrgAddress": "Nakayabe-cho 10-10 Shimizu-ku\\nShizuoka-shi Shizuoka-ken 424-0854\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Shimizu Electric Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "add",
+			"OUI": "40D8550E8",
+			"OUISize": 36,
+			"OrgAddress": "Dr.-Otto-Leich-Str. 16\\nEckental Bavaria 90542\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "HEITEC AG",
+			"Source": "IEEE"
+		}
+	]
+}

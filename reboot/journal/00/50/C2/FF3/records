@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "0050C2FF3",
+			"OUISize": 36,
+			"OrgAddress": "Via del Brolo, 14\\nCremona CR 26100\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "CONTROL SYSTEMS Srl",
+			"Source": "IEEE"
+		}
+	]
+}

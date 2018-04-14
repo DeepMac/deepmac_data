@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-16",
+			"EventType": "add",
+			"OUI": "5CF286A",
+			"OUISize": 28,
+			"OrgAddress": "Uggledalsvagen 29\\nBilldal    42740\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Unfors Raysafe AB",
+			"Source": "IEEE"
+		}
+	]
+}

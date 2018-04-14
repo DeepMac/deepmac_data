@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23BE",
+			"OUISize": 36,
+			"OrgAddress": "Pfingstweide 8\\nFriedberg Hessen 61169\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pauly Steuer- und Regelanlagen GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

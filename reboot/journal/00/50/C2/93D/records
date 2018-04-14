@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C293D",
+			"OUISize": 36,
+			"OrgAddress": "11390 Sunrise Gold Circle #800\\nRancho Cordova CA 95742\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Lighting Science Group Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

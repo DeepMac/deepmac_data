@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-21",
+			"EventType": "add",
+			"OUI": "78D8006",
+			"OUISize": 28,
+			"OrgAddress": "Etgar 2, Carmel Biulding 1rd floor\\nTirat Carmel  Haifa  39100\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Alango Technologies Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-30",
+			"EventType": "add",
+			"OUI": "E0C0D1",
+			"OUISize": 24,
+			"OrgAddress": "Floor 9th, Building 4C,Software Industry Base, Xuefu Road, Hi-Tech Park, Nanshan Dist.\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CK Telecom (Shenzhen) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

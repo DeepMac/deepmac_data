@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000678",
+			"OUISize": 24,
+			"OrgAddress": "35-1, 7 Chome, Sagamiono\\nSagamihara-shi\\n\\n",
+			"OrgCountry": "Kanagawa, 228-8505  JAPAN",
+			"OrgName": "Marantz Japan, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000678",
+			"OUISize": 24,
+			"OrgAddress": "35-1, 7 Chome, Sagamiono\\nSagamihara-shi\\n\\n",
+			"OrgCountry": "Kanagawa 228-8505 JAPAN",
+			"OrgName": "Marantz Japan, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "000678",
+			"OUISize": 24,
+			"OrgAddress": "35-1, 7 Chome, Sagamiono\\nSagamihara-shi\\nKanagawa  228-8505\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Marantz Japan, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "000678",
+			"OUISize": 24,
+			"OrgAddress": "D&M Building, 2-1 Nisshin-cho\\nKawasaki-ku\\nKawasaki-shi Kawagawa 210-8569\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Marantz Brand Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000678",
+			"OUISize": 24,
+			"OrgAddress": "D&M Building, 2-1 Nisshin-cho\\nKawasaki-shi  Kawagawa  210-8569\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Marantz Brand Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-07",
+			"EventType": "change",
+			"OUI": "000678",
+			"OUISize": 24,
+			"OrgAddress": "D&M Building, 2-1 Nisshin-cho Kawasaki-shi\\nKawagawa    210-8569\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "D&M Holdings Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-08",
+			"EventType": "change",
+			"OUI": "000678",
+			"OUISize": 24,
+			"OrgAddress": "D&M Building, 2-1 Nisshin-cho\\nKawasaki-shi  Kanagawa   210-8569\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "D&M Holdings Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

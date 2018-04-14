@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "add",
+			"OUI": "40D8550CA",
+			"OUISize": 36,
+			"OrgAddress": "Im Alten Riet 143\\nSCHAAN  9494\\n\\n",
+			"OrgCountry": "LIECHTENSTEIN",
+			"OrgName": "NEUTRIK AG",
+			"Source": "IEEE"
+		}
+	]
+}

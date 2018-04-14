@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28C2",
+			"OUISize": 36,
+			"OrgAddress": "65, Serdobolskaya st.\\nSt-Petersburg  197342\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Access Control Systems JSC",
+			"Source": "IEEE"
+		}
+	]
+}

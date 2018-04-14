@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2093",
+			"OUISize": 36,
+			"OrgAddress": "10F CCMM Bldg. 12 Yoido-dong\\nYoungdeungpo-ku\\nSeoul 150-010\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "KOREALINK",
+			"Source": "IEEE"
+		}
+	]
+}

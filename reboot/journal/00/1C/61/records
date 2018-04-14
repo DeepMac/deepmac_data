@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "add",
+			"OUI": "001C61",
+			"OUISize": 24,
+			"OrgAddress": "Unit 802, 8/F, Shui Hing Centre, 13 Sheung Yuet Road,\\nKowloon Bay  Kln.,\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Galaxy Technology (HK) Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001C61",
+			"OUISize": 24,
+			"OrgAddress": "Unit 802, 8/F, Shui Hing Centre, 13 Sheung Yuet Road,\\nKowloon Bay Kln.,\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Galaxy Technology (HK) Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001C61",
+			"OUISize": 24,
+			"OrgAddress": "Unit 802, 8/F, Shui Hing Centre, 13 Sheung Yuet Road,\\nKowloon Bay  Kln.,\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Galaxy Technology (HK) Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001C61",
+			"OUISize": 24,
+			"OrgAddress": "Room 1101-03, 11/F Enterprise Square Two\\n3 Sheung Yuet Road\\nKowloon Bay Kowloon\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Galaxy  Microsystems LImited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001C61",
+			"OUISize": 24,
+			"OrgAddress": "Unit 802, 8/F, Shui Hing Centre, 13 Sheung Yuet Road,\\nKowloon Bay  Kln.,\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Galaxy Technology (HK) Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001C61",
+			"OUISize": 24,
+			"OrgAddress": "Room 1101-03, 11/F Enterprise Square Two\\n3 Sheung Yuet Road\\nKowloon Bay Kowloon\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Galaxy  Microsystems LImited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C61",
+			"OUISize": 24,
+			"OrgAddress": "Room 1101-03, 11/F Enterprise Square Two\\nKowloon Bay  Kowloon\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Galaxy  Microsystems LImited",
+			"Source": "IEEE"
+		}
+	]
+}

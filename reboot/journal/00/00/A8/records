@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0000A8",
+			"OUISize": 24,
+			"OrgAddress": "M/S M32-0SG\\n55 FAIRBANKS BLVD\\nMARLBORO  MA  01752\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "STRATUS COMPUTER INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-02-02",
+			"EventType": "change",
+			"OUI": "0000A8",
+			"OUISize": 24,
+			"OrgAddress": "111 Powdermill Road\\nMaynard  MA  01754\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "STRATUS COMPUTER INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0000A8",
+			"OUISize": 24,
+			"OrgAddress": "111 Powdermill Road\\nMaynard MA 01754\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "STRATUS COMPUTER INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0000A8",
+			"OUISize": 24,
+			"OrgAddress": "111 Powdermill Road\\nMaynard  MA  01754\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "STRATUS COMPUTER INC.",
+			"Source": "IEEE"
+		}
+	]
+}

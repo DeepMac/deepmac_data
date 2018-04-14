@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C04B",
+			"OUISize": 24,
+			"OrgAddress": "9, AVENUE DU CANADA\\nPARC HIGHTEC 6\\nZ.A. DE COURTABOEUF\\n",
+			"OrgCountry": "91966 LES ULIS---FRANCE",
+			"OrgName": "CREATIVE MICROSYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C04B",
+			"OUISize": 24,
+			"OrgAddress": "9, AVENUE DU CANADA\\nPARC HIGHTEC 6 Z.A. DE COURTABOEUF\\n\\n",
+			"OrgCountry": "91966 LES ULIS---FRANC",
+			"OrgName": "CREATIVE MICROSYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00C04B",
+			"OUISize": 24,
+			"OrgAddress": "9, AVENUE DU CANADA\\nPARC HIGHTEC 6 Z.A. DE COURTABOEUF\\n91966 LES ULIS---FRANC\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CREATIVE MICROSYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C04B",
+			"OUISize": 24,
+			"OrgAddress": "9, AVENUE DU CANADA\\n91966  LES  ULIS---FRANC\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "CREATIVE MICROSYSTEMS",
+			"Source": "IEEE"
+		}
+	]
+}

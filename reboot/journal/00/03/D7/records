@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "add",
+			"OUI": "0003D7",
+			"OUISize": 24,
+			"OrgAddress": "9555 James Ave. So.\\nSuite 270\\nBloomington, MN 55431\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NextNet Wireless, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0003D7",
+			"OUISize": 24,
+			"OrgAddress": "9555 James Ave. So.\\nSuite 270\\nBloomington MN 55431\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NextNet Wireless, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0003D7",
+			"OUISize": 24,
+			"OrgAddress": "9555 James Ave. So.\\nBloomington  MN  55431\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NextNet Wireless, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26E8",
+			"OUISize": 36,
+			"OrgAddress": "9200 Voie des Clouets\\nVal de Reuil Eure 27100\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Anymax",
+			"Source": "IEEE"
+		}
+	]
+}

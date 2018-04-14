@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2EDD",
+			"OUISize": 36,
+			"OrgAddress": "VIA PIETRO FANFANI 97/A\\nFIRENZE  50127\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "EBNEURO SPA",
+			"Source": "IEEE"
+		}
+	]
+}

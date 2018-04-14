@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FBC",
+			"OUISize": 36,
+			"OrgAddress": "Usine des Agriers - RDE\\nBoulevard M. Leroy\\nAngoulÃ¯Â¿Â½me Cedex 9  16915\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Leroy Somer",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2FBC",
+			"OUISize": 36,
+			"OrgAddress": "Usine des Agriers - RDE\\nBoulevard M. Leroy\\nAngoulÃÂªme Cedex 9  16915\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Leroy Somer",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2FBC",
+			"OUISize": 36,
+			"OrgAddress": "Usine des Agriers - RDE\\nBoulevard M. Leroy\\nAngoulÃªme Cedex 9  16915\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Leroy Somer",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2FBC",
+			"OUISize": 36,
+			"OrgAddress": "Usine des Agriers - RDE\\nBoulevard M. Leroy\\nAngoulÃÂªme Cedex 9  16915\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Leroy Somer",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2FBC",
+			"OUISize": 36,
+			"OrgAddress": "Usine des Agriers - RDE\\nBoulevard M. Leroy\\nAngoulÃªme Cedex 9  16915\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Leroy Somer",
+			"Source": "IEEE"
+		}
+	]
+}

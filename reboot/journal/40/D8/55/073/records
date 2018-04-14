@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "add",
+			"OUI": "40D855073",
+			"OUISize": 36,
+			"OrgAddress": "6 Clock Tower Place, Suite 100\\nMaynard MA 01754\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Diamond Technologies, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-02",
+			"EventType": "add",
+			"OUI": "9050CA",
+			"OUISize": 24,
+			"OrgAddress": "No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C\\nHsin-chu  Taiwan  300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Hitron Technologies. Inc",
+			"Source": "IEEE"
+		}
+	]
+}

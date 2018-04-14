@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-30",
+			"EventType": "add",
+			"OUI": "0418D6",
+			"OUISize": 24,
+			"OrgAddress": "91 E. Tasman Dr.\\nSan Jose California 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ubiquiti Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0418D6",
+			"OUISize": 24,
+			"OrgAddress": "91 E. Tasman Dr.\\nSan Jose  California  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ubiquiti Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-07",
+			"EventType": "change",
+			"OUI": "0418D6",
+			"OUISize": 24,
+			"OrgAddress": "91 E. Tasman Dr.\\nSan Jose  California  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ubiquiti Networks Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

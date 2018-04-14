@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002051",
+			"OUISize": 24,
+			"OrgAddress": "CORP.\\n55 ACCESS ROAD\\nWARWICK  RI 02886\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PHOENIX DATA COMMUNUNICATIONS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002051",
+			"OUISize": 24,
+			"OrgAddress": "CORP.\\n55 ACCESS ROAD\\nWARWICK RI 02886\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PHOENIX DATA COMMUNUNICATIONS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "change",
+			"OUI": "002051",
+			"OUISize": 24,
+			"OrgAddress": "127 Jetplex Circle\\nMadison AL 35758\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Verilink Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002051",
+			"OUISize": 24,
+			"OrgAddress": "127 Jetplex Circle\\nMadison  AL  35758\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Verilink Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

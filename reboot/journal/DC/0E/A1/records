@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-05-26",
+			"EventType": "add",
+			"OUI": "DC0EA1",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu,\\nKUNSHAN  SUZHOU 215300\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "DC0EA1",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu,\\nKUNSHAN SUZHOU 215300\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "DC0EA1",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu,\\nKUNSHAN  SUZHOU 215300\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "DC0EA1",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu,\\nKUNSHAN SUZHOU 215300\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "DC0EA1",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu,\\nKUNSHAN   SUZHOU  215300\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-17",
+			"EventType": "change",
+			"OUI": "DC0EA1",
+			"OUISize": 24,
+			"OrgAddress": "No.25, Third Avenue, A Zone, Kunshan Comprehensive Free Trade Zone,, Jiangsu,\\nKUNSHAN   SUZHOU  215300\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

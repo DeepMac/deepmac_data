@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-22",
+			"EventType": "add",
+			"OUI": "CC2237C",
+			"OUISize": 28,
+			"OrgAddress": "88 Xinshi South Road\\nShijiazhuang, Hebei    050000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hebei ZHSF Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

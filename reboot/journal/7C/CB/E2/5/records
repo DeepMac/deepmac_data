@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-24",
+			"EventType": "add",
+			"OUI": "7CCBE25",
+			"OUISize": 28,
+			"OrgAddress": "21580 Beaumeade Circle, Suite 230\\nAshburn  VA  20147\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DTECH Labs, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

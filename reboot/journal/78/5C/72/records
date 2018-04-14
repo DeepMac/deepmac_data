@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-01-26",
+			"EventType": "add",
+			"OUI": "785C72",
+			"OUISize": 24,
+			"OrgAddress": "6th Floor, 12th Building, Wangtang Industrial Zone,\\nXingao Road, Xili, Nanshan District\\nShenzhen Guangdong 518055\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Hioso Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "785C72",
+			"OUISize": 24,
+			"OrgAddress": "6th Floor, 12th Building, Wangtang Industrial Zone,\\nShenzhen  Guangdong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hioso Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2250",
+			"OUISize": 36,
+			"OrgAddress": "Industriegebiet Engelberg 2\\nAchstetten  88480\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ACD Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

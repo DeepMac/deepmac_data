@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "004076",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 3608\\nM/S:  106-14\\nHARRISBURG  PA  17105-3608\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AMP INCORPORATED",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "004076",
+			"OUISize": 24,
+			"OrgAddress": "100 Commerce Boulevard\\nQuakertown, PA 78951-2237\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sun Conversion Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004076",
+			"OUISize": 24,
+			"OrgAddress": "100 Commerce Boulevard\\nQuakertown PA 78951-2237\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sun Conversion Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004076",
+			"OUISize": 24,
+			"OrgAddress": "100 Commerce Boulevard\\nQuakertown  PA  78951-2237\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Sun Conversion Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C209B",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 25\\n661 21 Saffle\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Seffle Instrument AB",
+			"Source": "IEEE"
+		}
+	]
+}

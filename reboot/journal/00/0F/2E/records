@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F2E",
+			"OUISize": 24,
+			"OrgAddress": "Rm. 403, No 24 , Wu-Chuan 2nd Rd.,\\nHsin-Chuang\\nTaipei Hsien  242\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Megapower International Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000F2E",
+			"OUISize": 24,
+			"OrgAddress": "Rm. 403, No 24 , Wu-Chuan 2nd Rd.,\\nHsin-Chuang\\nTaipei Hsien  242\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Megapower International Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F2E",
+			"OUISize": 24,
+			"OrgAddress": "Rm. 403, No 24 , Wu-Chuan 2nd Rd.,\\nTaipei Hsien    242\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Megapower International Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

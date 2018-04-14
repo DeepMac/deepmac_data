@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00A0CE",
+			"OUISize": 24,
+			"OrgAddress": "2700 SUMMER ST. N.E.\\nMINNEAPOLIS  MN  55413\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ASTROCOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00A0CE",
+			"OUISize": 24,
+			"OrgAddress": "2700 SUMMER ST. N.E.\\nMINNEAPOLIS MN 55413\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ASTROCOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-08",
+			"EventType": "change",
+			"OUI": "00A0CE",
+			"OUISize": 24,
+			"OrgAddress": "2800 Campus Drive\\nSuite 140\\nPlymouth MN 55441\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ecessa",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00A0CE",
+			"OUISize": 24,
+			"OrgAddress": "2800 Campus Drive\\nPlymouth  MN  55441\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ecessa",
+			"Source": "IEEE"
+		}
+	]
+}

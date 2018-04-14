@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00A0C2",
+			"OUISize": 24,
+			"OrgAddress": "1850-3 HIROOKANOMURA\\nSHIOJIRI-SHI, NAGAMO 399-07\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "R.A. SYSTEMS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00A0C2",
+			"OUISize": 24,
+			"OrgAddress": "1850-3 HIROOKANOMURA\\nSHIOJIRI-SHI, NAGAMO 399-07\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "R.A. SYSTEMS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00A0C2",
+			"OUISize": 24,
+			"OrgAddress": "1850-3 HIROOKANOMURA\\nSHIOJIRI-SHI, NAGAMO 399-07\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "R.A. SYSTEMS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00A0C2",
+			"OUISize": 24,
+			"OrgAddress": "1850-3 HIROOKANOMURA\\nSHIOJIRI-SHI, NAGAMO 399-07\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "R.A. SYSTEMS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00A0C2",
+			"OUISize": 24,
+			"OrgAddress": "1850-3 HIROOKANOMURA\\nSHIOJIRI-SHI, NAGAMO 399-07\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "R.A. SYSTEMS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00A0C2",
+			"OUISize": 24,
+			"OrgAddress": "1850-3 HIROOKANOMURA\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "R.A. SYSTEMS CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

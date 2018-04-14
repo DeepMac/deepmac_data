@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-06-28",
+			"EventType": "add",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , Xiï¿½ï¿½an\\nHigh-tech industry Development Zone\\nXi'an City Shanxi Province 710075\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , XiÂ¡Â¯an\\nHigh-tech industry Development Zone\\nXi'an City Shanxi Province 710075\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , Xi¡¯an\\nHigh-tech industry Development Zone\\nXi'an City Shanxi Province 710075\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , XiÃÂÃÂ¡ÃÂÃÂ¯an\\nHigh-tech industry Development Zone\\nXi'an City Shanxi Province 710075\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , XiÃÂ¡ÃÂ¯an\\nHigh-tech industry Development Zone\\nXi'an City Shanxi Province 710075\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-05",
+			"EventType": "change",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , XiÂ¡Â¯an\\nHigh-tech industry Development Zone\\nXi'an City Shanxi Province 710075\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-14",
+			"EventType": "change",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , XiÃÂ¡ÃÂ¯an\\nHigh-tech industry Development Zone\\nXi'an City Shanxi Province 710075\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "CCF8F0",
+			"OUISize": 24,
+			"OrgAddress": "3 Floor , NO.1 Building , Modern Business Enterprise Centre (East) , NO.69, Jinye road , XiÃÂ¡ÃÂ¯an\\nXi'an City  Shanxi Province  710075\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Xi'an HISU Multimedia Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

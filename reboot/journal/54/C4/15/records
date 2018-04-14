@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-18",
+			"EventType": "add",
+			"OUI": "54C415",
+			"OUISize": 24,
+			"OrgAddress": "No.469,Jianghui Road\\nHangzhou  Zhejiang  310052\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou Hikvision Digital Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

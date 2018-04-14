@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2476",
+			"OUISize": 36,
+			"OrgAddress": "Via Falzarego 9/11\\nBollate Milano 20021\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Ascon S.p.a.",
+			"Source": "IEEE"
+		}
+	]
+}

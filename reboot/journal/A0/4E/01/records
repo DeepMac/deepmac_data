@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-28",
+			"EventType": "add",
+			"OUI": "A04E01",
+			"OUISize": 24,
+			"OrgAddress": "2-3-19 shinyokohama kouhoku-ku\\nyokohama-shi  kanagawa  222-0033\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "CENTRAL ENGINEERING co.,ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2217",
+			"OUISize": 36,
+			"OrgAddress": "Glasgow Road\\nWaterfoot\\nGlasgow Scotland G76 0EQ\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Linn Products Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

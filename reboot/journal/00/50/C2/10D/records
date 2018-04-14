@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C210D",
+			"OUISize": 36,
+			"OrgAddress": "Leineweg 26\\n30823 Garbsen\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Implementa GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

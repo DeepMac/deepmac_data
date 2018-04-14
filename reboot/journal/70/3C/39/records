@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-10-03",
+			"EventType": "add",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai út 139.\\nSzékesfehérvár Fejér 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai Ãºt 139.\\nSzÃ©kesfehÃ©rvÃ¡r FejÃ©r 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai út 139.\\nSzékesfehérvár Fejér 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai ÃÂºt 139.\\nSzÃÂ©kesfehÃÂ©rvÃÂ¡r FejÃÂ©r 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai út 139.\\nSzékesfehérvár Fejér 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai ÃÂºt 139.\\nSzÃÂ©kesfehÃÂ©rvÃÂ¡r FejÃÂ©r 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai Ãºt 139.\\nSzÃ©kesfehÃ©rvÃ¡r FejÃ©r 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai ÃÂÃÂÃÂÃÂºt 139.\\nSzÃÂÃÂÃÂÃÂ©kesfehÃÂÃÂÃÂÃÂ©rvÃÂÃÂÃÂÃÂ¡r FejÃÂÃÂÃÂÃÂ©r 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "Budai Ãºt 139.\\nSzÃ©kesfehÃ©rvÃ¡r FejÃ©r 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-12",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "PalÃ¡nkai utca 5.\\nSzÃ©kesfehÃ©rvÃ¡r FejÃ©r 8000\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "703C39",
+			"OUISize": 24,
+			"OrgAddress": "PalÃ¡nkai utca 5.\\nSzÃ©kesfehÃ©rvÃ¡r  FejÃ©r  8000\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "SEAWING Kft",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-22",
+			"EventType": "add",
+			"OUI": "70B3D581A",
+			"OUISize": 36,
+			"OrgAddress": "Wittenwilerstrasse 31\\nAadorf  TG  8355\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Joehl & Koeferli AG",
+			"Source": "IEEE"
+		}
+	]
+}

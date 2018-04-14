@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2498",
+			"OUISize": 36,
+			"OrgAddress": "87 Progress Avenue\\nTyngsboro MA 01879\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Quartet Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "change",
+			"OUI": "0050C2498",
+			"OUISize": 36,
+			"OrgAddress": "1934 Lakeview Avenue\\nDracut MA 01826\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Quartet Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

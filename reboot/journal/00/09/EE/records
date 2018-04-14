@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0009EE",
+			"OUISize": 24,
+			"OrgAddress": "4-27-2 Higashiogu\\nArakawa-ku Tokyo 116-0012\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MEIKYO ELECTRIC CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0009EE",
+			"OUISize": 24,
+			"OrgAddress": "4-27-2 Higashiogu\\nArakawa-ku  Tokyo  116-0012\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "MEIKYO ELECTRIC CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

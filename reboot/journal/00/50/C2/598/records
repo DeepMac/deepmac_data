@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "Rosastrasse 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃ¯Â¿Â½r Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "Rosastrasse 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃ¼r Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "Rosastrasse 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt für Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "Rosastrasse 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃ¼r Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "Rosastrasse 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt für Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "Rosastrasse 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃ¼r Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "Rosastrasse 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃÂÃÂ¼r Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "RosastraÃe 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃ¼r Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "RosastraÃÅ¸e 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃÂ¼r Strahlenschutz",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2598",
+			"OUISize": 36,
+			"OrgAddress": "RosastraÃe 9\\nFreiburg NA 79098\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bundesamt fÃ¼r Strahlenschutz",
+			"Source": "IEEE"
+		}
+	]
+}

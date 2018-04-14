@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002018",
+			"OUISize": 24,
+			"OrgAddress": "FL. 9-1, NO. 94, PAO CHUNG RD.\\nHSIN TIEN CITY\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "CIS TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002018",
+			"OUISize": 24,
+			"OrgAddress": "FL. 9-1, NO. 94, PAO CHUNG RD.\\nHSIN TIEN CITY TAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "CIS TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "002018",
+			"OUISize": 24,
+			"OrgAddress": "FL. 9-1, NO. 94, PAO CHUNG RD.\\nHSIN TIEN CITY\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CIS TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "002018",
+			"OUISize": 24,
+			"OrgAddress": "FL. 9-1, NO. 94, PAO CHUNG RD.\\nHSIN TIEN CITY\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "CIS TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002018",
+			"OUISize": 24,
+			"OrgAddress": "FL. 9-1, NO. 94, PAO CHUNG RD.\\nHSIN TIEN CITY\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CIS TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002018",
+			"OUISize": 24,
+			"OrgAddress": "FL. 9-1, NO. 94, PAO CHUNG RD.\\nTAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CIS TECHNOLOGY INC.",
+			"Source": "IEEE"
+		}
+	]
+}

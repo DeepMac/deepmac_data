@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C251A",
+			"OUISize": 36,
+			"OrgAddress": "1527 S. Bowman Road\\nSuite F\\nLittle Rock Arkansas 72211\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SpeasTech, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

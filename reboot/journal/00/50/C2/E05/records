@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E05",
+			"OUISize": 36,
+			"OrgAddress": "15 rue Jules Romains\\nVaulx-en-Velin  69120\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "NOCOSIUM",
+			"Source": "IEEE"
+		}
+	]
+}

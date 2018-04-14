@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-08",
+			"EventType": "add",
+			"OUI": "A45385",
+			"OUISize": 24,
+			"OrgAddress": "Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China\\nWeifang  Shandong  261205\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Weifang GoerTek Electronics Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "change",
+			"OUI": "A45385",
+			"OUISize": 24,
+			"OrgAddress": "Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China\\nWeifang  Shandong  261205\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Weifang GoerTek Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

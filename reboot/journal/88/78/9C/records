@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-07-16",
+			"EventType": "add",
+			"OUI": "88789C",
+			"OUISize": 24,
+			"OrgAddress": "Plac W. Andersa 3\\nPoznan  61894\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "Game Technologies SA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "88789C",
+			"OUISize": 24,
+			"OrgAddress": "Plac W. Andersa 3\\nPoznan    61894\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "Game Technologies SA",
+			"Source": "IEEE"
+		}
+	]
+}

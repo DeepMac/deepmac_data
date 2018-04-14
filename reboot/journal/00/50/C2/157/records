@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2157",
+			"OUISize": 36,
+			"OrgAddress": "2870 Perrowville Rd.\\nForest VA 24551\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "nCore, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

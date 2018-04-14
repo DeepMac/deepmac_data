@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-31",
+			"EventType": "add",
+			"OUI": "60D7E31",
+			"OUISize": 28,
+			"OrgAddress": "Via V. Veneto 4\\nCorsico  Milano  20094\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Elap s.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

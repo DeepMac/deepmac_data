@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2376",
+			"OUISize": 36,
+			"OrgAddress": "5 rue Louis de Broglie\\nLANNION  22300\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CLEODE",
+			"Source": "IEEE"
+		}
+	]
+}

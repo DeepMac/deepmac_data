@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "009055",
+			"OUISize": 24,
+			"OrgAddress": "COMPUMOTOR DIVISION\\n5500 BUSINESS PARK DRIVE\\nROHNERT PARK  CA  94928\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PARKER HANNIFIN CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009055",
+			"OUISize": 24,
+			"OrgAddress": "COMPUMOTOR DIVISION\\n5500 BUSINESS PARK DRIVE\\nROHNERT PARK CA 94928\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PARKER HANNIFIN CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "009055",
+			"OUISize": 24,
+			"OrgAddress": "5500 BUSINESS PARK DRIVE\\nROHNERT PARK CA 94928\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PARKER HANNIFIN CORPORATION COMPUMOTOR DIVISION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009055",
+			"OUISize": 24,
+			"OrgAddress": "5500 BUSINESS PARK DRIVE\\nROHNERT PARK  CA  94928\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "PARKER HANNIFIN CORPORATION COMPUMOTOR DIVISION",
+			"Source": "IEEE"
+		}
+	]
+}

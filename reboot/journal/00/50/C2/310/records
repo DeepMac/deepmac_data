@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2310",
+			"OUISize": 36,
+			"OrgAddress": "14F Hansihn IT Tower #235 Guro-Dong Guro-gu\\nSeoul  152-050\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "CYBERTRON CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

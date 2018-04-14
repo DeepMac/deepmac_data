@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28B0",
+			"OUISize": 36,
+			"OrgAddress": "1016 Morse Ave\\nSuite 14\\nSunnyvale CA 94089\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BK Innovation, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

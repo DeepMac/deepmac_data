@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-24",
+			"EventType": "add",
+			"OUI": "1CA0D33",
+			"OUISize": 28,
+			"OrgAddress": "rue de la houille blanche\\nHERMILLON  SAVOIE  73300\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "SAVELEC",
+			"Source": "IEEE"
+		}
+	]
+}

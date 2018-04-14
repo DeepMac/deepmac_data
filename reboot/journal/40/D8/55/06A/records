@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "add",
+			"OUI": "40D85506A",
+			"OUISize": 36,
+			"OrgAddress": "Krantzstr 7\\nHalle 6\\nAachen NRW 52070\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "elgris",
+			"Source": "IEEE"
+		}
+	]
+}

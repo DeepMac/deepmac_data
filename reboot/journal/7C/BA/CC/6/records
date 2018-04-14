@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-13",
+			"EventType": "add",
+			"OUI": "7CBACC6",
+			"OUISize": 28,
+			"OrgAddress": "10 Mosher Drive\\nDartmouth  Nova Scotia  B3B1N5\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Fossil Power Systems Inc",
+			"Source": "IEEE"
+		}
+	]
+}

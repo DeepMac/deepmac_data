@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C276E",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 364\\nCherrybrook NSW 2126\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "Crinia Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

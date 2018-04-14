@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C269F",
+			"OUISize": 36,
+			"OrgAddress": "777 American Drive\\nBensalem PA 19020\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Total RF, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

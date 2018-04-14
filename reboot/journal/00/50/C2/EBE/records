@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃ¯Â¿Â½rias, n.2558\\nAraucÃ¯Â¿Â½ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃ¡rias, n.2558\\nAraucÃ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das Araucárias, n.2558\\nAraucária PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃ¡rias, n.2558\\nAraucÃ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das Araucárias, n.2558\\nAraucária PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃ¡rias, n.2558\\nAraucÃ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃÂÃÂ¡rias, n.2558\\nAraucÃÂÃÂ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃÂ¡rias, n.2558\\nAraucÃÂ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃ¡rias, n.2558\\nAraucÃ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃÂ¡rias, n.2558\\nAraucÃÂ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2EBE",
+			"OUISize": 36,
+			"OrgAddress": "Av. das AraucÃ¡rias, n.2558\\nAraucÃ¡ria PR 81530-020\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Global Tecnologia LTDA.",
+			"Source": "IEEE"
+		}
+	]
+}

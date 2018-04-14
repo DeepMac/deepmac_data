@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-22",
+			"EventType": "add",
+			"OUI": "646223",
+			"OUISize": 24,
+			"OrgAddress": "6F Glass Tower, 366-4 Yatap-dong Bundang-gu\\nSeongnam-si Gyeonggi-do 463-827\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Cellient Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "646223",
+			"OUISize": 24,
+			"OrgAddress": "6F Glass Tower, 366-4 Yatap-dong Bundang-gu\\nSeongnam-si  Gyeonggi-do  463-827\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Cellient Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "add",
+			"OUI": "001C34",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO. 649-1,\\nCHUNG CHENG RD.,\\nHSIN CHUANG CITY TAIPEI 242\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "HUEY CHIAO INTERNATIONAL CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001C34",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO. 649-1,\\nCHUNG CHENG RD.,\\nHSIN CHUANG CITY TAIPEI 242\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "HUEY CHIAO INTERNATIONAL CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C34",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO. 649-1,\\nHSIN CHUANG CITY  TAIPEI  242\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "HUEY CHIAO INTERNATIONAL CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

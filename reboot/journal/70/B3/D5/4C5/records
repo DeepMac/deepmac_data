@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-19",
+			"EventType": "add",
+			"OUI": "70B3D54C5",
+			"OUISize": 36,
+			"OrgAddress": "17760 Newhope Street Suite B\\nFountain Valley  CA  92708\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Moving iMage Technologies LLC",
+			"Source": "IEEE"
+		}
+	]
+}

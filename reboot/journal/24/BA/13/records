@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-30",
+			"EventType": "add",
+			"OUI": "24BA13",
+			"OUISize": 24,
+			"OrgAddress": "2-8-1 Gakuen-minami\\nThukuba-shi  Ibaraki  305-0818\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "RISO KAGAKU CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

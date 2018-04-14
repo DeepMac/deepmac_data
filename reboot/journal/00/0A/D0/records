@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000AD0",
+			"OUISize": 24,
+			"OrgAddress": "Akane-Niigata Building 2F\\n1-6-7 Atago\\nNiigata Niigata Prefecture 950-0944\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Niigata Develoment Center,  F.I.T. Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000AD0",
+			"OUISize": 24,
+			"OrgAddress": "Akane-Niigata Building 2F\\nNiigata  Niigata Prefecture  950-0944\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Niigata Develoment Center,  F.I.T. Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

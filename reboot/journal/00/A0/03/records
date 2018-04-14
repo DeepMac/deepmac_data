@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00A003",
+			"OUISize": 24,
+			"OrgAddress": "LAUBISRUTI 50\\n8712 STAEFA\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "STAEFA CONTROL SYSTEM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00A003",
+			"OUISize": 24,
+			"OrgAddress": "LAUBISRUETI 50\\n8712 STAEFA\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "STAEFA CONTROL SYSTEM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "00A003",
+			"OUISize": 24,
+			"OrgAddress": "Building Technologies Division, International Headquarters\\nI BT HVP SYS RD EU Gubelstrasse 22\\nZug  6301\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Siemens Switzerland Ltd., I B T HVP",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00A003",
+			"OUISize": 24,
+			"OrgAddress": "Building Technologies Division, International Headquarters\\nZug    6301\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Siemens Switzerland Ltd., I B T HVP",
+			"Source": "IEEE"
+		}
+	]
+}

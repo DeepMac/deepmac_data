@@ -1,0 +1,147 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-12-12",
+			"EventType": "add",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,\\nAV. FERNANDO CASAS NOVOA ,37,B-2º\\nSANTIAGO DE COMPOSTELA A CORUÑA 15707\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,Nº 37B 2º\\n15707 - SANTIAGO DE COMPOSTELA A CORUÑA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÂº 37B 2Âº\\n15707 - SANTIAGO DE COMPOSTELA A CORUÃA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,Nº 37B 2º\\n15707 - SANTIAGO DE COMPOSTELA A CORUÑA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÃÂº 37B 2ÃÂº\\n15707 - SANTIAGO DE COMPOSTELA A CORUÃÂA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,Nº 37B 2º\\n15707 - SANTIAGO DE COMPOSTELA A CORUÑA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÃÂº 37B 2ÃÂº\\n15707 - SANTIAGO DE COMPOSTELA A CORUÃÂA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÃÂº 37B 2ÃÂº\\n15707 - SANTIAGO DE COMPOSTELA A CORUÃâA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÃÂÃ¢ÂÂÃÂÃÂº 37B 2ÃÂÃ¢ÂÂÃÂÃÂº\\n15707 - SANTIAGO DE COMPOSTELA A CORUÃÂÃÂÃÂ¢Ã¢ÂÂ¬ÃÂA\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÃâÃÂº 37B 2Âº\\n15707 - SANTIAGO DE COMPOSTELA A CoruÃ±a\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-05",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÃÂÃÂº 37B 2Âº\\n15707 - SANTIAGO DE COMPOSTELA A CoruÃ±a\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-14",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\nFERNANDO CASAS NOVOA ,NÃâÃÂº 37B 2Âº\\n15707 - SANTIAGO DE COMPOSTELA A CoruÃ±a\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001AAF",
+			"OUISize": 24,
+			"OrgAddress": "EDIFICIO CNL,- AV.\\n15707 - SANTIAGO DE COMPOSTELA  A CoruÃ±a\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "BLUSENS TECHNOLOGY",
+			"Source": "IEEE"
+		}
+	]
+}

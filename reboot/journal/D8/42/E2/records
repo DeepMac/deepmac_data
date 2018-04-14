@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-03",
+			"EventType": "add",
+			"OUI": "D842E2",
+			"OUISize": 24,
+			"OrgAddress": "132 East 43rd Street\\nNew York    10017\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Canary Connect, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

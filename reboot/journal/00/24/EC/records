@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0024EC",
+			"OUISize": 24,
+			"OrgAddress": "5/F,9th Building,Software Park,2nd Keji-zhong Road,High-Tech Industrial Park\\nShenzhen Guangdong 518057\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "United Information Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0024EC",
+			"OUISize": 24,
+			"OrgAddress": "5/F,9th Building,Software Park,2nd Keji-zhong Road,High-Tech Industrial Park\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "United Information Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

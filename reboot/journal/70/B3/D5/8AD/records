@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-10",
+			"EventType": "add",
+			"OUI": "70B3D58AD",
+			"OUISize": 36,
+			"OrgAddress": "4915 Waters Edge Dr\\nSte 185\\nRaleigh North Carolina 27606-2394\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Global Communications Technology LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D58AD",
+			"OUISize": 36,
+			"OrgAddress": "4915 Waters Edge Dr\\nRaleigh  North Carolina  27606-2394\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Global Communications Technology LLC",
+			"Source": "IEEE"
+		}
+	]
+}

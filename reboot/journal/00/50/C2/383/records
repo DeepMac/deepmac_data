@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2383",
+			"OUISize": 36,
+			"OrgAddress": "7034 Commerce Circle\\nPleasanton CA 94588\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ICS Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

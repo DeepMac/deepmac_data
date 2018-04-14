@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-17",
+			"EventType": "add",
+			"OUI": "70B3D5EF8",
+			"OUISize": 36,
+			"OrgAddress": "Robert-Perthel-Str. 79\\nCologne    50739\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "DKS Dienstl.ges. f. Komm.anl. d. Stadt- u. Reg.verk. mbH",
+			"Source": "IEEE"
+		}
+	]
+}

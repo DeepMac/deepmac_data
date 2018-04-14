@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C204A",
+			"OUISize": 36,
+			"OrgAddress": "34 Industrial Way East\\nEatontown NJ 07724\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Telecom Analysis Systems, LP",
+			"Source": "IEEE"
+		}
+	]
+}

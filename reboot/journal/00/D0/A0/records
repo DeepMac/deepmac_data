@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00D0A0",
+			"OUISize": 24,
+			"OrgAddress": "LAUTRUPVANG 2B\\n2750 BALLERUP\\n\\n",
+			"OrgCountry": "DK - DENMARK",
+			"OrgName": "MIPS DENMARK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00D0A0",
+			"OUISize": 24,
+			"OrgAddress": "LAUTRUPVANG 2B\\n2750 BALLERUP\\nDK - DENMARK\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "MIPS DENMARK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00D0A0",
+			"OUISize": 24,
+			"OrgAddress": "LAUTRUPVANG 2B\\n2750 BALLERUP\\nDK -\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "MIPS DENMARK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00D0A0",
+			"OUISize": 24,
+			"OrgAddress": "LAUTRUPVANG 2B\\n2750 BALLERUP\\nDK - DENMARK\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "MIPS DENMARK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00D0A0",
+			"OUISize": 24,
+			"OrgAddress": "LAUTRUPVANG 2B\\n2750 BALLERUP\\nDK -\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "MIPS DENMARK",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00D0A0",
+			"OUISize": 24,
+			"OrgAddress": "LAUTRUPVANG 2B\\nDK  -\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "MIPS DENMARK",
+			"Source": "IEEE"
+		}
+	]
+}

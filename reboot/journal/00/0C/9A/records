@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000C9A",
+			"OUISize": 24,
+			"OrgAddress": "4f, No. 501-15 Chung-Cheng Rd.\\nShin-tien Taipei Shien 231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Hitech Electronics Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000C9A",
+			"OUISize": 24,
+			"OrgAddress": "4f, No. 501-15 Chung-Cheng Rd.\\nShin-tien Taipei Shien 231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Hitech Electronics Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C9A",
+			"OUISize": 24,
+			"OrgAddress": "4f, No. 501-15 Chung-Cheng Rd.\\nShin-tien  Taipei Shien  231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Hitech Electronics Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

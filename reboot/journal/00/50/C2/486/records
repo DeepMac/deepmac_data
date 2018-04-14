@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "StorsjÃ¯Â¿Â½strÃ¯Â¿Â½ket 15\\nÃ¯Â¿Â½stersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "StorsjÃ¶strÃ¥ket 15\\nÃstersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "Storsjöstråket 15\\nÖstersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "StorsjÃ¶strÃ¥ket 15\\nÃstersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "Storsjöstråket 15\\nÖstersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "StorsjÃ¶strÃ¥ket 15\\nÃstersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "StorsjÃÂÃÂ¶strÃÂÃÂ¥ket 15\\nÃÂÃ¢ÂÂstersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "StorsjÃ¶strÃ¥ket 15\\nÃstersund  83134\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "Djurhagegatan 19\\nMalmÃ¶  21376\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "Djurhagegatan 19\\nMalmÃÂ¶  21376\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2486",
+			"OUISize": 36,
+			"OrgAddress": "Djurhagegatan 19\\nMalmÃ¶  21376\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Safegate International AB",
+			"Source": "IEEE"
+		}
+	]
+}

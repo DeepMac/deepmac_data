@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22F3",
+			"OUISize": 36,
+			"OrgAddress": "41 Daggett Drive\\nSan Jose CA 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Crossbow Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

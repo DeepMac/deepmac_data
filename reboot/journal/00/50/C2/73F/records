@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C273F",
+			"OUISize": 36,
+			"OrgAddress": "Graefenberger Strasse 32 - 34\\nUttenreuth Bayern 91080\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEDAV GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

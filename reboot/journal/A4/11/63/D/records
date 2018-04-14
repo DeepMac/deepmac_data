@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-30",
+			"EventType": "add",
+			"OUI": "A41163D",
+			"OUISize": 28,
+			"OrgAddress": "Room 712 in 3A of Hecheng Century Gardenï¼Wuhe Street South No.118ï¼Longgang Districtï¼Shenzhen\\nSHENZHEN  GUANG DONG  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN ZHISHI TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

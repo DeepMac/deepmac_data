@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27CA",
+			"OUISize": 36,
+			"OrgAddress": "20 Home End\\nFulbourn\\nCambridge  CB21 5BS\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "CEDAR Audio Limited",
+			"Source": "IEEE"
+		}
+	]
+}

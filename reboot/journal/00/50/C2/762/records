@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2762",
+			"OUISize": 36,
+			"OrgAddress": "Ledson Road\\nRoundthorn Industrial Estate\\nWythenshawe Manchester M23 9GP\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Assembly Contracts Limited",
+			"Source": "IEEE"
+		}
+	]
+}

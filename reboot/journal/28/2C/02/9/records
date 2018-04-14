@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-26",
+			"EventType": "add",
+			"OUI": "282C029",
+			"OUISize": 28,
+			"OrgAddress": "Room 1312, Building D, HI-Tech. Information Square, No.8 Huatian Rd., Huayuan HI-Tech. Park\\nTianjin    300384\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Systec Intelligent Building Technology (Tianjin) Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

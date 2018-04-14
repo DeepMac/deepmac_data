@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C214B",
+			"OUISize": 36,
+			"OrgAddress": "Kranichweg 14\\nSt. Marien  A-4502\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "HECUBA Elektronik",
+			"Source": "IEEE"
+		}
+	]
+}

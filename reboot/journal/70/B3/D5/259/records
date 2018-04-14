@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-02",
+			"EventType": "add",
+			"OUI": "70B3D5259",
+			"OUISize": 36,
+			"OrgAddress": "Kayisdagi Cd. Baris Sk. No:2 K:5 Kucukbakkalkoy\\nIstanbul  NA  34750\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Zebra Elektronik A.S.",
+			"Source": "IEEE"
+		}
+	]
+}

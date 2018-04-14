@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000773",
+			"OUISize": 24,
+			"OrgAddress": "Belpstr. 37\\n3000 Bern 14\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Ascom Powerline Communications Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000773",
+			"OUISize": 24,
+			"OrgAddress": "Belpstr. 37\\n\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Ascom Powerline Communications Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

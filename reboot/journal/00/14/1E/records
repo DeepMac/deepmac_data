@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-03-22",
+			"EventType": "add",
+			"OUI": "00141E",
+			"OUISize": 24,
+			"OrgAddress": "3965 Freedom Circle, Fl 8\\nSanta Clara CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "P.A. Semi, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00141E",
+			"OUISize": 24,
+			"OrgAddress": "3965 Freedom Circle, Fl 8\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "P.A. Semi, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

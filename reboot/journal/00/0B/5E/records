@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B5E",
+			"OUISize": 24,
+			"OrgAddress": "Floor 3, 10 Bedford Street\\nLondon  WC2E 9HE\\n\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "ATMAVA Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "000B5E",
+			"OUISize": 24,
+			"OrgAddress": "60 East 42nd Street, Suite #2520\\nNew York NY 10165-2520\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Audio Engineering Society Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B5E",
+			"OUISize": 24,
+			"OrgAddress": "60 East 42nd Street, Suite #2520\\nNew York  NY  10165-2520\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Audio Engineering Society Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

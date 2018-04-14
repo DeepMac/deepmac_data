@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "080072",
+			"OUISize": 24,
+			"OrgAddress": "ZEROX SYSTEMS INSTITUTE\\nM/S 105 50C\\n800 PHILLIPS ROAD\\nWEBSTER  NY  14580",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "XEROX CORP UNIV GRANT PROGRAM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "080072",
+			"OUISize": 24,
+			"OrgAddress": "ZEROX SYSTEMS INSTITUTE\\nM/S 105 50C 800 PHILLIPS ROAD\\nWEBSTER NY 14580\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "XEROX CORP UNIV GRANT PROGRAM",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "080072",
+			"OUISize": 24,
+			"OrgAddress": "ZEROX SYSTEMS INSTITUTE\\nWEBSTER  NY  14580\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "XEROX CORP UNIV GRANT PROGRAM",
+			"Source": "IEEE"
+		}
+	]
+}

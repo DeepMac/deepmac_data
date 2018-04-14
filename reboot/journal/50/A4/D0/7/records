@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-19",
+			"EventType": "add",
+			"OUI": "50A4D07",
+			"OUISize": 28,
+			"OrgAddress": "No.100, Lane 7488, Hutai Road\\nShanghai    86-201809\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Pujiang Smart Card Systems Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

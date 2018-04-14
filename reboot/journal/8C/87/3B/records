@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-10-16",
+			"EventType": "add",
+			"OUI": "8C873B",
+			"OUISize": 24,
+			"OrgAddress": "Am Leitz-Park 5\\nWetzlar Hessen 35578\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Leica Camera AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "8C873B",
+			"OUISize": 24,
+			"OrgAddress": "Am Leitz-Park 5\\nWetzlar  Hessen  35578\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Leica Camera AG",
+			"Source": "IEEE"
+		}
+	]
+}

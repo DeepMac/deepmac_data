@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FD2",
+			"OUISize": 36,
+			"OrgAddress": "28 Kaysal Court\\nArmonk NY 10504\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Autonomic Controls. Inc",
+			"Source": "IEEE"
+		}
+	]
+}

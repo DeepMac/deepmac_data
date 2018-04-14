@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C240D",
+			"OUISize": 36,
+			"OrgAddress": "Unit 16,\\nThorney Leys Business Park\\nWitney Oxfordshire OX28 4GW\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Afonics Fibreoptics Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

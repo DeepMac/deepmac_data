@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-15",
+			"EventType": "add",
+			"OUI": "7CBACCE",
+			"OUISize": 28,
+			"OrgAddress": "3030 GILCHRIST ROAD\\nAKRON  OH  44305\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ALPHA TECHNOLOGIES, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

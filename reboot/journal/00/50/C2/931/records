@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2931",
+			"OUISize": 36,
+			"OrgAddress": "Room 208, Lotte Gold Rose Tower II, 890-59,\\nDaechi-dong, Kangnam-gu,\\nSeoul  135-280\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Korea Telecom Internet Solutions (KTIS)",
+			"Source": "IEEE"
+		}
+	]
+}

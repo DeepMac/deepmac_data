@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FBF",
+			"OUISize": 36,
+			"OrgAddress": "#106 Deayoung golden vally,290-2\\nGocheon-dong\\nUiwang-si Gyeonggi-do 437-801\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "MYLOGIC",
+			"Source": "IEEE"
+		}
+	]
+}

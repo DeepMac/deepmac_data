@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2556",
+			"OUISize": 36,
+			"OrgAddress": "Hans-Sachs-Gasse 6\\n79098 Freiburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Freiburger BlickZentrum",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-23",
+			"EventType": "add",
+			"OUI": "601E02",
+			"OUISize": 24,
+			"OrgAddress": "Ibragimova 9\\nAlmaty Province 050032\\n\\n",
+			"OrgCountry": "KAZAKHSTAN",
+			"OrgName": "EltexAlatau",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "601E02",
+			"OUISize": 24,
+			"OrgAddress": "Ibragimova 9\\nAlmaty  Province  050032\\n\\n",
+			"OrgCountry": "KZ",
+			"OrgName": "EltexAlatau",
+			"Source": "IEEE"
+		}
+	]
+}

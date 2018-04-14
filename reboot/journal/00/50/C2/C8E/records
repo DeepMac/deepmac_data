@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C8E",
+			"OUISize": 36,
+			"OrgAddress": "Volgina 15\\nBelgrade  11060\\n\\n",
+			"OrgCountry": "SERBIA",
+			"OrgName": "SDD ITG",
+			"Source": "IEEE"
+		}
+	]
+}

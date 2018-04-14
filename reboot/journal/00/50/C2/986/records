@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2986",
+			"OUISize": 36,
+			"OrgAddress": "12249 Science Drive\\nSuite 135\\nOrlando FL 32826\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DSCI",
+			"Source": "IEEE"
+		}
+	]
+}

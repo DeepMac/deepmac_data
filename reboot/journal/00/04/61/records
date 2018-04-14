@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "000461",
+			"OUISize": 24,
+			"OrgAddress": "10F, #346, Chung San Rd.\\nSec. 2, Chung Ho City,\\nTaipei Hsien 235\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "EPOX Computer Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000461",
+			"OUISize": 24,
+			"OrgAddress": "11F, #346, Chung San Rd.\\nSec. 2, Chung Ho City, Taipei Hsien 235\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "EPOX Computer Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000461",
+			"OUISize": 24,
+			"OrgAddress": "11F, #346, Chung San Rd.\\nSec. 2, Chung Ho City, Taipei Hsien 235\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "EPOX Computer Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000461",
+			"OUISize": 24,
+			"OrgAddress": "11F, #346, Chung San Rd.\\nSec. 2, Chung Ho City, Taipei Hsien 235\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "EPOX Computer Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000461",
+			"OUISize": 24,
+			"OrgAddress": "11F, #346, Chung San Rd.\\nTAIWAN  TAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "EPOX Computer Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

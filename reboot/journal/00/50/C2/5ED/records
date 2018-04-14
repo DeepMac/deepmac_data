@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25ED",
+			"OUISize": 36,
+			"OrgAddress": "Parkstrasse 1-5\\nLudwigsfelde Brandenburg 14974\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AQUAROTTER A FRANKE COMPANY",
+			"Source": "IEEE"
+		}
+	]
+}

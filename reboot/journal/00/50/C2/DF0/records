@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DF0",
+			"OUISize": 36,
+			"OrgAddress": "Fallerovo setaliste 22\\nZagreb  10000\\n\\n",
+			"OrgCountry": "CROATIA",
+			"OrgName": "Koncar Electrical Engineering Institute",
+			"Source": "IEEE"
+		}
+	]
+}

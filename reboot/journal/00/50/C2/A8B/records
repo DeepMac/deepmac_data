@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A8B",
+			"OUISize": 36,
+			"OrgAddress": "Teknologiantie 7A\\nOulu  90570\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Navicron Oy",
+			"Source": "IEEE"
+		}
+	]
+}

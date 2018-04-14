@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-10-21",
+			"EventType": "add",
+			"OUI": "E48501",
+			"OUISize": 24,
+			"OrgAddress": "Schachenstrasse 77\\nJona SG 8645\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Geberit International AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E48501",
+			"OUISize": 24,
+			"OrgAddress": "Schachenstrasse 77\\nJona  SG  8645\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Geberit International AG",
+			"Source": "IEEE"
+		}
+	]
+}

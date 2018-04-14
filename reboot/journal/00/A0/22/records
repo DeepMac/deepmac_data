@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00A022",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED COMPUTING\\nUNIVERSITY OF POONA CAMPUS\\nGANESH KHIND, PUNE - 411008\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "CENTRE FOR DEVELOPMENT OF",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00A022",
+			"OUISize": 24,
+			"OrgAddress": "ADVANCED COMPUTING\\nUNIVERSITY OF POONA CAMPUS GANESH KHIND,\\n\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "CENTRE FOR DEVELOPMENT OF",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00A022",
+			"OUISize": 24,
+			"OrgAddress": "UNIVERSITY OF POONA CAMPUS\\nGANESH KHIND, Pune - 411 008\\n\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00A022",
+			"OUISize": 24,
+			"OrgAddress": "UNIVERSITY OF POONA CAMPUS\\nGANESH KHIND, Pune - 411 008\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING",
+			"Source": "IEEE"
+		}
+	]
+}

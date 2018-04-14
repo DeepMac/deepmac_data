@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DEB",
+			"OUISize": 36,
+			"OrgAddress": "Ostendstr. 25\\nBerlin  12459\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Ruwisch & Kollegen GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

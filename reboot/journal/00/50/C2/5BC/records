@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25BC",
+			"OUISize": 36,
+			"OrgAddress": "A-406, GD Soft Science Park, No.11 CaiPin Rd, GZ Science City,\\nGuangZhou GuangDong 510663\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Guangzhou Hui Si Information Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

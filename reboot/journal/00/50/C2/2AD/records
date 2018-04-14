@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22AD",
+			"OUISize": 36,
+			"OrgAddress": "division SACE T.M.S.\\nvia Friuli 4\\nDalmine Bergamo 24044\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB T&D Spa",
+			"Source": "IEEE"
+		}
+	]
+}

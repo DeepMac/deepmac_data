@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-17",
+			"EventType": "add",
+			"OUI": "A48E0A",
+			"OUISize": 24,
+			"OrgAddress": "Gustaf De Lavals vÃ¤g 15\\nTUMBA    14721\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "DeLaval International AB",
+			"Source": "IEEE"
+		}
+	]
+}

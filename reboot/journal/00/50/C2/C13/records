@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C13",
+			"OUISize": 36,
+			"OrgAddress": "Tonsbakken 16-18\\nSkovlunde  2740\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Dantec Dynamics A/S",
+			"Source": "IEEE"
+		}
+	]
+}

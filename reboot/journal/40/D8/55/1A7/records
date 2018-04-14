@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "add",
+			"OUI": "40D8551A7",
+			"OUISize": 36,
+			"OrgAddress": "78-2 Buncheon-ri\\nBongdam-eup\\nHwaseong-city Gyungki-do 445-894\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "ENTEC Electric & Electronic CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

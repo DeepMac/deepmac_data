@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E99",
+			"OUISize": 36,
+			"OrgAddress": "20370 Town Center Lane, Suite 150\\nCupertino CA 95014\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "UV Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

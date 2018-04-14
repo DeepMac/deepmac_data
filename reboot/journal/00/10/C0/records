@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0010C0",
+			"OUISize": 24,
+			"OrgAddress": "7887 DUNBROOK ROAD--STE. \"A\"\\nSAN DIEGO  CA  92126\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARMA, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0010C0",
+			"OUISize": 24,
+			"OrgAddress": "7887 DUNBROOK ROAD--STE. \"A\"\\nSAN DIEGO CA 92126\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARMA, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0010C0",
+			"OUISize": 24,
+			"OrgAddress": "7887 DUNBROOK ROAD--STE. A\\nSAN DIEGO CA 92126\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARMA, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "change",
+			"OUI": "0010C0",
+			"OUISize": 24,
+			"OrgAddress": "6255 Ferris Square\\nSan Diego CA 92121\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARMA, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-06",
+			"EventType": "change",
+			"OUI": "0010C0",
+			"OUISize": 24,
+			"OrgAddress": "4851 Northshore Lane\\nNorth Little Rock AR 72118\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARMA, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0010C0",
+			"OUISize": 24,
+			"OrgAddress": "4851 Northshore Lane\\nNorth Little Rock  AR  72118\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ARMA, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

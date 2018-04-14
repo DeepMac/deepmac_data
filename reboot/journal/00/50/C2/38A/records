@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C238A",
+			"OUISize": 36,
+			"OrgAddress": "16 Jalan Krian\\nGeorgetown\\n10400 Penang\\n",
+			"OrgCountry": "MALAYSIA",
+			"OrgName": "Embedtronics Enterprise",
+			"Source": "IEEE"
+		}
+	]
+}

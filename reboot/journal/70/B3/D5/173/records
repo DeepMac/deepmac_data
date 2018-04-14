@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-02",
+			"EventType": "add",
+			"OUI": "70B3D5173",
+			"OUISize": 36,
+			"OrgAddress": "550 North Brand Boulevard, 17th Floor\\nGlendale  CA  91203-1944\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "National TeleConsultants LLC",
+			"Source": "IEEE"
+		}
+	]
+}

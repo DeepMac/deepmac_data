@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00500C",
+			"OUISize": 24,
+			"OrgAddress": "1057 EAST HENRIETTA RD.\\nROCHESTER  NY  14623\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ETEK LABS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00500C",
+			"OUISize": 24,
+			"OrgAddress": "1057 EAST HENRIETTA RD.\\nROCHESTER NY 14623\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ETEK LABS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00500C",
+			"OUISize": 24,
+			"OrgAddress": "1057 EAST HENRIETTA RD.\\nROCHESTER NY 14623\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "e-Tek Labs, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00500C",
+			"OUISize": 24,
+			"OrgAddress": "1057 EAST HENRIETTA RD.\\nROCHESTER  NY  14623\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "e-Tek Labs, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

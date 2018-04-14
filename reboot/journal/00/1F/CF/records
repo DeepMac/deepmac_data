@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "add",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer Landstraße 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer LandstraÃe 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer Landstraße 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer LandstraÃÂe 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer Landstraße 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer LandstraÃÂe 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer LandstraÃÅ¸e 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer LandstraÃÂÃÂÃÂÃÂ¸e 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer LandstraÃe 328-330\\nFrankfurt am Main Hessen 60314\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001FCF",
+			"OUISize": 24,
+			"OrgAddress": "Hanauer LandstraÃe 328-330\\nFrankfurt am Main  Hessen  60314\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MSI Technology GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

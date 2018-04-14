@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-30",
+			"EventType": "add",
+			"OUI": "E0B6F55",
+			"OUISize": 28,
+			"OrgAddress": "Room 1302,Microprofit Building,Gaoxin 6th Avenue,Hi-tech Park,Nanshan District\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Civicom Technology Co.,Limited",
+			"Source": "IEEE"
+		}
+	]
+}

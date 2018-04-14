@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-28",
+			"EventType": "add",
+			"OUI": "28F5377",
+			"OUISize": 28,
+			"OrgAddress": "Room 1006,Beike buildingï¼Keyuan road,Yuehai streets,Nanshan District\\nShenzhen  Guangdong Province  518200\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Modern Cowboy Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

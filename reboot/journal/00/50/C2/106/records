@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2106",
+			"OUISize": 36,
+			"OrgAddress": "kishimachi 2-9-17-102\\nkita-ku\\nTokyo-to\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MATSUOKA",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27AC",
+			"OUISize": 36,
+			"OrgAddress": "Km 109 CARRETERA PANAMERICANA MEX-QRO\\nPASTEJE JOCOTITLAN ESTADO DE MEXICO 50700\\n\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "IUSA SA DE CV",
+			"Source": "IEEE"
+		}
+	]
+}

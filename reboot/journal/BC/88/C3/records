@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-09",
+			"EventType": "add",
+			"OUI": "BC88C3",
+			"OUISize": 24,
+			"OrgAddress": "No.168 Shengguang road Luotuo street Zhenhai district\\nNingbo  Zhejiang  315202\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Ningbo Dooya Mechanic & Electronic Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

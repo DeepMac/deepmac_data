@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00D023",
+			"OUISize": 24,
+			"OrgAddress": "10F, NO. 33 SAN-MIN RD.\\nSEC. 2 PANCHIAO CITY\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "INFORTREND TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00D023",
+			"OUISize": 24,
+			"OrgAddress": "10F, NO. 33 SAN-MIN RD.\\nSEC. 2 PANCHIAO CITY TAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "INFORTREND TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00D023",
+			"OUISize": 24,
+			"OrgAddress": "10F, NO. 33 SAN-MIN RD.\\nSEC. 2 PANCHIAO CITY TAIPEI HSIEN\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "INFORTREND TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "00D023",
+			"OUISize": 24,
+			"OrgAddress": "10F, NO. 33 SAN-MIN RD.\\nSEC. 2 PANCHIAO CITY TAIPEI HSIEN\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "INFORTREND TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00D023",
+			"OUISize": 24,
+			"OrgAddress": "10F, NO. 33 SAN-MIN RD.\\nSEC. 2 PANCHIAO CITY TAIPEI HSIEN\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "INFORTREND TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00D023",
+			"OUISize": 24,
+			"OrgAddress": "10F, NO. 33 SAN-MIN RD.\\nTAIWAN\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "INFORTREND TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

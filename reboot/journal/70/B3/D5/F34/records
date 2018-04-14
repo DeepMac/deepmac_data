@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-02-22",
+			"EventType": "add",
+			"OUI": "70B3D5F34",
+			"OUISize": 36,
+			"OrgAddress": "404 Wyman St\\nSuite 400\\nWaltham MA 02451\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MacGray Services",
+			"Source": "IEEE"
+		}
+	]
+}

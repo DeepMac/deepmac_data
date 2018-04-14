@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C223D",
+			"OUISize": 36,
+			"OrgAddress": "910A Industrial Blvd\\nSugar Land TX 77478-2828\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Gauging Systems Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0008F5",
+			"OUISize": 24,
+			"OrgAddress": "4th FL Kyung-Am B/D 157-27 Samsung-Dong,\\nSeoul 135-090\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "YESTECHNOLOGY Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0008F5",
+			"OUISize": 24,
+			"OrgAddress": "4th FL Kyung-Am B/D 157-27 Samsung-Dong,\\nSeoul  135-090\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "YESTECHNOLOGY Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

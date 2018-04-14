@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃ¯Â¿Â½ km. 9.6\\nParque industrial Jurica\\nQueretaro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃ­ km. 9.6\\nParque industrial Jurica\\nQueretaro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis Potosí km. 9.6\\nParque industrial Jurica\\nQueretaro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃ­ km. 9.6\\nParque industrial Jurica\\nQueretaro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis Potosí km. 9.6\\nParque industrial Jurica\\nQueretaro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃ­ km. 9.6\\nParque industrial Jurica\\nQueretaro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃÂÃÂ­ km. 9.6\\nParque industrial Jurica\\nQueretaro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃ­Â­ km. 9.6\\nParque industrial Jurica\\nQuerÃ©taro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃÂ­ÃÂ­ km. 9.6\\nParque industrial Jurica\\nQuerÃÂ©taro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2273",
+			"OUISize": 36,
+			"OrgAddress": "Carretera a San Luis PotosÃ­Â­ km. 9.6\\nParque industrial Jurica\\nQuerÃ©taro  76120\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Servicios Condumex, S. A. de C. V.",
+			"Source": "IEEE"
+		}
+	]
+}

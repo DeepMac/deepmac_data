@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AEB",
+			"OUISize": 36,
+			"OrgAddress": "EXPOTEL 924, 381 Manyeon-dong, Seo-gu\\nDaejeon  302-150\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UMLogics Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

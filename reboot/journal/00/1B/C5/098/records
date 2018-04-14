@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-08",
+			"EventType": "add",
+			"OUI": "001BC5098",
+			"OUISize": 36,
+			"OrgAddress": "139 Dino Drive\\nAnn Arbor MI 48103\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cubic Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC5098",
+			"OUISize": 36,
+			"OrgAddress": "139 Dino Drive\\nAnn Arbor  MI  48103\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cubic Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

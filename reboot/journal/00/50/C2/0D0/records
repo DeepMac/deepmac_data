@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20D0",
+			"OUISize": 36,
+			"OrgAddress": "Varbergsgatan 8\\nS-412 65 Gothenburg\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Telegrang AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-29",
+			"EventType": "change",
+			"OUI": "0050C20D0",
+			"OUISize": 36,
+			"OrgAddress": "Varbergsgatan 8\\nS-412 65 Gothenburg\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Telefrang AB",
+			"Source": "IEEE"
+		}
+	]
+}

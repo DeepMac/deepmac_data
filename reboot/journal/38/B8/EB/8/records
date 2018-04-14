@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-19",
+			"EventType": "add",
+			"OUI": "38B8EB8",
+			"OUISize": 28,
+			"OrgAddress": "1200 Aerowood Drive  Unit 30\\nMississauga, ON  Canada L4W 2S7    L4W 2S7\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "CeeNex Inc",
+			"Source": "IEEE"
+		}
+	]
+}

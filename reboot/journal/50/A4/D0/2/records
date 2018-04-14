@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-19",
+			"EventType": "add",
+			"OUI": "50A4D02",
+			"OUISize": 28,
+			"OrgAddress": "BÃ¸gekildevej 4\\nHasselager  Danmark  8361\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Seneco A/S",
+			"Source": "IEEE"
+		}
+	]
+}

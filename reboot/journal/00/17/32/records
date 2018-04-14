@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-01-30",
+			"EventType": "add",
+			"OUI": "001732",
+			"OUISize": 24,
+			"OrgAddress": "st. Abramtsevskaja, h.9\\nMoscow  128572\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Science-Technical Center \"RISSA\"",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001732",
+			"OUISize": 24,
+			"OrgAddress": "st. Abramtsevskaja, h.9\\nMoscow    128572\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Science-Technical Center RISSA",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D85512B",
+			"OUISize": 36,
+			"OrgAddress": "83 East Ave.\\nSuite#115\\nNorwalk CT 06851\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Mango DSP, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

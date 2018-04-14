@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-14",
+			"EventType": "add",
+			"OUI": "40ED981",
+			"OUISize": 28,
+			"OrgAddress": "201,2/F, F Building, Hougang Industrial Zone, Shigang Village, huangshi West Road,Baiyun District\\nGuangZhou    510430\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GuangZhou FiiO Electronics Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

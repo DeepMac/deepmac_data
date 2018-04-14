@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23DD",
+			"OUISize": 36,
+			"OrgAddress": "Grabenstr. 149a\\nDuisburg NRW 47057\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ELMIC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

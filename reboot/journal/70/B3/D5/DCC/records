@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "add",
+			"OUI": "70B3D5DCC",
+			"OUISize": 36,
+			"OrgAddress": "Via Crespi 29/31\\nPradalunga  Bergamo  24020\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Eutron SPA",
+			"Source": "IEEE"
+		}
+	]
+}

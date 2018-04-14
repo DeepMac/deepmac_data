@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D91",
+			"OUISize": 36,
+			"OrgAddress": "LA QUEUE DEVEE\\nREUX  14130\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "CHAUVIN ARNOUX",
+			"Source": "IEEE"
+		}
+	]
+}

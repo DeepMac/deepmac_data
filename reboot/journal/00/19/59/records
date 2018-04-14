@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-08-15",
+			"EventType": "add",
+			"OUI": "001959",
+			"OUISize": 24,
+			"OrgAddress": "6195 Lusk Blvd.\\nSan Diego CA 92121\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Staccato Communications Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001959",
+			"OUISize": 24,
+			"OrgAddress": "6195 Lusk Blvd.\\nSan Diego  CA  92121\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Staccato Communications Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

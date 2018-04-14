@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BCF",
+			"OUISize": 36,
+			"OrgAddress": "Izanska cesta 146a\\nLjubljana Slovenija 1108\\n\\n",
+			"OrgCountry": "SLOVENIA",
+			"OrgName": "Epiko, elektronski sistemi d.o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

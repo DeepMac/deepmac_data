@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E8A",
+			"OUISize": 24,
+			"OrgAddress": "46 Ovata Drive\\nTullamarine Victoria 3043\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "Avara Technologies Pty. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "000E8A",
+			"OUISize": 24,
+			"OrgAddress": "9 Business Park Drive\\nNotting Hill Victoria 3168\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "Avara Technologies Pty. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E8A",
+			"OUISize": 24,
+			"OrgAddress": "9 Business Park Drive\\nNotting Hill  Victoria  3168\\n\\n",
+			"OrgCountry": "AU",
+			"OrgName": "Avara Technologies Pty. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

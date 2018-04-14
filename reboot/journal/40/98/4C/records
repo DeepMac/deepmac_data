@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-27",
+			"EventType": "add",
+			"OUI": "40984C",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstarsse 551\\nZuerich  8046\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Casacom Solutions AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "40984C",
+			"OUISize": 24,
+			"OrgAddress": "Badenerstarsse 551\\nZuerich    8046\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Casacom Solutions AG",
+			"Source": "IEEE"
+		}
+	]
+}

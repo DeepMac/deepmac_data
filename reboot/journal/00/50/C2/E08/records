@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E08",
+			"OUISize": 36,
+			"OrgAddress": "KST B/D 164-1,Bangi-dong,Songpa-gu,\\nSeoul  138-050\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "KST Technology",
+			"Source": "IEEE"
+		}
+	]
+}

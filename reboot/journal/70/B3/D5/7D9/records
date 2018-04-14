@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-29",
+			"EventType": "add",
+			"OUI": "70B3D57D9",
+			"OUISize": 36,
+			"OrgAddress": "92-2 KATASE\\nFUJISAWA  KANAGAWA  251-0032\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ATOM GIKEN Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

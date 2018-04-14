@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-09-18",
+			"EventType": "add",
+			"OUI": "20C06D",
+			"OUISize": 24,
+			"OrgAddress": "3F, NO.2, ChaXiSanWei Industrial Park, Gushu Community, XiXiang Street, BaoAn District\\nShenZhen GuangDong 518100\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHENZHEN SPACETEK TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

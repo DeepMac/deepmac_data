@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-03-01",
+			"EventType": "add",
+			"OUI": "001B89",
+			"OUISize": 24,
+			"OrgAddress": "20 Ha'ta'as St., Beith Hapamon\\nsuite 391\\nKfar Saba Kfar Saba 44425\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "EMZA Visual Sense Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "change",
+			"OUI": "001B89",
+			"OUISize": 24,
+			"OrgAddress": "20 Ha'ta'as St., Beith Hapamon\\nsuite 391\\nKfar Saba  44425\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "EMZA Visual Sense Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B89",
+			"OUISize": 24,
+			"OrgAddress": "20 Ha'ta'as St., Beith Hapamon\\nKfar Saba    44425\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "EMZA Visual Sense Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

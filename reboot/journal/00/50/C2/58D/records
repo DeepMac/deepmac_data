@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C258D",
+			"OUISize": 36,
+			"OrgAddress": "Frunze, 40\\nOmsk Omskaia district 644099\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "ZAO",
+			"Source": "IEEE"
+		}
+	]
+}

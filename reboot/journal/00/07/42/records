@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000742",
+			"OUISize": 24,
+			"OrgAddress": "12800 Middlebrook Rd.,\\nSuite 201\\nGermantown MD 20874\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Current Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "change",
+			"OUI": "000742",
+			"OUISize": 24,
+			"OrgAddress": "20420 Century Blvd\\nGermantown MD 20874\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Current Technologies, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-06",
+			"EventType": "change",
+			"OUI": "000742",
+			"OUISize": 24,
+			"OrgAddress": "Parque Tecnologico 104\\n48170 Zamudio, Bizkaia\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Ormazabal",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000742",
+			"OUISize": 24,
+			"OrgAddress": "Parque Tecnologico 104\\n48170 Zamudio, Bizkaia\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "Ormazabal",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C213A",
+			"OUISize": 36,
+			"OrgAddress": "Via Mercadante, 35\\n47841 Cattocica (RN)\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Tex Computer SRL",
+			"Source": "IEEE"
+		}
+	]
+}

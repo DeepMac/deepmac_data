@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-11-24",
+			"EventType": "add",
+			"OUI": "001670",
+			"OUISize": 24,
+			"OrgAddress": "Fontana Shinyokohama\\nShinyokohama 2,17,2 kohoku-ku\\nYokohama Kanagawa 222-0033\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SKNET Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001670",
+			"OUISize": 24,
+			"OrgAddress": "Fontana Shinyokohama\\nYokohama  Kanagawa  222-0033\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "SKNET Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

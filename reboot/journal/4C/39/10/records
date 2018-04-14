@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-28",
+			"EventType": "add",
+			"OUI": "4C3910",
+			"OUISize": 24,
+			"OrgAddress": "Byucksan-Sunyoung Technopia 1004,\\nOjeon-Dong,\\nUiwang-City Kyunggi-Do 437-821\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Newtek Electronics co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "4C3910",
+			"OUISize": 24,
+			"OrgAddress": "Byucksan-Sunyoung Technopia 1004,\\nUiwang-City  Kyunggi-Do  437-821\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Newtek Electronics co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

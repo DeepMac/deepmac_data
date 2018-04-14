@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "add",
+			"OUI": "000404",
+			"OUISize": 24,
+			"OrgAddress": "359-3 Mimase, Aikawa-machi\\nAiko-gun, Kanagawa-ken 243-0308\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Makino Milling Machine Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000404",
+			"OUISize": 24,
+			"OrgAddress": "359-3 Mimase, Aikawa-machi\\nAiko-gun, Kanagawa-ken 243-0308\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Makino Milling Machine Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-10-04",
+			"EventType": "change",
+			"OUI": "000404",
+			"OUISize": 24,
+			"OrgAddress": "4023 Nakatsu, Aikawa-machi,\\nAiko-gun Kanagawa 243-0303\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Makino Milling Machine Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "000404",
+			"OUISize": 24,
+			"OrgAddress": "4023 Nakatsu, Aikawa-machi\\nAiko-gun Kanagawa 243-0303\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Makino Milling Machine Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000404",
+			"OUISize": 24,
+			"OrgAddress": "4023 Nakatsu, Aikawa-machi\\nAiko-gun  Kanagawa  243-0303\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Makino Milling Machine Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

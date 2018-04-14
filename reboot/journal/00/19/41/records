@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-08-15",
+			"EventType": "add",
+			"OUI": "001941",
+			"OUISize": 24,
+			"OrgAddress": "35 Waterview Drive\\nMSC 26-21\\nShelton CT 06484\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Pitney Bowes, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001941",
+			"OUISize": 24,
+			"OrgAddress": "35 Waterview Drive\\nShelton  CT  06484\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Pitney Bowes, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

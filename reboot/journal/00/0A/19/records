@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000A19",
+			"OUISize": 24,
+			"OrgAddress": "661 N. Plano Rd.\\nRichardson Texas 75081\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Valere Power, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000A19",
+			"OUISize": 24,
+			"OrgAddress": "661 N. Plano Rd.\\nRichardson  Texas  75081\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Valere Power, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

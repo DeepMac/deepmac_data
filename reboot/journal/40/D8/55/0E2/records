@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "add",
+			"OUI": "40D8550E2",
+			"OUISize": 36,
+			"OrgAddress": "Paulay Ede utca 6.\\nBudapest 1061\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "Keocko International",
+			"Source": "IEEE"
+		}
+	]
+}

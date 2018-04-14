@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-30",
+			"EventType": "add",
+			"OUI": "C044E3",
+			"OUISize": 24,
+			"OrgAddress": "9 Building, XinXin Tian Industry Area,\\nXinSha Road, Shajing, Bao&#39;an District,\\nShenzhen Guangdong 5180000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Sinkna Electronics Co., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "C044E3",
+			"OUISize": 24,
+			"OrgAddress": "9 Building, XinXin Tian Industry Area,\\nXinSha Road, Shajing, Bao'an District,\\nShenzhen Guangdong 5180000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Sinkna Electronics Co., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "C044E3",
+			"OUISize": 24,
+			"OrgAddress": "9 Building, XinXin Tian Industry Area,\\nXinSha Road, Shajing, Bao&#39;an District,\\nShenzhen Guangdong 5180000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Sinkna Electronics Co., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "C044E3",
+			"OUISize": 24,
+			"OrgAddress": "9 Building, XinXin Tian Industry Area,\\nXinSha Road, Shajing, Bao'an District,\\nShenzhen Guangdong 5180000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Sinkna Electronics Co., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "C044E3",
+			"OUISize": 24,
+			"OrgAddress": "9 Building, XinXin Tian Industry Area,\\nShenzhen  Guangdong  5180000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Sinkna Electronics Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

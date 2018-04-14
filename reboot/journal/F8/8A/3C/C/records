@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-24",
+			"EventType": "add",
+			"OUI": "F88A3CC",
+			"OUISize": 28,
+			"OrgAddress": "A03, 9th Floor, Horizon International Tower, No.6, Zhichun Road, Haidian District\\nBeijing    100191\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "EXCETOP TECHNOLOGY (BEIJING) CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

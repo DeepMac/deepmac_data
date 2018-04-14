@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F4E",
+			"OUISize": 36,
+			"OrgAddress": "Anton Jakob Str.4\\nRosenheim BY 83026\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Heinzinger electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

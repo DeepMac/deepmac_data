@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001F64",
+			"OUISize": 24,
+			"OrgAddress": "Room B-12B01, Keshi Plaza, Xinxi road,\\nShangdi park,Haidian,\\nBeijing  100085\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Beijing Autelan Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001F64",
+			"OUISize": 24,
+			"OrgAddress": "Room B-12B01, Keshi Plaza, Xinxi road,\\nBeijing    100085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Autelan Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

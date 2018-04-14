@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-21",
+			"EventType": "add",
+			"OUI": "70B3D5677",
+			"OUISize": 36,
+			"OrgAddress": "Am Wolfsmantel 33\\nErlangen  Bayern  91058\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Fraunhofer-Institut IIS",
+			"Source": "IEEE"
+		}
+	]
+}

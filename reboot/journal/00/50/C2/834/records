@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2834",
+			"OUISize": 36,
+			"OrgAddress": "Im Koechersgrund 3\\nBeilstein Baden-Wuerttemberg 71717\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ANTEK GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2834",
+			"OUISize": 36,
+			"OrgAddress": "Im Koechersgrund 3\\nBeilstein Baden-WÃ¼rttemberg 71717\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ANTEK GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2834",
+			"OUISize": 36,
+			"OrgAddress": "Im Koechersgrund 3\\nBeilstein Baden-WÃÂ¼rttemberg 71717\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ANTEK GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2834",
+			"OUISize": 36,
+			"OrgAddress": "Im Koechersgrund 3\\nBeilstein Baden-WÃ¼rttemberg 71717\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ANTEK GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

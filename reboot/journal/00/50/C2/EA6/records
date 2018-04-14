@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2EA6",
+			"OUISize": 36,
+			"OrgAddress": "Skovlytoften 33\\nHolte  2840\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Powersense A/S",
+			"Source": "IEEE"
+		}
+	]
+}

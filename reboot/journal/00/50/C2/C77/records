@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C77",
+			"OUISize": 36,
+			"OrgAddress": "333-9 Nishi Miyukicho Hamachi\\nToyohashi science core 304\\nToyohashi Aichi 441-8113\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "AIM Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

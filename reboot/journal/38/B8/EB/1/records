@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-19",
+			"EventType": "add",
+			"OUI": "38B8EB1",
+			"OUISize": 28,
+			"OrgAddress": "Obere Seestrasse 13\\nNohfelden  Saarland  66625\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "1.A Connect GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

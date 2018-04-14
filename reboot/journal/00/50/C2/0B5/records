@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20B5",
+			"OUISize": 36,
+			"OrgAddress": "4342 Avenida Gregory\\nSpring Valley CA 91977\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Extreme Copper, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

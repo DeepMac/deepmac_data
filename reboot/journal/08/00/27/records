@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "080027",
+			"OUISize": 24,
+			"OrgAddress": "600 SUFFOLK ST\\nLOWELL MA 08154\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CADMUS COMPUTER SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "080027",
+			"OUISize": 24,
+			"OrgAddress": "600 Suffold St\\nLowell  MA  01854\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cadmus Computer Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-25",
+			"EventType": "change",
+			"OUI": "080027",
+			"OUISize": 24,
+			"OrgAddress": "600 Suffold St\\nLowell  MA  01854\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "PCS Systemtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

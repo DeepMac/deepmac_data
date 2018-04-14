@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-08",
+			"EventType": "add",
+			"OUI": "70B3D5E71",
+			"OUISize": 36,
+			"OrgAddress": "Business Park Varna, building B1, floor 4\\nVarna    9000\\n\\n",
+			"OrgCountry": "BG",
+			"OrgName": "SiS Technology",
+			"Source": "IEEE"
+		}
+	]
+}

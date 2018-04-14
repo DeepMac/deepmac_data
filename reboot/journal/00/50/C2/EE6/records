@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2EE6",
+			"OUISize": 36,
+			"OrgAddress": "U Borove 69\\nHavlickuv Brod  580 01\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "B:TECH, a. s.",
+			"Source": "IEEE"
+		}
+	]
+}

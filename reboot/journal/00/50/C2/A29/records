@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A29",
+			"OUISize": 36,
+			"OrgAddress": "12212 Technology Blvd.\\nAustin Texas 78727\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Luminex Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

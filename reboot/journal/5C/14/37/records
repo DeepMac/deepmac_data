@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-10-27",
+			"EventType": "add",
+			"OUI": "5C1437",
+			"OUISize": 24,
+			"OrgAddress": "Bernhaeuser Str.45\\nNeuhausen a.d.F  73765\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Thyssenkrupp Aufzugswerke GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "5C1437",
+			"OUISize": 24,
+			"OrgAddress": "Bernhaeuser Str.45\\nNeuhausen a.d.F    73765\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Thyssenkrupp Aufzugswerke GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

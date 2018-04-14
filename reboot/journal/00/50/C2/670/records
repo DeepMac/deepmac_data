@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2670",
+			"OUISize": 36,
+			"OrgAddress": "Southampton Road\\nSalisbury Wiltshire SP1 2LN\\n\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Naim Audio",
+			"Source": "IEEE"
+		}
+	]
+}

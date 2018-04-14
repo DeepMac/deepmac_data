@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-19",
+			"EventType": "add",
+			"OUI": "EC26FB",
+			"OUISize": 24,
+			"OrgAddress": "Guam-ro 15-gil, Buk-gu\\nDaegu    720-849\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "TECC CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

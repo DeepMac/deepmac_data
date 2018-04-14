@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-24",
+			"EventType": "add",
+			"OUI": "047E4A",
+			"OUISize": 24,
+			"OrgAddress": "No 801, Yanchang Zhong Road\\nShanghai  Shanghai  200072\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "moobox CO., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

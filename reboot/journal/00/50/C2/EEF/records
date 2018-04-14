@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "0050C2EEF",
+			"OUISize": 36,
+			"OrgAddress": "Donnersbergweg 1\\nLudwigshafen NonUS D67059\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IDTRONIC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

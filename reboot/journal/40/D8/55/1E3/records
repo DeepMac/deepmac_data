@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551E3",
+			"OUISize": 36,
+			"OrgAddress": "Pioneerinkatu 6\\nKuopio Pohjois-Savo 70800\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Mega Electronics Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

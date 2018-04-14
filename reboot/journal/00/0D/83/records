@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000D83",
+			"OUISize": 24,
+			"OrgAddress": "Kota Jozsef u. 2.\\nTatabanya Komarom-Esztergom 2800\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "Sanmina-SCI Hungary  Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D83",
+			"OUISize": 24,
+			"OrgAddress": "Kota Jozsef u. 2.\\nTatabanya  Komarom-Esztergom  2800\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "Sanmina-SCI Hungary  Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

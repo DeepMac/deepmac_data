@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CDA",
+			"OUISize": 36,
+			"OrgAddress": "Seelenbinderstrasse 33\\nBerlin  12555\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "taskit GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

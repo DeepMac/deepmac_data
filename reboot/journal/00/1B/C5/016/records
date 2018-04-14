@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-18",
+			"EventType": "add",
+			"OUI": "001BC5016",
+			"OUISize": 36,
+			"OrgAddress": "3, Lermontova str.\\nPenza\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Energotechnica OOO NPP Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC5016",
+			"OUISize": 36,
+			"OrgAddress": "3, Lermontova str.\\nPenza\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Energotechnica OOO NPP Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

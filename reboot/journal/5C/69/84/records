@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-05",
+			"EventType": "add",
+			"OUI": "5C6984",
+			"OUISize": 24,
+			"OrgAddress": "72-3 Sindae, Silchon\\nGwanju Gyeonggi 464-873\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "NUVICO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "5C6984",
+			"OUISize": 24,
+			"OrgAddress": "72-3 Sindae, Silchon\\nGwanju  Gyeonggi  464-873\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "NUVICO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-21",
+			"EventType": "change",
+			"OUI": "5C6984",
+			"OUISize": 24,
+			"OrgAddress": "1 Enterprise Place  Unit G\\nHicksville  NY  11801\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NUVICO",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "add",
+			"OUI": "001530",
+			"OUISize": 24,
+			"OrgAddress": "129 Middlesex Turnpike\\nBurlington Ma 01803\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Bus-Tech, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001530",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton MA 01748\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EMC Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001530",
+			"OUISize": 24,
+			"OrgAddress": "129 Middlesex Turnpike\\nBurlington Ma 01803\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Bus-Tech, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001530",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton MA 01748\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EMC Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001530",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton  MA  01748\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "EMC Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-27",
+			"EventType": "change",
+			"OUI": "001530",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton  MA  01748\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell EMC",
+			"Source": "IEEE"
+		}
+	]
+}

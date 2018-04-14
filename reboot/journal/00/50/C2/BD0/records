@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BD0",
+			"OUISize": 36,
+			"OrgAddress": "Bao An Nan Lu\\nShenZhen GuangDong 518001\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "EDC wifi",
+			"Source": "IEEE"
+		}
+	]
+}

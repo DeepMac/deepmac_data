@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-07-08",
+			"EventType": "add",
+			"OUI": "74E14A4",
+			"OUISize": 28,
+			"OrgAddress": "\\nMoskovskaya street\\nKrasnodar region 350072\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "open joint stock company &quot;YUG-SISTEMA plus&quot;",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-07-18",
+			"EventType": "change",
+			"OUI": "74E14A4",
+			"OUISize": 28,
+			"OrgAddress": "\\n5 Moskovskaya Street\\nKrasnodar Krasnodar Region 350072\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "open joint stock company \"YUG-SISTEMA plus\"",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "74E14A4",
+			"OUISize": 28,
+			"OrgAddress": "\\nKrasnodar   Krasnodar Region  350072\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "open joint stock company YUG-SISTEMA plus",
+			"Source": "IEEE"
+		}
+	]
+}

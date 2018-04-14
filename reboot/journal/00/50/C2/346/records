@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2346",
+			"OUISize": 36,
+			"OrgAddress": "2f, 170-13, guro3-dong, guro-gu\\nseoul  152-847\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "biokeysystem",
+			"Source": "IEEE"
+		}
+	]
+}

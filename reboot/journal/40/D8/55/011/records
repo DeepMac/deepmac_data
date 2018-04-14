@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "40D855011",
+			"OUISize": 36,
+			"OrgAddress": "P.O.Box 700\\nKornetintie 3\\nHelsinki Southern Finland 00381\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Flexim Security Oy",
+			"Source": "IEEE"
+		}
+	]
+}

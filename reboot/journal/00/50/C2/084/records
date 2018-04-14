@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2084",
+			"OUISize": 36,
+			"OrgAddress": "Monreposstr. 55\\n71634 Ludwigsburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "DIALOG4 System Engineering GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

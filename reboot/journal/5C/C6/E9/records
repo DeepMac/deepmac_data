@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-15",
+			"EventType": "add",
+			"OUI": "5CC6E9",
+			"OUISize": 24,
+			"OrgAddress": "Suit 2207, 22nd floor, Tower II, Lippo centre, 89 Queensway\\nHong Kong    070\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Edifier International",
+			"Source": "IEEE"
+		}
+	]
+}

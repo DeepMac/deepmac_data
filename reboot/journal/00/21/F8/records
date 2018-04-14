@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "0021F8",
+			"OUISize": 24,
+			"OrgAddress": "401 International Parkway\\nSuite 100\\nRichardson TX 75081\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Enseo, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0021F8",
+			"OUISize": 24,
+			"OrgAddress": "401 International Parkway\\nRichardson  TX  75081\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Enseo, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

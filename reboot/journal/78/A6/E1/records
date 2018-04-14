@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-11",
+			"EventType": "add",
+			"OUI": "78A6E1",
+			"OUISize": 24,
+			"OrgAddress": "130 Holger Way\\nSan Jose    95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Brocade Communications Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

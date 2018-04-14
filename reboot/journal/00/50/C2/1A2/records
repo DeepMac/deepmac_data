@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21A2",
+			"OUISize": 36,
+			"OrgAddress": "Dept. Dw/PIDE\\nBaden Aargau CH 5401\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "ABB Switzerland Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C21A2",
+			"OUISize": 36,
+			"OrgAddress": "Dept. Dw/ATBN\\nBaden Aargau CH 5401\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "ABB Switzerland Inc",
+			"Source": "IEEE"
+		}
+	]
+}

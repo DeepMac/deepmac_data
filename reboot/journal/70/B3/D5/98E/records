@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-06",
+			"EventType": "add",
+			"OUI": "70B3D598E",
+			"OUISize": 36,
+			"OrgAddress": "GrafitvÃ¤gen 23B\\nTROLLHÃTTAN    46138\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Autocom Diagnostic Partner AB",
+			"Source": "IEEE"
+		}
+	]
+}

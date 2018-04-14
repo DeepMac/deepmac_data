@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-01-17",
+			"EventType": "add",
+			"OUI": "A81758",
+			"OUISize": 24,
+			"OrgAddress": "Box 7978\\nTvistevï¿½gen 47\\nUmeï¿½ Vï¿½sterbotten 907 19\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Elektronik System i Umeï¿½ AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "A81758",
+			"OUISize": 24,
+			"OrgAddress": "Box 7978\\nTvistevÃÂ¤gen 47\\nUmeÃÂ¥ VÃÂ¤sterbotten 907 19\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Elektronik System i UmeÃÂ¥ AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "A81758",
+			"OUISize": 24,
+			"OrgAddress": "Box 7978\\nTvistevÃ¤gen 47\\nUmeÃ¥ VÃ¤sterbotten 907 19\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Elektronik System i UmeÃ¥ AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A81758",
+			"OUISize": 24,
+			"OrgAddress": "Box 7978\\nUmeÃ¥  VÃ¤sterbotten  907 19\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Elektronik System i UmeÃ¥ AB",
+			"Source": "IEEE"
+		}
+	]
+}

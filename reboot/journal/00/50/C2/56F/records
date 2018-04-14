@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C256F",
+			"OUISize": 36,
+			"OrgAddress": "18314 Kinzie St.\\nLos Angeles CA 91325\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GMA, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-05-22",
+			"EventType": "add",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "Robinigstr. 26a\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. Meßtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "Robinigstr. 26a\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. MeÃtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "Robinigstr. 26a\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. Meßtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-06-09",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "Mï¿½nchner Bundesstraï¿½e 123\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. MeÃtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "MÃ¼nchner BundesstraÃe 123\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. MeÃÂtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "Mï¿½nchner Bundesstraï¿½e 123\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. MeÃtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "MÃ¼nchner BundesstraÃe 123\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. MeÃÂtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "MÃ¼nchner BundesstraÃe 123\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. MeÃÅ¸technik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "MÃÂÃÂ¼nchner BundesstraÃÂÃÂ¸e 123\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- u. MeÃÂÃÂÃÂÃÂ¸technik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "MÃ¼nchner BundesstraÃe\\nSalzburg  A-5020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Gassner Wiege- und MeÃtechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014AD",
+			"OUISize": 24,
+			"OrgAddress": "MÃ¼nchner BundesstraÃe\\nSalzburg    A-5020\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Gassner Wiege- und MeÃtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

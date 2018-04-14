@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-05",
+			"EventType": "add",
+			"OUI": "8C192D6",
+			"OUISize": 28,
+			"OrgAddress": "Dalbker Strasse 138\\nOerlinghausen  NRW  33813\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "smartHome Partner GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-27",
+			"EventType": "add",
+			"OUI": "141F78",
+			"OUISize": 24,
+			"OrgAddress": "#94-1, Imsoo-Dong\\nGumi  Gyeongbuk  730-350\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

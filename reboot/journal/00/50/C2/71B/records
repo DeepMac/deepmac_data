@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C271B",
+			"OUISize": 36,
+			"OrgAddress": "One Technology Parkway South\\nNorcross Ga 30092\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADVA Optical Networking",
+			"Source": "IEEE"
+		}
+	]
+}

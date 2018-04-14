@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D85512D",
+			"OUISize": 36,
+			"OrgAddress": "Vimpelgatan 5\\nUppsala  753 18\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Biotage Sweden AB",
+			"Source": "IEEE"
+		}
+	]
+}

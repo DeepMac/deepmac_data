@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-12-05",
+			"EventType": "add",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLüdenscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLÃ¼denscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLüdenscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLÃÂ¼denscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLüdenscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLÃÂ¼denscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLÃ¼denscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLÃÂÃÂÃÂÃÂ¼denscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLÃ¼denscheid NRW D-58507\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A93",
+			"OUISize": 24,
+			"OrgAddress": "Brockhauser Weg 80-82\\nLÃ¼denscheid  NRW  D-58507\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ERCO Leuchten GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

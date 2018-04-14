@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000AB1",
+			"OUISize": 24,
+			"OrgAddress": "Nishikura-LK Bld.\\nTomihisa-chou 16-6\\nShinjuku-ku Tokyo 162-0067\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "GENETEC Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "000AB1",
+			"OUISize": 24,
+			"OrgAddress": "BYGS Shinjyuku Bldg. 5F\\n2-19-1 Shinjyuku\\nShinjuku-ku Tokyo 162-0022\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "GENETEC Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000AB1",
+			"OUISize": 24,
+			"OrgAddress": "BYGS Shinjyuku Bldg. 5F\\nShinjuku-ku  Tokyo  162-0022\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "GENETEC Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

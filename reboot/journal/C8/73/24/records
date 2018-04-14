@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-14",
+			"EventType": "add",
+			"OUI": "C87324",
+			"OUISize": 24,
+			"OrgAddress": "No.26, Ln. 181, Xinsheng W. Rd., Dali Dist\\nTaichung    412\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": " Sow Cheng Technology Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

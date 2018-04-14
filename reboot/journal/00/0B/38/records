@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B38",
+			"OUISize": 24,
+			"OrgAddress": "Mariakirchener Strasse 38\\nArnstorf Bavaria 94424\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Knuerr AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-01-06",
+			"EventType": "change",
+			"OUI": "000B38",
+			"OUISize": 24,
+			"OrgAddress": "Mariakirchener Strasse 38\\nArnstorf Bavaria 94424\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Knuerr GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000B38",
+			"OUISize": 24,
+			"OrgAddress": "Mariakirchener StraÃe 38\\nArnstorf Bavaria 94424\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KnÃ¼rr GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000B38",
+			"OUISize": 24,
+			"OrgAddress": "Mariakirchener Strasse 38\\nArnstorf Bavaria 94424\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Knuerr GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000B38",
+			"OUISize": 24,
+			"OrgAddress": "Mariakirchener StraÃe 38\\nArnstorf Bavaria 94424\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KnÃ¼rr GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B38",
+			"OUISize": 24,
+			"OrgAddress": "Mariakirchener StraÃe 38\\nArnstorf  Bavaria  94424\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "KnÃ¼rr GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

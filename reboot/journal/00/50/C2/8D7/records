@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28D7",
+			"OUISize": 36,
+			"OrgAddress": "Kalvaria sgt. 24.\\nSzeged  H-6722\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "Polygon Informatics Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

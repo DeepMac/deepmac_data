@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D2E",
+			"OUISize": 36,
+			"OrgAddress": "Bergische Fachbuchhandlung\\nKonrad-Adenauer-Strasse 6\\nRemscheid NRW 42853\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "RS Gesellschaft fur Informationstechnik mbH & Co KG",
+			"Source": "IEEE"
+		}
+	]
+}

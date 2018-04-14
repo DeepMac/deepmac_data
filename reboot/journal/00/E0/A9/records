@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E0A9",
+			"OUISize": 24,
+			"OrgAddress": "7-1, NAKAGAITO 7-CHOME, DAITO\\nOSAKA  574\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUNAI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E0A9",
+			"OUISize": 24,
+			"OrgAddress": "7-1, NAKAGAITO 7-CHOME, DAITO\\nOSAKA  574\\n\\n",
+			"OrgCountry": "JORDAN",
+			"OrgName": "FUNAI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-07-09",
+			"EventType": "change",
+			"OUI": "00E0A9",
+			"OUISize": 24,
+			"OrgAddress": "7-1, NAKAGAITO 7-CHOME, DAITO\\nOSAKA  574\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUNAI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E0A9",
+			"OUISize": 24,
+			"OrgAddress": "7-1, NAKAGAITO 7-CHOME, DAITO\\nOSAKA  574\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "FUNAI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

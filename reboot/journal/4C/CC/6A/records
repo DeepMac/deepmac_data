@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-26",
+			"EventType": "add",
+			"OUI": "4CCC6A",
+			"OUISize": 24,
+			"OrgAddress": "No.69, Lide St.,\\nNew Taipei City  Taiwan  235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Micro-Star INTL CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "add",
+			"OUI": "0003C3",
+			"OUISize": 24,
+			"OrgAddress": "Brueckenstr. 2\\nD-51379 Leverkusen\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micronik Multimedia",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0003C3",
+			"OUISize": 24,
+			"OrgAddress": "Brueckenstr. 2\\nD-51379 Leverkusen\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micronik Multimedia",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0003C3",
+			"OUISize": 24,
+			"OrgAddress": "BrÃ¼ckenstraÃe 2\\nD-51379 Leverkusen\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micronik Multimedia",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0003C3",
+			"OUISize": 24,
+			"OrgAddress": "Brueckenstr. 2\\nD-51379 Leverkusen\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micronik Multimedia",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0003C3",
+			"OUISize": 24,
+			"OrgAddress": "BrÃ¼ckenstraÃe 2\\nD-51379 Leverkusen\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Micronik Multimedia",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0003C3",
+			"OUISize": 24,
+			"OrgAddress": "BrÃ¼ckenstraÃe 2\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Micronik Multimedia",
+			"Source": "IEEE"
+		}
+	]
+}

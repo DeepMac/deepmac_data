@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C236B",
+			"OUISize": 36,
+			"OrgAddress": "645 Island Rd\\nVictoria BC V8S2T7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Minerva Technology Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-29",
+			"EventType": "add",
+			"OUI": "944996",
+			"OUISize": 24,
+			"OrgAddress": "23282 Mill Creek Dr #340\\nLaguna Hills  CA  92653\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "WiSilica Inc",
+			"Source": "IEEE"
+		}
+	]
+}

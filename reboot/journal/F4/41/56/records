@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-31",
+			"EventType": "add",
+			"OUI": "F44156",
+			"OUISize": 24,
+			"OrgAddress": "3505 El Camino Real\\nPalo Alto  CA  94306\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Arrikto Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

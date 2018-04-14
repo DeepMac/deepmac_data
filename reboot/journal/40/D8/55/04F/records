@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "add",
+			"OUI": "40D85504F",
+			"OUISize": 36,
+			"OrgAddress": "#1213  12th FL Daeryoung Teco town\\ngasandong gumchungu\\nSeoul 153-802\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Haein S&S Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

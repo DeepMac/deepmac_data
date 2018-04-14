@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-02",
+			"EventType": "add",
+			"OUI": "001249",
+			"OUISize": 24,
+			"OrgAddress": "Via Astico 41\\nVarese  21100\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Delta Elettronica S.p.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001249",
+			"OUISize": 24,
+			"OrgAddress": "Via Astico 41\\nVarese    21100\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Delta Elettronica S.p.A.",
+			"Source": "IEEE"
+		}
+	]
+}

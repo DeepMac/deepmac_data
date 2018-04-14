@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F10",
+			"OUISize": 36,
+			"OrgAddress": "ul. Popularna 82\\nWarszawa Poland 02-226\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "Wincor Nixdorf Sp. z o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

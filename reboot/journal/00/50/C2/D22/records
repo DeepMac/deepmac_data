@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D22",
+			"OUISize": 36,
+			"OrgAddress": "4450 Pet Lane\\nSuite 114\\nLutz FL 33559\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "eMDee Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

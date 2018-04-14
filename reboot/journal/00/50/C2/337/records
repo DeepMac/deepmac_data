@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2337",
+			"OUISize": 36,
+			"OrgAddress": "272-20 Taejun-Dong\\nKwang Joo Kyung Ki-Do 464-808\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "ETI",
+			"Source": "IEEE"
+		}
+	]
+}

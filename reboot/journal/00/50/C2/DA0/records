@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DA0",
+			"OUISize": 36,
+			"OrgAddress": "860 Harbour Way South, Suite A\\nRichmond CA 94804\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Precision Remotes",
+			"Source": "IEEE"
+		}
+	]
+}

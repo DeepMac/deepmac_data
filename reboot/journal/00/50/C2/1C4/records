@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21C4",
+			"OUISize": 36,
+			"OrgAddress": "400 N. McCarthy Blvd\\nMilpitas CA 95035-5112\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Palm Solutions Group",
+			"Source": "IEEE"
+		}
+	]
+}

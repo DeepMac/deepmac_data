@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C237C",
+			"OUISize": 36,
+			"OrgAddress": "1-14-12, Ohsawa\\nKoshigaya-shi Saitama-ken 343-0025\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MODIA SYSTEMS Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

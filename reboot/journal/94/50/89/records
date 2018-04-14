@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-27",
+			"EventType": "add",
+			"OUI": "945089",
+			"OUISize": 24,
+			"OrgAddress": "Feringastr. 4\\nUnterfoehring  Bavaria  85774\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SimonsVoss Technologies GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

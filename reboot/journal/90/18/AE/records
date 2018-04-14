@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-10-31",
+			"EventType": "add",
+			"OUI": "9018AE",
+			"OUISize": 24,
+			"OrgAddress": "Suite 6A Tongsheng Tower\\n#458 Fushan Road\\nPudong shanghai 200122\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shanghai Meridian Technologies, Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "9018AE",
+			"OUISize": 24,
+			"OrgAddress": "Suite 6A Tongsheng Tower\\nPudong  shanghai  200122\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Meridian Technologies, Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

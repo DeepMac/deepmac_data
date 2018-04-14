@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2129",
+			"OUISize": 36,
+			"OrgAddress": "Melbourn Science Park\\nCambridge Road, Melbourn\\nRoyston, Herts SG8 6EE\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "TTPCom Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-12",
+			"EventType": "add",
+			"OUI": "8439BE0",
+			"OUISize": 28,
+			"OrgAddress": "60-7 Takakuramachi\\nHachiouji  Tokyo  192-0033\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "HINO ENGINEERING, INC",
+			"Source": "IEEE"
+		}
+	]
+}

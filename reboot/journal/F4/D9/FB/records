@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-01-19",
+			"EventType": "add",
+			"OUI": "F4D9FB",
+			"OUISize": 24,
+			"OrgAddress": "416, Maetan-3dong, Yeongtong-gu,\\nSuwon-City Gyeonggi-do 443-742\\nSuwon Gyeonggi-do 443-742\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Samsung Electronics CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F4D9FB",
+			"OUISize": 24,
+			"OrgAddress": "416, Maetan-3dong, Yeongtong-gu,\\nSuwon  Gyeonggi-do  443-742\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-25",
+			"EventType": "change",
+			"OUI": "F4D9FB",
+			"OUISize": 24,
+			"OrgAddress": "416, Maetan-3dong, Yeongtong-gu,\\nSuwon  Gyeonggi-do  443-742\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

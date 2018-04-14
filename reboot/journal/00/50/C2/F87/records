@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-09",
+			"EventType": "add",
+			"OUI": "0050C2F87",
+			"OUISize": 36,
+			"OrgAddress": "Vanha Nurmijarventie 21\\nFin-01670 Vantaa  01670\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Vaisala Oyj",
+			"Source": "IEEE"
+		}
+	]
+}

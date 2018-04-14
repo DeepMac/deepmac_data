@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-28",
+			"EventType": "add",
+			"OUI": "28061E",
+			"OUISize": 24,
+			"OrgAddress": "No.88,Kechuang South Road,\\nWangchun Industry Zone\\nNingbo Zhejiang 315000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "NINGBO GLOBAL USEFUL ELECTRIC CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "28061E",
+			"OUISize": 24,
+			"OrgAddress": "No.88,Kechuang South Road,\\nNingbo  Zhejiang  315000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "NINGBO GLOBAL USEFUL ELECTRIC CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

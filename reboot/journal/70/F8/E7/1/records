@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-14",
+			"EventType": "add",
+			"OUI": "70F8E71",
+			"OUISize": 28,
+			"OrgAddress": "32, D4, Phase-1, GIDC, V U Nagar\\nAnand  Gujarat  388121\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "System Level Solutions (India) Pvt.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "00213D",
+			"OUISize": 24,
+			"OrgAddress": "374 Turquoise Street\\nMilpitas CA 95035\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cermetek Microelectronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00213D",
+			"OUISize": 24,
+			"OrgAddress": "374 Turquoise Street\\nMilpitas  CA  95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cermetek Microelectronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "add",
+			"OUI": "A411631",
+			"OUISize": 28,
+			"OrgAddress": "Schafhofstrasse 30\\nNuernberg    90411\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "INTER CONTROL Hermann KÃ¶hler Elektrik GmbH & Co.KG",
+			"Source": "IEEE"
+		}
+	]
+}

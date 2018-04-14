@@ -1,0 +1,35 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "00054F",
+			"OUISize": 24,
+			"OrgAddress": "1200 East 151st Street\\nOlathe KS 66062-3426\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Garmin International, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "00054F",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-05",
+			"EventType": "change",
+			"OUI": "00054F",
+			"OUISize": 24,
+			"OrgAddress": "1200 E. 151st St\\nOlathe  KS  66062\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Garmin International",
+			"Source": "IEEE"
+		}
+	]
+}

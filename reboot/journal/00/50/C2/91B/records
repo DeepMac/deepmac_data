@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C291B",
+			"OUISize": 36,
+			"OrgAddress": "1446 Gilberts Creek Rd\\nLawrenceburg KY 40342\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Embedded Data Systems, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

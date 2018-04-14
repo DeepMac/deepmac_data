@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22A6",
+			"OUISize": 36,
+			"OrgAddress": "Uddevallagatan 14\\nGoteborg Vastra Gotaland 41670\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Brannstroms Elektronik AB",
+			"Source": "IEEE"
+		}
+	]
+}

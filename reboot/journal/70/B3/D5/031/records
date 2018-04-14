@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-20",
+			"EventType": "add",
+			"OUI": "70B3D5031",
+			"OUISize": 36,
+			"OrgAddress": "F3.East block. Xinwu Industrial Building, Longzhu Road.Nanshan District\\nShenzhen   Guangdong China  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN GAONA ELECTRONIC CO.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

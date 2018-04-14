@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2795",
+			"OUISize": 36,
+			"OrgAddress": "Via Guido Rossa, 10\\nLoc. Cascine del Riccio\\nImpruneta (FI)  50023\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Ameli Spa",
+			"Source": "IEEE"
+		}
+	]
+}

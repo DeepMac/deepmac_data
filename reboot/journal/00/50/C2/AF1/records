@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AF1",
+			"OUISize": 36,
+			"OrgAddress": "6025 SW Taylor St.\\nPortland OR 97221\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Green Goose",
+			"Source": "IEEE"
+		}
+	]
+}

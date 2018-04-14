@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551C0",
+			"OUISize": 36,
+			"OrgAddress": "Industrigatan 14B\\nJoenkoeping  55302\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "NPB Automation AB",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-23",
+			"EventType": "add",
+			"OUI": "40ED989",
+			"OUISize": 28,
+			"OrgAddress": "Bunsenstr. 10\\nGummersbach  DE  51647\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "TeraTron GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

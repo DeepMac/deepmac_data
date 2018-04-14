@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "add",
+			"OUI": "0C8230",
+			"OUISize": 24,
+			"OrgAddress": "c-504,Skyworth Building,No.8 Road,High-tech south,Nanshan District,\\nShenzhen Guangdong 518057\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHENZHEN MAGNUS TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0C8230",
+			"OUISize": 24,
+			"OrgAddress": "c-504,Skyworth Building,No.8 Road,High-tech south,Nanshan District,\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN MAGNUS TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

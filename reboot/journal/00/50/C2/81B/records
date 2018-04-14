@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C281B",
+			"OUISize": 36,
+			"OrgAddress": "5th Floor, Dong-Young Bldg., 580,\\nPajang-Dong, Jangan-Gu\\nSuwon-City Kyunggi-Do 440-853\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Brain Tech Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

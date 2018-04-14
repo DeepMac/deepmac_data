@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-17",
+			"EventType": "add",
+			"OUI": "70B3D5002",
+			"OUISize": 36,
+			"OrgAddress": "105 Edgeview Drive\\nBroomfield  CO  80021\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Gogo BA",
+			"Source": "IEEE"
+		}
+	]
+}

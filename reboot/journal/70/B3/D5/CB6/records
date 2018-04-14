@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-11",
+			"EventType": "add",
+			"OUI": "70B3D5CB6",
+			"OUISize": 36,
+			"OrgAddress": "Weissmuehle 10\\nPriesendorf    96170\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Kuebrich Ingeniergesellschaft mbh & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-10-29",
+			"EventType": "add",
+			"OUI": "001641",
+			"OUISize": 24,
+			"OrgAddress": "141, LANE 351, TAIPING RD. SEC.1,\\nTSAO-TUEN NAN-TOU 542\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "USI",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-12",
+			"EventType": "change",
+			"OUI": "001641",
+			"OUISize": 24,
+			"OrgAddress": "141, LANE 351, SEC.1,TAIPING RD.\\nTSAOTUEN NANTOU 54261\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Universal Global Scientific Industrial Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001641",
+			"OUISize": 24,
+			"OrgAddress": "141, LANE 351, SEC.1,TAIPING RD.\\nTSAOTUEN NANTOU 54261\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Universal Global Scientific Industrial Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001641",
+			"OUISize": 24,
+			"OrgAddress": "141, LANE 351,SEC.1, TAIPING RD.\\nTSAOTUEN,  NANTOU  54261\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Universal Global Scientific Industrial Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

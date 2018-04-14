@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "40D855018",
+			"OUISize": 36,
+			"OrgAddress": "90 rue des trente-six ponts\\nToulouse  31400\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "STANEO SAS",
+			"Source": "IEEE"
+		}
+	]
+}

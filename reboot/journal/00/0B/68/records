@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B68",
+			"OUISize": 24,
+			"OrgAddress": "750D Chai Chee Road\\n#03-03 Technopark @Chai Chee\\nSingapore  469004\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Addvalue Communications Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "000B68",
+			"OUISize": 24,
+			"OrgAddress": "190 CHANGI ROAD , #02-02 MDIS BUILDING\\nSingapore  419974\\n\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Addvalue Communications Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-01",
+			"EventType": "change",
+			"OUI": "000B68",
+			"OUISize": 24,
+			"OrgAddress": "28,TAI SENG STREET #06-02\\nSingapore  534106\\n\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Addvalue Communications Pte Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B68",
+			"OUISize": 24,
+			"OrgAddress": "28,TAI SENG STREET #06-02\\nSingapore    534106\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "Addvalue Communications Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

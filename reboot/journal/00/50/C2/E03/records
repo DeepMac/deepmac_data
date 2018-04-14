@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E03",
+			"OUISize": 36,
+			"OrgAddress": "Bahnhofstrasse 2\\nSignau Bern 3534\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "ICU Scandinavia Schweiz GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

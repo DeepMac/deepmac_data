@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-02",
+			"EventType": "add",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th Floorï¿½ï¿½56 GuanRi Road\\nSoftware Square (Phase Two), Siming District\\nXiamen Fujian 361009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th FloorÂ£Â¬56 GuanRi Road\\nSoftware Square (Phase Two), Siming District\\nXiamen Fujian 361009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th Floor£¬56 GuanRi Road\\nSoftware Square (Phase Two), Siming District\\nXiamen Fujian 361009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th FloorÃÂÃÂ£ÃÂÃÂ¬56 GuanRi Road\\nSoftware Square (Phase Two), Siming District\\nXiamen Fujian 361009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th FloorÃÂ£ÃÂ¬56 GuanRi Road\\nSoftware Square (Phase Two), Siming District\\nXiamen Fujian 361009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-05",
+			"EventType": "change",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th FloorÂ£Â¬56 GuanRi Road\\nSoftware Square (Phase Two), Siming District\\nXiamen Fujian 361009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-14",
+			"EventType": "change",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th FloorÃÂ£ÃÂ¬56 GuanRi Road\\nSoftware Square (Phase Two), Siming District\\nXiamen Fujian 361009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A49981",
+			"OUISize": 24,
+			"OrgAddress": "8th FloorÃÂ£ÃÂ¬56 GuanRi Road\\nXiamen  Fujian  361009\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "FuJian Elite Power Tech CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-02",
+			"EventType": "add",
+			"OUI": "904E91B",
+			"OUISize": 28,
+			"OrgAddress": "Rm. 1102, Science and Technology Building A, No. 900 of Yishan Road, Xuhui District,\\nShanghai    200030\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai JaWay Information Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

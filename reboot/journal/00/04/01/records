@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "add",
+			"OUI": "000401",
+			"OUISize": 24,
+			"OrgAddress": "1131, Fujikubo, Miyoshimachi,\\nIruma-gun, Saitama\\n354-8501,\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Osaki Electric Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000401",
+			"OUISize": 24,
+			"OrgAddress": "1131, Fujikubo, Miyoshimachi,\\nIruma-gun, Saitama 354-8501,\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Osaki Electric Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000401",
+			"OUISize": 24,
+			"OrgAddress": "1131, Fujikubo, Miyoshimachi,\\nIruma-gun, Saitama 354-8501,\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Osaki Electric Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000401",
+			"OUISize": 24,
+			"OrgAddress": "1131, Fujikubo, Miyoshimachi,\\nIruma-gun, Saitama 354-8501,\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Osaki Electric Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000401",
+			"OUISize": 24,
+			"OrgAddress": "1131, Fujikubo, Miyoshimachi,\\nIruma-gun, Saitama 354-8501,\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Osaki Electric Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000401",
+			"OUISize": 24,
+			"OrgAddress": "1131, Fujikubo, Miyoshimachi,\\nIruma-gun, Saitama 354-8501,\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Osaki Electric Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000401",
+			"OUISize": 24,
+			"OrgAddress": "1131, Fujikubo, Miyoshimachi,\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Osaki Electric Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

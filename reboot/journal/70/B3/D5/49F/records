@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-21",
+			"EventType": "add",
+			"OUI": "70B3D549F",
+			"OUISize": 36,
+			"OrgAddress": "Via Primo Villa 2/1\\nBurago di Molgora  MB  20875\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "B.P.A. SRL",
+			"Source": "IEEE"
+		}
+	]
+}

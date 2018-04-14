@@ -1,0 +1,147 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-10-13",
+			"EventType": "add",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im Täle 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃ¤le 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im Täle 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃÂ¤le 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im Täle 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃÂ¤le 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃ¤le 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃÂÃÂÃÂÃÂ¤le 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃ¤le 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃ¤le 2\\nEppingen Baden-WÃ¼rttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃ¤le 2\\nEppingen Baden-Wuerttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃ¤le 2\\nEppingen Baden-WÃ¼rttemberg 75031\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001629",
+			"OUISize": 24,
+			"OrgAddress": "Im TÃ¤le 2\\nEppingen  Baden-WÃ¼rttemberg  75031\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Nivus GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

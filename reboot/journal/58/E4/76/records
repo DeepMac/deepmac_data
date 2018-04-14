@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-11",
+			"EventType": "add",
+			"OUI": "58E476",
+			"OUISize": 24,
+			"OrgAddress": "4th Floor,Jiaodajiepu Building,72# Kejierlu Road,\\nXi'an Shaanxi Province 710100\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "CENTRON COMMUNICATIONS TECHNOLOGIES FUJIAN CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "58E476",
+			"OUISize": 24,
+			"OrgAddress": "4th Floor,Jiaodajiepu Building,72# Kejierlu Road,\\nXi'an  Shaanxi Province  710100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CENTRON COMMUNICATIONS TECHNOLOGIES FUJIAN CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

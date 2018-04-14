@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000C8A",
+			"OUISize": 24,
+			"OrgAddress": "The Mountain\\nFramingham MA 01701\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Bose Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "change",
+			"OUI": "000C8A",
+			"OUISize": 24,
+			"OrgAddress": "Automotive Systems Division (ASD)\\n688 Great Road (Mailstop: 1W2)\\nStow MA 01775-9102\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Bose Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C8A",
+			"OUISize": 24,
+			"OrgAddress": "Automotive Systems Division (ASD)\\nStow  MA  01775-9102\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Bose Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-09",
+			"EventType": "add",
+			"OUI": "0050C2F77",
+			"OUISize": 36,
+			"OrgAddress": "Wielandstrasse 12\\nSoemmerda Thueringia 99610\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SYSTEMTECHNIK GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

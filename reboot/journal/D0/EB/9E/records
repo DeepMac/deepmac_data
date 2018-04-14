@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-25",
+			"EventType": "add",
+			"OUI": "D0EB9E",
+			"OUISize": 24,
+			"OrgAddress": "JinSung B/D 1-2 Gunja-dong, Gwangjin-gu,\\nSeoul  143-837\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Seowoo Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-12",
+			"EventType": "change",
+			"OUI": "D0EB9E",
+			"OUISize": 24,
+			"OrgAddress": "#B101 Seojung B/D, 590-9 Guui-dong, Gwangjin-gu,\\nSeoul  143-831\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Seowoo Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D0EB9E",
+			"OUISize": 24,
+			"OrgAddress": "#B101 Seojung B/D, 590-9 Guui-dong, Gwangjin-gu,\\nSeoul    143-831\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Seowoo Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

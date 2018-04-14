@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29FD",
+			"OUISize": 36,
+			"OrgAddress": "Wiener Strasse 70\\nSpillern Lower Austria 2104\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Bitt technology-A Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

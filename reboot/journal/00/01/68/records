@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000168",
+			"OUISize": 24,
+			"OrgAddress": "2500 Don Reid Drive\\nOttawa, Ontario\\n\\n",
+			"OrgCountry": "K1H 1E1, CANADA",
+			"OrgName": "VITANA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000168",
+			"OUISize": 24,
+			"OrgAddress": "2500 Don Reid Drive\\nOttawa, Ontario\\n\\n",
+			"OrgCountry": "K1H 1E1 K1H 1E1 CANADA",
+			"OrgName": "VITANA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000168",
+			"OUISize": 24,
+			"OrgAddress": "2500 Don Reid Drive\\nOttawa, Ontario\\nK1H 1E1 K1H 1E1 CANADA\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "VITANA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000168",
+			"OUISize": 24,
+			"OrgAddress": "2500 Don Reid Drive\\nOttawa, Ontario\\nK1H 1E1 K1H 1E1\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "VITANA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000168",
+			"OUISize": 24,
+			"OrgAddress": "2500 Don Reid Drive\\nOttawa, Ontario\\nK1H 1E1 K1H 1E1 CANADA\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "VITANA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000168",
+			"OUISize": 24,
+			"OrgAddress": "2500 Don Reid Drive\\nOttawa, Ontario\\nK1H 1E1 K1H 1E1\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "VITANA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000168",
+			"OUISize": 24,
+			"OrgAddress": "2500 Don Reid Drive\\nK1H 1E1  K1H 1E1\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "VITANA CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

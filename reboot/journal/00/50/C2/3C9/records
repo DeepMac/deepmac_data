@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23C9",
+			"OUISize": 36,
+			"OrgAddress": "Fidlerstr. 2\\nErmatingen Thurgau 8272\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Dilax Intelcom AG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002474",
+			"OUISize": 24,
+			"OrgAddress": "Haakon VII's g.4\\nTrondheim N-7483\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Autronica Fire And Securirty",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002474",
+			"OUISize": 24,
+			"OrgAddress": "Haakon VII's g.4\\nTrondheim  N-7483\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Autronica Fire And Securirty",
+			"Source": "IEEE"
+		}
+	]
+}

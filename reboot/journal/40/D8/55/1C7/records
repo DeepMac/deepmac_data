@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551C7",
+			"OUISize": 36,
+			"OrgAddress": "MÃ¥rdvÃ¤gen 4\\nVÃ¤xjÃ¶ Kronoberg 35245\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "WexiÃ¶disk AB",
+			"Source": "IEEE"
+		}
+	]
+}

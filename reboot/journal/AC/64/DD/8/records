@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-07",
+			"EventType": "add",
+			"OUI": "AC64DD8",
+			"OUISize": 28,
+			"OrgAddress": "LES CAUQUILLOUS\\n81506 LAVAUR CEDEX    81506\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "PFDC ELANCYL",
+			"Source": "IEEE"
+		}
+	]
+}

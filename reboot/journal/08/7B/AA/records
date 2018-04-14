@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-31",
+			"EventType": "add",
+			"OUI": "087BAA",
+			"OUISize": 24,
+			"OrgAddress": "Lenskaya 2-21\\nMoscow  129327\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "SVYAZKOMPLEKTSERVICE, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "087BAA",
+			"OUISize": 24,
+			"OrgAddress": "Lenskaya 2-21\\nMoscow    129327\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SVYAZKOMPLEKTSERVICE, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

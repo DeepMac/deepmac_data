@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-10-01",
+			"EventType": "add",
+			"OUI": "6CA7FA",
+			"OUISize": 24,
+			"OrgAddress": "132, Haewian-gil, Dunpo-myeon\\nAsan-si Chungcheongnam-do 336-873\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "YOUNGBO ENGINEERING INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "6CA7FA",
+			"OUISize": 24,
+			"OrgAddress": "132, Haewian-gil, Dunpo-myeon\\nAsan-si  Chungcheongnam-do  336-873\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "YOUNGBO ENGINEERING INC.",
+			"Source": "IEEE"
+		}
+	]
+}

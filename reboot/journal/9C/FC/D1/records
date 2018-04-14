@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-23",
+			"EventType": "add",
+			"OUI": "9CFCD1",
+			"OUISize": 24,
+			"OrgAddress": "Room 225ï¼ Building No. 8, 433 Yuyuan Road\\nShanghai  Shanghai  200040\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Aetheris Technology (Shanghai) Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

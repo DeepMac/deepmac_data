@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050CF",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGY RESEARCH INSTITUTE\\n210 YADI OFFICE BUILDING\\nNO. 48 BEI SAN HUAN ZHONG LU\\n",
+			"OrgCountry": "BEIJING 100088,  CHINA",
+			"OrgName": "VANLINK COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050CF",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGY RESEARCH INSTITUTE\\n210 YADI OFFICE BUILDING NO. 48 BEI SAN\\n\\n",
+			"OrgCountry": "BEIJING 100088 BEIJING 100088 CHINA",
+			"OrgName": "VANLINK COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0050CF",
+			"OUISize": 24,
+			"OrgAddress": "210 YADI OFFICE BUILDING\\nNO. 48 BEI SAN Huan Zhong Lu\\nBEIJING 100088\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "VANLINK COMMUNICATION TECHNOLOGY RESEARCH INSTITUTE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050CF",
+			"OUISize": 24,
+			"OrgAddress": "210 YADI OFFICE BUILDING\\nBEIJING 100088\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "VANLINK COMMUNICATION TECHNOLOGY RESEARCH INSTITUTE",
+			"Source": "IEEE"
+		}
+	]
+}

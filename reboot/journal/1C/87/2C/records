@@ -1,0 +1,46 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-04-03",
+			"EventType": "add",
+			"OUI": "1C872C",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-06-16",
+			"EventType": "change",
+			"OUI": "1C872C",
+			"OUISize": 24,
+			"OrgAddress": "15,Li-Te Rd.., Peitou,\\nTaipei  112\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ASUSTek  COMPUTER INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "1C872C",
+			"OUISize": 24,
+			"OrgAddress": "15,Li-Te Rd.., Peitou,\\nTaipei    112\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASUSTek  COMPUTER INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "1C872C",
+			"OUISize": 24,
+			"OrgAddress": "15,Li-Te Rd.., Peitou,\\nTaipei    112\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASUSTek COMPUTER INC.",
+			"Source": "IEEE"
+		}
+	]
+}

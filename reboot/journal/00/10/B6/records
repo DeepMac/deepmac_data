@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0010B6",
+			"OUISize": 24,
+			"OrgAddress": "574 HERITAGE RD.\\nSOUTHBURY  CT  06488\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ENTRATA COMMUNICATIONS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0010B6",
+			"OUISize": 24,
+			"OrgAddress": "574 HERITAGE RD.\\nSOUTHBURY CT 06488\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ENTRATA COMMUNICATIONS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0010B6",
+			"OUISize": 24,
+			"OrgAddress": "574 HERITAGE RD.\\nSOUTHBURY  CT  06488\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ENTRATA COMMUNICATIONS CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

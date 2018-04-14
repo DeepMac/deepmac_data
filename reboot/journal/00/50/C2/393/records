@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2393",
+			"OUISize": 36,
+			"OrgAddress": "August-Bebel-Str. 29\\nGreiz Thuringia 07973\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SYS TEC electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

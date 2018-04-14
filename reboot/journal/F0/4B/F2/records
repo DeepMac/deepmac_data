@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-09-12",
+			"EventType": "add",
+			"OUI": "F04BF2",
+			"OUISize": 24,
+			"OrgAddress": "6413 Congress Ave.\\nBoca Raton FL 33487\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "JTECH Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F04BF2",
+			"OUISize": 24,
+			"OrgAddress": "6413 Congress Ave.\\nBoca Raton  FL  33487\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "JTECH Communications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

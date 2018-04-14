@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D68",
+			"OUISize": 36,
+			"OrgAddress": "4 Dakota Trail\\nBranchburg NJ 08876\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "HiSpeed Data, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

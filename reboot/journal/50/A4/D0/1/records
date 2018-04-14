@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-19",
+			"EventType": "add",
+			"OUI": "50A4D01",
+			"OUISize": 28,
+			"OrgAddress": "4th floor of Building C, Lenovo Beijing Innovation Center, No. 6 Shangdi West Rd., Haidian Distr., Beijing 100085, China\\nBeijing  Beijing  100085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing ANTVR Technology Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005B6",
+			"OUISize": 24,
+			"OrgAddress": "Waffnergasse 8\\n93047 Regensburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "INSYS Microelectronics GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "0005B6",
+			"OUISize": 24,
+			"OrgAddress": "Hermann-KÃ¶hl-StraÃe 22\\n93049 Regensburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "INSYS Microelectronics GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005B6",
+			"OUISize": 24,
+			"OrgAddress": "Hermann-KÃ¶hl-StraÃe 22\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "INSYS Microelectronics GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

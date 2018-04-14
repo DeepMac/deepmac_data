@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-28",
+			"EventType": "add",
+			"OUI": "70B3D5175",
+			"OUISize": 36,
+			"OrgAddress": "Block 5012 Techplace II, #01-05 Ang Mo Kio Avenue 5\\nSingapore  Singapore  569876\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "Akribis Systems",
+			"Source": "IEEE"
+		}
+	]
+}

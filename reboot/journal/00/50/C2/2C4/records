@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22C4",
+			"OUISize": 36,
+			"OrgAddress": "39 Princess Street\\nChristchurch  8030\\n\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Invensys Energy Systens (NZ) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

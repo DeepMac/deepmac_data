@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A03",
+			"OUISize": 36,
+			"OrgAddress": "586 Main Street\\nFarmingdale NY 11735\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EEG Enterprises Inc",
+			"Source": "IEEE"
+		}
+	]
+}

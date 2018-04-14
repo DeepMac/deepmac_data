@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-27",
+			"EventType": "add",
+			"OUI": "28F5376",
+			"OUISize": 28,
+			"OrgAddress": "Neumeyerstr. 28-34\\nNÃ¼rnberg  Bavaria  90411\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MyOmega Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

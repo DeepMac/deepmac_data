@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000087",
+			"OUISize": 24,
+			"OrgAddress": "NETWORK ENGINEERING DIV.\\nHITACHI OMORI 2ND BLDG., 27-18\\nMINAMI OI 6 CHOME,SHINAGAWA-KU\\n",
+			"OrgCountry": "TOKYO 140, JAPAN",
+			"OrgName": "HITACHI, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000087",
+			"OUISize": 24,
+			"OrgAddress": "NETWORK ENGINEERING DIV.\\nHITACHI OMORI 2ND BLDG., 27-18 MINAMI OI\\n\\n",
+			"OrgCountry": "TOKYO 140 TOKYO 140 JAPAN",
+			"OrgName": "HITACHI, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "000087",
+			"OUISize": 24,
+			"OrgAddress": "NETWORK ENGINEERING DIV.\\nHITACHI OMORI 2ND BLDG., 27-18 MINAMI OI\\nTOKYO 140 TOKYO 140 JAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "HITACHI, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-01-16",
+			"EventType": "change",
+			"OUI": "000087",
+			"OUISize": 24,
+			"OrgAddress": "NETWORK ENGINEERING DIV.\\nHITACHI OMORI 2ND BLDG., 27-18 MINAMI OI\\nTOKYO 140\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "HITACHI, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000087",
+			"OUISize": 24,
+			"OrgAddress": "NETWORK ENGINEERING DIV.\\nTOKYO 140\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "HITACHI, LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

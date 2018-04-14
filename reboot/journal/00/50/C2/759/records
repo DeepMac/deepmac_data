@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2759",
+			"OUISize": 36,
+			"OrgAddress": "8 Cedar Island\\nWilmington NC 28409\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sequentric Energy Systems, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

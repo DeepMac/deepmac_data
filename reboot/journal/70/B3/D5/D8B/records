@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-15",
+			"EventType": "add",
+			"OUI": "70B3D5D8B",
+			"OUISize": 36,
+			"OrgAddress": "Lipa 218\\n-\\nLipa u Havlickova Brodu Vysocina 58257\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "Lenoxi Automation s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C2F",
+			"OUISize": 36,
+			"OrgAddress": "2 RUE DU GEVAUDAN\\nSILIC 1743-LISSES\\nEVRY  91047\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "REFLEX CES",
+			"Source": "IEEE"
+		}
+	]
+}

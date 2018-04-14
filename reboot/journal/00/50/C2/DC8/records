@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DC8",
+			"OUISize": 36,
+			"OrgAddress": "Gruenberger Str. 140\\nGiessen Hessen 35394\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "T2M2 GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

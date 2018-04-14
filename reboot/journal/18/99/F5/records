@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-03",
+			"EventType": "add",
+			"OUI": "1899F5",
+			"OUISize": 24,
+			"OrgAddress": "No.35,East MianXin Road,MianYang,Sichaun,China.\\nMianYang  SiChuan  PRC 621000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Sichuan Changhong Electric Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

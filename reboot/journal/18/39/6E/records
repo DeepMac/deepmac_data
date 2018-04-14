@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-12",
+			"EventType": "add",
+			"OUI": "18396E",
+			"OUISize": 24,
+			"OrgAddress": "High tech Industrial Park,Longhua District of Shenzhen City,South central concept\\nShenzhen    518110\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SUNSEA TELECOMMUNICATIONS CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

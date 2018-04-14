@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C288D",
+			"OUISize": 36,
+			"OrgAddress": "5 Circle Freeway Drive\\nCincinnati OH 45246\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "L3 Communications Nova Engineering",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-07",
+			"EventType": "add",
+			"OUI": "8886C2",
+			"OUISize": 24,
+			"OrgAddress": "Schwanweg 1\\nHeroldsberg    90562\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "STABILO International GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

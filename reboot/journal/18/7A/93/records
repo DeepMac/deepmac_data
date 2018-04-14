@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-27",
+			"EventType": "add",
+			"OUI": "187A93",
+			"OUISize": 24,
+			"OrgAddress": "Room A3, 1F., No.1, Lixing 1st Rd\\nScience-Based Industrial Park\\nHsinchu  30078\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AMICCOM Electronics Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "187A93",
+			"OUISize": 24,
+			"OrgAddress": "Room A3, 1F., No.1, Lixing 1st Rd\\nHsinchu    30078\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AMICCOM Electronics Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

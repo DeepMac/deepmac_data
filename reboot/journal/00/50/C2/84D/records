@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C284D",
+			"OUISize": 36,
+			"OrgAddress": "ZI Camp Laurent\\nLa Seyne Var 83500\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "BMTI",
+			"Source": "IEEE"
+		}
+	]
+}

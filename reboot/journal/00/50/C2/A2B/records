@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A2B",
+			"OUISize": 36,
+			"OrgAddress": "VIA MARCONI, 9\\nREPARTO CORSE APRILIA\\nNOALE VENEZIA 30033\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "APRILIA RACING S.R.L.",
+			"Source": "IEEE"
+		}
+	]
+}

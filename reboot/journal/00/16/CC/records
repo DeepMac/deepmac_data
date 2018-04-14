@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-12-15",
+			"EventType": "add",
+			"OUI": "0016CC",
+			"OUISize": 24,
+			"OrgAddress": "3F. No.25, Ally15, Lane 120, Sec.1, Neihu Rd.\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Xcute Mobile Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0016CC",
+			"OUISize": 24,
+			"OrgAddress": "3F. No.25, Ally15, Lane 120, Sec.1, Neihu Rd.\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Xcute Mobile Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0016CC",
+			"OUISize": 24,
+			"OrgAddress": "3F. No.25, Ally15, Lane 120, Sec.1, Neihu Rd.\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Xcute Mobile Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

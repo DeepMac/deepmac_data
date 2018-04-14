@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26B9",
+			"OUISize": 36,
+			"OrgAddress": "Pelarstrasse 21\\nMichelstadt Hessen 64720\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "unipo GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0030D6",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIESTR. 16\\nD-76297 STUTENSEE\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSC VERTRIEBS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0030D6",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIESTR. 16\\nD-76297 STUTENSEE\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSC VERTRIEBS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0030D6",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIESTR. 16\\nD-76297 STUTENSEE\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSC VERTRIEBS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0030D6",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIESTR. 16\\nD-76297 STUTENSEE\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSC VERTRIEBS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0030D6",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIESTR. 16\\nD-76297 STUTENSEE\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSC VERTRIEBS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0030D6",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIESTR. 16\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MSC VERTRIEBS GMBH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2521",
+			"OUISize": 36,
+			"OrgAddress": "20 RUE DU FONDS PERNANT\\nCOMPIEGNE OISE 60200\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "ARIS TECHNOLOGIES",
+			"Source": "IEEE"
+		}
+	]
+}

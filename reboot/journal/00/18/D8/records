@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-07-01",
+			"EventType": "add",
+			"OUI": "0018D8",
+			"OUISize": 24,
+			"OrgAddress": "Rm. 805, Bldg. 53, No. 195, Sec. 4, Chung Hsing Rd., Chutung\\nHsinchu  310\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ARCH METER Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "change",
+			"OUI": "0018D8",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.3-2, Industry E. Rd.\\n9,Hsinchu Science Park\\nHsinchu\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ARCH METER Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0018D8",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.3-2, Industry E. Rd.\\n9,Hsinchu Science Park\\nHsinchu\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ARCH METER Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0018D8",
+			"OUISize": 24,
+			"OrgAddress": "4F, No.3-2, Industry E. Rd.\\nHsinchu\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ARCH METER Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

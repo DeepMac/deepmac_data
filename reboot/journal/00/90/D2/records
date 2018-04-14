@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0090D2",
+			"OUISize": 24,
+			"OrgAddress": "237 CEDAR HILL ST.\\nMARLBORO  MA  01752\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARTEL VIDEO SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0090D2",
+			"OUISize": 24,
+			"OrgAddress": "237 CEDAR HILL ST.\\nMARLBORO MA 01752\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARTEL VIDEO SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0090D2",
+			"OUISize": 24,
+			"OrgAddress": "237 CEDAR HILL ST.\\nMARLBORO  MA  01752\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ARTEL VIDEO SYSTEMS",
+			"Source": "IEEE"
+		}
+	]
+}

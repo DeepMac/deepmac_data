@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A51",
+			"OUISize": 36,
+			"OrgAddress": "Yamato-higashi1-11-24\\nYamato-city Kanagawa-pref 242-0017\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Y-products co.ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

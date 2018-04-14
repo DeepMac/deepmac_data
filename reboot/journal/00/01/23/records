@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000123",
+			"OUISize": 24,
+			"OrgAddress": "8-2-52 Nanko Higashi, Suminoe-ku\\nOsaka, 559-0031\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "DIGITAL ELECTRONICS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000123",
+			"OUISize": 24,
+			"OrgAddress": "8-2-52 Nanko Higashi, Suminoe-ku\\nOsaka, 559-0031\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "DIGITAL ELECTRONICS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-14",
+			"EventType": "change",
+			"OUI": "000123",
+			"OUISize": 24,
+			"OrgAddress": "Schneider Electric Osaka Building\\n4-4-9 Kitahama  Chuo-ku, Osaka  541-0041\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Schneider Electric Japan Holdings Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

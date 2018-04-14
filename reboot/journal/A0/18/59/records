@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-10",
+			"EventType": "add",
+			"OUI": "A01859",
+			"OUISize": 24,
+			"OrgAddress": "Building A10, Fukang Industrial Zone\\nFuming Village,Guanlan Town, Bao'An\\nShenzhen  Guangdong  518110\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Yidashi Electronics Co Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "A01859",
+			"OUISize": 24,
+			"OrgAddress": "Building A10, Fukang Industrial Zone\\nFuming Village,Guanlan Town, Bao'An\\nShenzhen Guangdong 518110\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Yidashi Electronics Co Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "A01859",
+			"OUISize": 24,
+			"OrgAddress": "Building A10, Fukang Industrial Zone\\nFuming Village,Guanlan Town, Bao'An\\nShenzhen  Guangdong  518110\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Yidashi Electronics Co Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "A01859",
+			"OUISize": 24,
+			"OrgAddress": "Building A10, Fukang Industrial Zone\\nFuming Village,Guanlan Town, Bao'An\\nShenzhen Guangdong 518110\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Yidashi Electronics Co Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A01859",
+			"OUISize": 24,
+			"OrgAddress": "Building A10, Fukang Industrial Zone\\nShenzhen   Guangdong   518110\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Yidashi Electronics Co Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

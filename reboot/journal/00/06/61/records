@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000661",
+			"OUISize": 24,
+			"OrgAddress": "Innovation Incubator, NTHU,\\n101, Sec. 2, Kuang Fu Road,\\n\\n",
+			"OrgCountry": "Hsinchu, 30013, TAIWAN",
+			"OrgName": "NIA Home Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000661",
+			"OUISize": 24,
+			"OrgAddress": "Innovation Incubator, NTHU,\\n101, Sec. 2, Kuang Fu Road,\\n\\n",
+			"OrgCountry": "Hsinchu 30013, TAIWAN",
+			"OrgName": "NIA Home Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "000661",
+			"OUISize": 24,
+			"OrgAddress": "Innovation Incubator, NTHU,\\n101, Sec. 2, Kuang Fu Road,\\nHsinchu 30013,\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "NIA Home Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000661",
+			"OUISize": 24,
+			"OrgAddress": "Innovation Incubator, NTHU,\\n101, Sec. 2, Kuang Fu Road,\\nHsinchu 30013,\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "NIA Home Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000661",
+			"OUISize": 24,
+			"OrgAddress": "Innovation Incubator, NTHU,\\n101, Sec. 2, Kuang Fu Road,\\nHsinchu 30013,\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "NIA Home Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000661",
+			"OUISize": 24,
+			"OrgAddress": "Innovation Incubator, NTHU,\\nHsinchu  30013,\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "NIA Home Technologies Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0090FA",
+			"OUISize": 24,
+			"OrgAddress": "2352 MAIN STREET   STE #108\\nCONCORD  MA 01742\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GIGANET, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0090FA",
+			"OUISize": 24,
+			"OrgAddress": "2352 MAIN STREET   STE #108\\nCONCORD MA 01742\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GIGANET, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0090FA",
+			"OUISize": 24,
+			"OrgAddress": "2352 MAIN STREET, STE #108\\nCONCORD MA 01742\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GigaNet, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-02-06",
+			"EventType": "change",
+			"OUI": "0090FA",
+			"OUISize": 24,
+			"OrgAddress": "3333 Susan Street\\nCosta Mesa CA 92626\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EMULEX Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-23",
+			"EventType": "change",
+			"OUI": "0090FA",
+			"OUISize": 24,
+			"OrgAddress": "3333 Susan Street\\nCosta Mesa CA 92626\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Emulex Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0090FA",
+			"OUISize": 24,
+			"OrgAddress": "3333 Susan Street\\nCosta Mesa  CA  92626\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Emulex Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

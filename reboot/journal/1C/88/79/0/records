@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-31",
+			"EventType": "add",
+			"OUI": "1C88790",
+			"OUISize": 28,
+			"OrgAddress": "33, Hoguk-ro\\nDaegu  Korea  41502\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Newps co.,ltd",
+			"Source": "IEEE"
+		}
+	]
+}

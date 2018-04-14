@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-12",
+			"EventType": "add",
+			"OUI": "5CC7D7",
+			"OUISize": 24,
+			"OrgAddress": "Block B2, No.14 Jian'an rd. Shajing, Bao'an District,\\nShenzhen    518104\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "AZROAD TECHNOLOGY COMPANY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

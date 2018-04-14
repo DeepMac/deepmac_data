@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CB7",
+			"OUISize": 36,
+			"OrgAddress": "Siemensallee 84\\nKarlsruhe BW 76187\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "inotech GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

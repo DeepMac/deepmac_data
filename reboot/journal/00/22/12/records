@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "002212",
+			"OUISize": 24,
+			"OrgAddress": "1715 E. Wilshire Avenue\\nSTE 719\\nSanta Ana California 92705\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CAI Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "002212",
+			"OUISize": 24,
+			"OrgAddress": "4790 Irvine Blvd\\nSuite 105-203\\nIrvine California 92620\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CAI Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002212",
+			"OUISize": 24,
+			"OrgAddress": "4790 Irvine Blvd\\nIrvine  California  92620\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CAI Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

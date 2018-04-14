@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-17",
+			"EventType": "add",
+			"OUI": "CC82EB",
+			"OUISize": 24,
+			"OrgAddress": "2-1-1,Kagahara, Tsuzuki-ku,\\nYokohama-shi  Kanagawa  224-8502\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KYOCERA CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001047",
+			"OUISize": 24,
+			"OrgAddress": "NO.1800 ICHIGAO CHO\\nMIDORI WARD\\nYOKOHAMA CITY\\n",
+			"OrgCountry": "JAPAN  225",
+			"OrgName": "ECHO ELETRIC CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001047",
+			"OUISize": 24,
+			"OrgAddress": "NO.1800 ICHIGAO CHO\\nMIDORI WARD YOKOHAMA CITY\\n\\n",
+			"OrgCountry": "JAPAN 225",
+			"OrgName": "ECHO ELETRIC CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001047",
+			"OUISize": 24,
+			"OrgAddress": "NO.1800 ICHIGAO CHO\\nMIDORI WARD\\nYOKOHAMA CITY  225\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ECHO ELETRIC CO. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001047",
+			"OUISize": 24,
+			"OrgAddress": "NO.6-17-1-602 Higashi Hongou\\nYokohama City    226\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ECHO ELETRIC CO. LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

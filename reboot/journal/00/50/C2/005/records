@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2005",
+			"OUISize": 36,
+			"OrgAddress": "1799 Portola Ave.\\nLivermore CA 94550\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GD California, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

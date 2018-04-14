@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29E6",
+			"OUISize": 36,
+			"OrgAddress": "211-1, Jangji-Ri, Dongtan-myun,\\nHwasung City Kyonggi-Do 445-812\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Kumho Electric, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

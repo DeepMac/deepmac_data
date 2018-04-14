@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-03",
+			"EventType": "add",
+			"OUI": "70B3D5405",
+			"OUISize": 36,
+			"OrgAddress": "via Monte Bianco, 1\\nSolbiate Olona  VA  21058\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "MG s.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

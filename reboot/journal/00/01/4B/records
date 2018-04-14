@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00014B",
+			"OUISize": 24,
+			"OrgAddress": "60 Codman Hill Road\\nBoxborough  MA  01719\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ennovate Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00014B",
+			"OUISize": 24,
+			"OrgAddress": "60 Codman Hill Road\\nBoxborough MA 01719\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ennovate Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00014B",
+			"OUISize": 24,
+			"OrgAddress": "60 Codman Hill Road\\nBoxborough  MA  01719\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ennovate Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

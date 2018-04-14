@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-06",
+			"EventType": "add",
+			"OUI": "34EF8B",
+			"OUISize": 24,
+			"OrgAddress": "NTT Hibiya Bldg. 7F\\n1-6,Uchisaiwai-cho 1-chome\\nChiyoda-ku Tokyo 100-8019\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NTT Communications Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "34EF8B",
+			"OUISize": 24,
+			"OrgAddress": "NTT Hibiya Bldg. 7F\\nChiyoda-ku  Tokyo  100-8019\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NTT Communications Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

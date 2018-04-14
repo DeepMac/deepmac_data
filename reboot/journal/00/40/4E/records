@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00404E",
+			"OUISize": 24,
+			"OrgAddress": "594 WORCESTER ROAD-STE.#308\\nNATICK,  MA  01760\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FLUENT, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00404E",
+			"OUISize": 24,
+			"OrgAddress": "594 WORCESTER ROAD-STE.#308\\nNATICK MA 01760\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FLUENT, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00404E",
+			"OUISize": 24,
+			"OrgAddress": "594 WORCESTER ROAD-STE.#308\\nNATICK  MA  01760\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "FLUENT, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

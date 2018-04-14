@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "004095",
+			"OUISize": 24,
+			"OrgAddress": "9F, 50 MIN CHUAN RD\\nHSIN TIEN, TAIPEI\\n\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "R.P.T. INTERGROUPS INT'L LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004095",
+			"OUISize": 24,
+			"OrgAddress": "9F, 50 MIN CHUAN RD\\nHSIN TIEN, TAIPEI\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "R.P.T. INTERGROUPS INT'L LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004095",
+			"OUISize": 24,
+			"OrgAddress": "9F, 50 MIN CHUAN RD\\nHSIN TIEN, TAIPEI\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "R.P.T. INTERGROUPS INT'L LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "004095",
+			"OUISize": 24,
+			"OrgAddress": "9F, 50 MIN CHUAN RD\\nHSIN TIEN, TAIPEI\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "R.P.T. INTERGROUPS INT'L LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004095",
+			"OUISize": 24,
+			"OrgAddress": "9F, 50 MIN CHUAN RD\\nTAIWAN  TAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "R.P.T. INTERGROUPS INT'L LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

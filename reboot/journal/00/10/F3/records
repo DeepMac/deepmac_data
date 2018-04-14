@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0010F3",
+			"OUISize": 24,
+			"OrgAddress": "10F-13, NO.16, LANE 609\\nCHUNG-HSIN RD., SEC. 5\\nSAN-CHUNG CITY, TAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "NEXCOM INTERNATIONAL CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0010F3",
+			"OUISize": 24,
+			"OrgAddress": "18F, No. 716, Chung-Cheng Road,\\nChung Ho, Taipei Hsien 235,\\n\\n",
+			"OrgCountry": "TAIWAN R.O.C.",
+			"OrgName": "NEXCOM INTERNATIONAL CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0010F3",
+			"OUISize": 24,
+			"OrgAddress": "18F, No. 716, Chung-Cheng Road,\\nChung Ho,\\nTaipei Hsien 235,\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "NEXCOM INTERNATIONAL CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0010F3",
+			"OUISize": 24,
+			"OrgAddress": "18F, No. 716, Chung-Cheng Road,\\nChung Ho,\\nTaipei Hsien 235,\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "NEXCOM INTERNATIONAL CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "change",
+			"OUI": "0010F3",
+			"OUISize": 24,
+			"OrgAddress": "18F, No. 716, Chung-Cheng Road,\\nChung Ho,\\nTaipei Hsien 235,\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Nexcom International Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0010F3",
+			"OUISize": 24,
+			"OrgAddress": "18F, No. 716, Chung-Cheng Road,\\nChung Ho,\\nTaipei Hsien 235,\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Nexcom International Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0010F3",
+			"OUISize": 24,
+			"OrgAddress": "18F, No. 716, Chung-Cheng Road,\\nTaipei Hsien 235,\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Nexcom International Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

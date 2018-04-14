@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-12-23",
+			"EventType": "add",
+			"OUI": "0016E4",
+			"OUISize": 24,
+			"OrgAddress": "3, LANE 32, KSO CHING RD.\\nYANGMEI TAOYUAN 326\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "VANGUARD SECURITY ENGINEERING CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0016E4",
+			"OUISize": 24,
+			"OrgAddress": "3, LANE 32, KSO CHING RD.\\nYANGMEI TAOYUAN 326\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "VANGUARD SECURITY ENGINEERING CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0016E4",
+			"OUISize": 24,
+			"OrgAddress": "3, LANE 32, KSO CHING RD.\\nYANGMEI  TAOYUAN  326\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "VANGUARD SECURITY ENGINEERING CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

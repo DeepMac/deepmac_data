@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2019",
+			"OUISize": 36,
+			"OrgAddress": "1F No. 22 Industry East 9 Road\\nScience-Based Industrial Park\\nHsin-Chu 300\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Emtac Technology Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2019",
+			"OUISize": 36,
+			"OrgAddress": "1F No. 22 Industry East 9 Road\\nScience-Based Industrial Park\\nHsin-Chu 300\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Emtac Technology Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

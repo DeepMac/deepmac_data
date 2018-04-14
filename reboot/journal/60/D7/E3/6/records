@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-26",
+			"EventType": "add",
+			"OUI": "60D7E36",
+			"OUISize": 28,
+			"OrgAddress": "via Guido Rossa,10\\nImpruneta  Firenze  50023\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Ameli s.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

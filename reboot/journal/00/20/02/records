@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002002",
+			"OUISize": 24,
+			"OrgAddress": "FL. 182, NO. 531-1\\nCHUNG CHENG ROAD\\nHSIN TIEN CITY\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "SERITECH ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002002",
+			"OUISize": 24,
+			"OrgAddress": "FL. 182, NO. 531-1\\nCHUNG CHENG ROAD HSIN TIEN CITY\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "SERITECH ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "002002",
+			"OUISize": 24,
+			"OrgAddress": "FL. 182, NO. 531-1\\nCHUNG CHENG ROAD HSIN TIEN CITY\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "SERITECH ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002002",
+			"OUISize": 24,
+			"OrgAddress": "FL. 182, NO. 531-1\\nCHUNG CHENG ROAD HSIN TIEN CITY\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "SERITECH ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002002",
+			"OUISize": 24,
+			"OrgAddress": "FL. 182, NO. 531-1\\nTAIWAN  TAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SERITECH ENTERPRISE CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

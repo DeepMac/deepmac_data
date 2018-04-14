@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-06",
+			"EventType": "add",
+			"OUI": "70B3D5A50",
+			"OUISize": 36,
+			"OrgAddress": "1260-1\\nKaminoho\\nMotosu-shi Gifu-ken 501-0401\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "LECIP CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D5A50",
+			"OUISize": 36,
+			"OrgAddress": "1260-1\\nMotosu-shi  Gifu-ken  501-0401\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "LECIP CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

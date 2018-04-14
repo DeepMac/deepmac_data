@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29E0",
+			"OUISize": 36,
+			"OrgAddress": "Schuebelbachstrasse 3\\nEglisau ZH 8193\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "DST Swiss AG",
+			"Source": "IEEE"
+		}
+	]
+}

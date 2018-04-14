@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-05",
+			"EventType": "add",
+			"OUI": "B4AA4D",
+			"OUISize": 24,
+			"OrgAddress": "111 SW 5th Ave Suite 1400\\nPortland OR 97204\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ensequence, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B4AA4D",
+			"OUISize": 24,
+			"OrgAddress": "111 SW 5th Ave Suite 1400\\nPortland  OR  97204\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ensequence, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

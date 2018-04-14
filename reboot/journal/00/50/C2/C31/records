@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C31",
+			"OUISize": 36,
+			"OrgAddress": "3280 E. Hemisphere Loop,\\nSuite 146\\nTucson Arizona 85706\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "4D Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

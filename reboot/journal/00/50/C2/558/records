@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2558",
+			"OUISize": 36,
+			"OrgAddress": "Ennsstrasse 19\\nKrefeld NRW 47809\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bedo Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

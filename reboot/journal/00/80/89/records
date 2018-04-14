@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "008089",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX/POSBUS 56412\\nPINEGOWRIE, 2123\\n\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "TECNETICS (PTY) LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "008089",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX/POSBUS 56412\\nPINEGOWRIE, 2123\\nSOUTH AFRICA\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "TECNETICS (PTY) LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "008089",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX/POSBUS 56412\\nSOUTH  AFRICA\\n\\n",
+			"OrgCountry": "ZA",
+			"OrgName": "TECNETICS (PTY) LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

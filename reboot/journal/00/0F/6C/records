@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F6C",
+			"OUISize": 24,
+			"OrgAddress": "Dieselstrasse 3\\nOTTERSWEIER BW 77833\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ADDI-DATA GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000F6C",
+			"OUISize": 24,
+			"OrgAddress": "Airport Boulevard B210\\nRHEINMUENSTER BW 77836\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ADDI-DATA GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000F6C",
+			"OUISize": 24,
+			"OrgAddress": "Dieselstrasse 3\\nOTTERSWEIER BW 77833\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ADDI-DATA GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000F6C",
+			"OUISize": 24,
+			"OrgAddress": "Airport Boulevard B210\\nRHEINMUENSTER BW 77836\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ADDI-DATA GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F6C",
+			"OUISize": 24,
+			"OrgAddress": "Airport Boulevard B210\\nRHEINMUENSTER  BW  77836\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ADDI-DATA GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DC9",
+			"OUISize": 36,
+			"OrgAddress": "Industriestrasse 20a\\nGermering Bavaria 82110\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KinotonGmbH",
+			"Source": "IEEE"
+		}
+	]
+}

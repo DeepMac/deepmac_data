@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-24",
+			"EventType": "add",
+			"OUI": "3CBEE1",
+			"OUISize": 24,
+			"OrgAddress": "Shinagawa Intercity Tower C, 2-15-3, Konan\\nMinato-ku  Tokyo  108-6290\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NIKON CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

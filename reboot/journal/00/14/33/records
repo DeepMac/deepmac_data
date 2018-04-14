@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-04-01",
+			"EventType": "add",
+			"OUI": "001433",
+			"OUISize": 24,
+			"OrgAddress": "Unit 120 - 13551 Verdun Place\\nRichmond British Columbia V6V 1W5\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Empower Technologies(Canada) Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-25",
+			"EventType": "change",
+			"OUI": "001433",
+			"OUISize": 24,
+			"OrgAddress": "Unit 405 - 5600 Parkwood Way,\\nRichmond British Columbia V6V 2M2\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Empower Technologies(Canada) Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001433",
+			"OUISize": 24,
+			"OrgAddress": "Unit 405 - 5600 Parkwood Way,\\nRichmond  British Columbia  V6V 2M2\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Empower Technologies(Canada) Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,103 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBraganÃ¯Â¿Â½a Paulista SÃ¯Â¿Â½o Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBraganÃ§a Paulista SÃ£o Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBragança Paulista São Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBraganÃ§a Paulista SÃ£o Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBragança Paulista São Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBraganÃ§a Paulista SÃ£o Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBraganÃÂÃÂ§a Paulista SÃÂÃÂ£o Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rodovia Alkindar Monteiro Junqueira, km 34,2\\nCaixa Postal 108\\nBraganÃ§a Paulista SÃ£o Paulo 12914-970\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C260A",
+			"OUISize": 36,
+			"OrgAddress": "Rua Attilio Giaretta, 110\\nItatiba SP 13257-584\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Gradual Tecnologia Ltda.",
+			"Source": "IEEE"
+		}
+	]
+}

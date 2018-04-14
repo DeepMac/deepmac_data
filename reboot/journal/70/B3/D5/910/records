@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-04",
+			"EventType": "add",
+			"OUI": "70B3D5910",
+			"OUISize": 36,
+			"OrgAddress": "37 N Orange Ave STE 770\\nOrlando    32801\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Eginity, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

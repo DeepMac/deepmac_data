@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-10",
+			"EventType": "add",
+			"OUI": "A4E6B1",
+			"OUISize": 24,
+			"OrgAddress": "26F,Building1,No428,South Yanggao Road,Pudong District\\nShanghai  Shanghai  200127\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Joindata Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

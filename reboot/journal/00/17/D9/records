@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-08",
+			"EventType": "add",
+			"OUI": "0017D9",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 126\\nHunt Valley Maryland 21030\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AAI Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0017D9",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 126\\nHunt Valley  Maryland  21030\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AAI Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0002E4",
+			"OUISize": 24,
+			"OrgAddress": "Shinbong Bldg, 736-6,\\nYoksam-Dong, Kangnam-Ku,\\n\\n",
+			"OrgCountry": "Seoul, KOREA (135-080)",
+			"OrgName": "JC HYUN Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0002E4",
+			"OUISize": 24,
+			"OrgAddress": "Shinbong Bldg, 736-6,\\nYoksam-Dong, Kangnam-Ku,\\n\\n",
+			"OrgCountry": "Seoul KOREA (135-080)",
+			"OrgName": "JC HYUN Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0002E4",
+			"OUISize": 24,
+			"OrgAddress": "Shinbong Bldg, 736-6,\\nYoksam-Dong, Kangnam-Ku,\\nSeoul  (135-080)\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "JC HYUN Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0002E4",
+			"OUISize": 24,
+			"OrgAddress": "Shinbong Bldg, 736-6,\\nSeoul    (135-080)\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "JC HYUN Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

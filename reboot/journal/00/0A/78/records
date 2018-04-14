@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000A78",
+			"OUISize": 24,
+			"OrgAddress": "B.P. 592\\n87, rue Mac Mahon\\nNANCY cedex  54009\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "OLITEC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000A78",
+			"OUISize": 24,
+			"OrgAddress": "B.P. 592\\nNANCY cedex    54009\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "OLITEC",
+			"Source": "IEEE"
+		}
+	]
+}

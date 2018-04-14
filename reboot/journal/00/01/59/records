@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000159",
+			"OUISize": 24,
+			"OrgAddress": "R&D Center, S1 Bldg.\\n59-8, Nonhyun-Dong\\nKangnam-Ku\\nSeoul",
+			"OrgCountry": "KOREA  135-010",
+			"OrgName": "S1 Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000159",
+			"OUISize": 24,
+			"OrgAddress": "R&D Center, S1 Bldg.\\n59-8, Nonhyun-Dong Kangnam-Ku Seoul\\n\\n",
+			"OrgCountry": "KOREA 135-010",
+			"OrgName": "S1 Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000159",
+			"OUISize": 24,
+			"OrgAddress": "R&D Center, S1 Bldg.\\n59-8, Nonhyun-Dong Kangnam-Ku Seoul\\nKOREA 135-010\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "S1 Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000159",
+			"OUISize": 24,
+			"OrgAddress": "R&D Center, S1 Bldg.\\nKOREA  135-010\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "S1 Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

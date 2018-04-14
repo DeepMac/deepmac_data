@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A28",
+			"OUISize": 36,
+			"OrgAddress": "NUTSEY LANE\\nTOTTON\\nSOUTHAMPTON HAMPSHIRE SO40 3NB\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "KENDA ELECTRONIC SYSTEMS LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

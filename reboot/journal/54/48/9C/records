@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-21",
+			"EventType": "add",
+			"OUI": "54489C",
+			"OUISize": 24,
+			"OrgAddress": "11F.-6, No. 7,Sec. 3, New Taipei Blvd., Xinzhuang Dist.\\nNew Taipei City    24250\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CDOUBLES ELECTRONICS CO. LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

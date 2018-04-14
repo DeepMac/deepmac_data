@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2688",
+			"OUISize": 36,
+			"OrgAddress": "3266 Highway 70 West\\nP.O. Box 100\\nHildebran NC 28637\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Elk Products",
+			"Source": "IEEE"
+		}
+	]
+}

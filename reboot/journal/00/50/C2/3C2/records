@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23C2",
+			"OUISize": 36,
+			"OrgAddress": "POB 10127\\n2801 Prosperity Road\\nBlacksburg VA 24062\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Casabyte Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

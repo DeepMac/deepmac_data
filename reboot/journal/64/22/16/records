@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-19",
+			"EventType": "add",
+			"OUI": "642216",
+			"OUISize": 24,
+			"OrgAddress": "FL.6,Haichen Building\\nWenhua(West) Road,Lixia District\\nJinan Shandong 250010\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shandong Taixin Electronic co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "642216",
+			"OUISize": 24,
+			"OrgAddress": "FL.6,Haichen Building\\nJinan  Shandong  250010\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shandong Taixin Electronic co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

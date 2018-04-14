@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-07",
+			"EventType": "add",
+			"OUI": "0014D4",
+			"OUISize": 24,
+			"OrgAddress": "325 Ganbara\\nKami-machi\\nKami-gun Miyagi-ken 981-4263\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "K-Technology Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-17",
+			"EventType": "change",
+			"OUI": "0014D4",
+			"OUISize": 24,
+			"OrgAddress": "325 Ganbara\\nKami-machi\\nKami-gun Miyagi-ken 981-4263\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "K Technology Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014D4",
+			"OUISize": 24,
+			"OrgAddress": "325 Ganbara\\nKami-gun  Miyagi-ken  981-4263\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "K Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-27",
+			"EventType": "add",
+			"OUI": "4CB21C",
+			"OUISize": 24,
+			"OrgAddress": "Maxphotonics Industrial Park,Third Furong Road,Furong Industrial Area,Shajing,BaoAn\\nShenZhen  GuangDong  518125\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Maxphotonics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

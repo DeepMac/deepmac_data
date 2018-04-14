@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20F5",
+			"OUISize": 36,
+			"OrgAddress": "Unit 1301-09, 19-20\\nTower II, Grand Century Place\\n193 Prince Edward Road West\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Spectra Technologies Holding Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

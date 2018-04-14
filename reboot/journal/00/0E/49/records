@@ -1,0 +1,147 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Enbärsvägen 18\\nVäring Västra Götaland 54015\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-02-09",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16B\\nSkövde 541 34\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 Skövde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 SkÃ¶vde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 Skövde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 SkÃÂ¶vde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 Skövde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 SkÃÂ¶vde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 SkÃ¶vde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 SkÃÂÃÂÃÂÃÂ¶vde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "Kaplansgatan 16 B\\n541 34 SkÃ¶vde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "KanikegrÃ¤nd 3B\\n541 34 SkÃ¶vde\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E49",
+			"OUISize": 24,
+			"OrgAddress": "KanikegrÃ¤nd 3B\\n541 34  SkÃ¶vde\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Forsway Scandinavia AB",
+			"Source": "IEEE"
+		}
+	]
+}

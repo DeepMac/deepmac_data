@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2946",
+			"OUISize": 36,
+			"OrgAddress": "Nordstrasse 19\\nChemnitz-Roehrsdorf Sachsen 09247\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MEGWARE Computer GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

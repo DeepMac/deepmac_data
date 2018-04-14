@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-10-31",
+			"EventType": "add",
+			"OUI": "F80278A",
+			"OUISize": 28,
+			"OrgAddress": "2F., No.3, Yuandong Rd\\nBanqiao Dist\\nNew Taipei City Taiwan 220\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Luxul Technology Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F80278A",
+			"OUISize": 28,
+			"OrgAddress": "2F., No.3, Yuandong Rd\\nNew Taipei City  Taiwan  220\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Luxul Technology Inc",
+			"Source": "IEEE"
+		}
+	]
+}

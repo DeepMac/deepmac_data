@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BD4",
+			"OUISize": 36,
+			"OrgAddress": "S12-S14 Synergy Centre\\nITT Dublin, Tallaght\\nDublin  D24\\n",
+			"OrgCountry": "IRELAND",
+			"OrgName": "Global Security Devices",
+			"Source": "IEEE"
+		}
+	]
+}

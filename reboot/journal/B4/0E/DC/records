@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-22",
+			"EventType": "add",
+			"OUI": "B40EDC",
+			"OUISize": 24,
+			"OrgAddress": "533,Hogye-1dong,Dongan-gu\\nLG R&D Complex.LG-Ericsson,\\nAnyang-shi Kyungki-do 431-749\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "LG-Ericsson Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B40EDC",
+			"OUISize": 24,
+			"OrgAddress": "533,Hogye-1dong,Dongan-gu\\nAnyang-shi  Kyungki-do  431-749\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LG-Ericsson Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

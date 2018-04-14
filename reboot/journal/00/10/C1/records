@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0010C1",
+			"OUISize": 24,
+			"OrgAddress": "7-3-16 KIKUNA\\nKOHOKU-KU\\nYOKOHAMA  222\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "OI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0010C1",
+			"OUISize": 24,
+			"OrgAddress": "7-3-16 KIKUNA\\nKOHOKU-KU YOKOHAMA  222\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "OI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0010C1",
+			"OUISize": 24,
+			"OrgAddress": "7-3-16 KIKUNA\\nKOHOKU-KU\\nYOKOHAMA  222\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "OI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0010C1",
+			"OUISize": 24,
+			"OrgAddress": "7-3-16 KIKUNA\\nYOKOHAMA  222\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "OI ELECTRIC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-05",
+			"EventType": "change",
+			"OUI": "0010C1",
+			"OUISize": 24,
+			"OrgAddress": "7-3-16 KIKUNA\\nYOKOHAMA  KANAGAWA-KEN  222-0011\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "OI ELECTRIC CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2561",
+			"OUISize": 36,
+			"OrgAddress": "Kastanienweg 4\\nTroeglitz  06729\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Seitec Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

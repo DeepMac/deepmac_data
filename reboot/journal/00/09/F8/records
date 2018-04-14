@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0009F8",
+			"OUISize": 24,
+			"OrgAddress": "BANGBAE DONG 479-12\\nSEOCHO-GU,\\nSEOUL  137-820\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UNIMO TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0009F8",
+			"OUISize": 24,
+			"OrgAddress": "BANGBAE DONG 479-12\\nSEOUL    137-820\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "UNIMO TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

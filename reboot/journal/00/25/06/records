@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002506",
+			"OUISize": 24,
+			"OrgAddress": "VICOLO DELLE DAME 4\\nBOLOGNA  40124\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "A.I. ANTITACCHEGGIO ITALIA SRL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002506",
+			"OUISize": 24,
+			"OrgAddress": "VICOLO DELLE DAME 4\\nBOLOGNA    40124\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "A.I. ANTITACCHEGGIO ITALIA SRL",
+			"Source": "IEEE"
+		}
+	]
+}

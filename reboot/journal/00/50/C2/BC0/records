@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BC0",
+			"OUISize": 36,
+			"OrgAddress": "#1307 Tech Center, SK Technopark\\n190-1 Sangdewondong, Jungwongu\\nSeongnamsi Gyeonggido 462-721\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Galaxia Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

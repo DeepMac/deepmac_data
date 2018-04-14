@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "626, Bldg.53, 195-56 Sec.4\\nChung Hsing Rd\\nChutung, Hsinchu\\n",
+			"OrgCountry": "TAIWAN R.O.C.",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "626, Bldg.53, 195-56 Sec.4\\nChung Hsing Rd Chutung, Hsinchu\\n\\n",
+			"OrgCountry": "TAIWAN R.O.C.",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "626, Bldg.53, 195-56 Sec.4\\nChung Hsing Rd Chutung, Hsinchu\\nTAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "626, Bldg.53, 195-56 Sec.4\\nChung Hsing Rd Chutung, Hsinchu\\nTAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "626, Bldg.53, 195-56 Sec.4\\nChung Hsing Rd Chutung, Hsinchu\\nTAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III\\nScience-Based Industrial Park\\nHsinchu  308\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "626, Bldg.53, 195-56 Sec.4\\nChung Hsing Rd Chutung, Hsinchu\\nTAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III\\nScience-Based Industrial Park\\nHsinchu  308\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CyberTAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III\\nHsinchu\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CYBERTAN TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-04",
+			"EventType": "change",
+			"OUI": "000136",
+			"OUISize": 24,
+			"OrgAddress": "99, Park Avenue III\\nHsinchu\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CyberTAN Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C234C",
+			"OUISize": 36,
+			"OrgAddress": "51 Tateminami\\nWatari-Cho\\nWatari-Gun Miyagi 989-2361\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Chuo Electric Works Co., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

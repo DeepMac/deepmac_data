@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-25",
+			"EventType": "add",
+			"OUI": "28CA09",
+			"OUISize": 24,
+			"OrgAddress": "No. 2, Xunye Rd, Sheshan Subarea Songjiang Industrial Area\\nShanghai  Shanghai  201602\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ThyssenKrupp Elevators (Shanghai) Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

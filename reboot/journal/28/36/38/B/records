@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-21",
+			"EventType": "add",
+			"OUI": "283638B",
+			"OUISize": 28,
+			"OrgAddress": "11F,TongLian Building,1565 Jiaotong Rd.,ShangHai 200065,P.R.C.\\nShangHai  ShangHai  200065\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ShangHai Canall Information Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

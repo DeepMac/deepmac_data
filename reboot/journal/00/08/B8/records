@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0008B8",
+			"OUISize": 24,
+			"OrgAddress": "299 Johnson Ave.\\nP.O. Box 1249\\nWaseca MN 56093\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "E.F. Johnson",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0008B8",
+			"OUISize": 24,
+			"OrgAddress": "299 Johnson Ave.\\nWaseca  MN  56093\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "E.F. Johnson",
+			"Source": "IEEE"
+		}
+	]
+}

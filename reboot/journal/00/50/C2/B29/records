@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B29",
+			"OUISize": 36,
+			"OrgAddress": "Sragh Industrial Estate\\nTullamore Co Offaly IRELAND\\n\\n",
+			"OrgCountry": "IRELAND",
+			"OrgName": "Integra LifeSciences (Ireland) Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

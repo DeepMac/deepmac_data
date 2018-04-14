@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001F47",
+			"OUISize": 24,
+			"OrgAddress": "6F. Samho Center B Bldg., 275-6\\nYangjae-Dong, Secho-Ku\\nSeoul  137-941\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "MCS Logic Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001F47",
+			"OUISize": 24,
+			"OrgAddress": "6F. Samho Center B Bldg., 275-6\\nSeoul    137-941\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "MCS Logic Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

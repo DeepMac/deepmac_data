@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SCHNEIDER & KOCH CO. GMBH\\nSIEMENSSTRASSE 23\\n76275 ETTLINGEN\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SYSKONNECT--A BUSINESS UNIT OF",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-02-02",
+			"EventType": "change",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSSTRASSE 23\\n76275 ETTLINGEN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SysKonnect GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSSTRASSE 23\\n76275 ETTLINGEN\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SysKonnect GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSSTRAÃE 23\\n76275 ETTLINGEN\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SysKonnect GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSSTRAÃE 23\\n76275 ETTLINGEN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SysKonnect GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSSTRASSE 23\\n76275 ETTLINGEN\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SysKonnect GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSSTRAÃE 23\\n76275 ETTLINGEN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SysKonnect GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00005A",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSSTRAÃE 23\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SysKonnect GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DFE",
+			"OUISize": 36,
+			"OrgAddress": "54 Henaghans Road\\nRD10\\nPalmerston North Manawatu 4470\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Xitek Design Limited",
+			"Source": "IEEE"
+		}
+	]
+}

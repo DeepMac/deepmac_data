@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2559",
+			"OUISize": 36,
+			"OrgAddress": "950 Salem Ave.\\nHillside NJ 07205\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Fail Safe Solutions LLC",
+			"Source": "IEEE"
+		}
+	]
+}

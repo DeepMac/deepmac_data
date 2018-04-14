@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2210",
+			"OUISize": 36,
+			"OrgAddress": "11500 W Olympic Blvd\\nSuite 398\\nLos Angeles CA 90064\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Innovics Wireless Inc",
+			"Source": "IEEE"
+		}
+	]
+}

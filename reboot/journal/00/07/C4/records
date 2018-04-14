@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "0007C4",
+			"OUISize": 24,
+			"OrgAddress": "7F, 2, Rei Kuang Road,\\nNei Hu,\\nTaipei\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "JEAN Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0007C4",
+			"OUISize": 24,
+			"OrgAddress": "7F, 2, Rei Kuang Road,\\nNei Hu,\\nTaipei\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "JEAN Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0007C4",
+			"OUISize": 24,
+			"OrgAddress": "7F, 2, Rei Kuang Road,\\nNei Hu,\\nTaipei\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "JEAN Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0007C4",
+			"OUISize": 24,
+			"OrgAddress": "7F, 2, Rei Kuang Road,\\nNei Hu,\\nTaipei\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "JEAN Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0007C4",
+			"OUISize": 24,
+			"OrgAddress": "7F, 2, Rei Kuang Road,\\nTaipei\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "JEAN Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

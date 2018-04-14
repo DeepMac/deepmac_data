@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C257B",
+			"OUISize": 36,
+			"OrgAddress": "1416 Tanaka Dr\\nSan Jose CA 95131\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ptswitch",
+			"Source": "IEEE"
+		}
+	]
+}

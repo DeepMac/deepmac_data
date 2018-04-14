@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "002161",
+			"OUISize": 24,
+			"OrgAddress": "KT R&D Center\\n17 Umyeon-dong, Seocho-gu\\nSeoul  137-792\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Yournet Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002161",
+			"OUISize": 24,
+			"OrgAddress": "KT R&D Center\\nSeoul    137-792\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Yournet Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

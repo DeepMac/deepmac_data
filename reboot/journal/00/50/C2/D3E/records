@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D3E",
+			"OUISize": 36,
+			"OrgAddress": "Bruehlhofstr. 4\\nLeinfelden-Echterdingen Baden-Wuerttemberg 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Synatec Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2D3E",
+			"OUISize": 36,
+			"OrgAddress": "BruehlhofstraÃe 4\\nLeinfelden-Echterdingen Baden-WÃ¼rttemberg 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Synatec Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2D3E",
+			"OUISize": 36,
+			"OrgAddress": "BruehlhofstraÃÅ¸e 4\\nLeinfelden-Echterdingen Baden-WÃÂ¼rttemberg 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Synatec Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2D3E",
+			"OUISize": 36,
+			"OrgAddress": "BruehlhofstraÃe 4\\nLeinfelden-Echterdingen Baden-WÃ¼rttemberg 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Synatec Electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

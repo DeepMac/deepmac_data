@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-29",
+			"EventType": "add",
+			"OUI": "78888A",
+			"OUISize": 24,
+			"OrgAddress": "Palki 15\\nZory    44-240\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "CDR Sp. z o.o. Sp. k.",
+			"Source": "IEEE"
+		}
+	]
+}

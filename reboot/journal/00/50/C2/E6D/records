@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E6D",
+			"OUISize": 36,
+			"OrgAddress": "314 Batavia Pl\\nWaterloo ON N2L3W2\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Allerta Inc",
+			"Source": "IEEE"
+		}
+	]
+}

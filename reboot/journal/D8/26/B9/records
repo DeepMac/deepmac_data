@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-07-27",
+			"EventType": "add",
+			"OUI": "D826B9",
+			"OUISize": 24,
+			"OrgAddress": "Section C,Xi Nan Industrial Zone Sanshui\\nFoshan Guangdong 528133\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Guangdong Coagent Electronics S &T Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D826B9",
+			"OUISize": 24,
+			"OrgAddress": "Section C,Xi Nan Industrial Zone Sanshui\\nFoshan  Guangdong  528133\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangdong Coagent Electronics S &T Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-22",
+			"EventType": "change",
+			"OUI": "D826B9",
+			"OUISize": 24,
+			"OrgAddress": "Section C,Xi Nan Industrial Zone Sanshui\\nFoshan  Guangdong  528133\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangdong Coagent Electronics S&amp;T Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

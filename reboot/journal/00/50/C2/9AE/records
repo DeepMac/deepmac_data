@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29AE",
+			"OUISize": 36,
+			"OrgAddress": "4240 Ridge Lea Road - Ste. 37\\nAmherst NY 14226\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Esensors, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

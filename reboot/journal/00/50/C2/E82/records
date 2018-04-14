@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E82",
+			"OUISize": 36,
+			"OrgAddress": "14000 Sumit Dr\\nSuite 900\\nAustin TX 78728\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Xplore Technologies Corp",
+			"Source": "IEEE"
+		}
+	]
+}

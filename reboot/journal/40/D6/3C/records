@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-04",
+			"EventType": "add",
+			"OUI": "40D63C",
+			"OUISize": 24,
+			"OrgAddress": "4F Building B No.2 ShiChang Road SongYuan Technology Park,DongCheng District\\nDongGuan  GuangDong  523122\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Equitech Industrial(DongGuan)Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

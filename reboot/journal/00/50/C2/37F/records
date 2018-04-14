@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C237F",
+			"OUISize": 36,
+			"OrgAddress": "Kwanak-ku, Shinrim-dong 56-1 Bldg 138 Rm 302\\nSeoul National Univ.\\nSeoul Korea 151-742\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Foresearch",
+			"Source": "IEEE"
+		}
+	]
+}

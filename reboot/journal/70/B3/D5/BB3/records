@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-11",
+			"EventType": "add",
+			"OUI": "70B3D5BB3",
+			"OUISize": 36,
+			"OrgAddress": "5250 Industrial Blvd NE\\nMinneapolis  MN  55421\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "APG Cash Drawer, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C221D",
+			"OUISize": 36,
+			"OrgAddress": "Einsteinstr. 174\\nMuenchen Bayern 81675\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ESG Elektroniksystem u. Logistik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

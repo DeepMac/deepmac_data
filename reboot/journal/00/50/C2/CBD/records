@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CBD",
+			"OUISize": 36,
+			"OrgAddress": "93 Osvobozdenie Blvd.\\nPlovdiv  4023\\n\\n",
+			"OrgCountry": "BULGARIA",
+			"OrgName": "Hi Tech Electronics Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

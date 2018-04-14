@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-14",
+			"EventType": "add",
+			"OUI": "70B3D56A9",
+			"OUISize": 36,
+			"OrgAddress": "Tuzuki-ku 1 Higashiyamata\\nYokohama-shi  Kanagawa-ken  224-0024\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "OHMORI ELECTRIC INDUSTRIES CO.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

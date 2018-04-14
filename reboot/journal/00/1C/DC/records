@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "add",
+			"OUI": "001CDC",
+			"OUISize": 24,
+			"OrgAddress": "1020 Spring City Drive\\nWaukesha WI 53186\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Custom Computer Services, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001CDC",
+			"OUISize": 24,
+			"OrgAddress": "1020 Spring City Drive\\nWaukesha  WI  53186\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Custom Computer Services, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

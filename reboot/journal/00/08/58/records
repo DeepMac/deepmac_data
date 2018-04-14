@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "add",
+			"OUI": "000858",
+			"OUISize": 24,
+			"OrgAddress": "Nova Bldg. 4F 641 03\\nYuksam-Dong Kangnam-ku\\nSeoul  135-080\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Novatechnology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000858",
+			"OUISize": 24,
+			"OrgAddress": "Nova Bldg. 4F 641 03\\nSeoul    135-080\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Novatechnology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

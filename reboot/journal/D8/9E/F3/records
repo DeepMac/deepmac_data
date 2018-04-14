@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-23",
+			"EventType": "add",
+			"OUI": "D89EF3",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way\\nRound Rock  TX  78682\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

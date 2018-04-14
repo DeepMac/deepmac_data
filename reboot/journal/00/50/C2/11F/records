@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C211F",
+			"OUISize": 36,
+			"OrgAddress": "Osterhofstr. 14\\n87600 Kaufbeuren\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "CSS Industrie Computer GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

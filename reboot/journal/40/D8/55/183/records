@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-10-09",
+			"EventType": "add",
+			"OUI": "40D855183",
+			"OUISize": 36,
+			"OrgAddress": "2390 EMAC Way\\nCarbondale IL 62902\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EMAC, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

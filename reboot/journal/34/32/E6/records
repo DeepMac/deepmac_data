@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-04",
+			"EventType": "add",
+			"OUI": "3432E6",
+			"OUISize": 24,
+			"OrgAddress": "ZeppelinstraÃe 19\\nLÃ¼neburg    21337\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Panasonic Industrial Devices Europe GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

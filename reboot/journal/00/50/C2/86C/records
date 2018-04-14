@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C286C",
+			"OUISize": 36,
+			"OrgAddress": "Niels Bohrs vej 42, Stilling\\nSkanderborg jylland 8660\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Condigi Televagt A/S",
+			"Source": "IEEE"
+		}
+	]
+}

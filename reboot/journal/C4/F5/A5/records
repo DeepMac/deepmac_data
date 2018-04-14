@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-14",
+			"EventType": "add",
+			"OUI": "C4F5A5",
+			"OUISize": 24,
+			"OrgAddress": "7-2-6 Saito-Asagi\\nIbaraki  Osaka  567-0085\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Kumalift Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

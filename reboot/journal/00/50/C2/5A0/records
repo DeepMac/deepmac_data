@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25A0",
+			"OUISize": 36,
+			"OrgAddress": "4900 West 78th Street\\nBloomington MN 55435\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Rudolph Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

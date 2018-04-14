@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "add",
+			"OUI": "001D20",
+			"OUISize": 24,
+			"OrgAddress": "3F-1 10 LANE 609 CHUNG HSIN ROAD, SEC 5, SAN CHUNG CITY, TAIPEI TAIWAN 241\\nTAIPEI  241\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "COMTREND CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001D20",
+			"OUISize": 24,
+			"OrgAddress": "3F-1 10 LANE 609 CHUNG HSIN ROAD, SEC 5, SAN CHUNG CITY, TAIPEI TAIWAN 241\\nTAIPEI  241\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "COMTREND CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001D20",
+			"OUISize": 24,
+			"OrgAddress": "3F-1 10 LANE 609 CHUNG HSIN ROAD, SEC 5, SAN CHUNG CITY, TAIPEI TAIWAN 241\\nTAIPEI    241\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "COMTREND CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-04",
+			"EventType": "change",
+			"OUI": "001D20",
+			"OUISize": 24,
+			"OrgAddress": "3F-1 10 LANE 609 CHUNG HSIN ROAD, SEC 5, SAN CHUNG CITY, TAIPEI TAIWAN 241\\nTAIPEI    241\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Comtrend Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

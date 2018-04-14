@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-29",
+			"EventType": "add",
+			"OUI": "60B933",
+			"OUISize": 24,
+			"OrgAddress": "8F, 68, Sec. 3, Nanking E. Rd.\\nTaipei Taiwan 104\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Deutron Electronics Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "60B933",
+			"OUISize": 24,
+			"OrgAddress": "8F, 68, Sec. 3, Nanking E. Rd.\\nTaipei  Taiwan  104\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Deutron Electronics Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

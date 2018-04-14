@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2760",
+			"OUISize": 36,
+			"OrgAddress": "Yokohama Creation Square,\\n5-1, sakaecho, kanagawa-ku\\nYokohama Kanagawa 221-0052\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "AR'S CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

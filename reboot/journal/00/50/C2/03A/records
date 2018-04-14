@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C203A",
+			"OUISize": 36,
+			"OrgAddress": "Via Carducce 39\\n20099 Sesto San Giovanni Milano\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "PLLB Elettronica SPA",
+			"Source": "IEEE"
+		}
+	]
+}

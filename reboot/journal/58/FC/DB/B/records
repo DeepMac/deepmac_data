@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-28",
+			"EventType": "add",
+			"OUI": "58FCDBB",
+			"OUISize": 28,
+			"OrgAddress": "Kelterstr. 67\\nUnterensingen Baden-WÃ¼rttemberg 72669\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SWARCO TRAFFIC SYSTEMS GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "58FCDBB",
+			"OUISize": 28,
+			"OrgAddress": "Kelterstr. 67\\nUnterensingen  Baden-WÃ¼rttemberg  72669\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SWARCO TRAFFIC SYSTEMS GMBH",
+			"Source": "IEEE"
+		}
+	]
+}

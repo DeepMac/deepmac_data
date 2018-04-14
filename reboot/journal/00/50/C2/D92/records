@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D92",
+			"OUISize": 36,
+			"OrgAddress": "21D Yagia Kapayim St.\\nP.O.B. 3938\\nPetach-Tikva Israel 49130\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Manz",
+			"Source": "IEEE"
+		}
+	]
+}

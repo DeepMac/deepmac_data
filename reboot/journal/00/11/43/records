@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001143",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way\\nRR5 MS-8545\\nRound Rock Texas 78682\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DELL INC.   (WW PCBA Test)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-04-01",
+			"EventType": "change",
+			"OUI": "001143",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way\\nRR5 MS-8545\\nRound Rock Texas 78682\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DELL INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001143",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way\\nRound Rock Texas 78682\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Dell ESG PCBA Test",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-29",
+			"EventType": "change",
+			"OUI": "001143",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way\\nRound Rock Texas 78682\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Dell Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001143",
+			"OUISize": 24,
+			"OrgAddress": "one dell way\\nRound rock  Texas  78682\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-17",
+			"EventType": "change",
+			"OUI": "001143",
+			"OUISize": 24,
+			"OrgAddress": "One Dell Way\\nRound Rock  TX  78682\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

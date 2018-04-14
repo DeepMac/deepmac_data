@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "add",
+			"OUI": "40D8551A4",
+			"OUISize": 36,
+			"OrgAddress": "Posthof 4\\nDonauwoerth BY D-86609\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "cibite AG",
+			"Source": "IEEE"
+		}
+	]
+}

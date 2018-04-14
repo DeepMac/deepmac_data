@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F1E",
+			"OUISize": 36,
+			"OrgAddress": "Via Kennedy, 7\\nCabiate Como 22060\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Dell'Orto S.P.A.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-31",
+			"EventType": "add",
+			"OUI": "70B3D5F5B",
+			"OUISize": 36,
+			"OrgAddress": "252 NASSAU ST, 2ND FLOOR\\nPRINCETON  NJ  08542\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "A.F.MENSAH, INC",
+			"Source": "IEEE"
+		}
+	]
+}

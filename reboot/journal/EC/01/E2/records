@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-22",
+			"EventType": "add",
+			"OUI": "EC01E2",
+			"OUISize": 24,
+			"OrgAddress": "66-1, Chungshan Rd., Tucheng Dist.\\nNew Taipei City  Taiwan (R.O.C.)    23680\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "FOXCONN INTERCONNECT TECHNOLOGY",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "009035",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO.2, LIHSIN ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSIN-CHU\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "ALPHA TELECOM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009035",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO.2, LIHSIN ROAD\\nSCIENCE-BASED INDUSTRIAL PARK HSIN-CHU\\n\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "ALPHA TELECOM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "009035",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO.2, LI HSIN ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSIN-CHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ALPHA TELECOM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "009035",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO.2, LI HSIN ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSIN-CHU\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ALPHA TELECOM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "009035",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO.2, LI HSIN ROAD\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSIN-CHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ALPHA TELECOM, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009035",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO.2, LI HSIN ROAD\\nHSIN-CHU\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ALPHA TELECOM, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

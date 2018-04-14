@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-12-23",
+			"EventType": "add",
+			"OUI": "0016E8",
+			"OUISize": 24,
+			"OrgAddress": "1221 California Circle\\nMilpitas CA 95035\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sigma Designs, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "0016E8",
+			"OUISize": 24,
+			"OrgAddress": "1778 McCarthy Blvd.\\nMilpitas CA 95035\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sigma Designs, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0016E8",
+			"OUISize": 24,
+			"OrgAddress": "1778 McCarthy Blvd.\\nMilpitas  CA  95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Sigma Designs, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

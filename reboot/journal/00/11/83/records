@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001183",
+			"OUISize": 24,
+			"OrgAddress": "959 Terry St\\nEugene OR 97402\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PSC Scanning, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "001183",
+			"OUISize": 24,
+			"OrgAddress": "1505 Westec Drive\\nEugene OR 97402\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Datalogic Mobile, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001183",
+			"OUISize": 24,
+			"OrgAddress": "959 Terry St\\nEugene OR 97402\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Datalogic ADC, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001183",
+			"OUISize": 24,
+			"OrgAddress": "959 Terry St\\nEugene  OR  97402\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Datalogic ADC, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2099",
+			"OUISize": 36,
+			"OrgAddress": "18F Daishin Bldg., 395-68\\nShindaebang-dong, Dongjak-gu\\nSeoul\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Case Information & Communications",
+			"Source": "IEEE"
+		}
+	]
+}

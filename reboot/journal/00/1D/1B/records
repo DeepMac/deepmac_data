@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-25",
+			"EventType": "add",
+			"OUI": "001D1B",
+			"OUISize": 24,
+			"OrgAddress": "No. 18, Lane 7, Li-De street\\nChung Ho City Taipei Hsien 235\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Sangean Electronics Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001D1B",
+			"OUISize": 24,
+			"OrgAddress": "No. 18, Lane 7, Li-De street\\nChung Ho City Taipei Hsien 235\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Sangean Electronics Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001D1B",
+			"OUISize": 24,
+			"OrgAddress": "No. 18, Lane 7, Li-De street\\nChung Ho City  Taipei Hsien  235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Sangean Electronics Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

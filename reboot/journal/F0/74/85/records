@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-02",
+			"EventType": "add",
+			"OUI": "F07485",
+			"OUISize": 24,
+			"OrgAddress": "355 Goddard, Suite 200\\nIrvine  CA  92618\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NGD Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

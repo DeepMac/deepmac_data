@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-22",
+			"EventType": "add",
+			"OUI": "CC4D38",
+			"OUISize": 24,
+			"OrgAddress": "9737 Great Hills Trail #260\\nAustin  TX  78759\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Carnegie Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

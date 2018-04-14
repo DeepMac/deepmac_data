@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-18",
+			"EventType": "add",
+			"OUI": "001BC501A",
+			"OUISize": 36,
+			"OrgAddress": "10F-3,NO.2,SEC.4,JHONGYANG RD,TUCHENG CITY,\\nTAIPEI  236\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ABA ELECTRONICS TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-08",
+			"EventType": "change",
+			"OUI": "001BC501A",
+			"OUISize": 36,
+			"OrgAddress": "10F-3,NO.2,SEC.4,JHONGYANG RD,TUCHENG CITY,\\nTAIPEI  236\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ABA ELECTRONICS TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC501A",
+			"OUISize": 36,
+			"OrgAddress": "10F-3,NO.2,SEC.4,JHONGYANG RD,TUCHENG CITY,\\nTAIPEI    236\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ABA ELECTRONICS TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

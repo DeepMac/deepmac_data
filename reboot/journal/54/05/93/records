@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-19",
+			"EventType": "add",
+			"OUI": "540593",
+			"OUISize": 24,
+			"OrgAddress": "#1401~03, #1411~12, Bucheon Deawoo Techno Park, D-Dong, 261,Doyak-Ro, Wonmi-Gu,Bucheon-Si\\nGyeonggi-Do    14523\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "WOORI ELEC Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

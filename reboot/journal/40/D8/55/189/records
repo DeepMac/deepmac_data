@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-10-09",
+			"EventType": "add",
+			"OUI": "40D855189",
+			"OUISize": 36,
+			"OrgAddress": "Shinkawa\\n2-1 Marukyousinkawa Bld.2F\\nChuo-ku Tokyo 104-0033\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Yoozma Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

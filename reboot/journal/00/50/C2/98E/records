@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C298E",
+			"OUISize": 36,
+			"OrgAddress": "6560 Satke Drive\\nHouse Springs MO 63051\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Link Technologies, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

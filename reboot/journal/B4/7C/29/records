@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-05",
+			"EventType": "add",
+			"OUI": "B47C29",
+			"OUISize": 24,
+			"OrgAddress": "South 6/F,Yingtang Building,No.5 Kejiyuan Road,Nanshan District,Shenzhen City,Guangdong Province,P.R. China\\nRoom403,4/f,3Building,Meilin Industrial Zone,Meilin Street,Futian District,Shenzhen City,Guangdong Province,P.R. China\\nShenzhen Guangdong 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Guzidi Technology Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B47C29",
+			"OUISize": 24,
+			"OrgAddress": "South 6/F,Yingtang Building,No.5 Kejiyuan Road,Nanshan District,Shenzhen City,Guangdong Province,P.R. China\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Guzidi Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

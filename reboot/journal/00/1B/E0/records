@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "add",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "Wiesentalstraße 42\\nAalen Baden-Württemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "WiesentalstraÃe 42\\nAalen Baden-WÃ¼rttemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "Wiesentalstraße 42\\nAalen Baden-Württemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "WiesentalstraÃÂe 42\\nAalen Baden-WÃÂ¼rttemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "Wiesentalstraße 42\\nAalen Baden-Württemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "WiesentalstraÃÂe 42\\nAalen Baden-WÃÂ¼rttemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "WiesentalstraÃÅ¸e 42\\nAalen Baden-WÃÂ¼rttemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "WiesentalstraÃÂÃÂÃÂÃÂ¸e 42\\nAalen Baden-WÃÂÃÂÃÂÃÂ¼rttemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "WiesentalstraÃe 42\\nAalen Baden-WÃ¼rttemberg 73434\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BE0",
+			"OUISize": 24,
+			"OrgAddress": "WiesentalstraÃe 42\\nAalen  Baden-WÃ¼rttemberg  73434\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "TELENOT ELECTRONIC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-07",
+			"EventType": "add",
+			"OUI": "70B3D5A8B",
+			"OUISize": 36,
+			"OrgAddress": "Rm201, 2nd Educational Building, No. 84, Gongzhuan Rd, Taishan Dist\\nNew Taipei City    24301\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Giant Power Technology Biomedical Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

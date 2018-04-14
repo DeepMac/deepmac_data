@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "008081",
+			"OUISize": 24,
+			"OrgAddress": "170 TRACER LANE\\nWALTHAM, MA  02154-1379\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "KENDALL SQUARE RESEARCH CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "008081",
+			"OUISize": 24,
+			"OrgAddress": "170 TRACER LANE\\nWALTHAM MA 02154-1379\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "KENDALL SQUARE RESEARCH CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "008081",
+			"OUISize": 24,
+			"OrgAddress": "170 TRACER LANE\\nWALTHAM  MA  02154-1379\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "KENDALL SQUARE RESEARCH CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

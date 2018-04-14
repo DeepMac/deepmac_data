@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-27",
+			"EventType": "add",
+			"OUI": "8CCF09",
+			"OUISize": 24,
+			"OrgAddress": "228 South St\\nHopkinton  MA  01748\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell EMC",
+			"Source": "IEEE"
+		}
+	]
+}

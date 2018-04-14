@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C264A",
+			"OUISize": 36,
+			"OrgAddress": "Rod. SP-340 Campinas Mogi-Mirim\\nKm 118.5\\nCampinas SP 13086902\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "CPqD",
+			"Source": "IEEE"
+		}
+	]
+}

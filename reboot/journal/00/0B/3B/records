@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B3B",
+			"OUISize": 24,
+			"OrgAddress": "Sonnenweg 11\\nAachen NRW 52070\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "devolo AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B3B",
+			"OUISize": 24,
+			"OrgAddress": "Sonnenweg 11\\nAachen  NRW  52070\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "devolo AG",
+			"Source": "IEEE"
+		}
+	]
+}

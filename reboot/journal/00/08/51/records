@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "add",
+			"OUI": "000851",
+			"OUISize": 24,
+			"OrgAddress": "18 Auriga Dr.\\nNepean, Ont.\\nK2E 7T9\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Canadian Bank Note Company, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000851",
+			"OUISize": 24,
+			"OrgAddress": "18 Auriga Dr.\\nK2E 7T9\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Canadian Bank Note Company, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

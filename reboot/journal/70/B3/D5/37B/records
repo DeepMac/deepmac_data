@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-12",
+			"EventType": "add",
+			"OUI": "70B3D537B",
+			"OUISize": 36,
+			"OrgAddress": "Kazal str. 64-66\\nBudapest    1031\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "Power Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

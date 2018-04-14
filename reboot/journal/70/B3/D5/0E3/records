@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-14",
+			"EventType": "add",
+			"OUI": "70B3D50E3",
+			"OUISize": 36,
+			"OrgAddress": "Viale Nizza 11\\nL'Aquila    67100\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "SinTau SrL",
+			"Source": "IEEE"
+		}
+	]
+}

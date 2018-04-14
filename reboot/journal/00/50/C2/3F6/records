@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23F6",
+			"OUISize": 36,
+			"OrgAddress": "dAFT HQ\\n8 Roddam Close\\nColchester Essex CO3 3UN\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "dAFTdATA Limited",
+			"Source": "IEEE"
+		}
+	]
+}

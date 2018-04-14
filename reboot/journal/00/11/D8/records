@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-07-24",
+			"EventType": "add",
+			"OUI": "0011D8",
+			"OUISize": 24,
+			"OrgAddress": "No. 15, Li-Te Rd., Peitou\\nTaipei  112\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ASUSTek Computer Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0011D8",
+			"OUISize": 24,
+			"OrgAddress": "No. 15, Li-Te Rd., Peitou\\nTaipei  112\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ASUSTek Computer Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0011D8",
+			"OUISize": 24,
+			"OrgAddress": "No.150, Li-Te Rd., Peitou\\nTaipei    112\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASUSTek Computer Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "0011D8",
+			"OUISize": 24,
+			"OrgAddress": "No.150, Li-Te Rd., Peitou\\nTaipei    112\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASUSTek COMPUTER INC.",
+			"Source": "IEEE"
+		}
+	]
+}

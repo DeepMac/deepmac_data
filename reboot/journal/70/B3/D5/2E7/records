@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-30",
+			"EventType": "add",
+			"OUI": "70B3D52E7",
+			"OUISize": 36,
+			"OrgAddress": "Via alla Piana 57\\nSesto Calende  Varese  21018\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Atos spa",
+			"Source": "IEEE"
+		}
+	]
+}

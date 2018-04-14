@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-09",
+			"EventType": "add",
+			"OUI": "40D8550A4",
+			"OUISize": 36,
+			"OrgAddress": "Neustadter Ring 5\\nWernigerode Sachsen-Anhalt 38855\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Resch Electronic Innovation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

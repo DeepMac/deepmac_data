@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005F5",
+			"OUISize": 24,
+			"OrgAddress": "9777 W. Gulf Bank Road\\nSuite 10\\nHouston, TX 77040\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "OYO Geospace Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0005F5",
+			"OUISize": 24,
+			"OrgAddress": "9777 W. Gulf Bank Road\\nSuite 10\\nHouston TX 77040\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "OYO Geospace Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "change",
+			"OUI": "0005F5",
+			"OUISize": 24,
+			"OrgAddress": "7007 Pinemont\\nHouston TX 77040\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "OYO Geospace",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-11",
+			"EventType": "change",
+			"OUI": "0005F5",
+			"OUISize": 24,
+			"OrgAddress": "7007 Pinemont\\nHouston TX 77040\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Geospace Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005F5",
+			"OUISize": 24,
+			"OrgAddress": "7007 Pinemont\\nHouston  TX  77040\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Geospace Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

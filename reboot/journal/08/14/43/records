@@ -1,0 +1,79 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "081443",
+			"OUISize": 24,
+			"OrgAddress": "84, ETHNIKIS ANTISTASEOS\\n15231 ATHENS\\n\\n",
+			"OrgCountry": "GREECE",
+			"OrgName": "UNIBRAIN S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "081443",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "081443",
+			"OUISize": 24,
+			"OrgAddress": "84, ETHNIKIS ANTISTASEOS\\n15231 ATHENS\\nGREECE\\n",
+			"OrgCountry": "GREECE",
+			"OrgName": "UNIBRAIN S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "081443",
+			"OUISize": 24,
+			"OrgAddress": "84, ETHNIKIS ANTISTASEOS\\n15231 ATHENS\\n\\n",
+			"OrgCountry": "GREECE",
+			"OrgName": "UNIBRAIN S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "081443",
+			"OUISize": 24,
+			"OrgAddress": "84, ETHNIKIS ANTISTASEOS\\n15231 ATHENS\\nGREECE\\n",
+			"OrgCountry": "GREECE",
+			"OrgName": "UNIBRAIN S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "081443",
+			"OUISize": 24,
+			"OrgAddress": "84, ETHNIKIS ANTISTASEOS\\n15231 ATHENS\\n\\n",
+			"OrgCountry": "GREECE",
+			"OrgName": "UNIBRAIN S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "081443",
+			"OUISize": 24,
+			"OrgAddress": "84, ETHNIKIS ANTISTASEOS\\n\\n\\n",
+			"OrgCountry": "GR",
+			"OrgName": "UNIBRAIN S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

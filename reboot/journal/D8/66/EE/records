@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-04-17",
+			"EventType": "add",
+			"OUI": "D866EE",
+			"OUISize": 24,
+			"OrgAddress": "Room 309ï¼Block Aï¼New materials business building\\nFeng Hui Road No. 7ï¼\\nHaidian District Beijing 100094\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "BOXIN COMMUNICATION CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D866EE",
+			"OUISize": 24,
+			"OrgAddress": "Room 309ï¼Block Aï¼New materials business building\\nHaidian District  Beijing  100094\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "BOXIN COMMUNICATION CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-12",
+			"EventType": "add",
+			"OUI": "AC06C7",
+			"OUISize": 24,
+			"OrgAddress": "LocalitÃ  Padriciano 99\\nTrieste  Trieste  34149\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "ServerNet S.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

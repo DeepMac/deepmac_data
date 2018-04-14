@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2015",
+			"OUISize": 36,
+			"OrgAddress": "Boulevard du Libre - Echange\\n31650 Saint-Orens\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Leroy Automatique Industrielle",
+			"Source": "IEEE"
+		}
+	]
+}

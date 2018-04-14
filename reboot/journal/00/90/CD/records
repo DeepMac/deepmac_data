@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0090CD",
+			"OUISize": 24,
+			"OrgAddress": "DE TELECOMMUNICACOES, S.A.\\nR. ENG FREDERICO ULRICH\\nAPARTADO 3081 - GUARDEIRAS\\n",
+			"OrgCountry": "4470 MOREIRA MAIA   PORTUGAL",
+			"OrgName": "ENT-EMPRESA NACIONAL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0090CD",
+			"OUISize": 24,
+			"OrgAddress": "DE TELECOMMUNICACOES, S.A.\\nR. ENG FREDERICO ULRICH APARTADO 3081 -\\n\\n",
+			"OrgCountry": "4470 MOREIRA MAIA PORTUGAL",
+			"OrgName": "ENT-EMPRESA NACIONAL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0090CD",
+			"OUISize": 24,
+			"OrgAddress": "R. ENG FREDERICO ULRICH -  APARTADO 3081\\nGuardeiras - 4470 Moreira Maia\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "ENT-EMPRESA NACIONAL DE TELECOMMUNICACOES, S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0090CD",
+			"OUISize": 24,
+			"OrgAddress": "R. ENG FREDERICO ULRICH -  APARTADO 3081\\nGuardeiras - 4470 Moreira Maia\\n\\n",
+			"OrgCountry": "PT",
+			"OrgName": "ENT-EMPRESA NACIONAL DE TELECOMMUNICACOES, S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

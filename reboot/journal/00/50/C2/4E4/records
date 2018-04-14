@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24E4",
+			"OUISize": 36,
+			"OrgAddress": "Goethestrasse 52\\nLadbergen NRW 49549\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Embigence GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

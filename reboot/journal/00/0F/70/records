@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F70",
+			"OUISize": 24,
+			"OrgAddress": "4280 Technology Drive\\nFremont CA 94538\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Wintec Industries, inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "000F70",
+			"OUISize": 24,
+			"OrgAddress": "675 Sycamore Drive\\nMilpitas, CA 95035\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Wintec Industries, inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F70",
+			"OUISize": 24,
+			"OrgAddress": "675 Sycamore Drive\\nMilpitas,  CA  95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Wintec Industries, inc.",
+			"Source": "IEEE"
+		}
+	]
+}

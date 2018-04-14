@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2240",
+			"OUISize": 36,
+			"OrgAddress": "Cromford Road\\nWirksworth\\nMatlock Derbyshire D4 4FR\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Geoquip Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

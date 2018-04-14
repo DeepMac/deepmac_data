@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25D6",
+			"OUISize": 36,
+			"OrgAddress": "Av. Pres. Kennedy, 47\\nCuritiba PR 80220-200\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "BioAccess Tecnologia em Biometria Ltda.",
+			"Source": "IEEE"
+		}
+	]
+}

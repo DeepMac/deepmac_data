@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-29",
+			"EventType": "add",
+			"OUI": "10C2BA",
+			"OUISize": 24,
+			"OrgAddress": "4F, Hyun Bldg\\n658-22, Yeoksam 1-dong, Gangnam-gu\\nSeoul Korea 135-913\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UTT Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "10C2BA",
+			"OUISize": 24,
+			"OrgAddress": "\\n#41, 18-gil, Seocho Jungang-ro, Seocho-gu\\nSeoul Korea 135-913\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UTT Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-09-02",
+			"EventType": "change",
+			"OUI": "10C2BA",
+			"OUISize": 24,
+			"OrgAddress": "#41, 18-gil, Seocho Jungang-ro, Seocho-gu\\nSeoul\\n135-913\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UTT Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "10C2BA",
+			"OUISize": 24,
+			"OrgAddress": "\\nSeoul  Korea  135-913\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "UTT Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

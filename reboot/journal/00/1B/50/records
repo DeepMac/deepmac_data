@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-02-09",
+			"EventType": "add",
+			"OUI": "001B50",
+			"OUISize": 24,
+			"OrgAddress": "174, Gagarina Avenue\\nNizhny Novgorod  603950\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Nizhny Novgorod Factory named after M.Frunze, FSUE (NZiF)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "001B50",
+			"OUISize": 24,
+			"OrgAddress": "174, Gagarina Avenue\\nNizhny Novgorod Russia 603950\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Nizhny Novgorod Factory named after M.Frunze, FSUE (NZiF)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B50",
+			"OUISize": 24,
+			"OrgAddress": "174, Gagarina Avenue\\nNizhny Novgorod  Russia  603950\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Nizhny Novgorod Factory named after M.Frunze, FSUE (NZiF)",
+			"Source": "IEEE"
+		}
+	]
+}

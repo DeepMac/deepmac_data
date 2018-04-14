@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006015",
+			"OUISize": 24,
+			"OrgAddress": "131 COOLIDGE STREET\\nHUDSON  MA  01749\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NET2NET CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006015",
+			"OUISize": 24,
+			"OrgAddress": "131 COOLIDGE STREET\\nHUDSON MA 01749\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NET2NET CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006015",
+			"OUISize": 24,
+			"OrgAddress": "131 COOLIDGE STREET\\nHUDSON  MA  01749\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NET2NET CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-15",
+			"EventType": "add",
+			"OUI": "70B3D5E4F",
+			"OUISize": 36,
+			"OrgAddress": "Neuer Weg 2\\nNiefern - Ãschelbronn    75223\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "RWS Automation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

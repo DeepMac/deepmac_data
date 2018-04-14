@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-01-31",
+			"EventType": "add",
+			"OUI": "286ED4",
+			"OUISize": 24,
+			"OrgAddress": "B1-7,Huawei Industrial Base,Bantian,Longgang\\nShenZhen guangdong 518129\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "286ED4",
+			"OUISize": 24,
+			"OrgAddress": "HUAWEI Industrial Base Bantian,Longgang\\nShenzhen  guangdong  518129\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

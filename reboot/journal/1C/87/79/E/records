@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-21",
+			"EventType": "add",
+			"OUI": "1C8779E",
+			"OUISize": 28,
+			"OrgAddress": "13 rue Marie Louise Dissard\\nTOULOUSE    31024\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "ASSYSTEM France",
+			"Source": "IEEE"
+		}
+	]
+}

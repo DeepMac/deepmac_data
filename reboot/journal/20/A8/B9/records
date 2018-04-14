@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-14",
+			"EventType": "add",
+			"OUI": "20A8B9",
+			"OUISize": 24,
+			"OrgAddress": "Oestliche Rheinbrueckenstrasse 50\\nKarlsruhe  Baden Wuerttemberg  76187\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Siemens",
+			"Source": "IEEE"
+		}
+	]
+}

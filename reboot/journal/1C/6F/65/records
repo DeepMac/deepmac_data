@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-04-14",
+			"EventType": "add",
+			"OUI": "1C6F65",
+			"OUISize": 24,
+			"OrgAddress": "Pin-Jen City,\\nPin-Jen Taoyuan 324\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "GIGA-BYTE TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "1C6F65",
+			"OUISize": 24,
+			"OrgAddress": "Pin-Jen City,\\nPin-Jen Taoyuan 324\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GIGA-BYTE TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "1C6F65",
+			"OUISize": 24,
+			"OrgAddress": "\\nPin-Jen  Taoyuan  324\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "GIGA-BYTE TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

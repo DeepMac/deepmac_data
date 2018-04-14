@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E0AF",
+			"OUISize": 24,
+			"OrgAddress": "A DIVISION OF CERIDIAN CORP.\\n8800 QUEEN AVENUE SOUTH\\nMINNEAPOLIS  MN  55431-1996\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "COMPUTING DEVICES INTERN'L",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "00E0AF",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS\\nCOMPUTING DEVICES, LTD.\\n3190 FAIRVIEW PARK DRIVE\\nFALLS CHURCH  VA  22042-4523",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GENERAL DYNAMICS INFORMATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00E0AF",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS\\nCOMPUTING DEVICES, LTD. 3190 FAIRVIEW PA\\nFALLS CHURCH VA 22042-4523\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GENERAL DYNAMICS INFORMATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E0AF",
+			"OUISize": 24,
+			"OrgAddress": "COMPUTING DEVICES, LTD.\\n3190 FAIRVIEW PA\\nFALLS CHURCH VA 22042-4523\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "GENERAL DYNAMICS INFORMATION SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E0AF",
+			"OUISize": 24,
+			"OrgAddress": "COMPUTING DEVICES, LTD.\\nFALLS CHURCH  VA  22042-4523\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "GENERAL DYNAMICS INFORMATION SYSTEMS",
+			"Source": "IEEE"
+		}
+	]
+}

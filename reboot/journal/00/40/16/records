@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "004016",
+			"OUISize": 24,
+			"OrgAddress": "11 TEANECK ROAD\\nRICHFIELD PARK  NJ  07660\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "HADAX ELECTRONICS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004016",
+			"OUISize": 24,
+			"OrgAddress": "11 TEANECK ROAD\\nRICHFIELD PARK NJ 07660\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "HADAX ELECTRONICS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "change",
+			"OUI": "004016",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 1101\\nMinneapolis MN 55440-1101\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADC - Global Connectivity Solutions Division",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004016",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 1101\\nMinneapolis  MN  55440-1101\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ADC - Global Connectivity Solutions Division",
+			"Source": "IEEE"
+		}
+	]
+}

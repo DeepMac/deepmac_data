@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2285",
+			"OUISize": 36,
+			"OrgAddress": "Am Strehl 153-155\\nOldenburg Niedersachsen 26125\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Littwin GmbH & Co KG",
+			"Source": "IEEE"
+		}
+	]
+}

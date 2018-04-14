@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-08",
+			"EventType": "add",
+			"OUI": "70B3D58C2",
+			"OUISize": 36,
+			"OrgAddress": "157 Nakayashiki Sobue town\\nInazawa city   Aichi pref.  495-0001\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "F-domain corporation",
+			"Source": "IEEE"
+		}
+	]
+}

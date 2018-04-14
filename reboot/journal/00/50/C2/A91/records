@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A91",
+			"OUISize": 36,
+			"OrgAddress": "#809-1, Kranz Techno, 5442-1,\\nSangdaewon-dong, Jungwon-gu\\nSeongnam-si  462-819\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Ceron Tech Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

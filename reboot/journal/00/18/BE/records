@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-07-01",
+			"EventType": "add",
+			"OUI": "0018BE",
+			"OUISize": 24,
+			"OrgAddress": "17F., No.738, Chung Cheng Rd.\\nChung Ho City, Taipei County  235\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ANSA Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0018BE",
+			"OUISize": 24,
+			"OrgAddress": "17F., No.738, Chung Cheng Rd.\\nChung Ho City, Taipei County  235\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ANSA Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0018BE",
+			"OUISize": 24,
+			"OrgAddress": "17F, No. 738, Chung Cheng Road\\nChung Ho City  Taipei County  235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ANSA Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

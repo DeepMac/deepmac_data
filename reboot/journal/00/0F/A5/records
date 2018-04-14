@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-04-03",
+			"EventType": "add",
+			"OUI": "000FA5",
+			"OUISize": 24,
+			"OrgAddress": "Postfach 1185\\nEspelkamp  D-32325\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SMP / BWA Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-30",
+			"EventType": "change",
+			"OUI": "000FA5",
+			"OUISize": 24,
+			"OrgAddress": "Frankfurter Ring 193a\\nMunich  D-80807\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SMP / BWA Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-04-06",
+			"EventType": "change",
+			"OUI": "000FA5",
+			"OUISize": 24,
+			"OrgAddress": "Johann-Krane-Weg 21\\nMuenster  48149\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "BWA Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000FA5",
+			"OUISize": 24,
+			"OrgAddress": "Johann-Krane-Weg 21\\nMuenster    48149\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "BWA Technology GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

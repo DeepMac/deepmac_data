@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F3C",
+			"OUISize": 36,
+			"OrgAddress": "ul. Broniewskiego 3\\nSopot pomorskie 81-837\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "Vemco Sp. z o. o.",
+			"Source": "IEEE"
+		}
+	]
+}

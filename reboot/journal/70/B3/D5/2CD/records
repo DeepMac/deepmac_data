@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-15",
+			"EventType": "add",
+			"OUI": "70B3D52CD",
+			"OUISize": 36,
+			"OrgAddress": "78 Haneul-gil Gangseo-gu\\nSEOUL    07505\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Korea Airports Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

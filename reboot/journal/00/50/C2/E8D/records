@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E8D",
+			"OUISize": 36,
+			"OrgAddress": "Adachi 1-9-3\\nAdachi-Ku Tokyo 1200015\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SystemAdvanced Co,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

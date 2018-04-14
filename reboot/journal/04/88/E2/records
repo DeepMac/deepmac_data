@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-22",
+			"EventType": "add",
+			"OUI": "0488E2",
+			"OUISize": 24,
+			"OrgAddress": "1601 Cloverfield Blvd.\\nSuite 5000N\\nSanta Monica California 90404\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Beats Electronics LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0488E2",
+			"OUISize": 24,
+			"OrgAddress": "1601 Cloverfield Blvd.\\nSanta Monica  California  90404\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Beats Electronics LLC",
+			"Source": "IEEE"
+		}
+	]
+}

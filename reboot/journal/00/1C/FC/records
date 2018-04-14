@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "add",
+			"OUI": "001CFC",
+			"OUISize": 24,
+			"OrgAddress": "4F, 3Bld. 647 Long, SongTao Road, ZhangJiang Hi-Tech Park\\nShanghai  201203\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Suminet Communication Technologies (Shanghai) Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001CFC",
+			"OUISize": 24,
+			"OrgAddress": "4F, 3Bld. 647 Long, SongTao Road, ZhangJiang Hi-Tech Park\\nShanghai    201203\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Suminet Communication Technologies (Shanghai) Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-13",
+			"EventType": "change",
+			"OUI": "001CFC",
+			"OUISize": 24,
+			"OrgAddress": "4F, 3Bld. 647 Long, SongTao Road, ZhangJiang Hi-Tech Park\\nShanghai    201203\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Sumitomo Electric Industries,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-20",
+			"EventType": "change",
+			"OUI": "001CFC",
+			"OUISize": 24,
+			"OrgAddress": "1-1-3, Shimaya, Konohana-ku\\nOsaka    554-0024\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Sumitomo Electric Industries,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

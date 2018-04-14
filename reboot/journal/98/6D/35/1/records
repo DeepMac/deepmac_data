@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-07",
+			"EventType": "add",
+			"OUI": "986D351",
+			"OUISize": 28,
+			"OrgAddress": "Nanshan District  Xili academy Avenue Tong Long Industrial A District 7 Building 3 floor\\nshenzhen  guandong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen cositea electronics technology co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

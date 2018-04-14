@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-05",
+			"EventType": "add",
+			"OUI": "70B3D5396",
+			"OUISize": 36,
+			"OrgAddress": "ul. Katowicka 24\\nJastrzebie-Zdroj    44-335\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "CTG sp. z o. o.",
+			"Source": "IEEE"
+		}
+	]
+}

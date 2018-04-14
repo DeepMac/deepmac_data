@@ -1,0 +1,35 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-16",
+			"EventType": "add",
+			"OUI": "001CA1",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "change",
+			"OUI": "001CA1",
+			"OUISize": 24,
+			"OrgAddress": "8 CAMBRIDGE CENTER\\nCAMBRIDGE MA 02142\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AKAMAI TECHNOLOGIES, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001CA1",
+			"OUISize": 24,
+			"OrgAddress": "8 CAMBRIDGE CENTER\\nCAMBRIDGE  MA  02142\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AKAMAI TECHNOLOGIES, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

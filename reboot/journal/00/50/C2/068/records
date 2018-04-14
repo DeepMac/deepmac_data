@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2068",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 470\\n3 Hanagar St.\\nHod Hasharon  45800\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Seabridge",
+			"Source": "IEEE"
+		}
+	]
+}

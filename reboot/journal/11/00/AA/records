@@ -1,0 +1,24 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "1100AA",
+			"OUISize": 24,
+			"OrgAddress": "445 HOES LANE\\nP.O. BOX 1331\\nPISCATAWAY NJ 08855-1331\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "IEEE STANDARDS OFFICE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "1100AA",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		}
+	]
+}

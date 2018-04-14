@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000DE4",
+			"OUISize": 24,
+			"OrgAddress": "178-7\\nPoi-dong\\nKangnam-gu Seoul 135-961\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "DIGINICS, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000DE4",
+			"OUISize": 24,
+			"OrgAddress": "178-7 Poi-dong\\nKangnam-gu  Seoul  135-961\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DIGINICS, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

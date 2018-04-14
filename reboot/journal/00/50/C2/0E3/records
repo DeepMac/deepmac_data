@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20E3",
+			"OUISize": 36,
+			"OrgAddress": "Ceramiczna 8 Str.\\n20-150 Lublin\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "Lanex S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

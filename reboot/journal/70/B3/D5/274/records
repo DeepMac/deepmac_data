@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-28",
+			"EventType": "add",
+			"OUI": "70B3D5274",
+			"OUISize": 36,
+			"OrgAddress": "Sebastian-Tiefenthalerstr. 15\\nRohrdorf  Bayern  83101\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Stercom Power Solutions GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

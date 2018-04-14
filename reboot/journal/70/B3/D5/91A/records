@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-21",
+			"EventType": "add",
+			"OUI": "70B3D591A",
+			"OUISize": 36,
+			"OrgAddress": "Room 305, third floorï¼NO.550,Western suburbs Industrial Road,Hongshan Town,Gulou District,Fuzhou,P.R.China\\nFuzhou  Fujian  350001\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fujian Landfone Information Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

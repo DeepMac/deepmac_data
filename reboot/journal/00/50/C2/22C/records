@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C222C",
+			"OUISize": 36,
+			"OrgAddress": "11612 Bee Caves Road\\nBldg. II, Suite 200\\nAustin TX 78738\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Intrinsity",
+			"Source": "IEEE"
+		}
+	]
+}

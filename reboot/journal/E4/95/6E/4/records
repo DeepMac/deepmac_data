@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-20",
+			"EventType": "add",
+			"OUI": "E4956E4",
+			"OUISize": 28,
+			"OrgAddress": "Room 1102 Baoyuanhuafeng Economy Bldg\\n288 Xixiang Avenue, Baoan\\nShenzhen Guang Dong 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Guang Lian Zhi Tong Technology Limited",
+			"Source": "IEEE"
+		}
+	]
+}

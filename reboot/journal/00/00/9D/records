@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00009D",
+			"OUISize": 24,
+			"OrgAddress": "9800 LA CIENEGA\\nINGLEWOOD, CA  90301\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LOCUS COMPUTING CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00009D",
+			"OUISize": 24,
+			"OrgAddress": "9800 LA CIENEGA\\nINGLEWOOD CA 90301\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LOCUS COMPUTING CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00009D",
+			"OUISize": 24,
+			"OrgAddress": "9800 LA CIENEGA\\nINGLEWOOD  CA  90301\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "LOCUS COMPUTING CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-10",
+			"EventType": "add",
+			"OUI": "4865EEB",
+			"OUISize": 28,
+			"OrgAddress": "Durlacher Allee 93\\nKarlsruhe    76131\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EnBW Energie Baden-WÃ¼rttemberg AG",
+			"Source": "IEEE"
+		}
+	]
+}

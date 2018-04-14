@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-19",
+			"EventType": "add",
+			"OUI": "6045BD",
+			"OUISize": 24,
+			"OrgAddress": "1 Microsoft Way\\nStudio -B/3936\\nRedmond  Washington 98023\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Microsoft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "6045BD",
+			"OUISize": 24,
+			"OrgAddress": "1 Microsoft Way\\nStudio -B/3936\\nRedmond Washington 98023\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Microsoft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "6045BD",
+			"OUISize": 24,
+			"OrgAddress": "1 Microsoft Way\\nRedmond  Washington  98052\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Microsoft",
+			"Source": "IEEE"
+		}
+	]
+}

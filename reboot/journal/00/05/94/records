@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "Leibnizstrasse 15\\n88250 Weingarten\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IXXAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "LeibnizstraÃe 15\\n88250 Weingarten\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IXXAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "Leibnizstrasse 15\\n88250 Weingarten\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IXXAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "LeibnizstraÃe 15\\n88250 Weingarten\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IXXAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "LeibnizstraÃe 15\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "IXXAT Automation GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-17",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "Helmut-Vetter-StraÃe 2\\nRavensburg    88213\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "HMS Technology Center Ravensburg GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-20",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "Helmut-Vetter-StraÃe 2\\n\\n\\n",
+			"OrgCountry": "Ravensburg    88213",
+			"OrgName": "HMS Technology Center Ravensburg GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-22",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "Helmut-Vetter-StraÃe 2\\nRavensburg    88213\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "HMS Technology Center Ravensburg GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-19",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 4126\\nSE30004    SE\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "HMS Technology Center Ravensburg GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-08",
+			"EventType": "change",
+			"OUI": "000594",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 4126\\nSE30004    SE\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "HMS Industrial Networks",
+			"Source": "IEEE"
+		}
+	]
+}

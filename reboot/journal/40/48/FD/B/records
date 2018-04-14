@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-07",
+			"EventType": "add",
+			"OUI": "4048FDB",
+			"OUISize": 28,
+			"OrgAddress": "P.O. BOX 77234\\nSan Francisco  CA  94107\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Magenta Labs, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

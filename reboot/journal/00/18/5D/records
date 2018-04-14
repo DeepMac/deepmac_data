@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-06-13",
+			"EventType": "add",
+			"OUI": "00185D",
+			"OUISize": 24,
+			"OrgAddress": "No. 23, The Third Industrial Park of Xia Village,\\nGongming, Baoan District,\\nShenzhen City, Guangdong, 815106\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "TAIGUEN TECHNOLOGY (SHEN-ZHEN) CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00185D",
+			"OUISize": 24,
+			"OrgAddress": "No. 23, The Third Industrial Park of Xia Village,\\nShenzhen City,  Guangdong,  815106\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "TAIGUEN TECHNOLOGY (SHEN-ZHEN) CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

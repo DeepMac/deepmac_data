@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000C46",
+			"OUISize": 24,
+			"OrgAddress": "960 Stewart Drive, Suite B\\nSunnyvale California 94085\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Allied Telesyn Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C46",
+			"OUISize": 24,
+			"OrgAddress": "960 Stewart Drive, Suite B\\nSunnyvale  California  94085\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Allied Telesyn Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050B6",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO.8, ALLEY 6,\\nLANE 45 PAO-HSIN RD.-HSIN TIEN\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN R.O.C.",
+			"OrgName": "GOOD WAY IND. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050B6",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO.8, ALLEY 6,\\nLANE 45 PAO-HSIN RD.-HSIN TIEN TAIPEI HS\\n\\n",
+			"OrgCountry": "TAIWAN R.O.C.",
+			"OrgName": "GOOD WAY IND. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0050B6",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO.8, ALLEY 6,\\nLANE 45 PAO-HSIN RD.-HSIN TIEN TAIPEI HS\\nTAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GOOD WAY IND. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0050B6",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO.8, ALLEY 6,\\nLANE 45 PAO-HSIN RD.-HSIN TIEN TAIPEI HS\\nTAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "GOOD WAY IND. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0050B6",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO.8, ALLEY 6,\\nLANE 45 PAO-HSIN RD.-HSIN TIEN TAIPEI HS\\nTAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GOOD WAY IND. CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050B6",
+			"OUISize": 24,
+			"OrgAddress": "5F, NO.8, ALLEY 6,\\nTAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "GOOD WAY IND. CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

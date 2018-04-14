@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2034",
+			"OUISize": 36,
+			"OrgAddress": "Ortsteil Traubing\\nBrueckenweg 2 D-82327 Tutzing\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Ing. Buero W. Kanis GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

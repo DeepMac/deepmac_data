@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2089",
+			"OUISize": 36,
+			"OrgAddress": "Viale A. De Gasperi, 44\\n20010 Bareggio (MI)\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Fenwal Italia S.P.A.",
+			"Source": "IEEE"
+		}
+	]
+}

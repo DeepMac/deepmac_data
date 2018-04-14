@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000D98",
+			"OUISize": 24,
+			"OrgAddress": "Oedenpullach 1\\nOberhaching Bavaria 82041\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "S.W.A.C. Schmitt-Walter Automation Consult GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D98",
+			"OUISize": 24,
+			"OrgAddress": "Oedenpullach 1\\nOberhaching  Bavaria  82041\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "S.W.A.C. Schmitt-Walter Automation Consult GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

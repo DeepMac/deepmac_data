@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C7E",
+			"OUISize": 36,
+			"OrgAddress": "Christian-Buerkert-Strasse 13-17\\nIngelfingen  74653\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Buerkert Werke GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

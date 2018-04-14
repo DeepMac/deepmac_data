@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2515",
+			"OUISize": 36,
+			"OrgAddress": "862 Las Colinas Drive\\nDripping Springs Texas 78620\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Monaghan Engineering, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

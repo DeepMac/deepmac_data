@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "0006E6",
+			"OUISize": 24,
+			"OrgAddress": "642-7 Deung Chon-Dong, KangSeo-Gu\\nSeoul 157-841\\n\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "DongYang Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0006E6",
+			"OUISize": 24,
+			"OrgAddress": "642-7 Deung Chon-Dong, KangSeo-Gu\\nSeoul 157-841\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "DongYang Telecom Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0006E6",
+			"OUISize": 24,
+			"OrgAddress": "642-7 Deung Chon-Dong, KangSeo-Gu\\nSeoul  157-841\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DongYang Telecom Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

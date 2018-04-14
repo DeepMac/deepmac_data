@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-03",
+			"EventType": "add",
+			"OUI": "70B3D5187",
+			"OUISize": 36,
+			"OrgAddress": "RemschÃ¼tzer StraÃe 1\\nSaalfeld  ThÃ¼ringen  07318\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Elektronik & PrÃ¤zisionsbau Saalfeld GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

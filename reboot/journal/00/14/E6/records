@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-17",
+			"EventType": "add",
+			"OUI": "0014E6",
+			"OUISize": 24,
+			"OrgAddress": "Soeflingerstr. 100\\nUlm BW 89077\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AIM Infrarotmodule GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0014E6",
+			"OUISize": 24,
+			"OrgAddress": "SoeflingerstraÃe 100\\nUlm BW 89077\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AIM Infrarotmodule GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0014E6",
+			"OUISize": 24,
+			"OrgAddress": "Soeflingerstr. 100\\nUlm BW 89077\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AIM Infrarotmodule GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0014E6",
+			"OUISize": 24,
+			"OrgAddress": "SoeflingerstraÃe 100\\nUlm BW 89077\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AIM Infrarotmodule GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014E6",
+			"OUISize": 24,
+			"OrgAddress": "SoeflingerstraÃe 100\\nUlm  BW  89077\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AIM Infrarotmodule GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

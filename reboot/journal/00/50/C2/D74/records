@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D74",
+			"OUISize": 36,
+			"OrgAddress": "525 Northern Boulevard\\nGreat Neck NY 11021\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Computech International",
+			"Source": "IEEE"
+		}
+	]
+}

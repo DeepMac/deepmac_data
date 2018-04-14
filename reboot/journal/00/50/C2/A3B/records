@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A3B",
+			"OUISize": 36,
+			"OrgAddress": "Neue Kasseler Str. 50\\nMarburg  35039\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IPcontrols GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

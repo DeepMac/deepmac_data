@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-09",
+			"EventType": "add",
+			"OUI": "EC43E6",
+			"OUISize": 24,
+			"OrgAddress": "100-413 Bucheon Technopark\\n364 SanJeong-dong, Ojeong-gu\\nBucheon-city Gyeonggi-do 421-741\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "AWCER Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "EC43E6",
+			"OUISize": 24,
+			"OrgAddress": "100-413 Bucheon Technopark\\nBucheon-city  Gyeonggi-do  421-741\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "AWCER Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

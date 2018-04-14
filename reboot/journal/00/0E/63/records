@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E63",
+			"OUISize": 24,
+			"OrgAddress": "Radeburger Str. 47\\nVolkersdorf Saxony 01468\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Lemke Diagnostics GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E63",
+			"OUISize": 24,
+			"OrgAddress": "Radeburger Str. 47\\nVolkersdorf  Saxony  01468\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Lemke Diagnostics GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

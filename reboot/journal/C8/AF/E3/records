@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-17",
+			"EventType": "add",
+			"OUI": "C8AFE3",
+			"OUISize": 24,
+			"OrgAddress": "No.108, YinXing Road, High-tech Development Zone\\nHefei  Anhui  230088\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hefei Radio Communication Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

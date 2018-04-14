@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C271A",
+			"OUISize": 36,
+			"OrgAddress": "1501 Ellesmere Road\\nToronto Ontario M1P 4T6\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Logus Broadband Wireless Solutions Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

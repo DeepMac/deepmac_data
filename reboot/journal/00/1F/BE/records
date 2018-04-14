@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "add",
+			"OUI": "001FBE",
+			"OUISize": 24,
+			"OrgAddress": "F 3.No.3 Keyuan Rd.\\nShenzhen Nanshan Science&Industry Park\\nShenzhen Guangdong 518057\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Mopnet Industrial Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001FBE",
+			"OUISize": 24,
+			"OrgAddress": "3F.No.3 Keyuan Rd.,\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Mopnet Industrial Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

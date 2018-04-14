@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-11",
+			"EventType": "add",
+			"OUI": "E0E7BB",
+			"OUISize": 24,
+			"OrgAddress": "1000, 1221 8th Street SW\\nCalgary  AB  T2R 0L4\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Nureva, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

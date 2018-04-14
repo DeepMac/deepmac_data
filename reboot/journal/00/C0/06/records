@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C006",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIAL SYSTEM DIVISION\\n28-2, HONGOH 2-CHOME, SEYA-KU\\nYOKOHAMA\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIPPON AVIONICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C006",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIAL SYSTEM DIVISION\\n28-2, HONGOH 2-CHOME, SEYA-KU YOKOHAMA\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIPPON AVIONICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00C006",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIAL SYSTEM DIVISION\\n28-2, HONGOH 2-CHOME, SEYA-KU YOKOHAMA\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIPPON AVIONICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00C006",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIAL SYSTEM DIVISION\\n28-2, HONGOH 2-CHOME, SEYA-KU YOKOHAMA\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIPPON AVIONICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00C006",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIAL SYSTEM DIVISION\\n28-2, HONGOH 2-CHOME, SEYA-KU YOKOHAMA\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIPPON AVIONICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00C006",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIAL SYSTEM DIVISION\\n28-2, HONGOH 2-CHOME, SEYA-KU YOKOHAMA\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NIPPON AVIONICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C006",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIAL SYSTEM DIVISION\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NIPPON AVIONICS CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

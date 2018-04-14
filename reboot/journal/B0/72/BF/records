@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-04",
+			"EventType": "add",
+			"OUI": "B072BF",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1, Higashikotari\\nNagaokakyo-shi  Kyoto  617-8555\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Murata Manufacturing Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

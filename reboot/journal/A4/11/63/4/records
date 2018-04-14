@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-24",
+			"EventType": "add",
+			"OUI": "A411634",
+			"OUISize": 28,
+			"OrgAddress": "48438 Milmont Drive\\nFremont  CA  94538\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AlterG, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

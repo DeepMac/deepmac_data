@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-22",
+			"EventType": "add",
+			"OUI": "5C2443",
+			"OUISize": 24,
+			"OrgAddress": "43-9 Pyeongdongro 803-gil , Gwangsan-Gu\\nGwangju    54611\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "O-Sung Telecom Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

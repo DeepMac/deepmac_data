@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-28",
+			"EventType": "add",
+			"OUI": "F0ACD7D",
+			"OUISize": 28,
+			"OrgAddress": "Room 102,Unit A,Building 32,No.999,Gaoxinqi Road, High Tech Industrial Development Zone,Nanchang,Jiangxi\\nNanchang City  Jiangxi Province  330096\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Smart Power Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-10",
+			"EventType": "add",
+			"OUI": "24E271",
+			"OUISize": 24,
+			"OrgAddress": "218,Qianwangang Road, Qingdao Economic&amp;Technological Development Zone\\nQingdao Shandong 266510\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Qingdao Hisense Communications Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "24E271",
+			"OUISize": 24,
+			"OrgAddress": "218 Qian wan gang Road Economic & Technological cevelopment Zone\\nQingdao  Shandong  266510\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao Hisense Communications Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-24",
+			"EventType": "change",
+			"OUI": "24E271",
+			"OUISize": 24,
+			"OrgAddress": "Qianwangang Road 218\\nQingdao  Shandong  266510\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao Hisense Communications Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

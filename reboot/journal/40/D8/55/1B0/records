@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "add",
+			"OUI": "40D8551B0",
+			"OUISize": 36,
+			"OrgAddress": "2636\\nEndo\\nFujisawa-shi Kanagawa 252-0816\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Shin-ei Electronic Measuring Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

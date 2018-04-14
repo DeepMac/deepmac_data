@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-03-01",
+			"EventType": "add",
+			"OUI": "001B99",
+			"OUISize": 24,
+			"OrgAddress": "Alexanderstr. 37\\nMuelheim NRW 45472\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KS System GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001B99",
+			"OUISize": 24,
+			"OrgAddress": "AlexanderstraÃe 37\\nMuelheim NRW 45472\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KS System GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001B99",
+			"OUISize": 24,
+			"OrgAddress": "Alexanderstr. 37\\nMuelheim NRW 45472\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KS System GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001B99",
+			"OUISize": 24,
+			"OrgAddress": "AlexanderstraÃe 37\\nMuelheim NRW 45472\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "KS System GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B99",
+			"OUISize": 24,
+			"OrgAddress": "AlexanderstraÃe 37\\nMuelheim  NRW  45472\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "KS System GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

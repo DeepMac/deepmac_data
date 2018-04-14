@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "00091D",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 157. Section 2 Ta-Tung Rd\\nHsi-Chih Taipei Hsien 221\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Proteam Computer Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "00091D",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 157. Section 2 Ta-Tung Rd\\nHsi-Chih Taipei Hsien 221\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Proteam Computer Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00091D",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 157. Section 2 Ta-Tung Rd\\nHsi-Chih Taipei Hsien 221\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Proteam Computer Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00091D",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 157. Section 2 Ta-Tung Rd\\nHsi-Chih  Taipei Hsien  221\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Proteam Computer Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

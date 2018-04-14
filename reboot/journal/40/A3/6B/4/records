@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-09",
+			"EventType": "add",
+			"OUI": "40A36B4",
+			"OUISize": 28,
+			"OrgAddress": "Im Industriegebiet 9\\nHof    56472\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SKS-Kinkel Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

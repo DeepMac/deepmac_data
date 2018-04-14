@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2428",
+			"OUISize": 36,
+			"OrgAddress": "Bjellandveien 24.\\nBox 2248.\\nToensberg  3103\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Roxar A/S",
+			"Source": "IEEE"
+		}
+	]
+}

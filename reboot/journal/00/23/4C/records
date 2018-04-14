@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "00234C",
+			"OUISize": 24,
+			"OrgAddress": "F O Petersons gata 6\\nVastra Frolunda Gothenburg SE-42131\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "KTC AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00234C",
+			"OUISize": 24,
+			"OrgAddress": "F O Petersons gata 6\\nVastra Frolunda  Gothenburg  SE-42131\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "KTC AB",
+			"Source": "IEEE"
+		}
+	]
+}

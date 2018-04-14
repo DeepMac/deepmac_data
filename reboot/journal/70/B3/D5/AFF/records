@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-06",
+			"EventType": "add",
+			"OUI": "70B3D5AFF",
+			"OUISize": 36,
+			"OrgAddress": "toyohira529-2\\nchino  nagano  391-0213\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "digital-spice",
+			"Source": "IEEE"
+		}
+	]
+}

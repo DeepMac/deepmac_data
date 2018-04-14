@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DA6",
+			"OUISize": 36,
+			"OrgAddress": "2110 South 26th Street\\nManitowoc Wisconsin 54221-1720\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Manitowoc Ice",
+			"Source": "IEEE"
+		}
+	]
+}

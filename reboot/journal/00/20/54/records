@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002054",
+			"OUISize": 24,
+			"OrgAddress": "60 JAMES WAY\\nSOUTHAMPTON  PA  18966\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EASTERN RESEARCH, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002054",
+			"OUISize": 24,
+			"OrgAddress": "60 JAMES WAY\\nSOUTHAMPTON PA 18966\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EASTERN RESEARCH, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "change",
+			"OUI": "002054",
+			"OUISize": 24,
+			"OrgAddress": "220 Mill Rd\\nChelmsford MA 10824\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sycamore Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "002054",
+			"OUISize": 24,
+			"OrgAddress": "220 Mill Rd\\nChelmsford MA 01824\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sycamore Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002054",
+			"OUISize": 24,
+			"OrgAddress": "220 Mill Rd\\nChelmsford  MA  01824\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Sycamore Networks",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-08-15",
+			"EventType": "add",
+			"OUI": "001938",
+			"OUISize": 24,
+			"OrgAddress": "1010, 5, ACE Techno Tower, 197-22, Guro-dong, Guro-gu\\nSeoul  151-766\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "UMB Communications Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001938",
+			"OUISize": 24,
+			"OrgAddress": "1010, 5, ACE Techno Tower, 197-22, Guro-dong, Guro-gu\\nSeoul    151-766\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "UMB Communications Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

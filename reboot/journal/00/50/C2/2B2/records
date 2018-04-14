@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22B2",
+			"OUISize": 36,
+			"OrgAddress": "1730 Aimco Blvd\\nMississauga Ontario L4W 1V1\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Smiths Detection",
+			"Source": "IEEE"
+		}
+	]
+}

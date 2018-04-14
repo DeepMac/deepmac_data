@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-05-28",
+			"EventType": "add",
+			"OUI": "70B3D5FDF",
+			"OUISize": 36,
+			"OrgAddress": "NARA BUILDING, 12TH FLOOR 719\\nYEONGDONGDAEGYO, GANGNAM-GU\\nSEOUL SEOUL 100-043\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "NARA CONTROLS INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D5FDF",
+			"OUISize": 36,
+			"OrgAddress": "NARA BUILDING, 12TH FLOOR 719\\nSEOUL  SEOUL  100-043\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "NARA CONTROLS INC.",
+			"Source": "IEEE"
+		}
+	]
+}

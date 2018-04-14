@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F1D",
+			"OUISize": 36,
+			"OrgAddress": "Spinnereistrasse 10\\nSt. Gallen  9008\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Grossenbacher Systeme AG",
+			"Source": "IEEE"
+		}
+	]
+}

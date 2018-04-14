@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B3D",
+			"OUISize": 36,
+			"OrgAddress": "2-4-3,Kikawahigashi,Yodogawaku\\nOsaka City  532-0012\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "AMS",
+			"Source": "IEEE"
+		}
+	]
+}

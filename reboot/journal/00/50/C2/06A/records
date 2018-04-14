@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C206A",
+			"OUISize": 36,
+			"OrgAddress": "9910 Widner Road\\nLenexa KS 66215\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Unimark",
+			"Source": "IEEE"
+		}
+	]
+}

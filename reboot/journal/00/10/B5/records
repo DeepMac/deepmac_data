@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0010B5",
+			"OUISize": 24,
+			"OrgAddress": "NO.1, CREATION RD. III\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU 300\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "ACCTON TECHNOLOGY CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0010B5",
+			"OUISize": 24,
+			"OrgAddress": "NO.1, CREATION RD. III\\nSCIENCE-BASED INDUSTRIAL PARK HSINCHU 30\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "ACCTON TECHNOLOGY CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0010B5",
+			"OUISize": 24,
+			"OrgAddress": "NO.1, CREATION RD. III\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU 300\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ACCTON TECHNOLOGY CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0010B5",
+			"OUISize": 24,
+			"OrgAddress": "NO.1, CREATION RD. III\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU 300\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ACCTON TECHNOLOGY CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0010B5",
+			"OUISize": 24,
+			"OrgAddress": "NO.1, CREATION RD. III\\nSCIENCE-BASED INDUSTRIAL PARK\\nHSINCHU 300\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ACCTON TECHNOLOGY CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0010B5",
+			"OUISize": 24,
+			"OrgAddress": "NO.1, CREATION RD. III\\nHSINCHU 300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ACCTON TECHNOLOGY CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "0010B5",
+			"OUISize": 24,
+			"OrgAddress": "NO.1, CREATION RD. III\\nHSINCHU 300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Accton Technology Corp",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020D9",
+			"OUISize": 24,
+			"OrgAddress": "MIECO-US\\n1703 N. RANDALL RD.\\nELGIN  IL  60123\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PANASONIC TECHNOLOGIES, INC./",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0020D9",
+			"OUISize": 24,
+			"OrgAddress": "MIECO-US\\n1703 N. RANDALL RD.\\nELGIN IL 60123\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PANASONIC TECHNOLOGIES, INC./",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0020D9",
+			"OUISize": 24,
+			"OrgAddress": "1703 N. RANDALL RD.\\nELGIN IL 60123\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PANASONIC TECHNOLOGIES, INC./MIECO-US",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020D9",
+			"OUISize": 24,
+			"OrgAddress": "1703 N. RANDALL RD.\\nELGIN  IL  60123\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "PANASONIC TECHNOLOGIES, INC./MIECO-US",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0002B6",
+			"OUISize": 24,
+			"OrgAddress": "No. 116-2 Guang-Fu Rd.\\nSea 1, San Chung,\\n\\n",
+			"OrgCountry": "Taipei, R.O.C.",
+			"OrgName": "Acrosser Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0002B6",
+			"OUISize": 24,
+			"OrgAddress": "No. 116-2 Guang-Fu Rd.\\nSea 1, San Chung,\\n\\n",
+			"OrgCountry": "Taipei Taipei R.O.C.",
+			"OrgName": "Acrosser Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0002B6",
+			"OUISize": 24,
+			"OrgAddress": "No. 116-2 Guang-Fu Rd.\\nSea 1, San Chung,\\nTaipei Taipei R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Acrosser Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0002B6",
+			"OUISize": 24,
+			"OrgAddress": "No. 116-2 Guang-Fu Rd.\\nSea 1, San Chung,\\nTaipei Taipei R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Acrosser Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0002B6",
+			"OUISize": 24,
+			"OrgAddress": "No. 116-2 Guang-Fu Rd.\\nSea 1, San Chung,\\nTaipei Taipei R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Acrosser Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0002B6",
+			"OUISize": 24,
+			"OrgAddress": "No. 116-2 Guang-Fu Rd.\\nTaipei  Taipei  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Acrosser Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

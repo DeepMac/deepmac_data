@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21DF",
+			"OUISize": 36,
+			"OrgAddress": "University Campus\\nLulea Norrbotten SE-971 87\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Lulea University of Technology",
+			"Source": "IEEE"
+		}
+	]
+}

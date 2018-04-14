@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-27",
+			"EventType": "add",
+			"OUI": "C47C8D7",
+			"OUISize": 28,
+			"OrgAddress": "7F., No.98, Minquan Rd., Xindian Dist.\\nNew Taipei City     23141\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Awiselink Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

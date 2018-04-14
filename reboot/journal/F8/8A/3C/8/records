@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-28",
+			"EventType": "add",
+			"OUI": "F88A3C8",
+			"OUISize": 28,
+			"OrgAddress": "4F.-3, No.872, Jhongjheng Rd., Jhonghe Dist.,\\nNew Taipei City  Taiwan (R.O.C.)   23586\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Cadmus Electronic Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

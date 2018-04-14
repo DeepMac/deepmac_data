@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C38",
+			"OUISize": 36,
+			"OrgAddress": "3397 NW 23 Court\\nBoca Raton Florida 33431\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Computer Automation Technology Inc",
+			"Source": "IEEE"
+		}
+	]
+}

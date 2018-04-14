@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2130",
+			"OUISize": 36,
+			"OrgAddress": "9603 John St.\\nSanta Fe Springs CA 90670\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "U.S. Traffic Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

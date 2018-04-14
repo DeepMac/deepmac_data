@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-09",
+			"EventType": "add",
+			"OUI": "88D171",
+			"OUISize": 24,
+			"OrgAddress": "VIA MOZZEGHINE 13/15\\nLOCALITA' MONTEVEGLIO - COMUNE VALSAMOGGIA  BOLOGNA  40053\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "BEGHELLI S.P.A",
+			"Source": "IEEE"
+		}
+	]
+}

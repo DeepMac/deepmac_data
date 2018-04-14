@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050EE",
+			"OUISize": 24,
+			"OrgAddress": "20010 CENTURY BLVD. #300\\nGERMANTOWN  MD  20874\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TEK DIGITEL CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050EE",
+			"OUISize": 24,
+			"OrgAddress": "20010 CENTURY BLVD. #300\\nGERMANTOWN MD 20874\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TEK DIGITEL CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050EE",
+			"OUISize": 24,
+			"OrgAddress": "20010 CENTURY BLVD. #300\\nGERMANTOWN  MD  20874\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "TEK DIGITEL CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

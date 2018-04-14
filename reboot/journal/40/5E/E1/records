@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-29",
+			"EventType": "add",
+			"OUI": "405EE1",
+			"OUISize": 24,
+			"OrgAddress": "D-Zone,10/F,Shenzhen Academy of Aerospace Technology,Hi-Tech Park at Nanshan District,Shenzhen,China\\nShenzhen    518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen H&T Intelligent Control Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

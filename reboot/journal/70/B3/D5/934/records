@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-18",
+			"EventType": "add",
+			"OUI": "70B3D5934",
+			"OUISize": 36,
+			"OrgAddress": "Muenchnerstrasse 87b\\nDachau    85221\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "RBS Netkom GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

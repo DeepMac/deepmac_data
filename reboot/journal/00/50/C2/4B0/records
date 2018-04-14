@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24B0",
+			"OUISize": 36,
+			"OrgAddress": "17 Kallang Junction #04-03\\nEsmart Center,\\n339274\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Esmart Distribution Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-10-01",
+			"EventType": "add",
+			"OUI": "142971",
+			"OUISize": 24,
+			"OrgAddress": "ROOM 610, B1 Area, MINGYOU PURCHASING & DISPLAYING CENTER,\\nBAOYUAN ROAD, BAOAN DISTRICT,\\nSHENZHEN GUANGDONG 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "NEMOA ELECTRONICS (HK) CO. LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "142971",
+			"OUISize": 24,
+			"OrgAddress": "ROOM 610, MINGYOU PURCHASING & DISPLAYING CENTER,\\nSHENZHEN  GUANGDONG  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "NEMOA ELECTRONICS (HK) CO. LTD",
+			"Source": "IEEE"
+		}
+	]
+}

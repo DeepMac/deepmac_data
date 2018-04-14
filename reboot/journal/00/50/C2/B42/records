@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B42",
+			"OUISize": 36,
+			"OrgAddress": "35451 Dumbarton Court\\nNEWARK CA 94560\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ETM Electromatic Incorporated",
+			"Source": "IEEE"
+		}
+	]
+}

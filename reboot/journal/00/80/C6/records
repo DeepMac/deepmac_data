@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0080C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, 28, INDUSTRY EAST 9TH RD.\\nSCIENCE PARK, HSIN-CHU\\n\\n",
+			"OrgCountry": "TAIWAN  30077, R.O.C.",
+			"OrgName": "NATIONAL DATACOMM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0080C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, 28, INDUSTRY EAST 9TH RD.\\nSCIENCE PARK, HSIN-CHU\\n\\n",
+			"OrgCountry": "TAIWAN  30077 TAIWAN  30077 R.O.C.",
+			"OrgName": "NATIONAL DATACOMM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "0080C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, 28, INDUSTRY EAST 9TH RD.\\nSCIENCE PARK, HSIN-CHU\\nTAIWAN  30077 TAIWAN  30077 R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "NATIONAL DATACOMM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0080C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, 28, INDUSTRY EAST 9TH RD.\\nSCIENCE PARK, HSIN-CHU\\nTAIWAN  30077 TAIWAN  30077 R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "NATIONAL DATACOMM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0080C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, 28, INDUSTRY EAST 9TH RD.\\nTAIWAN  30077  TAIWAN  30077  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "NATIONAL DATACOMM CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-29",
+			"EventType": "add",
+			"OUI": "70B3D5A36",
+			"OUISize": 36,
+			"OrgAddress": "8001,8 Floor,Building C,KanjianBaoshen Square,Haidian District\\nBeijing    100192\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing DamingWuzhou Science&Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

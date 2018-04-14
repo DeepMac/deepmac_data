@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C295A",
+			"OUISize": 36,
+			"OrgAddress": "Takaba 2247-4\\nHitachinaka Ibaraki 312-0062\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "TechnoAP",
+			"Source": "IEEE"
+		}
+	]
+}

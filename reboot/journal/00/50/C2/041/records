@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2041",
+			"OUISize": 36,
+			"OrgAddress": "Box 42505\\nSE-12616 Stockholm\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Damler Chrysler Rail System (Signal) AB",
+			"Source": "IEEE"
+		}
+	]
+}

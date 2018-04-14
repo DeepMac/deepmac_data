@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28EC",
+			"OUISize": 36,
+			"OrgAddress": "Garmischer Str. 35\\nMunich Germany 81373\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Balfour Beatty Rail GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

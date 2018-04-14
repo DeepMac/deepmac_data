@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-26",
+			"EventType": "add",
+			"OUI": "C47C8D8",
+			"OUISize": 28,
+			"OrgAddress": "Oderstrasse 77\\nTeltow  Brandenburg  14513\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "GETEMED Medizin- und Informationstechnik AG",
+			"Source": "IEEE"
+		}
+	]
+}

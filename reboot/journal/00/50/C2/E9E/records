@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E9E",
+			"OUISize": 36,
+			"OrgAddress": "2190 Regal Parkway\\nEuless TX 76040\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "American Microsystems, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

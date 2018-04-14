@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2181",
+			"OUISize": 36,
+			"OrgAddress": "Via Boschetti N. 61\\nGrassobbio (BG)  24050\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Task 84 Spa",
+			"Source": "IEEE"
+		}
+	]
+}

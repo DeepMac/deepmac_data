@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-08-27",
+			"EventType": "add",
+			"OUI": "001975",
+			"OUISize": 24,
+			"OrgAddress": "Jia#2 of Xili of Baiyun road,Xicheng district\\nBeijing  100045\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Beijing Huisen networks technology Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001975",
+			"OUISize": 24,
+			"OrgAddress": "Jia#2 of Xili of Baiyun road,Xicheng district\\nBeijing    100045\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Huisen networks technology Inc",
+			"Source": "IEEE"
+		}
+	]
+}

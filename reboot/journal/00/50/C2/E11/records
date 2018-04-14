@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E11",
+			"OUISize": 36,
+			"OrgAddress": "7610 Miramar Road\\nSan Diego CA 92126\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RF Neulink",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-02",
+			"EventType": "add",
+			"OUI": "8C192D1",
+			"OUISize": 28,
+			"OrgAddress": "Room 10G, Tower 4C, Software Industry Base, Nanshan District, ShenZhen, China, 518000.\\nShenzhen    518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Huanuo Internet Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

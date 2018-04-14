@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-28",
+			"EventType": "add",
+			"OUI": "70B3D55D3",
+			"OUISize": 36,
+			"OrgAddress": "An der Lehmgrube 11\\nJena  ThÃ¼ringen  07751\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Supracon AG",
+			"Source": "IEEE"
+		}
+	]
+}

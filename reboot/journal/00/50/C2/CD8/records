@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CD8",
+			"OUISize": 36,
+			"OrgAddress": "1 Wainstones Court\\nStokesley Business Park\\nStokesley North Yorkshire TS95JY\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "IT-IS International Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

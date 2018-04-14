@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C203E",
+			"OUISize": 36,
+			"OrgAddress": "526-528 Elder House\\nElder Gate\\nMilton Keynes MK9 1LR\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "MSU UK Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

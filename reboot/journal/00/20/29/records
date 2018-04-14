@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002029",
+			"OUISize": 24,
+			"OrgAddress": "4565 E. INDUSTRIAL STREET\\nBUILDING #7K\\nSIMI VALLEY  CA  93063\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TELEPROCESSING PRODUCTS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002029",
+			"OUISize": 24,
+			"OrgAddress": "4565 E. INDUSTRIAL STREET\\nBUILDING #7K\\nSIMI VALLEY CA 93063\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TELEPROCESSING PRODUCTS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002029",
+			"OUISize": 24,
+			"OrgAddress": "4565 E. INDUSTRIAL STREET\\nSIMI VALLEY  CA  93063\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "TELEPROCESSING PRODUCTS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

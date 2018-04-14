@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23B1",
+			"OUISize": 36,
+			"OrgAddress": "Office 208, Shevchenko street, 2\\nTaganrog Rostov region 347922\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "RDC Specstroy-Svyaz Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

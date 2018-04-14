@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-06-20",
+			"EventType": "add",
+			"OUI": "28B3AB",
+			"OUISize": 24,
+			"OrgAddress": "1201 Cadillac Ct\\nMilpitas CA 95035\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Genmark Automation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "28B3AB",
+			"OUISize": 24,
+			"OrgAddress": "1201 Cadillac Ct\\nMilpitas  CA  95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Genmark Automation",
+			"Source": "IEEE"
+		}
+	]
+}

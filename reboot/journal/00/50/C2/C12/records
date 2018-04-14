@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C12",
+			"OUISize": 36,
+			"OrgAddress": "Oomori-Hinoshita 9-1\\nFukushima-City Fukushima 960-1101\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "OKI DENKI BOHSAI CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

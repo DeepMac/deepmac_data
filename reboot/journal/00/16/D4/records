@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-12-17",
+			"EventType": "add",
+			"OUI": "0016D4",
+			"OUISize": 24,
+			"OrgAddress": "7th, FL, No. 319, Sec. 4, Pa-Teh rd.\\nTaipei  886\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Compal Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0016D4",
+			"OUISize": 24,
+			"OrgAddress": "7th, FL, No. 319, Sec. 4, Pa-Teh rd.\\nTaipei  886\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Compal Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0016D4",
+			"OUISize": 24,
+			"OrgAddress": "7th, FL, No. 319, Sec. 4, Pa-Teh rd.\\nTaipei    886\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Compal Communications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

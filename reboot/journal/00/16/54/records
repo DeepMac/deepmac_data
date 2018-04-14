@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-11-02",
+			"EventType": "add",
+			"OUI": "001654",
+			"OUISize": 24,
+			"OrgAddress": "No.128-12-2, Menara UMNO,\\nJalan Macalister,\\nGeorgetown Penang 10400\\n",
+			"OrgCountry": "MALAYSIA",
+			"OrgName": "Flex-P Industries Sdn. Bhd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001654",
+			"OUISize": 24,
+			"OrgAddress": "No.128-12-2, Menara UMNO,\\nGeorgetown  Penang  10400\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Flex-P Industries Sdn. Bhd.",
+			"Source": "IEEE"
+		}
+	]
+}

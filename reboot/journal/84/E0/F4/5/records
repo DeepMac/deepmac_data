@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-01",
+			"EventType": "add",
+			"OUI": "84E0F45",
+			"OUISize": 28,
+			"OrgAddress": "5-6th Floor, Innovation Mansion East Software Park,90# Wensan Road\\nHangzhou  Zhejiang  310012\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou Nationalchip Science & Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

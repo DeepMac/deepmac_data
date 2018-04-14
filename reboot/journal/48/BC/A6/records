@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "add",
+			"OUI": "48BCA6",
+			"OUISize": 24,
+			"OrgAddress": "462, Dogok-ro, Songpa-gu, Seoul, Republic of Korea\\nSEOUL  Repubilc of KOREA  05574\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "âASUNG TECHNO CO.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

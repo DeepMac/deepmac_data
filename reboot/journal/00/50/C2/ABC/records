@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2ABC",
+			"OUISize": 36,
+			"OrgAddress": "Balsamos Norte 324B y calle quinta\\nUrdesa Central\\nGuayaquil Guayas 593\\n",
+			"OrgCountry": "ECUADOR",
+			"OrgName": "Barrick",
+			"Source": "IEEE"
+		}
+	]
+}

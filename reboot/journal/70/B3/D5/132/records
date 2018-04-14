@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-15",
+			"EventType": "add",
+			"OUI": "70B3D5132",
+			"OUISize": 36,
+			"OrgAddress": "RÃ¶deraue 41\\n\\n\\n",
+			"OrgCountry": "Radeburg  Sachsen  01471",
+			"OrgName": "Hagenuk KMT Kabelmesstechnik GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-20",
+			"EventType": "change",
+			"OUI": "70B3D5132",
+			"OUISize": 36,
+			"OrgAddress": "RÃ¶deraue 41\\nRadeburg  Sachsen  01471\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Hagenuk KMT Kabelmesstechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

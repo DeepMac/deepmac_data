@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-20",
+			"EventType": "add",
+			"OUI": "4CB44A",
+			"OUISize": 24,
+			"OrgAddress": "425 Horner Avenue\\nEtobicoke  Ontario  M8W 4W3\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "NANOWAVE Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

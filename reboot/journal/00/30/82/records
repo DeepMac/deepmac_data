@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "003082",
+			"OUISize": 24,
+			"OrgAddress": "Communication Engineering Team\\n996 Siheung-Dong\\nKeym Cheon-ku\\nSeoul",
+			"OrgCountry": "KOREA",
+			"OrgName": "TAIHAN ELECTRIC WIRE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "003082",
+			"OUISize": 24,
+			"OrgAddress": "Communication Engineering Team\\n996 Siheung-Dong Keym Cheon-ku Seoul\\n\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "TAIHAN ELECTRIC WIRE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "003082",
+			"OUISize": 24,
+			"OrgAddress": "Communication Engineering Team\\n996 Siheung-Dong Keym Cheon-ku\\nSeoul\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "TAIHAN ELECTRIC WIRE CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "003082",
+			"OUISize": 24,
+			"OrgAddress": "Communication Engineering Team\\nSeoul\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "TAIHAN ELECTRIC WIRE CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050ED",
+			"OUISize": 24,
+			"OrgAddress": "2921 COPPER ROAD\\nSANTA CLARA  CA  95051\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ANDA NETWORKS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050ED",
+			"OUISize": 24,
+			"OrgAddress": "2921 COPPER ROAD\\nSANTA CLARA CA 95051\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ANDA NETWORKS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050ED",
+			"OUISize": 24,
+			"OrgAddress": "2921 COPPER ROAD\\nSANTA CLARA  CA  95051\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ANDA NETWORKS",
+			"Source": "IEEE"
+		}
+	]
+}

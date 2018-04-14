@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-26",
+			"EventType": "add",
+			"OUI": "80AAA4",
+			"OUISize": 24,
+			"OrgAddress": "301 Goolsby Blvd\\nDeerfield Beach FL 33442\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "USAG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "80AAA4",
+			"OUISize": 24,
+			"OrgAddress": "301 Goolsby Blvd\\nDeerfield Beach  FL  33442\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "USAG",
+			"Source": "IEEE"
+		}
+	]
+}

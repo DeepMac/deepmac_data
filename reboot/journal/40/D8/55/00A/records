@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "40D85500A",
+			"OUISize": 36,
+			"OrgAddress": "JL.KEJAKSAAN NO 18\\nPONDOK BAMBU\\nJAKARTA Click to Select 13430\\n",
+			"OrgCountry": "INDONESIA",
+			"OrgName": "Sarana Sistem Mikro",
+			"Source": "IEEE"
+		}
+	]
+}

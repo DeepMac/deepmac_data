@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B13",
+			"OUISize": 36,
+			"OrgAddress": "Rm 1506, Block B, Haisong Bldg, Tairan 9th Rd, Chegongmiao, Futian\\nShenzhen Guangdong 518040\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Measy Electronics Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

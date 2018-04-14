@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000C44",
+			"OUISize": 24,
+			"OrgAddress": "120 Confederate Lane\\nGreer South Carolina 29651\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Automated Interfaces, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C44",
+			"OUISize": 24,
+			"OrgAddress": "120 Confederate Lane\\nGreer  South Carolina  29651\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Automated Interfaces, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

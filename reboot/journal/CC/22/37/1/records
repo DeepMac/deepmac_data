@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-27",
+			"EventType": "add",
+			"OUI": "CC22371",
+			"OUISize": 28,
+			"OrgAddress": "Czaple 100\\nGdaÅsk  Pomorskie  80-298\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "Terma Sp. z o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

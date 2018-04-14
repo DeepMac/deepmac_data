@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2930",
+			"OUISize": 36,
+			"OrgAddress": "Yukari Dudullu Organize Sanayi Bolgesi\\nAnd Sitesi No:18 Umraniye\\nIstanbul  34775\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "NETA Elektronik AS",
+			"Source": "IEEE"
+		}
+	]
+}

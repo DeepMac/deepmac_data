@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-03",
+			"EventType": "add",
+			"OUI": "E83A97",
+			"OUISize": 24,
+			"OrgAddress": "6373 San Ignacio Ave\\nSan Jose CA 95119\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "OCZ Technology Group",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E83A97",
+			"OUISize": 24,
+			"OrgAddress": "6373 San Ignacio Ave\\nSan Jose  CA  95119\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "OCZ Technology Group",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-22",
+			"EventType": "change",
+			"OUI": "E83A97",
+			"OUISize": 24,
+			"OrgAddress": "1-1-1, Shibaura, Minato-ku\\nTokyo    00000\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Toshiba Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

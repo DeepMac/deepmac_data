@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B43",
+			"OUISize": 36,
+			"OrgAddress": "1S678 School Ave.\\nLombard IL 60148\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "J-Systems Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

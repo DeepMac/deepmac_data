@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C288A",
+			"OUISize": 36,
+			"OrgAddress": "4212 S. Buckner Blvd.\\nDallas TX 75227\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Continental Electronics Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

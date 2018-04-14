@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-22",
+			"EventType": "add",
+			"OUI": "0C63FC",
+			"OUISize": 24,
+			"OrgAddress": "Rm 1001,10/F,28 Ningshuang Rd,\\nYuhuatai Dist.\\nNanjing Jiangsu 210012\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Nanjing Signway Technology Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0C63FC",
+			"OUISize": 24,
+			"OrgAddress": "Rm 1001,10/F,28 Ningshuang Rd,\\nNanjing  Jiangsu  210012\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanjing Signway Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

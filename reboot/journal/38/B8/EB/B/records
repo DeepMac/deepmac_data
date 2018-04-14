@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-24",
+			"EventType": "add",
+			"OUI": "38B8EBB",
+			"OUISize": 28,
+			"OrgAddress": "Kimura Bldg. 5F, Kanda Ogawamachi 2-1\\nChiyoda-ku  Tokyo  101-0052\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ExaScaler Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

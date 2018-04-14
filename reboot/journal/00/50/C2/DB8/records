@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DB8",
+			"OUISize": 36,
+			"OrgAddress": "Sonnenhang 29\\nThalheim Steiermark 8754\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Comsat VertriebsgmbH",
+			"Source": "IEEE"
+		}
+	]
+}

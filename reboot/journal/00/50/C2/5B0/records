@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25B0",
+			"OUISize": 36,
+			"OrgAddress": "Blomestrasse 25 - 27\\nBielefeld NRW 33609\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "INCOTEC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

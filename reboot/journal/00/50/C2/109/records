@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2109",
+			"OUISize": 36,
+			"OrgAddress": "Beim Eberacker 3\\nD-35633 Lahnau\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ITK Dr. Kassen GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

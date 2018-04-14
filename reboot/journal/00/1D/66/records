@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "add",
+			"OUI": "001D66",
+			"OUISize": 24,
+			"OrgAddress": "Hyundai Telecom Bldg., 4273-12, Shingil-Dong, Youngdungpo-Gu,\\nSeoul  150-859\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Hyundai Telecom",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001D66",
+			"OUISize": 24,
+			"OrgAddress": "Hyundai Telecom Bldg., 4273-12, Shingil-Dong, Youngdungpo-Gu,\\nSeoul    150-859\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Hyundai Telecom",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F24",
+			"OUISize": 36,
+			"OrgAddress": "Nizhni Krasnoselsky st.,35\\nMoscow RUSSIA 140070\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "CT Company",
+			"Source": "IEEE"
+		}
+	]
+}

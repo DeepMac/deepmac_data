@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B5F",
+			"OUISize": 36,
+			"OrgAddress": "Jean Ave 84\\nCenturion Gauteng 0157\\n\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "North Bridge Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

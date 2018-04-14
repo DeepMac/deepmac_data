@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A61",
+			"OUISize": 36,
+			"OrgAddress": "Im Surinam 55\\nBasel  CH4016\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Fr. Sauter AG",
+			"Source": "IEEE"
+		}
+	]
+}

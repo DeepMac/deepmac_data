@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-17",
+			"EventType": "add",
+			"OUI": "B49842",
+			"OUISize": 24,
+			"OrgAddress": "12/F.,R&D building,kejinan Road,Shenzhen,P.R.China\\nshenzhen guangdong 518057\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "zte corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B49842",
+			"OUISize": 24,
+			"OrgAddress": "12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China\\nshenzhen  guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "zte corporation",
+			"Source": "IEEE"
+		}
+	]
+}

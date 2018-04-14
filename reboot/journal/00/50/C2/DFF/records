@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DFF",
+			"OUISize": 36,
+			"OrgAddress": "Major, 306\\nSALT GIRONA 17190\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "TANTAL ELECTRONICA, SL",
+			"Source": "IEEE"
+		}
+	]
+}

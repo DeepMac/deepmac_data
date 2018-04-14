@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "0007BA",
+			"OUISize": 24,
+			"OrgAddress": "One Cragwood Road\\nSouth Plainfield NJ 07080\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Xebeo Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-08",
+			"EventType": "change",
+			"OUI": "0007BA",
+			"OUISize": 24,
+			"OrgAddress": "1275 Barbor Bay PKWY\\nAlameda CA 94502\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "UTStarcom, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0007BA",
+			"OUISize": 24,
+			"OrgAddress": "1275 Barbor Bay PKWY\\nAlameda  CA  94502\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "UTStarcom, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-09",
+			"EventType": "change",
+			"OUI": "0007BA",
+			"OUISize": 24,
+			"OrgAddress": "1275 Harbor Bay PKWY\\nAlameda  CA  94502\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "UTStarcom Inc",
+			"Source": "IEEE"
+		}
+	]
+}

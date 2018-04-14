@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-15",
+			"EventType": "add",
+			"OUI": "A0950C",
+			"OUISize": 24,
+			"OrgAddress": "No.8,Yuma Road, Chayuanxinqu\\nChongqing    401130\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "China Mobile IOTCompany Limited",
+			"Source": "IEEE"
+		}
+	]
+}

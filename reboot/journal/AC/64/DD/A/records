@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-06",
+			"EventType": "add",
+			"OUI": "AC64DDA",
+			"OUISize": 28,
+			"OrgAddress": "82/F, International Commerce Centre, 1 Austin Road\\nWest Kowloon    0\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Bluewave Global Manufacturing Limited",
+			"Source": "IEEE"
+		}
+	]
+}

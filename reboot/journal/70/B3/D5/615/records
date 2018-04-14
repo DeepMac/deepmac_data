@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-03",
+			"EventType": "add",
+			"OUI": "70B3D5615",
+			"OUISize": 36,
+			"OrgAddress": "10-30 Dostoevskogo Str.\\nSaint-Petersburg    191119\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "JSC OTZVUK",
+			"Source": "IEEE"
+		}
+	]
+}

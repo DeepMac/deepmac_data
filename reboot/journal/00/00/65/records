@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "000065",
+			"OUISize": 24,
+			"OrgAddress": "4200 BOHANNON DRIVE\\nMENLO PARK, CA  94025\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NETWORK GENERAL CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "000065",
+			"OUISize": 24,
+			"OrgAddress": "3965 FREEDOM CIRCLE\\nSANTA CLARA  CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NETWORK ASSOCIATES, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000065",
+			"OUISize": 24,
+			"OrgAddress": "3965 FREEDOM CIRCLE\\nSANTA CLARA CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NETWORK ASSOCIATES, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-25",
+			"EventType": "change",
+			"OUI": "000065",
+			"OUISize": 24,
+			"OrgAddress": "178 E Tsaman Dr\\nSan Jose CA 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Network General Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000065",
+			"OUISize": 24,
+			"OrgAddress": "178 E Tsaman Dr\\nSan Jose  CA  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Network General Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

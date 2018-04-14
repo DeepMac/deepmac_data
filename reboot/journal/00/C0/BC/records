@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00C0BC",
+			"OUISize": 24,
+			"OrgAddress": "LOCKED BAG 8812\\nSOUTHCOAST MAIL CENTRE\\n2521 N.S.W.\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "TELECOM AUSTRALIA/CSSC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C0BC",
+			"OUISize": 24,
+			"OrgAddress": "LOCKED BAG 8812\\nSOUTHCOAST MAIL CENTRE 2521 N.S.W.\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "TELECOM AUSTRALIA/CSSC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00C0BC",
+			"OUISize": 24,
+			"OrgAddress": "LOCKED BAG 8812\\nSOUTHCOAST MAIL CENTRE 2521 N.S.W.\\nAUSTRALIA\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "TELECOM AUSTRALIA/CSSC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00C0BC",
+			"OUISize": 24,
+			"OrgAddress": "LOCKED BAG 8812\\nSOUTHCOAST MAIL CENTRE 2521 N.S.W.\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "TELECOM AUSTRALIA/CSSC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00C0BC",
+			"OUISize": 24,
+			"OrgAddress": "LOCKED BAG 8812\\nSOUTHCOAST MAIL CENTRE 2521 N.S.W.\\nAUSTRALIA\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "TELECOM AUSTRALIA/CSSC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00C0BC",
+			"OUISize": 24,
+			"OrgAddress": "LOCKED BAG 8812\\nSOUTHCOAST MAIL CENTRE 2521 N.S.W.\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "TELECOM AUSTRALIA/CSSC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C0BC",
+			"OUISize": 24,
+			"OrgAddress": "LOCKED BAG 8812\\n\\n\\n",
+			"OrgCountry": "AU",
+			"OrgName": "TELECOM AUSTRALIA/CSSC",
+			"Source": "IEEE"
+		}
+	]
+}

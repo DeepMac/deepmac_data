@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2928",
+			"OUISize": 36,
+			"OrgAddress": "Gemuendener Str. 27\\nD-60599 Frankfurt/Main\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Cinetix GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

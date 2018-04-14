@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-20",
+			"EventType": "add",
+			"OUI": "70B3D5AA4",
+			"OUISize": 36,
+			"OrgAddress": "Parc Tecnologic BCNord\\nBarcelona  Catalonia  08042\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "Pullnet Technology,S.L.",
+			"Source": "IEEE"
+		}
+	]
+}

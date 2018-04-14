@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-09",
+			"EventType": "add",
+			"OUI": "144FD79",
+			"OUISize": 28,
+			"OrgAddress": "Plot No. G-1, Additional Ambernath Industrial Area,   MIDC Phase-2, Bohonoli\\nAmbernath,  Maharashtra  421 506\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "Emerson Network Power (India) Pvt. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

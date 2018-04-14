@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D855116",
+			"OUISize": 36,
+			"OrgAddress": "Arbyzova st. 4/26\\nNovosibirsk NSO 630117\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Uniscan LLC",
+			"Source": "IEEE"
+		}
+	]
+}

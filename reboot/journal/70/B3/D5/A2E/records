@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-11",
+			"EventType": "add",
+			"OUI": "70B3D5A2E",
+			"OUISize": 36,
+			"OrgAddress": "1022, Gyeongsu-daero, Jangan-gu\\nSuwon-si  Gyeonggi-do  16203\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Kokam Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

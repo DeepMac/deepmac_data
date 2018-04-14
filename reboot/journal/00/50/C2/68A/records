@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C268A",
+			"OUISize": 36,
+			"OrgAddress": "8/F,BlockA,Tsinghua Science Park,101 College Road,TangJia\\nZhuahi Guangdong 519080\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Zhuhai Jiahe Electronics Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

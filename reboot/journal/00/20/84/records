@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002084",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSALLEE 2\\nD-85586\\nPOING\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "OCE PRINTING SYSTEMS, GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002084",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSALLEE 2\\nD-85586 POING\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "OCE PRINTING SYSTEMS, GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002084",
+			"OUISize": 24,
+			"OrgAddress": "SIEMENSALLEE 2\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "OCE PRINTING SYSTEMS, GMBH",
+			"Source": "IEEE"
+		}
+	]
+}

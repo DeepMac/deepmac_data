@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2755",
+			"OUISize": 36,
+			"OrgAddress": "14A Srebarna Str.\\nSofia  1407\\n\\n",
+			"OrgCountry": "BULGARIA",
+			"OrgName": "Teletek Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

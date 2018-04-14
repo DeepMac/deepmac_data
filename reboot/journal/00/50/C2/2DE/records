@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22DE",
+			"OUISize": 36,
+			"OrgAddress": "650 S 79th St\\nChandler Az 85226\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Research Applications",
+			"Source": "IEEE"
+		}
+	]
+}

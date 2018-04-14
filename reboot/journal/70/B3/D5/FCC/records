@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-14",
+			"EventType": "add",
+			"OUI": "70B3D5FCC",
+			"OUISize": 36,
+			"OrgAddress": "Heinrich-Hertz-Str. 9\\nGomaringen    72810\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "DIgSILENT GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

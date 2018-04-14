@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29DF",
+			"OUISize": 36,
+			"OrgAddress": "1021-1 Kuriki Asao-ward\\nKawasaki Kanagawa 215-0033\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "CODEC Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

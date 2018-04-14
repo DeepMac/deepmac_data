@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C289A",
+			"OUISize": 36,
+			"OrgAddress": "1600 AL HWY 229 S\\nTallassee Alabama 36078\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Neptune Technology Group, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

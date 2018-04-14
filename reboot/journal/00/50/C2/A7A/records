@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A7A",
+			"OUISize": 36,
+			"OrgAddress": "1 Platinum Drive\\nLongmeadow Business Estate\\nModderfontein Gauteng 1645\\n",
+			"OrgCountry": "SOUTH AFRICA",
+			"OrgName": "DetNet South Africa PTY (LTD)",
+			"Source": "IEEE"
+		}
+	]
+}

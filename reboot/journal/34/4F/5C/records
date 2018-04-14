@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-06",
+			"EventType": "add",
+			"OUI": "344F5C",
+			"OUISize": 24,
+			"OrgAddress": "Binzstrasse 32\\nWetzikon Zurich 8620\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "R&amp;M AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "344F5C",
+			"OUISize": 24,
+			"OrgAddress": "Binzstrasse 32\\nWetzikon  Zurich  8620\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "R&amp;M AG",
+			"Source": "IEEE"
+		}
+	]
+}

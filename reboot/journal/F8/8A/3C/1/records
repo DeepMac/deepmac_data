@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-28",
+			"EventType": "add",
+			"OUI": "F88A3C1",
+			"OUISize": 28,
+			"OrgAddress": "2145 W 6th Ave\\nBroomfield  CO  80020\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Carefree of Colorado",
+			"Source": "IEEE"
+		}
+	]
+}

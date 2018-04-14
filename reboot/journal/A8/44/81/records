@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-12-04",
+			"EventType": "add",
+			"OUI": "A84481",
+			"OUISize": 24,
+			"OrgAddress": "Joensuunkatu 7\\nP.O.Box 86\\nSalo NA 24101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Nokia Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "A84481",
+			"OUISize": 24,
+			"OrgAddress": "Joensuunkatu 7\\nP.O.Box 86\\nSalo NA 24101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Nokia Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "A84481",
+			"OUISize": 24,
+			"OrgAddress": "Joensuunkatu 7\\nP.O.Box 86\\nSalo NA 24101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Nokia Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A84481",
+			"OUISize": 24,
+			"OrgAddress": "Joensuunkatu 7\\nSalo  NA  24101\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Nokia Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

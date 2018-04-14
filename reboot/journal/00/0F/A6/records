@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-04-03",
+			"EventType": "add",
+			"OUI": "000FA6",
+			"OUISize": 24,
+			"OrgAddress": "6 Abbott Road\\nWellesley MA 02481\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "S2 Security Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000FA6",
+			"OUISize": 24,
+			"OrgAddress": "6 Abbott Road\\nWellesley  MA  02481\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "S2 Security Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

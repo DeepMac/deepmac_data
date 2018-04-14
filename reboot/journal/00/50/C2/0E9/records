@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20E9",
+			"OUISize": 36,
+			"OrgAddress": "1625 W. Olympic Blvd.\\nSuite 818\\nLos Angeles CA 90015\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Smartmedia LLC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00400E",
+			"OUISize": 24,
+			"OrgAddress": "600 MCCAFFREY\\nMONTREAL, QUEBEC H4T 1N1\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MEMOTEC COMMUNICATIONS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00400E",
+			"OUISize": 24,
+			"OrgAddress": "600 MCCAFFREY\\nMONTREAL, QUEBEC H4T 1N1\\nCANADA\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MEMOTEC COMMUNICATIONS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-09-10",
+			"EventType": "change",
+			"OUI": "00400E",
+			"OUISize": 24,
+			"OrgAddress": "7755 Henri-Bourassa\\nMONTREAL, QUEBEC   H4S 1P7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MEMOTEC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "00400E",
+			"OUISize": 24,
+			"OrgAddress": "7755 Henri-Bourassa\\nMONTREAL, QUEBEC  H4S 1P7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MEMOTEC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "00400E",
+			"OUISize": 24,
+			"OrgAddress": "7755 Henri-Bourassa\\nMONTREAL, QUEBEC   H4S 1P7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MEMOTEC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "00400E",
+			"OUISize": 24,
+			"OrgAddress": "7755 Henri-Bourassa\\nMONTREAL, QUEBEC  H4S 1P7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MEMOTEC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00400E",
+			"OUISize": 24,
+			"OrgAddress": "7755 Henri-Bourassa\\nMONTREAL, QUEBEC     H4S 1P7\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "MEMOTEC, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

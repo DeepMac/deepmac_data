@@ -1,0 +1,35 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "add",
+			"OUI": "000893",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-08",
+			"EventType": "change",
+			"OUI": "000893",
+			"OUISize": 24,
+			"OrgAddress": "Rm, 4501, DA-Dong Chungang Circulation C\\n1258 Kuro Bon-Dong, Kuro-Ku,\\nSeoul  152-721\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "LE INFORMATION COMMUNICATION INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000893",
+			"OUISize": 24,
+			"OrgAddress": "Rm, 4501, DA-Dong Chungang Circulation C\\nSeoul    152-721\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LE INFORMATION COMMUNICATION INC.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-17",
+			"EventType": "add",
+			"OUI": "70B3D588D",
+			"OUISize": 36,
+			"OrgAddress": "2621, Nuambusunhwan-ro, Gangnam-gu,\\nSeoul    135-860\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LG Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001EB4",
+			"OUISize": 24,
+			"OrgAddress": "7/FLOOR SUI HONG IND. BLDG.,\\n547-549 CASTLE PEAK ROAD\\nKWAI CHUNG, N.T.\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "UNIFAT TECHNOLOGY LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001EB4",
+			"OUISize": 24,
+			"OrgAddress": "7/FLOOR, SUI HONG IND. BLDG.,\\nKWAI CHUNG  N.T.\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "UNIFAT TECHNOLOGY LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

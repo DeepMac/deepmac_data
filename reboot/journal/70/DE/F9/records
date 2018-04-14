@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-29",
+			"EventType": "add",
+			"OUI": "70DEF9",
+			"OUISize": 24,
+			"OrgAddress": "Room 19, 8F.,Corporation Park, 11 On Lai Street,Shatin,Shek Mun,N.T.Hong Kong\\nHong Kong    999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "FAI WAH INTERNATIONAL (HONG KONG) LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

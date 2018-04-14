@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-12",
+			"EventType": "add",
+			"OUI": "F8B5687",
+			"OUISize": 28,
+			"OrgAddress": "Tower 3, 33F, Unit B, Wangjing SOHO,Wangjing Street No.10\\nbeijing    100102\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CloudMinds (Shenzhen) Holdings Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "add",
+			"OUI": "001E4C",
+			"OUISize": 24,
+			"OrgAddress": "66,Chung Shan Rd.Tu-Cheng\\nTaipei Hsien 236\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Hon Hai Precision Ind.Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001E4C",
+			"OUISize": 24,
+			"OrgAddress": "66,Chung Shan Rd.Tu-Cheng\\nTaipei Hsien 236\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Hon Hai Precision Ind.Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001E4C",
+			"OUISize": 24,
+			"OrgAddress": "No.2,2nd DONGHUAN Road,10Th YouSong\\nShenZhen  GuangDong  518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hon Hai Precision Ind.Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "001E4C",
+			"OUISize": 24,
+			"OrgAddress": "No.2,2nd DONGHUAN Road,10Th YouSong\\nShenZhen  GuangDong  518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "5572",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-06",
+			"EventType": "change",
+			"OUI": "001E4C",
+			"OUISize": 24,
+			"OrgAddress": "No.2,2nd DONGHUAN Road,10Th YouSong\\nShenZhen  GuangDong  518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hon Hai Precision Ind. Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-26",
+			"EventType": "change",
+			"OUI": "001E4C",
+			"OUISize": 24,
+			"OrgAddress": "Building D21,No.1, East Zone 1st Road\\nChongqing  Chongqing  401332\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hon Hai Precision Ind. Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

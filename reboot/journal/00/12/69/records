@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-22",
+			"EventType": "add",
+			"OUI": "001269",
+			"OUISize": 24,
+			"OrgAddress": "Dong-kwan B/D, 5F, 1566-2\\nSeocho-dong, Seocho-gu\\nseoul  137-874\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Value Electronics",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001269",
+			"OUISize": 24,
+			"OrgAddress": "Dong-kwan B/D, 5F, 1566-2\\nseoul    137-874\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Value Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

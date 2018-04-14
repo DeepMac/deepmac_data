@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29FF",
+			"OUISize": 36,
+			"OrgAddress": "5070 East 'N' Ave\\nKalamazoo MI 49048\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Humphrey Products",
+			"Source": "IEEE"
+		}
+	]
+}

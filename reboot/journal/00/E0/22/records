@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E022",
+			"OUISize": 24,
+			"OrgAddress": "20 QUEEN ST. WEST,   STE#208\\nTORONTO, ONTARIO  M5H 3R3\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MEDIALIGHT INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E022",
+			"OUISize": 24,
+			"OrgAddress": "20 QUEEN ST. WEST,   STE#208\\nTORONTO, ONTARIO  M5H 3R3\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "MediaLight, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "change",
+			"OUI": "00E022",
+			"OUISize": 24,
+			"OrgAddress": "777 Bay Street\\nSuite 2303\\nToronto Ontario M5G 2C8\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Analog Devices Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E022",
+			"OUISize": 24,
+			"OrgAddress": "777 Bay Street\\nToronto  Ontario  M5G 2C8\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Analog Devices Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-18",
+			"EventType": "change",
+			"OUI": "00E022",
+			"OUISize": 24,
+			"OrgAddress": "Three Technology Way\\nNorwood   MA  02062-2666\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Analog Devices, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0030AD",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES CENTER\\n15 GUI-QING ROAD\\nSHANGHAI 200233\\n",
+			"OrgCountry": "P.R. CHINA",
+			"OrgName": "SHANGHAI COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0030AD",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES CENTER\\n15 GUI-QING ROAD SHANGHAI 200233\\n\\n",
+			"OrgCountry": "P.R. CHINA",
+			"OrgName": "SHANGHAI COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0030AD",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES CENTER\\n15 GUI-QING ROAD SHANGHAI 200233\\nP.R. CHINA\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHANGHAI COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0030AD",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES CENTER\\n15 GUI-QING ROAD SHANGHAI 200233\\nP.R.\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHANGHAI COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0030AD",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES CENTER\\n15 GUI-QING ROAD SHANGHAI 200233\\nP.R. CHINA\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHANGHAI COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0030AD",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES CENTER\\n15 GUI-QING ROAD SHANGHAI 200233\\nP.R.\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHANGHAI COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0030AD",
+			"OUISize": 24,
+			"OrgAddress": "TECHNOLOGIES CENTER\\nP.R.\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHANGHAI COMMUNICATION",
+			"Source": "IEEE"
+		}
+	]
+}

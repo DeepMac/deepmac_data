@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "0050C2EF9",
+			"OUISize": 36,
+			"OrgAddress": "rue du caducee\\nMontpellier  34000\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "HORIBA ABX",
+			"Source": "IEEE"
+		}
+	]
+}

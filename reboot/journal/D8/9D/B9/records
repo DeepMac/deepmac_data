@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-01-06",
+			"EventType": "add",
+			"OUI": "D89DB9",
+			"OUISize": 24,
+			"OrgAddress": "Room 403, No.24 Wucyuan 2nd Rd.,\\nSinjhuang City, Taipei County,  238\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "eMegatech International Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "D89DB9",
+			"OUISize": 24,
+			"OrgAddress": "Room 403, No.24 Wucyuan 2nd Rd.,\\nSinjhuang City, Taipei County,  238\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "eMegatech International Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D89DB9",
+			"OUISize": 24,
+			"OrgAddress": "Room 403, No.24 Wucyuan 2nd Rd.,\\nSinjhuang City, Taipei County,    238\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "eMegatech International Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

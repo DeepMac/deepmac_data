@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-04",
+			"EventType": "add",
+			"OUI": "34008A4",
+			"OUISize": 28,
+			"OrgAddress": "Box 733\\nSkelleftea  SE  93127\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Fotonic i Norden AB",
+			"Source": "IEEE"
+		}
+	]
+}

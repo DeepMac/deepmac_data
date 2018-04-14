@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-02",
+			"EventType": "add",
+			"OUI": "205532",
+			"OUISize": 24,
+			"OrgAddress": "Unit 2506, 25/F, Prosperity Place,6 Shing Yip Street, Kwun Tong,  Kowloon\\nHong Kong    00000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Gotech International Technology Limited",
+			"Source": "IEEE"
+		}
+	]
+}

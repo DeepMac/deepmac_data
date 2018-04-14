@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-02-02",
+			"EventType": "add",
+			"OUI": "00052A",
+			"OUISize": 24,
+			"OrgAddress": "5-6-16 Ikegami Ohta-ku,\\nTokyo\\n\\n",
+			"OrgCountry": "146-8567, JAPAN",
+			"OrgName": "Ikegami Tsushinki Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00052A",
+			"OUISize": 24,
+			"OrgAddress": "5-6-16 Ikegami Ohta-ku,\\nTokyo\\n\\n",
+			"OrgCountry": "146-8567 146-8567 JAPAN",
+			"OrgName": "Ikegami Tsushinki Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "00052A",
+			"OUISize": 24,
+			"OrgAddress": "5-6-16 Ikegami Ohta-ku,\\nTokyo\\n146-8567\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Ikegami Tsushinki Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00052A",
+			"OUISize": 24,
+			"OrgAddress": "5-6-16 Ikegami Ohta-ku,\\n146-8567\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Ikegami Tsushinki Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

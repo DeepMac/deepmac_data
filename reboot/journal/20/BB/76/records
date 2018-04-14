@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-09",
+			"EventType": "add",
+			"OUI": "20BB76",
+			"OUISize": 24,
+			"OrgAddress": "Via F.lli Ceirano n. 20\\nMoncalieri  TORINO  10024\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "COL GIOVANNI PAOLO SpA",
+			"Source": "IEEE"
+		}
+	]
+}

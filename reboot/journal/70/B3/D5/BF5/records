@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-24",
+			"EventType": "add",
+			"OUI": "70B3D5BF5",
+			"OUISize": 36,
+			"OrgAddress": "5 Butler Drive\\nHENDON  South Australia  5014\\n\\n",
+			"OrgCountry": "AU",
+			"OrgName": "Acacia Research",
+			"Source": "IEEE"
+		}
+	]
+}

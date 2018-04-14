@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2096",
+			"OUISize": 36,
+			"OrgAddress": "Teknikringen 1\\nSE-583 30 Linkoping\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Utronix Elektronikutreckling AB",
+			"Source": "IEEE"
+		}
+	]
+}

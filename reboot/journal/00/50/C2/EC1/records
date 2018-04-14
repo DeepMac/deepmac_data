@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-26",
+			"EventType": "add",
+			"OUI": "0050C2EC1",
+			"OUISize": 36,
+			"OrgAddress": "Via Giroli 76\\nGavardo (BS) 25085\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ANT Group s.r.l",
+			"Source": "IEEE"
+		}
+	]
+}

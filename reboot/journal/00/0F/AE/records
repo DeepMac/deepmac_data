@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-04-03",
+			"EventType": "add",
+			"OUI": "000FAE",
+			"OUISize": 24,
+			"OrgAddress": "52 Serangoon North Ave 4\\n#06-02 Ever Tech Building\\n555853\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "E2O Communications",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000FAE",
+			"OUISize": 24,
+			"OrgAddress": "52 Serangoon North Ave 4\\n555853\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "E2O Communications",
+			"Source": "IEEE"
+		}
+	]
+}

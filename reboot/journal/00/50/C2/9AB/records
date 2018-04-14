@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29AB",
+			"OUISize": 36,
+			"OrgAddress": "23020 Miles Road\\nBedford Heights OHIO 44128\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Electrodata Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C29AB",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 31780\\nIndependence OHIO 44131\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Electrodata Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

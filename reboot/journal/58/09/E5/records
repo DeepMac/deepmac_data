@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "5809E5",
+			"OUISize": 24,
+			"OrgAddress": "670 Sampyeong-dong, Bundang-gu\\n#320 B Uspace1\\nSeongnam City 463-400\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Kivic Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "5809E5",
+			"OUISize": 24,
+			"OrgAddress": "670 Sampyeong-dong, Bundang-gu\\n#320 B Uspace1\\nSeongnam City 463-400\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Kivic Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "5809E5",
+			"OUISize": 24,
+			"OrgAddress": "670 Sampyeong-dong, Bundang-gu\\n#320 B Uspace1\\nSeongnam City 463-400\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Kivic Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "5809E5",
+			"OUISize": 24,
+			"OrgAddress": "670 Sampyeong-dong, Bundang-gu\\nSeongnam City  463-400\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Kivic Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551D3",
+			"OUISize": 36,
+			"OrgAddress": "141, Saltykova-Schedrina Street\\nKaluga Kaluga region 248002\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Kaluga Teletypes Manufacturing Plant",
+			"Source": "IEEE"
+		}
+	]
+}

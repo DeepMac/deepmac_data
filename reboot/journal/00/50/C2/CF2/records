@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CF2",
+			"OUISize": 36,
+			"OrgAddress": "In der Gerste 2\\nLudwigsburg Baden-Wuerttemberg 71636\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Weiss Robotics GmbH &amp; Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2CF2",
+			"OUISize": 36,
+			"OrgAddress": "In der Gerste 2\\nLudwigsburg Baden-WÃ¼rttemberg 71636\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Weiss Robotics GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2CF2",
+			"OUISize": 36,
+			"OrgAddress": "In der Gerste 2\\nLudwigsburg Baden-WÃÂ¼rttemberg 71636\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Weiss Robotics GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2CF2",
+			"OUISize": 36,
+			"OrgAddress": "In der Gerste 2\\nLudwigsburg Baden-WÃ¼rttemberg 71636\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Weiss Robotics GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-19",
+			"EventType": "add",
+			"OUI": "C8662C",
+			"OUISize": 24,
+			"OrgAddress": "B1st&2nd  floor,Unit Eï¼NO.9 Building,Zhongguancun Software Park,Dongbeiwang West Road 8.Haidian District,Beijing\\nBei Jing    100094\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Haitai Fangyuan High Technology Co,.Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

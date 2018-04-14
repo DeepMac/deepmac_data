@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-12",
+			"EventType": "add",
+			"OUI": "70B3D509F",
+			"OUISize": 36,
+			"OrgAddress": "Torok Ignac u. 66.\\nGyor  Gyor-Moson-Sopron  9028\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "COMTECH Kft.",
+			"Source": "IEEE"
+		}
+	]
+}

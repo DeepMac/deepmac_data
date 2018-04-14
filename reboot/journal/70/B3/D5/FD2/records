@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-22",
+			"EventType": "add",
+			"OUI": "70B3D5FD2",
+			"OUISize": 36,
+			"OrgAddress": "DA LIAN GAN JING ZI\\nDA LIAN  LIAO NING  116033\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "DALIAN  LEVEAR ELECTRIC  CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

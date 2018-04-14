@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2708",
+			"OUISize": 36,
+			"OrgAddress": "Ziskovec 141\\nCakovec Medjimurje 40000\\n\\n",
+			"OrgCountry": "CROATIA",
+			"OrgName": "Smartek d.o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

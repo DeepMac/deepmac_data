@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-14",
+			"EventType": "add",
+			"OUI": "70B3D5BF6",
+			"OUISize": 36,
+			"OrgAddress": "Allenwindenstrasse 1\\nFlurlingen    8247\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "comtac AG",
+			"Source": "IEEE"
+		}
+	]
+}

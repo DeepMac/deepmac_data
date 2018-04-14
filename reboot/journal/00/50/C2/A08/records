@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A08",
+			"OUISize": 36,
+			"OrgAddress": "3232 S Vance St STE 100\\nLakewood CO 80227\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "LabJack Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

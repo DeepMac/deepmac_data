@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-15",
+			"EventType": "add",
+			"OUI": "70B3D533E",
+			"OUISize": 36,
+			"OrgAddress": "Unit C&D, No.201 WuXiang, Export Processing Zone A No.200Suhong Road SIP\\nSuzhou  JiangSu  215021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Dynamic Connect (Suzhou) Hi-Tech Electronic Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-12",
+			"EventType": "add",
+			"OUI": "8871E5",
+			"OUISize": 24,
+			"OrgAddress": "P.O Box 8102\\nReno  NV  89507\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Amazon Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 305 Daeha B/D\\n680 Yeoksam-Dong, KangNam-Gu\\nSeoul\\n",
+			"OrgCountry": "Korea  135-080",
+			"OrgName": "KOTT",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0005A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 305 Daeha B/D\\n680 Yeoksam-Dong, KangNam-Gu Seoul\\n\\n",
+			"OrgCountry": "Korea 135-080",
+			"OrgName": "KOTT",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0005A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 305 Daeha B/D\\n680 Yeoksam-Dong, KangNam-Gu Seoul\\n135-080\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "KOTT",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 305 Daeha B/D\\n135-080\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "KOTT",
+			"Source": "IEEE"
+		}
+	]
+}

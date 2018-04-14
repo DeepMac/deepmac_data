@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-07",
+			"EventType": "add",
+			"OUI": "0014DB",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter Strasse 11\\nPforzheim BW 75179\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Elma Trenew Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0014DB",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter StraÃe 11\\nPforzheim BW 75179\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Elma Trenew Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0014DB",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter Strasse 11\\nPforzheim BW 75179\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Elma Trenew Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0014DB",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter StraÃe 11\\nPforzheim BW 75179\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Elma Trenew Electronic GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014DB",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter StraÃe 11\\nPforzheim    75179\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Elma Trenew Electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

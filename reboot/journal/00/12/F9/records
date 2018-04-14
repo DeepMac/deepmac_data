@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-12-11",
+			"EventType": "add",
+			"OUI": "0012F9",
+			"OUISize": 24,
+			"OrgAddress": "1-2-11\\nFUKAE-MINAMI\\nHIGASHINARI-KU OSAKA 537-0002\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "URYU SEISAKU, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0012F9",
+			"OUISize": 24,
+			"OrgAddress": "1-2-11\\nHIGASHINARI-KU  OSAKA  537-0002\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "URYU SEISAKU, LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

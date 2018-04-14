@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28B3",
+			"OUISize": 36,
+			"OrgAddress": "Gruene Str. 2\\nQuerfurt Saxon-Anhalt 06268\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "VTQ Videtronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

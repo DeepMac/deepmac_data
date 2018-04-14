@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20C6",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 870\\nHermosa Beach CA 90254-0870\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Advanced Medical Information Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

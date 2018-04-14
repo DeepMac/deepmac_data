@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C202C",
+			"OUISize": 36,
+			"OrgAddress": "Unit 1A - 3751\\nNorth Fraser Way\\nBurnaby BC V5J 5G4\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Narrowband Telecommunications",
+			"Source": "IEEE"
+		}
+	]
+}

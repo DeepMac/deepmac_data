@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-02",
+			"EventType": "add",
+			"OUI": "C47C8D6",
+			"OUISize": 28,
+			"OrgAddress": "Floor 12,A build ,Shuguang Plaza, Jingshun road, Chaoyang district\\nBeijing  Beijing  100028\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HHCC Plant Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

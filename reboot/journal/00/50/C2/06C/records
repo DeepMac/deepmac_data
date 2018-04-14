@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C206C",
+			"OUISize": 36,
+			"OrgAddress": "222 Cardinal Crescent\\nSaskatcon, SK  S7L 6H8\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "WaveCom Electronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

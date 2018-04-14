@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D99",
+			"OUISize": 36,
+			"OrgAddress": "Hostaky 910/49\\nMyjava Trenciansky Kraj 90701\\n\\n",
+			"OrgCountry": "SLOVAKIA",
+			"OrgName": "T-Industry, s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

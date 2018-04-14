@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21C6",
+			"OUISize": 36,
+			"OrgAddress": "Strada Rivoltana Nuova 53\\nVignate MI 20060\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Remco Italia Spa",
+			"Source": "IEEE"
+		}
+	]
+}

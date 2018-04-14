@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2028",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 21008\\nUnit 1, Plot 60\\nGICP Gabrone\\n",
+			"OrgCountry": "BOTSWANA",
+			"OrgName": "The Frensch Corporation (Pty) Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

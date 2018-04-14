@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-12",
+			"EventType": "add",
+			"OUI": "986D352",
+			"OUISize": 28,
+			"OrgAddress": "No.6 Building, Longfu Industrial Area, Huarong Road, Tongsheng Community, Dalang Street, Longhua New District, Shenzhen, Guangdong, China\\nshenzhen  guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN FISE TECHNOLOGY HOLDING CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

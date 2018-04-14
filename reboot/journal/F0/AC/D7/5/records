@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-27",
+			"EventType": "add",
+			"OUI": "F0ACD75",
+			"OUISize": 28,
+			"OrgAddress": "Teknopark Istanbul Ar-Ge Binalari 1.Blok Pendik\\nIstanbul  Select State  34349\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "PAVO TASARIM URETIM TICARET A.S.",
+			"Source": "IEEE"
+		}
+	]
+}

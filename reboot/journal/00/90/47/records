@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "009047",
+			"OUISize": 24,
+			"OrgAddress": "14F, NO.112, SEC. 1\\nHSIN-TAI WU RD., HSICHIH\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "GIGA FAST E. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009047",
+			"OUISize": 24,
+			"OrgAddress": "14F, NO.112, SEC. 1\\nHSIN-TAI WU RD., HSICHIH TAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "GIGA FAST E. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "009047",
+			"OUISize": 24,
+			"OrgAddress": "14F, NO.112, SEC. 1\\nHSIN-TAI WU RD.\\nHsi-Chih Taipei Hsien\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GIGA FAST E. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "009047",
+			"OUISize": 24,
+			"OrgAddress": "14F, NO.112, SEC. 1\\nHSIN-TAI WU RD.\\nHsi-Chih Taipei Hsien\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "GIGA FAST E. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "009047",
+			"OUISize": 24,
+			"OrgAddress": "14F, NO.112, SEC. 1\\nHSIN-TAI WU RD.\\nHsi-Chih Taipei Hsien\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GIGA FAST E. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009047",
+			"OUISize": 24,
+			"OrgAddress": "14F, NO.112, SEC. 1\\nHsi-Chih  Taipei Hsien\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "GIGA FAST E. LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

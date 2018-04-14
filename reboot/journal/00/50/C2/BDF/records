@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BDF",
+			"OUISize": 36,
+			"OrgAddress": "Swidnicka 19/315\\nWroclaw dolnoslaskie 50-066\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "Euro-Konsult Sp. z o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

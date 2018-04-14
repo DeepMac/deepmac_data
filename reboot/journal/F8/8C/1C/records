@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "F88C1C",
+			"OUISize": 24,
+			"OrgAddress": "NO.1 FARM, HENGQIAO VILLAGE WESTï¿½ï¿½\\nMACHIKOU TOWN,CHANGPING DISTRICT\\nBEIJING  102200\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "KAISHUN ELECTRONIC TECHNOLOGY CO., LTD. BEIJING",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-15",
+			"EventType": "change",
+			"OUI": "F88C1C",
+			"OUISize": 24,
+			"OrgAddress": "NO.1 FARM, HENGQIAO VILLAGE WEST, MACHIKOU TOWN,\\nCHANGPING DISTRICT\\nBEIJING  102200\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "KAISHUN ELECTRONIC TECHNOLOGY CO., LTD. BEIJING",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F88C1C",
+			"OUISize": 24,
+			"OrgAddress": "NO.1 FARM, HENGQIAO VILLAGE WEST, MACHIKOU TOWN,\\nBEIJING    102200\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "KAISHUN ELECTRONIC TECHNOLOGY CO., LTD. BEIJING",
+			"Source": "IEEE"
+		}
+	]
+}

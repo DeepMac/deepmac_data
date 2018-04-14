@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-29",
+			"EventType": "add",
+			"OUI": "282C024",
+			"OUISize": 28,
+			"OrgAddress": "Dietla 93/6\\n\\n\\n",
+			"OrgCountry": "KrakÃ³w    31-031",
+			"OrgName": "EFENTO T P SZYDÅOWSKI K ZARÄBA SPÃÅKA JAWNA",
+			"Source": "IEEE"
+		}
+	]
+}

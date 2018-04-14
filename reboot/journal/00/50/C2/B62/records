@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B62",
+			"OUISize": 36,
+			"OrgAddress": "4211 24th Avenue West\\nSeattle WA 98199\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Measurement Technology NW",
+			"Source": "IEEE"
+		}
+	]
+}

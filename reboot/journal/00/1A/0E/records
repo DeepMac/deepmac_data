@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-02",
+			"EventType": "add",
+			"OUI": "001A0E",
+			"OUISize": 24,
+			"OrgAddress": "Junda Industry District, Dongkeng Town,Dongguan City\\nDongGuan Guang Dong 523455\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Cheng Uei Precision Industry Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A0E",
+			"OUISize": 24,
+			"OrgAddress": "Junda Industry District, Dongkeng Town,Dongguan City\\nDongGuan  Guang Dong  523455\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Cheng Uei Precision Industry Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000CB6",
+			"OUISize": 24,
+			"OrgAddress": "Nanjing changjianghoujie 6# No.5 hous 50\\nnanjing jiangsu 210018\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "NANJING SEU MOBILE & INTERNET TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-10-04",
+			"EventType": "change",
+			"OUI": "000CB6",
+			"OUISize": 24,
+			"OrgAddress": "No.5 Biulding, No.6 Changjianghoujie\\nNanjing Jiangsu 210018\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "NANJING SEU MOBILE & INTERNET TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-01-14",
+			"EventType": "change",
+			"OUI": "000CB6",
+			"OUISize": 24,
+			"OrgAddress": "5th floor,Building 5,ChangJiangHou Street No.6\\nNanjing Jiangsu 210018\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "NANJING SEU MOBILE & INTERNET TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000CB6",
+			"OUISize": 24,
+			"OrgAddress": "5th floor,Building 5,ChangJiangHou Street No.6\\nNanjing  Jiangsu  210018\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "NANJING SEU MOBILE & INTERNET TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

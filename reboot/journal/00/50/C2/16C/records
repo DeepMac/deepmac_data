@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C216C",
+			"OUISize": 36,
+			"OrgAddress": "Room 401, Library Building, Noo. 35,\\nNorth Middle 4th Ring Road,\\nBeijing  100101\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Brijing Embedor Embedded Internet Tech. Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "0050F9",
+			"OUISize": 24,
+			"OrgAddress": "70 WESTVIEW STREET\\nLEXINGTON MA 02173\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SENSORMATIC ACD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0050F9",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-07-14",
+			"EventType": "change",
+			"OUI": "0050F9",
+			"OUISize": 24,
+			"OrgAddress": "70 WESTVIEW STREET\\nLEXINGTON MA 02173\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SENSORMATIC ACD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-20",
+			"EventType": "change",
+			"OUI": "0050F9",
+			"OUISize": 24,
+			"OrgAddress": "1501 Yamato Rd\\nBoca Raton FL 33431\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Sensormatic Electronics LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050F9",
+			"OUISize": 24,
+			"OrgAddress": "1501 Yamato Rd\\nBoca Raton  FL  33431\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Sensormatic Electronics LLC",
+			"Source": "IEEE"
+		}
+	]
+}

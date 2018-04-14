@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2687",
+			"OUISize": 36,
+			"OrgAddress": "10255 Inver Grove Trail\\nInver Grove Heights MN 55077\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Access Specialties, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

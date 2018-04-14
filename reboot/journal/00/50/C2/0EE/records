@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20EE",
+			"OUISize": 36,
+			"OrgAddress": "626 Fishers Run\\nVictor NY 14564\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Industrial Indexing Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

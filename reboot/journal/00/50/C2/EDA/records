@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2EDA",
+			"OUISize": 36,
+			"OrgAddress": "42, Varshavskoye Shosse,\\nMoscow region 115230\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Joint Stock Company \"Svyaz Inginiring M\"",
+			"Source": "IEEE"
+		}
+	]
+}

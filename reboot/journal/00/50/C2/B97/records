@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B97",
+			"OUISize": 36,
+			"OrgAddress": "jm arizmendiarrieta, 2\\nmondragon guipuzcoa 20500\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "ikerlan",
+			"Source": "IEEE"
+		}
+	]
+}

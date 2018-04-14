@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-24",
+			"EventType": "add",
+			"OUI": "D0DFB2",
+			"OUISize": 24,
+			"OrgAddress": "5F, No.15, Lane 360\\nSec., 1, Neihu Road\\nTaipei  114\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Genie Networks Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D0DFB2",
+			"OUISize": 24,
+			"OrgAddress": "5F, No.15, Lane 360, Sec., 1, Neihu Road,\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Genie Networks Limited",
+			"Source": "IEEE"
+		}
+	]
+}

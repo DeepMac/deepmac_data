@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-20",
+			"EventType": "add",
+			"OUI": "F03A55",
+			"OUISize": 24,
+			"OrgAddress": "Ege Serbest Bolgesi\\nIzmir  35410\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "Omega Elektronik AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F03A55",
+			"OUISize": 24,
+			"OrgAddress": "Ege Serbest Bolgesi\\nIzmir    35410\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Omega Elektronik AS",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2981",
+			"OUISize": 36,
+			"OrgAddress": "Baeumenheimer Strasse 3\\nMertingen Bavaria 86690\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Novotronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

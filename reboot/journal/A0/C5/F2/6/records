@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-07",
+			"EventType": "add",
+			"OUI": "A0C5F26",
+			"OUISize": 28,
+			"OrgAddress": "Room 1701 Unit B2,Kexing Science Park,Keyuan Road\\nShenZhen  NanShan  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ShenZhen JuWangShi Tech",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-17",
+			"EventType": "add",
+			"OUI": "604762",
+			"OUISize": 24,
+			"OrgAddress": "Room 2807, Building 1B, Wangjing SOHO, No10 Wangjing Street, Chaoyang District, Beijing, China\\nBeijing  Beijing  100102 PRC\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Sensoro Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

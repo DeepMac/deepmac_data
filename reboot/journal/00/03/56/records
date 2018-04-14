@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000356",
+			"OUISize": 24,
+			"OrgAddress": "Heinz-Nixdorf Ring 1\\nD-33094 Paderborn\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Wincor Nixdorf GmbH & Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "000356",
+			"OUISize": 24,
+			"OrgAddress": "Heinz-Nixdorf Ring 1\\nPaderborn  D-33106\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Wincor Nixdorf International GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "000356",
+			"OUISize": 24,
+			"OrgAddress": "Heinz-Nixdorf Ring 1\\nD-33106 Paderborn\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Wincor Nixdorf International GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000356",
+			"OUISize": 24,
+			"OrgAddress": "Heinz-Nixdorf Ring 1\\nD-33106  Paderborn\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Wincor Nixdorf International GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

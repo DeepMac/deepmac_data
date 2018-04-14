@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2ED2",
+			"OUISize": 36,
+			"OrgAddress": "Postweg 14\\nErwitte NRW 59597\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Klangspektrum GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

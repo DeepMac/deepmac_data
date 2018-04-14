@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-02",
+			"EventType": "add",
+			"OUI": "001248",
+			"OUISize": 24,
+			"OrgAddress": "226 Airport Parkway, Suite 630\\nSan Jose CA 95110\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Kashya Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "change",
+			"OUI": "001248",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton MA 01748\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EMC Corporation (Kashya)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001248",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton  MA  01748\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "EMC Corporation (Kashya)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-27",
+			"EventType": "change",
+			"OUI": "001248",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton  MA  01748\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell EMC",
+			"Source": "IEEE"
+		}
+	]
+}

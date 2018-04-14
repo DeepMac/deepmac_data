@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "add",
+			"OUI": "001BAC",
+			"OUISize": 24,
+			"OrgAddress": "10201 Wateridge Circle\\nSuite 300\\nSan Diego CA 92121\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Curtiss Wright Controls Embedded Computing",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BAC",
+			"OUISize": 24,
+			"OrgAddress": "10201 Wateridge Circle\\nSan Diego  CA  92121\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Curtiss Wright Controls Embedded Computing",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-21",
+			"EventType": "add",
+			"OUI": "98AAFC2",
+			"OUISize": 28,
+			"OrgAddress": "Bï¼4-4Factory,Zhengcheng Road, Fuyong Baoan District,\\nShenzhen    518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen UniStrong Science & Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

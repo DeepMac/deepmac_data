@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29FC",
+			"OUISize": 36,
+			"OrgAddress": "632 Rancho Vista Blvd\\nSuite A\\nPalmdale California 93550\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ECTEC INC.",
+			"Source": "IEEE"
+		}
+	]
+}

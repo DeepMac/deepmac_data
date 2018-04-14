@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B0E",
+			"OUISize": 36,
+			"OrgAddress": "Aurorum 6\\nLulea Norrbotten 97775\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "KYAB Lulea AB",
+			"Source": "IEEE"
+		}
+	]
+}

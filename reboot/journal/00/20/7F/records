@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00207F",
+			"OUISize": 24,
+			"OrgAddress": "DIR. & GEN'L MGR.IND. SYSTEMS\\n20-4, SHOTO 2-CHOME\\nSHIBUYA-KU\\n",
+			"OrgCountry": "TOKYO",
+			"OrgName": "KYOEI SANGYO CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00207F",
+			"OUISize": 24,
+			"OrgAddress": "DIR. & GEN'L MGR.IND. SYSTEMS\\n20-4, SHOTO 2-CHOME SHIBUYA-KU\\n\\n",
+			"OrgCountry": "TOKYO",
+			"OrgName": "KYOEI SANGYO CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00207F",
+			"OUISize": 24,
+			"OrgAddress": "DIR. & GEN'L MGR.IND. SYSTEMS\\n20-4, SHOTO 2-CHOME SHIBUYA-KU\\nTOKYO\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KYOEI SANGYO CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00207F",
+			"OUISize": 24,
+			"OrgAddress": "DIR. & GEN'L MGR.IND. SYSTEMS\\nTOKYO\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KYOEI SANGYO CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

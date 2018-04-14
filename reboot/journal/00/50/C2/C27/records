@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C27",
+			"OUISize": 36,
+			"OrgAddress": "Valby Langgade 142, 1.\\nValby DK 2500\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Qtechnology A/S",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-05-25",
+			"EventType": "add",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-Gï¿½ring-Straï¿½e 16\\nKarlsbad Baden-Wï¿½rttemberg 76307\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-GÃ¶ring-StraÃe 16\\nKarlsbad Baden-WÃ¼rttemberg 76307\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-Göring-Straße 16\\nKarlsbad Baden-Württemberg 76307\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-GÃÂÃÂ¶ring-StraÃÂÃÂ¸e 16\\nKarlsbad Baden-WÃÂÃÂ¼rttemberg 76307\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-GÃ¶ring-StraÃe 16\\nKarlsbad Baden-WÃ¼rttemberg 76307\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-GÃ¶ring-StraÃe 16\\nKarlsbad  Baden-WÃ¼rttemberg  76307\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-26",
+			"EventType": "change",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-GÃ¶ring-StraÃe 16\\n\\n\\n",
+			"OrgCountry": "Karlsbad  Baden-WÃ¼rttemberg  76307",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-28",
+			"EventType": "change",
+			"OUI": "9CDF03",
+			"OUISize": 24,
+			"OrgAddress": "Becker-GÃ¶ring-StraÃe 16\\nKarlsbad  Baden-WÃ¼rttemberg  76307\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Harman/Becker Automotive Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

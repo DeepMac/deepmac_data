@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E98",
+			"OUISize": 24,
+			"OrgAddress": "dba ClearCom Communications\\n4065 Hollis St.\\nEmeryVille California 94608-3505\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Vitec CC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-01-07",
+			"EventType": "change",
+			"OUI": "000E98",
+			"OUISize": 24,
+			"OrgAddress": "dba ClearCom Communications\\n850 Marina Village Parkway\\nAlameda California 94501\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Vitec CC, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-04-21",
+			"EventType": "change",
+			"OUI": "000E98",
+			"OUISize": 24,
+			"OrgAddress": "7400 Beach Drive\\nWaterbeach\\nCambridgeshire  CB25 9TP\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "HME Clear-Com LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E98",
+			"OUISize": 24,
+			"OrgAddress": "7400 Beach Drive\\nCambridgeshire    CB25 9TP\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "HME Clear-Com LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

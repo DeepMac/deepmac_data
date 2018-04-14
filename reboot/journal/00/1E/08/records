@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "add",
+			"OUI": "001E08",
+			"OUISize": 24,
+			"OrgAddress": "Science Plaza 10F , 328 Airport Rd\\nSuzhou Industrial Park\\nSuzhou Jiangsu 215021\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Centec Networks Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001E08",
+			"OUISize": 24,
+			"OrgAddress": "Suite 4F-13/16, Building B, No.5 Xing Han Street\\nSuzhou Industrial Park\\nSuzhou Jiangsu 215021\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Centec Networks Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001E08",
+			"OUISize": 24,
+			"OrgAddress": "Suite 4F-13/16, Building B, No.5 Xing Han Street\\nSuzhou  Jiangsu  215021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Centec Networks Inc",
+			"Source": "IEEE"
+		}
+	]
+}

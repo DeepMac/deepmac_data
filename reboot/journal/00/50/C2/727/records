@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2727",
+			"OUISize": 36,
+			"OrgAddress": "Gueterstrasse 2\\nDieburg  64807\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Pelweckyj Videotechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

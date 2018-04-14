@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-17",
+			"EventType": "add",
+			"OUI": "CCD31E3",
+			"OUISize": 28,
+			"OrgAddress": "BÃ¸gebjergvej 60\\nBrobyvÃ¦rk  Denmark  5672\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "KEN A/S",
+			"Source": "IEEE"
+		}
+	]
+}

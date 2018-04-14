@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-05-27",
+			"EventType": "add",
+			"OUI": "106F3F",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg.,30-20\\nOhsu 3-chome,Naka-ku\\nNagoya Aichi 460-8315\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "BUFFALO INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "change",
+			"OUI": "106F3F",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg.,30-20\\nOhsu 3-chome,Naka-ku\\nNagoya Aichi 460-8315\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Buffalo Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "106F3F",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg., 30-20,Ohsu 3-chome\\nNaka-ku,Nagoya Aichi Pref. 460-8315\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Buffalo Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "106F3F",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg., 30-20,Ohsu 3-chome\\nNaka-ku,Nagoya  Aichi Pref.  460-8315\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Buffalo Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-10",
+			"EventType": "change",
+			"OUI": "106F3F",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg., 30-20,Ohsu 3-chome\\nNaka-ku,Nagoya  Aichi Pref.  460-8315\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "BUFFALO.INC",
+			"Source": "IEEE"
+		}
+	]
+}

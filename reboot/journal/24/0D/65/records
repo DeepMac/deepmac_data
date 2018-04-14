@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-22",
+			"EventType": "add",
+			"OUI": "240D65",
+			"OUISize": 24,
+			"OrgAddress": "3/F., 19 Block, Wisdomland Business Park, No.2 Nantou Gateway Road, Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Vsun Communication Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

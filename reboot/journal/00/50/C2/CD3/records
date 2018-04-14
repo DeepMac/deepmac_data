@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CD3",
+			"OUISize": 36,
+			"OrgAddress": "Strandvejen 2A\\nRoende  8410\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Covidence A/S",
+			"Source": "IEEE"
+		}
+	]
+}

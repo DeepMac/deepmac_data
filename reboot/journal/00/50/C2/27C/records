@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C227C",
+			"OUISize": 36,
+			"OrgAddress": "23700 Research Dr.\\nFarmington Hills MI 48335\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Danlaw Inc",
+			"Source": "IEEE"
+		}
+	]
+}

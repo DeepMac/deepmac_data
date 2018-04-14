@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-08-19",
+			"EventType": "add",
+			"OUI": "B4B5AF",
+			"OUISize": 24,
+			"OrgAddress": "Mega-valley #620\\nDongan-gu Gwanyang-dong, 799\\nAnyang-si Kyeonggi-do 431-767\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Minsung Electronics",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B4B5AF",
+			"OUISize": 24,
+			"OrgAddress": "Mega-valley #620\\nAnyang-si  Kyeonggi-do  431-767\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Minsung Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

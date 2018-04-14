@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00D0BF",
+			"OUISize": 24,
+			"OrgAddress": "70 S. LAKE AVENUE - STE. #900\\nPASADENA  CA  91101\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PIVOTAL TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00D0BF",
+			"OUISize": 24,
+			"OrgAddress": "70 S. LAKE AVENUE - STE. #900\\nPASADENA CA 91101\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PIVOTAL TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00D0BF",
+			"OUISize": 24,
+			"OrgAddress": "70 S. LAKE AVENUE - STE. #900\\nPASADENA  CA  91101\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "PIVOTAL TECHNOLOGIES",
+			"Source": "IEEE"
+		}
+	]
+}

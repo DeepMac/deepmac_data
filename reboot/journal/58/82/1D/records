@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "add",
+			"OUI": "58821D",
+			"OUISize": 24,
+			"OrgAddress": "Heidestr. 183\\nKÃ¶ln    51147\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "H. SchomÃ¤cker GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

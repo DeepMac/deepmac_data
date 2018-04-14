@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-09-25",
+			"EventType": "add",
+			"OUI": "001999",
+			"OUISize": 24,
+			"OrgAddress": "Buergermeister-Ulrich-Strasse 100\\nAugsburg  86199\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Fujitsu Siemens Computers",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "001999",
+			"OUISize": 24,
+			"OrgAddress": "Buergermeister-Ulrich-Strasse 100\\nAugsburg  86199\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Fujitsu Technology Solutions",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001999",
+			"OUISize": 24,
+			"OrgAddress": "Buergermeister-Ulrich-Strasse 100\\nAugsburg    86199\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Fujitsu Technology Solutions",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-07",
+			"EventType": "change",
+			"OUI": "001999",
+			"OUISize": 24,
+			"OrgAddress": "Buergermeister-Ulrich-Strasse 100\\nAugsburg    86199\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Fujitsu Technology Solutions GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

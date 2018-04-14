@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2409",
+			"OUISize": 36,
+			"OrgAddress": "13 Giborei Israel ST\\nNetanya  P.O BOX 8709\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "KTEC LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "001042",
+			"OUISize": 24,
+			"OrgAddress": "888 NORTH FIRST ST. - STE.#302\\nSAN JOSE  CA  95112\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ALACRITECH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001042",
+			"OUISize": 24,
+			"OrgAddress": "888 NORTH FIRST ST. - STE.#302\\nSAN JOSE CA 95112\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ALACRITECH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001042",
+			"OUISize": 24,
+			"OrgAddress": "888 NORTH FIRST ST. - STE.#302\\nSAN JOSE CA 95112\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AlacriTech",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-06-01",
+			"EventType": "change",
+			"OUI": "001042",
+			"OUISize": 24,
+			"OrgAddress": "234 East Gish Road\\nSan Jose CA 95112\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "AlacriTech",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-10-22",
+			"EventType": "change",
+			"OUI": "001042",
+			"OUISize": 24,
+			"OrgAddress": "1995 N. First Street\\nSuite 200\\nSan Jose CA 95112\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Alacritech, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001042",
+			"OUISize": 24,
+			"OrgAddress": "1995 N. First Street\\nSan Jose  CA  95112\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Alacritech, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

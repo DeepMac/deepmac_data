@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00016C",
+			"OUISize": 24,
+			"OrgAddress": "6125 Phyllis Drive\\nCypress  CA  90630\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FOXCONN",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00016C",
+			"OUISize": 24,
+			"OrgAddress": "6125 Phyllis Drive\\nCypress CA 90630\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FOXCONN",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "00016C",
+			"OUISize": 24,
+			"OrgAddress": "105 S Puente St.\\nBrea CA 92821\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FOXCONN",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00016C",
+			"OUISize": 24,
+			"OrgAddress": "105 S Puente St.\\nBrea  CA  92821\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "FOXCONN",
+			"Source": "IEEE"
+		}
+	]
+}

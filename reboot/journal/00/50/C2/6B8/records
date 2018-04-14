@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃ¯Â¿Â½joki EtelÃ¯Â¿Â½-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃ¤joki EtelÃ¤-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinäjoki Etelä-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃ¤joki EtelÃ¤-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinäjoki Etelä-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃ¤joki EtelÃ¤-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃÂÃÂ¤joki EtelÃÂÃÂ¤-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃ¤joki EtelÃ¤-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃÂ¤joki EtelÃÂ¤-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C26B8",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 194\\nMatinkatu 6\\nSeinÃ¤joki EtelÃ¤-Pohjanmaa 60101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Epec Oy",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "add",
+			"OUI": "40D855078",
+			"OUISize": 36,
+			"OrgAddress": "1-1-1 Fujikoshi honmachi\\nToyama 930-8511\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "NACHI-FUJIKOSHI CORP",
+			"Source": "IEEE"
+		}
+	]
+}

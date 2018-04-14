@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-01-24",
+			"EventType": "add",
+			"OUI": "0004D9",
+			"OUISize": 24,
+			"OrgAddress": "Rm 7, 11 Fl., No. 398,\\nHuan-Pei Road, Chung-Li,\\n\\n",
+			"OrgCountry": "Taoyuan, TAIWAN",
+			"OrgName": "Titan Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0004D9",
+			"OUISize": 24,
+			"OrgAddress": "Rm 7, 11 Fl., No. 398,\\nHuan-Pei Road, Chung-Li,\\n\\n",
+			"OrgCountry": "Taoyuan Taoyuan TAIWAN",
+			"OrgName": "Titan Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0004D9",
+			"OUISize": 24,
+			"OrgAddress": "Rm 7, 11 Fl., No. 398,\\nHuan-Pei Road, Chung-Li,\\nTaoyuan Taoyuan TAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Titan Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0004D9",
+			"OUISize": 24,
+			"OrgAddress": "Rm 7, 11 Fl., No. 398,\\nHuan-Pei Road, Chung-Li,\\nTaoyuan Taoyuan TAIWAN\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Titan Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0004D9",
+			"OUISize": 24,
+			"OrgAddress": "Rm 7, 11 Fl., No. 398,\\nHuan-Pei Road, Chung-Li,\\nTaoyuan Taoyuan TAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Titan Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0004D9",
+			"OUISize": 24,
+			"OrgAddress": "Rm 7, 11 Fl., No. 398,\\nTaoyuan  Taoyuan  TAIWAN\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Titan Electronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

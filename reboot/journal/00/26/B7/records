@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-07-01",
+			"EventType": "add",
+			"OUI": "0026B7",
+			"OUISize": 24,
+			"OrgAddress": "17600 Newhope St.\\nFountain Valley CA 92708\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Kingston Technology Company, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0026B7",
+			"OUISize": 24,
+			"OrgAddress": "17600 Newhope St.\\nFountain Valley  CA  92708\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Kingston Technology Company, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

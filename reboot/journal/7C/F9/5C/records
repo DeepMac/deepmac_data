@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-27",
+			"EventType": "add",
+			"OUI": "7CF95C",
+			"OUISize": 24,
+			"OrgAddress": "Schulze-Delitzsch-Strasse 25\\nStuttgart    70565\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "U.I. Lapp GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

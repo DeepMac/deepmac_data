@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-12",
+			"EventType": "add",
+			"OUI": "70B3D55FB",
+			"OUISize": 36,
+			"OrgAddress": "2-ya Roshchinskaya street, 4,office I-8\\nMoscow    115191\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "TELEPLATFORMS",
+			"Source": "IEEE"
+		}
+	]
+}

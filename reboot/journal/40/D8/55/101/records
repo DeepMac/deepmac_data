@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-28",
+			"EventType": "add",
+			"OUI": "40D855101",
+			"OUISize": 36,
+			"OrgAddress": "Via Ungaretti 2\\nBULGAROGRASSO COMO 22070\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "e.p.g. Elettronica Srl",
+			"Source": "IEEE"
+		}
+	]
+}

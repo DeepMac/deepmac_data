@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2263",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 86\\nTiilenlyojankatu 5\\nFORSSA  FIN-30101\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Vansco Electronics Oy",
+			"Source": "IEEE"
+		}
+	]
+}

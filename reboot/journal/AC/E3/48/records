@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-06",
+			"EventType": "add",
+			"OUI": "ACE348",
+			"OUISize": 24,
+			"OrgAddress": "879 Maple St\\nContoocook NH 03229\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MadgeTech, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "ACE348",
+			"OUISize": 24,
+			"OrgAddress": "879 Maple St\\nContoocook  NH  03229\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "MadgeTech, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

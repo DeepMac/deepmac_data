@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-02",
+			"EventType": "add",
+			"OUI": "001241",
+			"OUISize": 24,
+			"OrgAddress": "1024-4  Duksan Bldg Bangbaedong Seochogu Seoul Korea\\nSEOUL  137-060\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "a2i marketing center",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001241",
+			"OUISize": 24,
+			"OrgAddress": "1024-4  Duksan Bldg Bangbaedong Seochogu Seoul Korea\\nSEOUL    137-060\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "a2i marketing center",
+			"Source": "IEEE"
+		}
+	]
+}

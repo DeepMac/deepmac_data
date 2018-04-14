@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-12-07",
+			"EventType": "add",
+			"OUI": "241A8C",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 13 Nydalen\\nOslo  NO-0410\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Squarehead Technology AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "241A8C",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 13 Nydalen\\nOslo    NO-0410\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Squarehead Technology AS",
+			"Source": "IEEE"
+		}
+	]
+}

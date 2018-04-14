@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-05",
+			"EventType": "add",
+			"OUI": "ECB541",
+			"OUISize": 24,
+			"OrgAddress": "5511-6 Wada\\nMatsumoto City Nagano 390-1242\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SHINANO E and E Co.Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "ECB541",
+			"OUISize": 24,
+			"OrgAddress": "5511-6 Wada\\nMatsumoto City  Nagano  390-1242\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "SHINANO E and E Co.Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

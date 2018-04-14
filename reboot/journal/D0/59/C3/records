@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-05-18",
+			"EventType": "add",
+			"OUI": "D059C3",
+			"OUISize": 24,
+			"OrgAddress": "4F, No. 16-1, Sec. 6, Mingcyuan East Road\\nNeihu District\\nTaipei  114\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "CeraMicro Technology Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "D059C3",
+			"OUISize": 24,
+			"OrgAddress": "4F, No. 16-1, Sec. 6, Mingcyuan East Road\\nNeihu District\\nTaipei  114\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CeraMicro Technology Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D059C3",
+			"OUISize": 24,
+			"OrgAddress": "4F, No. 16-1, Sec. 6, Mingcyuan East Road\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CeraMicro Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

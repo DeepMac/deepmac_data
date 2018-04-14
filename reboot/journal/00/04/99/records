@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "000499",
+			"OUISize": 24,
+			"OrgAddress": "1 Mori, Fujioka City,\\nGunma Pref. JAPAN\\n\\n",
+			"OrgCountry": "Zip:  375-8505",
+			"OrgName": "Chino Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000499",
+			"OUISize": 24,
+			"OrgAddress": "1 Mori, Fujioka City,\\nGunma Pref. JAPAN\\n\\n",
+			"OrgCountry": "Zip: 375-8505",
+			"OrgName": "Chino Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000499",
+			"OUISize": 24,
+			"OrgAddress": "1 Mori, Fujioka City,\\nGunma Pref. JAPAN\\nZip: 375-8505\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Chino Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000499",
+			"OUISize": 24,
+			"OrgAddress": "1 Mori, Fujioka City,\\nZip:  375-8505\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Chino Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

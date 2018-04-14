@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-29",
+			"EventType": "add",
+			"OUI": "001A51",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 905\\nSanta Clarita CA 91380-9005\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Alfred Mann Foundation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A51",
+			"OUISize": 24,
+			"OrgAddress": "P.O. Box 905\\nSanta Clarita  CA  91380-9005\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Alfred Mann Foundation",
+			"Source": "IEEE"
+		}
+	]
+}

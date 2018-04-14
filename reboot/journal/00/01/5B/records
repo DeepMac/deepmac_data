@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00015B",
+			"OUISize": 24,
+			"OrgAddress": "20019 Cast.Settimo M.se (MI)\\n\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ITALTEL S.p.A/RF-UP-I",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00015B",
+			"OUISize": 24,
+			"OrgAddress": "20019 Cast.Settimo M.se (MI)\\nITALY\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ITALTEL S.p.A/RF-UP-I",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00015B",
+			"OUISize": 24,
+			"OrgAddress": "20019 Cast.Settimo M.se (MI)\\n\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ITALTEL S.p.A/RF-UP-I",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00015B",
+			"OUISize": 24,
+			"OrgAddress": "20019 Cast.Settimo M.se (MI)\\nITALY\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ITALTEL S.p.A/RF-UP-I",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00015B",
+			"OUISize": 24,
+			"OrgAddress": "20019 Cast.Settimo M.se (MI)\\n\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ITALTEL S.p.A/RF-UP-I",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00015B",
+			"OUISize": 24,
+			"OrgAddress": "20019 Cast.Settimo M.se (MI)\\n\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "ITALTEL S.p.A/RF-UP-I",
+			"Source": "IEEE"
+		}
+	]
+}

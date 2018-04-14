@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0090F5",
+			"OUISize": 24,
+			"OrgAddress": "35, WU-GON 6TH ROAD\\nWU-KU INDUSTRIAL PARK\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "CLEVO CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0090F5",
+			"OUISize": 24,
+			"OrgAddress": "35, WU-GON 6TH ROAD\\nWU-KU INDUSTRIAL PARK TAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "CLEVO CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0090F5",
+			"OUISize": 24,
+			"OrgAddress": "35, WU-GON 6TH ROAD\\nWU-KU INDUSTRIAL PARK\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CLEVO CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0090F5",
+			"OUISize": 24,
+			"OrgAddress": "35, WU-GON 6TH ROAD\\nWU-KU INDUSTRIAL PARK\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "CLEVO CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0090F5",
+			"OUISize": 24,
+			"OrgAddress": "35, WU-GON 6TH ROAD\\nWU-KU INDUSTRIAL PARK\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "CLEVO CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0090F5",
+			"OUISize": 24,
+			"OrgAddress": "35, WU-GON 6TH ROAD\\nTAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CLEVO CO.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EB2",
+			"OUISize": 36,
+			"OrgAddress": "6-6,Aza-Kamibukuro,Syakanai\\nOhdate Akita 017-0012\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Otaki Electric Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

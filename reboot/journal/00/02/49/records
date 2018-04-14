@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000249",
+			"OUISize": 24,
+			"OrgAddress": "962-5, Kwanyang-Dong, Dongan-Gu,\\nAnyang-City, Kyungki-Do, 431-060\\n\\n",
+			"OrgCountry": "Korea (ROK)",
+			"OrgName": "Aviv Infocom Co, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000249",
+			"OUISize": 24,
+			"OrgAddress": "962-5, Kwanyang-Dong, Dongan-Gu,\\nAnyang-City, Kyungki-Do, 431-060\\nKorea (ROK)\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Aviv Infocom Co, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000249",
+			"OUISize": 24,
+			"OrgAddress": "962-5, Kwanyang-Dong, Dongan-Gu,\\nKorea  (ROK)\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Aviv Infocom Co, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

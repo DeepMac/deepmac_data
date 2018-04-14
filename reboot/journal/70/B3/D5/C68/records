@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-20",
+			"EventType": "add",
+			"OUI": "70B3D5C68",
+			"OUISize": 36,
+			"OrgAddress": "2-98-85, Yarimizu\\nHachiouji  Toyko  1920375\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Mini Solution Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

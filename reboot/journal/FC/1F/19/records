@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-16",
+			"EventType": "add",
+			"OUI": "FC1F19",
+			"OUISize": 24,
+			"OrgAddress": "314, Maetan3-Dong, Yeongtong-Gu\\nSUWON GYUNGGI-DO 443-743\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "SAMSUNG ELECTRO-MECHANICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "FC1F19",
+			"OUISize": 24,
+			"OrgAddress": "314, Maetan3-Dong, Yeongtong-Gu\\nSuwon  Gyunggi-Do  443-743\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SAMSUNG ELECTRO-MECHANICS CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-25",
+			"EventType": "change",
+			"OUI": "FC1F19",
+			"OUISize": 24,
+			"OrgAddress": "314, Maetan3-Dong, Yeongtong-Gu\\nSuwon  Gyunggi-Do  443-743\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SAMSUNG ELECTRO MECHANICS CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

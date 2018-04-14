@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-30",
+			"EventType": "add",
+			"OUI": "741AE07",
+			"OUISize": 28,
+			"OrgAddress": "Luppmenstrasse 3\\nFehraltorf     8320\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "BÃR Bahnsicherung AG",
+			"Source": "IEEE"
+		}
+	]
+}

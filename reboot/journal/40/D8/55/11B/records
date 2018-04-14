@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D85511B",
+			"OUISize": 36,
+			"OrgAddress": "Werkstrasse 27\\nLyss Bern 3250\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "nanoTRONIC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

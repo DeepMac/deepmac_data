@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-03",
+			"EventType": "add",
+			"OUI": "A0094C",
+			"OUISize": 24,
+			"OrgAddress": "100 CenturyLink Drive\\nMonroe    71203\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CenturyLink",
+			"Source": "IEEE"
+		}
+	]
+}

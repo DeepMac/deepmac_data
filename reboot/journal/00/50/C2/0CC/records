@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20CC",
+			"OUISize": 36,
+			"OrgAddress": "Technical Center\\nChuko Build. 5F 4-12-3\\nShimoyamatedori Chuoku Kobe Hyogo\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "AlphaMedia Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "40D85502E",
+			"OUISize": 36,
+			"OrgAddress": "Rua Gustavo Zimmermann, 2431\\nItoupava Central\\nBlumenau Santa Catarina 89062-100\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Circuitec Ind. Equip. Eletr. Ltda",
+			"Source": "IEEE"
+		}
+	]
+}

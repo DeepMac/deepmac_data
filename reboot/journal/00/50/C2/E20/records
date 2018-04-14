@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E20",
+			"OUISize": 36,
+			"OrgAddress": "9778 Mount Gilead Road\\nFredericktown OH 43019\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Divelbiss Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

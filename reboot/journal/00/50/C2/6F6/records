@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26F6",
+			"OUISize": 36,
+			"OrgAddress": "Smedsvingen 4B\\nHvalstad Asker 1395\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "AV SatCom AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C26F6",
+			"OUISize": 36,
+			"OrgAddress": "Martin Linges v 25\\nP.O.Box 1\\nFornebu BÃ¦rum 1364\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "AV SatCom AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C26F6",
+			"OUISize": 36,
+			"OrgAddress": "Martin Linges v 25\\nP.O.Box 1\\nFornebu BÃÂ¦rum 1364\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "AV SatCom AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C26F6",
+			"OUISize": 36,
+			"OrgAddress": "Martin Linges v 25\\nP.O.Box 1\\nFornebu BÃ¦rum 1364\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "AV SatCom AS",
+			"Source": "IEEE"
+		}
+	]
+}

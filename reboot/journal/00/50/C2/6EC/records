@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26EC",
+			"OUISize": 36,
+			"OrgAddress": "275 Michael Cowpland Drive\\nSuite 200\\nKanata Ontario K2M 2G2\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Netistix Technologies Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

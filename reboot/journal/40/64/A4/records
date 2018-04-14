@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-26",
+			"EventType": "add",
+			"OUI": "4064A4",
+			"OUISize": 24,
+			"OrgAddress": "2-2-3,Marunouchi\\nChiyoda-ku  Tokyo  100-8322\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "THE FURUKAWA ELECTRIC CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

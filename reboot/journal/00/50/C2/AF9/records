@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AF9",
+			"OUISize": 36,
+			"OrgAddress": "St.Poeltener Str. 70\\nStuttgart BW 70469\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Ingenieurbuero Bickele und Buehler GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

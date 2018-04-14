@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-09",
+			"EventType": "add",
+			"OUI": "0050C2F85",
+			"OUISize": 36,
+			"OrgAddress": "830 Canning Parkway\\nVictor NY 14564\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Enetics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

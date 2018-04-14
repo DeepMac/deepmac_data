@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-26",
+			"EventType": "add",
+			"OUI": "A4D8CA",
+			"OUISize": 24,
+			"OrgAddress": "RM B-C, 24/F, GOLDEN BEAR INDUSTRIAL CENTRE, 66-82  CHAI WAN KOK STREET,TSUEN WAN. N.T.\\nHong Kong    999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "HONG KONG WATER WORLD TECHNOLOGY CO. LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

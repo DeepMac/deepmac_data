@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-11",
+			"EventType": "add",
+			"OUI": "DC3752",
+			"OUISize": 24,
+			"OrgAddress": "650 Markland Street\\nMarkham  Ontario  L6C 0M1\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "GE",
+			"Source": "IEEE"
+		}
+	]
+}

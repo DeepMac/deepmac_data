@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "00236B",
+			"OUISize": 24,
+			"OrgAddress": "1050 Highland Dr\\nSuite E\\nAnn Arbor MI 48108\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Xembedded, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00236B",
+			"OUISize": 24,
+			"OrgAddress": "1050 Highland Dr\\nAnn Arbor  MI  48108\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Xembedded, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

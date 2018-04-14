@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-12",
+			"EventType": "add",
+			"OUI": "ACD9D6",
+			"OUISize": 24,
+			"OrgAddress": "Ludwig-Rinn-Straï¿½e 10-14\\nHeuchelheim Hessen 35452\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "tci GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "ACD9D6",
+			"OUISize": 24,
+			"OrgAddress": "Ludwig-Rinn-StraÃÂe 10-14\\nHeuchelheim Hessen 35452\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "tci GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "ACD9D6",
+			"OUISize": 24,
+			"OrgAddress": "Ludwig-Rinn-StraÃe 10-14\\nHeuchelheim Hessen 35452\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "tci GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "ACD9D6",
+			"OUISize": 24,
+			"OrgAddress": "Ludwig-Rinn-StraÃe 10-14\\nHeuchelheim  Hessen  35452\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "tci GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

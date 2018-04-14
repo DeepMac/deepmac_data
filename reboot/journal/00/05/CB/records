@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005CB",
+			"OUISize": 24,
+			"OrgAddress": "6th F Changhyun B/D, 960-1\\nHogye-Dong Dongan-Ku Anyang,\\n\\n",
+			"OrgCountry": "431-080 KOREA",
+			"OrgName": "ROIS Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0005CB",
+			"OUISize": 24,
+			"OrgAddress": "6th F Changhyun B/D, 960-1\\nHogye-Dong Dongan-Ku Anyang,\\n431-080\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "ROIS Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005CB",
+			"OUISize": 24,
+			"OrgAddress": "6th F Changhyun B/D, 960-1\\n431-080\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "ROIS Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

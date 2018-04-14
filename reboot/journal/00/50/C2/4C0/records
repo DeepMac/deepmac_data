@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24C0",
+			"OUISize": 36,
+			"OrgAddress": "One Bio-logic Plaza\\nMundelein IL 60060\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Bio-logic Systems Corp",
+			"Source": "IEEE"
+		}
+	]
+}

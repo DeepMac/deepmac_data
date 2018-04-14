@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-06-01",
+			"EventType": "add",
+			"OUI": "000D18",
+			"OUISize": 24,
+			"OrgAddress": "Tong Fu Yu Ind., Ku Keng Village, Guan L\\nShengzhen Guang Dong 518110\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Sunitec Enterprise Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "change",
+			"OUI": "000D18",
+			"OUISize": 24,
+			"OrgAddress": "Tong Fu Yu Ind., Ku Keng Village, Guan Lan\\nShengzhen Guang Dong 518110\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Mega-Trend Electronics CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D18",
+			"OUISize": 24,
+			"OrgAddress": "Tong Fu Yu Ind., Ku Keng Village, Guan Lan\\nShengzhen  Guang Dong  518110\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Mega-Trend Electronics CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

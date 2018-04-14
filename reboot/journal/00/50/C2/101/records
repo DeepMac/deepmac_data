@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2101",
+			"OUISize": 36,
+			"OrgAddress": "Froyhovveien 37\\nN-3269 Larvik\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "LAUD Electronic Design AS",
+			"Source": "IEEE"
+		}
+	]
+}

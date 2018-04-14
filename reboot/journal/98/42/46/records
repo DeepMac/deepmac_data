@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-04-01",
+			"EventType": "add",
+			"OUI": "984246",
+			"OUISize": 24,
+			"OrgAddress": "No. 15-1 Zhonghua Road, Hsinchu Industrial Park Hukou,\\nHsinchu  30352\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Gemtek Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-04-14",
+			"EventType": "change",
+			"OUI": "984246",
+			"OUISize": 24,
+			"OrgAddress": "1 NORTH BRIDGE RD.,\\n#24-05, HIGH STREET CENTRE,\\n179094\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "SOL INDUSTRY PTE., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "984246",
+			"OUISize": 24,
+			"OrgAddress": "1 NORTH BRIDGE RD.,\\n179094\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "SOL INDUSTRY PTE., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

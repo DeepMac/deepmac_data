@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-20",
+			"EventType": "add",
+			"OUI": "A0E25A",
+			"OUISize": 24,
+			"OrgAddress": "Koreszkova 9\\nSkalica Trnavsky kraj 90901\\n\\n",
+			"OrgCountry": "SLOVAKIA",
+			"OrgName": "Amicus SK, s.r.o.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A0E25A",
+			"OUISize": 24,
+			"OrgAddress": "Koreszkova 9\\nSkalica  Trnavsky kraj  90901\\n\\n",
+			"OrgCountry": "SK",
+			"OrgName": "Amicus SK, s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

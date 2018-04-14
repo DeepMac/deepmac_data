@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-15",
+			"EventType": "add",
+			"OUI": "00119D",
+			"OUISize": 24,
+			"OrgAddress": "10Fl., No.82, Fu Hsing North Road\\nTaipei  106\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Diginfo Technology Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00119D",
+			"OUISize": 24,
+			"OrgAddress": "10Fl., No.82, Fu Hsing North Road\\nTaipei  106\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Diginfo Technology Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00119D",
+			"OUISize": 24,
+			"OrgAddress": "10Fl., No.82, Fu Hsing North Road\\nTaipei    106\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Diginfo Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

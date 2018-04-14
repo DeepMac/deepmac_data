@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000021",
+			"OUISize": 24,
+			"OrgAddress": "10F-5 NO. 7,  SEC. 3\\nHSIN SHENG N. RD.,\\n\\n",
+			"OrgCountry": "TAIPEI, TAIWAN,  R.O.C.",
+			"OrgName": "SUREMAN COMP. & COMMUN. CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000021",
+			"OUISize": 24,
+			"OrgAddress": "10F-5 NO. 7,  SEC. 3\\nHSIN SHENG N. RD.,\\n\\n",
+			"OrgCountry": "TAIPEI TAIWAN, R.O.C.",
+			"OrgName": "SUREMAN COMP. & COMMUN. CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "000021",
+			"OUISize": 24,
+			"OrgAddress": "10F-5 NO. 7,  SEC. 3\\nHSIN SHENG N. RD.,\\nTAIPEI TAIWAN, R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "SUREMAN COMP. & COMMUN. CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000021",
+			"OUISize": 24,
+			"OrgAddress": "10F-5 NO. 7,  SEC. 3\\nHSIN SHENG N. RD.,\\nTAIPEI TAIWAN, R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "SUREMAN COMP. & COMMUN. CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000021",
+			"OUISize": 24,
+			"OrgAddress": "10F-5 NO. 7,  SEC. 3\\nTAIPEI  TAIWAN,  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SUREMAN COMP. & COMMUN. CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

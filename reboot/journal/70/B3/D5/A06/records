@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-25",
+			"EventType": "add",
+			"OUI": "70B3D5A06",
+			"OUISize": 36,
+			"OrgAddress": "3010 Lakeland Cv Suite M\\nFlowood  MS  39232\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Kopis Mobile LLC",
+			"Source": "IEEE"
+		}
+	]
+}

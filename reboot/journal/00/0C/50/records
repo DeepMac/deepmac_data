@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-02-07",
+			"EventType": "add",
+			"OUI": "000C50",
+			"OUISize": 24,
+			"OrgAddress": "1280 Disc Drive\\nShakopee MN 55379\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Seagate Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-12",
+			"EventType": "change",
+			"OUI": "000C50",
+			"OUISize": 24,
+			"OrgAddress": "M/S NW1F01\\n389 Disc Drive\\nLongmont CO 80503\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Seagate Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000C50",
+			"OUISize": 24,
+			"OrgAddress": "M/S NW1F01\\nLongmont  CO  80503\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Seagate Technology",
+			"Source": "IEEE"
+		}
+	]
+}

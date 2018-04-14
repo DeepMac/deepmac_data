@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-07",
+			"EventType": "add",
+			"OUI": "A0C5F22",
+			"OUISize": 28,
+			"OrgAddress": "Waldeggstrasse 30\\nLiebefeld  BE  3097\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Speedgoat GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

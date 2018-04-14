@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-15",
+			"EventType": "add",
+			"OUI": "74819A",
+			"OUISize": 24,
+			"OrgAddress": "KHR Asnawi\\nKudus  Jawa Tengah  59332\\n\\n",
+			"OrgCountry": "ID",
+			"OrgName": "PT. Hartono Istana Teknologi",
+			"Source": "IEEE"
+		}
+	]
+}

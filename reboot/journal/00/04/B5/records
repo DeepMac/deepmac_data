@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "0004B5",
+			"OUISize": 24,
+			"OrgAddress": "1905 N.W. 82nd Avenue\\nMiami, FL 33126\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Equitrac Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0004B5",
+			"OUISize": 24,
+			"OrgAddress": "1905 N.W. 82nd Avenue\\nMiami FL 33126\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Equitrac Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0004B5",
+			"OUISize": 24,
+			"OrgAddress": "1905 N.W. 82nd Avenue\\nMiami  FL  33126\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Equitrac Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

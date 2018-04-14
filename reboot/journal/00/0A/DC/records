@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000ADC",
+			"OUISize": 24,
+			"OrgAddress": "64 Jardin Drive\\nUnit 3G\\nConcord Ontario L4K-3P3\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "RuggedCom Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "000ADC",
+			"OUISize": 24,
+			"OrgAddress": "30 Whitmore Road\\nWoodbridge Ontario L4L 7Z4\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "RuggedCom Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000ADC",
+			"OUISize": 24,
+			"OrgAddress": "30 Whitmore Road\\nWoodbridge  Ontario  L4L 7Z4\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "RuggedCom Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

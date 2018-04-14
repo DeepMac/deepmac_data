@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-29",
+			"EventType": "add",
+			"OUI": "001A54",
+			"OUISize": 24,
+			"OrgAddress": "Unit 1/2/3, 20/F, New Treasure Center\\n10 Ng Fong Street, San Po Kong, Kowloon\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Hip Shing Electronics Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A54",
+			"OUISize": 24,
+			"OrgAddress": "Unit 1/2/3, 20/F, New Treasure Center\\n\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Hip Shing Electronics Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

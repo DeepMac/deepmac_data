@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2634",
+			"OUISize": 36,
+			"OrgAddress": "4-12-13-201 chigasaki-minami\\ntudukiku\\nyokohama kanagawa-prf 224-0037\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Sohon Inc",
+			"Source": "IEEE"
+		}
+	]
+}

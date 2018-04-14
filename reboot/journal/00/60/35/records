@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006035",
+			"OUISize": 24,
+			"OrgAddress": "4401 SOUTH BELTWOOD PARKWAY\\nDALLAS  TX 75244-3292\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DALLAS SEMICONDUCTOR, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006035",
+			"OUISize": 24,
+			"OrgAddress": "4401 SOUTH BELTWOOD PARKWAY\\nDALLAS TX 75244-3292\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DALLAS SEMICONDUCTOR, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006035",
+			"OUISize": 24,
+			"OrgAddress": "4401 SOUTH BELTWOOD PARKWAY\\nDALLAS  TX  75244-3292\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DALLAS SEMICONDUCTOR, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

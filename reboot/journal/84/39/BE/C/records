@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-15",
+			"EventType": "add",
+			"OUI": "8439BEC",
+			"OUISize": 28,
+			"OrgAddress": "Technologie-Campus 4\\nChemnitz  Sachsen  09126\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EDC Electronic Design Chemnitz GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

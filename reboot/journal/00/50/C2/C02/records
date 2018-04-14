@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C02",
+			"OUISize": 36,
+			"OrgAddress": "Holter Strasse 90\\nOerlinghausen NRW 33813\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hanning Elektro-Werke GmbH &amp; Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2C02",
+			"OUISize": 36,
+			"OrgAddress": "Holter Strasse 90\\nOerlinghausen NRW 33813\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hanning Elektro-Werke GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

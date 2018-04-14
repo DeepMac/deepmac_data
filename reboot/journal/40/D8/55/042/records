@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "add",
+			"OUI": "40D855042",
+			"OUISize": 36,
+			"OrgAddress": "4606 Morningside Dr.\\nSuite B\\nHouston TX 77005\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Mango Communicaitons Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

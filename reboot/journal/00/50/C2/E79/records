@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2E79",
+			"OUISize": 36,
+			"OrgAddress": "Ullsteinstrasse 114, Tower C\\nBerlin  12109\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MCS MICRONIC Computer Systeme GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

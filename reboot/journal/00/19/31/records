@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-08-15",
+			"EventType": "add",
+			"OUI": "001931",
+			"OUISize": 24,
+			"OrgAddress": "Schurwaldstr. 9\\nNeuhausen BW 73765\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Balluff GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001931",
+			"OUISize": 24,
+			"OrgAddress": "SchurwaldstraÃe 9\\nNeuhausen BW 73765\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Balluff GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001931",
+			"OUISize": 24,
+			"OrgAddress": "Schurwaldstr. 9\\nNeuhausen BW 73765\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Balluff GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001931",
+			"OUISize": 24,
+			"OrgAddress": "SchurwaldstraÃe 9\\nNeuhausen BW 73765\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Balluff GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001931",
+			"OUISize": 24,
+			"OrgAddress": "SchurwaldstraÃe 9\\nNeuhausen  BW  73765\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Balluff GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

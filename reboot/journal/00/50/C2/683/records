@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2683",
+			"OUISize": 36,
+			"OrgAddress": "1915 Voyager Avenue\\nSimi Valley Ca. 93063-3349\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MEGGITT Safety System",
+			"Source": "IEEE"
+		}
+	]
+}

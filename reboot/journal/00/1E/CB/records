@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001ECB",
+			"OUISize": 24,
+			"OrgAddress": "Krasnokazarmennaya st., 13/1\\nMoscow  111250\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "\"RPC \"Energoautomatika\" Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-24",
+			"EventType": "change",
+			"OUI": "001ECB",
+			"OUISize": 24,
+			"OrgAddress": "Krasnokazarmennaya st., 13/1\\nMoscow  111250\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "2Wire, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-23",
+			"EventType": "change",
+			"OUI": "001ECB",
+			"OUISize": 24,
+			"OrgAddress": "Krasnokazarmennaya st., 13/1\\nMoscow  111250\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "\"RPC \"Energoautomatika\" Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001ECB",
+			"OUISize": 24,
+			"OrgAddress": "Krasnokazarmennaya st., 13/1\\nMoscow    111250\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "RPC Energoautomatika Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

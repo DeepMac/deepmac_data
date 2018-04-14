@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2363",
+			"OUISize": 36,
+			"OrgAddress": "Ubicenter\\nPhilipssite 5\\nLeuven  BE-3001\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "Septentrio nv/sa",
+			"Source": "IEEE"
+		}
+	]
+}

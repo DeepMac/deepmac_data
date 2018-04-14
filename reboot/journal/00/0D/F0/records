@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000DF0",
+			"OUISize": 24,
+			"OrgAddress": "7F., NO 178, MING CHUAN E. RD., SEC. 3,\\nTAIPEI  105\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "QCOM TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000DF0",
+			"OUISize": 24,
+			"OrgAddress": "7F., NO 178, MING CHUAN E. RD., SEC. 3,\\nTAIPEI  105\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "QCOM TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000DF0",
+			"OUISize": 24,
+			"OrgAddress": "7F., NO 178, MING CHUAN E. RD., SEC. 3,\\nTAIPEI    105\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "QCOM TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-25",
+			"EventType": "change",
+			"OUI": "000DF0",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.301, Sec. 2, Tiding Blvd.\\nTaipei City  Neihu District  114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "QCOM TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-28",
+			"EventType": "change",
+			"OUI": "000DF0",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.301, Sec. 2, Tiding Blvd.\\n\\n\\n",
+			"OrgCountry": "Taipei City  Neihu District  114",
+			"OrgName": "QCOM TECHNOLOGY INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-29",
+			"EventType": "change",
+			"OUI": "000DF0",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.301, Sec. 2, Tiding Blvd.\\nTaipei City  Neihu District  114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "QCOM TECHNOLOGY INC.",
+			"Source": "IEEE"
+		}
+	]
+}

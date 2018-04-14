@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2195",
+			"OUISize": 36,
+			"OrgAddress": "17330 Brookhurst Street\\nSuite 230\\nFountain Valley CA 92708\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Momentum Data Systems",
+			"Source": "IEEE"
+		}
+	]
+}

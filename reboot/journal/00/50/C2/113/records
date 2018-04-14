@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2113",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 890955\\nTemecula CA 92590\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ace Electronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

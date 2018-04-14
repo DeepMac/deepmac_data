@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-24",
+			"EventType": "add",
+			"OUI": "8C6D50",
+			"OUISize": 24,
+			"OrgAddress": "5th Floor, 3rd Building, SHENZHEN MTC Industrial Park, XiaLilang Rd, Nanwan Street, Longâgang District\\nShenzhen  Guangdong  518100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN MTC CO LTD",
+			"Source": "IEEE"
+		}
+	]
+}

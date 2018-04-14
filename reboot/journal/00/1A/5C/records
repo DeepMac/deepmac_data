@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-29",
+			"EventType": "add",
+			"OUI": "001A5C",
+			"OUISize": 24,
+			"OrgAddress": "Kohlhammerstr. 16\\nLeinfelden-Echterdingen BW 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Euchner GmbH+Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001A5C",
+			"OUISize": 24,
+			"OrgAddress": "KohlhammerstraÃe 16\\nLeinfelden-Echterdingen BW 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Euchner GmbH+Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001A5C",
+			"OUISize": 24,
+			"OrgAddress": "Kohlhammerstr. 16\\nLeinfelden-Echterdingen BW 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Euchner GmbH+Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001A5C",
+			"OUISize": 24,
+			"OrgAddress": "KohlhammerstraÃe 16\\nLeinfelden-Echterdingen BW 70771\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Euchner GmbH+Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A5C",
+			"OUISize": 24,
+			"OrgAddress": "KohlhammerstraÃe 16\\nLeinfelden-Echterdingen  BW  70771\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Euchner GmbH+Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

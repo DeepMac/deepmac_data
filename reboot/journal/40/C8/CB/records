@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-22",
+			"EventType": "add",
+			"OUI": "40C8CB",
+			"OUISize": 24,
+			"OrgAddress": "#608,YatapLeaders B/D, Jangmi-ro 42, Bundang-gu\\nSeongnam-si  Gyeonggi-do  463-828\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "AM Telecom co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060E5",
+			"OUISize": 24,
+			"OrgAddress": "3-23-10, NEGISHI\\nURAWA-SHI, 336\\nSAITOMA\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI AUTOMATION CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060E5",
+			"OUISize": 24,
+			"OrgAddress": "3-23-10, NEGISHI\\nURAWA-SHI, 336 SAITOMA\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI AUTOMATION CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0060E5",
+			"OUISize": 24,
+			"OrgAddress": "3-23-10, NEGISHI\\nURAWA-SHI, 336 SAITAMA\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "FUJI AUTOMATION CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060E5",
+			"OUISize": 24,
+			"OrgAddress": "3-23-10, NEGISHI\\nURAWA-SHI, 336 SAITAMA\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "FUJI AUTOMATION CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

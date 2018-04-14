@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-22",
+			"EventType": "add",
+			"OUI": "58FCDB1",
+			"OUISize": 28,
+			"OrgAddress": "Certis CISCO\\n20 Jalan Afifi\\nSingapore 409179\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Certis Technology International",
+			"Source": "IEEE"
+		}
+	]
+}

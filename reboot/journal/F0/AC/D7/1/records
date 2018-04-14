@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-03",
+			"EventType": "add",
+			"OUI": "F0ACD71",
+			"OUISize": 28,
+			"OrgAddress": "AnnabergerstraÃe 240\\nChemnitz  Sachsen  09125\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Intenta GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

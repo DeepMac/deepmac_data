@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-04",
+			"EventType": "add",
+			"OUI": "70B3D599A",
+			"OUISize": 36,
+			"OrgAddress": "5, Nonhyunro 24 Gil, Gangnam-gu\\nSeoul    06302\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "KEVIC. inc,",
+			"Source": "IEEE"
+		}
+	]
+}

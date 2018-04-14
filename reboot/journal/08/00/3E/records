@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "08003E",
+			"OUISize": 24,
+			"OrgAddress": "50 EAST COMMERCE DRIVE\\nSUITE  M1\\nSCHAUMBURG  IL  60173\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CODEX CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "08003E",
+			"OUISize": 24,
+			"OrgAddress": "50 EAST COMMERCE DRIVE\\nSUITE  M1\\nSCHAUMBURG IL 60173\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CODEX CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "08003E",
+			"OUISize": 24,
+			"OrgAddress": "50 EAST COMMERCE DRIVE\\nSCHAUMBURG  IL  60173\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CODEX CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-26",
+			"EventType": "add",
+			"OUI": "40F413",
+			"OUISize": 24,
+			"OrgAddress": "Ulyanovskaya str. 28\\nSaratov    410056\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Rubezh",
+			"Source": "IEEE"
+		}
+	]
+}

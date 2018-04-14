@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00E054",
+			"OUISize": 24,
+			"OrgAddress": "2-45 ONUMA HANYU CITY\\nSAITAMA.348\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KODAI HITEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E054",
+			"OUISize": 24,
+			"OrgAddress": "2-45 ONUMA HANYU CITY\\nSAITAMA.348\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KODAI HITEC CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

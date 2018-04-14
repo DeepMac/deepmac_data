@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-02",
+			"EventType": "add",
+			"OUI": "0C8A87",
+			"OUISize": 24,
+			"OrgAddress": "333 Research Ct NW Ste 230\\nNorcross  GA  30092\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AgLogica Holdings, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

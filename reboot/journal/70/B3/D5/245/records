@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "add",
+			"OUI": "70B3D5245",
+			"OUISize": 36,
+			"OrgAddress": "StÃ¦rmosegÃ¥rdsvej  18\\nOdense SV  Region Syd  5230\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Newtec A/S",
+			"Source": "IEEE"
+		}
+	]
+}

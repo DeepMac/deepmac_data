@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-06",
+			"EventType": "add",
+			"OUI": "A05DE7",
+			"OUISize": 24,
+			"OrgAddress": "2230 E. Imperial Hwy\\nEl Segundo CA 90245\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIRECTV, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A05DE7",
+			"OUISize": 24,
+			"OrgAddress": "2230 E. Imperial Hwy\\nEl Segundo  CA  90245\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DIRECTV, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

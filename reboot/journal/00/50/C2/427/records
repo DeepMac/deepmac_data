@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2427",
+			"OUISize": 36,
+			"OrgAddress": "Breite Strasse 132\\nMoenchengladbach NRW 41238\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Scheidt & Bachmann GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-29",
+			"EventType": "add",
+			"OUI": "001A46",
+			"OUISize": 24,
+			"OrgAddress": "Doorim Bldg, 3rd Fl, 164-21 Poi-Dong,\\nSeoul Kangnam-Gu 135-960\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Digital Multimedia Technology Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A46",
+			"OUISize": 24,
+			"OrgAddress": "Doorim Bldg, 3rd Fl, 164-21 Poi-Dong,\\nSeoul  Kangnam-Gu  135-960\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Digital Multimedia Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

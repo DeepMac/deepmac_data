@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-17",
+			"EventType": "add",
+			"OUI": "9486CD",
+			"OUISize": 24,
+			"OrgAddress": "709, Namkwangcentrex 440-4, Cheongcheon-dong,\\nBupyeong-gu  Incheon  403-030\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "SEOUL ELECTRONICS&TELECOM",
+			"Source": "IEEE"
+		}
+	]
+}

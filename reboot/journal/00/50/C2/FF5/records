@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "add",
+			"OUI": "0050C2FF5",
+			"OUISize": 36,
+			"OrgAddress": "AÃÂ¾kan Mh. Atakent Sk. No:15 Meram\\nKonya  42090\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "Flexkom Internet Pazarlama Bilipim ve Eoitim Hiz.Inp.Mim.Muh.Oto.Enerji San. Tic. A.p.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2FF5",
+			"OUISize": 36,
+			"OrgAddress": "AÃ¾kan Mh. Atakent Sk. No:15 Meram\\nKonya  42090\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "Flexkom Internet Pazarlama Bilipim ve Eoitim Hiz.Inp.Mim.Muh.Oto.Enerji San. Tic. A.p.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2FF5",
+			"OUISize": 36,
+			"OrgAddress": "AÃÂ¾kan Mh. Atakent Sk. No:15 Meram\\nKonya  42090\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "Flexkom Internet Pazarlama Bilipim ve Eoitim Hiz.Inp.Mim.Muh.Oto.Enerji San. Tic. A.p.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2FF5",
+			"OUISize": 36,
+			"OrgAddress": "AÃ¾kan Mh. Atakent Sk. No:15 Meram\\nKonya  42090\\n\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "Flexkom Internet Pazarlama Bilipim ve Eoitim Hiz.Inp.Mim.Muh.Oto.Enerji San. Tic. A.p.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2214",
+			"OUISize": 36,
+			"OrgAddress": "2-55-2\\nArakawa\\nArakawa-ku Tokyo 116-0002\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Oshimi System Design Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26E6",
+			"OUISize": 36,
+			"OrgAddress": "International Business Park\\nArchamps Haute savoie 74160\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Lanetco",
+			"Source": "IEEE"
+		}
+	]
+}

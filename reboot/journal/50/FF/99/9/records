@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-27",
+			"EventType": "add",
+			"OUI": "50FF999",
+			"OUISize": 28,
+			"OrgAddress": "Nankai District\\nTianjin  Tianjin  300000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Sea Eagle Optoelectronic Information Technology(Tianjin)co,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

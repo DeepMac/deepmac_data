@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002671",
+			"OUISize": 24,
+			"OrgAddress": "Shinsegae YBS Bldg. 102\\n227-1, Yongdap-Dong\\nSeongdong-gu Seoul 133-847\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "AUTOVISION Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002671",
+			"OUISize": 24,
+			"OrgAddress": "Shinsegae YBS Bldg. 102\\nSeongdong-gu  Seoul  133-847\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "AUTOVISION Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

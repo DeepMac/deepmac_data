@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-31",
+			"EventType": "add",
+			"OUI": "9C541C",
+			"OUISize": 24,
+			"OrgAddress": "202ï¿½Building 3ï¿½Shenzhen Software Park\\nTechnology Middle 2 Rdï¿½Technology Park North\\nShenzhen Nanshan 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen My-power Technology Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "9C541C",
+			"OUISize": 24,
+			"OrgAddress": "202ÃÂ¬Building 3ÃÂ¬Shenzhen Software Park\\nTechnology Middle 2 RdÃÂ¬Technology Park North\\nShenzhen Nanshan 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen My-power Technology Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "9C541C",
+			"OUISize": 24,
+			"OrgAddress": "202Â¬Building 3Â¬Shenzhen Software Park\\nTechnology Middle 2 RdÂ¬Technology Park North\\nShenzhen Nanshan 518000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen My-power Technology Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "9C541C",
+			"OUISize": 24,
+			"OrgAddress": "202Â¬Building 3Â¬Shenzhen Software Park\\nShenzhen  Nanshan  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen My-power Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

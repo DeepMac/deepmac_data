@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-02-26",
+			"EventType": "add",
+			"OUI": "04E676",
+			"OUISize": 24,
+			"OrgAddress": "No.1,Jen Ai Road\\nHsinchu Industrail Park,Hukou\\nHsinchu  30352\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AMPAK Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "04E676",
+			"OUISize": 24,
+			"OrgAddress": "No.1,Jen Ai Road\\nHsinchu    30352\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AMPAK Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "04E676",
+			"OUISize": 24,
+			"OrgAddress": "No.1,Jen Ai Road\\nHsinchu    30352\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AMPAK Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

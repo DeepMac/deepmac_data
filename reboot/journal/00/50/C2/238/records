@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2238",
+			"OUISize": 36,
+			"OrgAddress": "Herknerstr. 4\\nWeingarten Baden-Wuerttemberg 88250\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schwer+Kopka GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2238",
+			"OUISize": 36,
+			"OrgAddress": "Herknerstr. 4\\nWeingarten Baden-WÃ¼rttemberg 88250\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schwer+Kopka GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2238",
+			"OUISize": 36,
+			"OrgAddress": "Herknerstr. 4\\nWeingarten Baden-WÃÂ¼rttemberg 88250\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schwer+Kopka GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2238",
+			"OUISize": 36,
+			"OrgAddress": "Herknerstr. 4\\nWeingarten Baden-WÃ¼rttemberg 88250\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Schwer+Kopka GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

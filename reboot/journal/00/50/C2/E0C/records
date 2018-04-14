@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E0C",
+			"OUISize": 36,
+			"OrgAddress": "800-8,DEOKDO-RI,GWANGJEOK-MYEON,\\nYANGJOO-SI GYEONGGI-DO 482-843\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "YOUHO ELECTRIC IND.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

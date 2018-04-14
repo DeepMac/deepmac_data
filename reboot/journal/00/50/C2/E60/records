@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E60",
+			"OUISize": 36,
+			"OrgAddress": "1600 Aza-Shironoshita Asahi\\nShin Asahi-cho Takashima, Shiga 520-1501\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "TAIYO SEIKI CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

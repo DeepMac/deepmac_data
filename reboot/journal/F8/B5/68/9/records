@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-19",
+			"EventType": "add",
+			"OUI": "F8B5689",
+			"OUISize": 28,
+			"OrgAddress": "NO.12 Building,Zhongguancun Software Park,Haidian District\\nbeijing  beijing  100193\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Wanji Techonology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

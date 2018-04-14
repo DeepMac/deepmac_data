@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-29",
+			"EventType": "add",
+			"OUI": "6C98EB",
+			"OUISize": 24,
+			"OrgAddress": "Kaiserstrasse 201/203\\nKarlsruhe BW 76133\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Xyne GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-17",
+			"EventType": "change",
+			"OUI": "6C98EB",
+			"OUISize": 24,
+			"OrgAddress": "Erbprinzenstrasse 27\\nKarlsruhe BW 76133\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Ocedo GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "6C98EB",
+			"OUISize": 24,
+			"OrgAddress": "Erbprinzenstrasse 27\\nKarlsruhe  BW  76133\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Ocedo GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-12",
+			"EventType": "change",
+			"OUI": "6C98EB",
+			"OUISize": 24,
+			"OrgAddress": "680 Folsom St.\\nSan Francisco  CA  94107\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Riverbed Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-15",
+			"EventType": "change",
+			"OUI": "6C98EB",
+			"OUISize": 24,
+			"OrgAddress": "680 Folsom St.\\nSan Francisco  CA  94107\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Riverbed Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "add",
+			"OUI": "34C3D2",
+			"OUISize": 24,
+			"OrgAddress": "A Building,HuiXin industial park,No 31, YongHe road, Fuyong town, Bao'an District\\nSHENZHEN  GUANGDONG  518100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "FN-LINK TECHNOLOGY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

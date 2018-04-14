@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-06",
+			"EventType": "add",
+			"OUI": "70B3D54B0",
+			"OUISize": 36,
+			"OrgAddress": "45 First Avenue\\nWaltham  MA  02451\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Tecogen Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

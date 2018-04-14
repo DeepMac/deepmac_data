@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-27",
+			"EventType": "add",
+			"OUI": "746EE4",
+			"OUISize": 24,
+			"OrgAddress": "Rm. 3, 7F., No.24, Wuquan 2nd Rd., Xinzhuang Dist.,\\nNew Taipei   Taiwan  24892\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Asia Vital Components Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

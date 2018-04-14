@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-22",
+			"EventType": "add",
+			"OUI": "CC22379",
+			"OUISize": 28,
+			"OrgAddress": "1000 Technology Park Drive\\nBillerica  MA  01821\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "E Ink Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-27",
+			"EventType": "change",
+			"OUI": "CC22379",
+			"OUISize": 28,
+			"OrgAddress": "1000 Technology Park Drive\\nBillerica  MA  01821\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "E Ink Corp",
+			"Source": "IEEE"
+		}
+	]
+}

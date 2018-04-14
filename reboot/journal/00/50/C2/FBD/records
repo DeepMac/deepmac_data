@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FBD",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbeallee 15-19\\nMÃ¯Â¿Â½lheim an der Ruhr  45478\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FHF Funke + Huster Fernsig GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2FBD",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbeallee 15-19\\nMÃÂ¼lheim an der Ruhr  45478\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FHF Funke + Huster Fernsig GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2FBD",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbeallee 15-19\\nMÃ¼lheim an der Ruhr  45478\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FHF Funke + Huster Fernsig GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C2FBD",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbeallee 15-19\\nMÃ¼lheim an der Ruhr NRW D-45478\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FHF Funke+Huster Fernsig GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2FBD",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbeallee 15-19\\nMÃÂ¼lheim an der Ruhr NRW D-45478\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FHF Funke+Huster Fernsig GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2FBD",
+			"OUISize": 36,
+			"OrgAddress": "Gewerbeallee 15-19\\nMÃ¼lheim an der Ruhr NRW D-45478\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FHF Funke+Huster Fernsig GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

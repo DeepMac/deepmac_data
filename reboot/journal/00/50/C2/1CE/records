@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21CE",
+			"OUISize": 36,
+			"OrgAddress": "379 Campus Drive\\nSuite 100\\nSomerset NJ 08873\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Datatek Applications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-09",
+			"EventType": "change",
+			"OUI": "0050C21CE",
+			"OUISize": 36,
+			"OrgAddress": "399 Campus Drive\\nSuite 140\\nSomerset NJ 08873\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Datatek Applications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

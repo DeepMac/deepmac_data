@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00A071",
+			"OUISize": 24,
+			"OrgAddress": "2311 SOUTH 7TH AVENUE\\nBOZEMAN  MT  59715\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VIDEO LOTTERY TECHNOLOGIES,INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00A071",
+			"OUISize": 24,
+			"OrgAddress": "2311 SOUTH 7TH AVENUE\\nBOZEMAN MT 59715\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "VIDEO LOTTERY TECHNOLOGIES,INC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00A071",
+			"OUISize": 24,
+			"OrgAddress": "2311 SOUTH 7TH AVENUE\\nBOZEMAN  MT  59715\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "VIDEO LOTTERY TECHNOLOGIES,INC",
+			"Source": "IEEE"
+		}
+	]
+}

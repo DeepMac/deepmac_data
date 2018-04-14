@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-08-19",
+			"EventType": "add",
+			"OUI": "001226",
+			"OUISize": 24,
+			"OrgAddress": "Kyocera Harajuku Bldg.\\n6-27-8, Jingumae\\nShibuya-ku Tokyo 150-0001\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Japan Direx Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001226",
+			"OUISize": 24,
+			"OrgAddress": "Kyocera Harajuku Bldg.\\nShibuya-ku  Tokyo  150-0001\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Japan Direx Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22D4",
+			"OUISize": 36,
+			"OrgAddress": "3F,No.2-1, Industry E Rd., I, Science-based Industrial Park\\nHsinchu  300\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Integrated System Solution Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C22D4",
+			"OUISize": 36,
+			"OrgAddress": "3F,No.2-1, Industry E Rd., I, Science-based Industrial Park\\nHsinchu  300\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Integrated System Solution Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

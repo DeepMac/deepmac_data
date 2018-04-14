@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "000990",
+			"OUISize": 24,
+			"OrgAddress": "3/5, rue du stade\\nBP 4580\\nPOISSY  78330\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "ACKSYS Communications & systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-06-13",
+			"EventType": "change",
+			"OUI": "000990",
+			"OUISize": 24,
+			"OrgAddress": "ZA du Val Joyeux\\n10 rue des Entrepreneurs\\nVILLEPREUX  F-78450\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "ACKSYS Communications & systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000990",
+			"OUISize": 24,
+			"OrgAddress": "ZA du Val Joyeux\\nVILLEPREUX    F-78450\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "ACKSYS Communications & systems",
+			"Source": "IEEE"
+		}
+	]
+}

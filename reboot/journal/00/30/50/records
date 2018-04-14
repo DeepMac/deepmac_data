@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "003050",
+			"OUISize": 24,
+			"OrgAddress": "4430 E. Miraloma Ave., - Ste. \"A\"\\nAnaheim  CA  92807\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Versa Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "003050",
+			"OUISize": 24,
+			"OrgAddress": "4430 E. Miraloma Ave., - Ste. \"A\"\\nAnaheim CA 92807\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Versa Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "003050",
+			"OUISize": 24,
+			"OrgAddress": "4430 E. Miraloma Ave., - Ste.\\nAnaheim CA 92807\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Versa Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "003050",
+			"OUISize": 24,
+			"OrgAddress": "4430 E. Miraloma Ave., - Ste.\\nAnaheim  CA  92807\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Versa Technology",
+			"Source": "IEEE"
+		}
+	]
+}

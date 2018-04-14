@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2741",
+			"OUISize": 36,
+			"OrgAddress": "Dongmun Vision Building, Sinjeong 6-dong, Yangcheon-gu,\\nSeoul Yangcheon-gu, 158-740\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Dain",
+			"Source": "IEEE"
+		}
+	]
+}

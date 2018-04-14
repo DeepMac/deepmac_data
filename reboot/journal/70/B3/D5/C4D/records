@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-08",
+			"EventType": "add",
+			"OUI": "70B3D5C4D",
+			"OUISize": 36,
+			"OrgAddress": "7 Gibory Israel St.\\nNetanya    42504\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "RADA Electronics Industries Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

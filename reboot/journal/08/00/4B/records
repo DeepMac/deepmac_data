@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "08004B",
+			"OUISize": 24,
+			"OrgAddress": "1DHS SYSTEMS\\n1508 KENNEDY DRIVE-STE#215\\n\\n",
+			"OrgCountry": "BELLEVUE  NE  68--5",
+			"OrgName": "PLANNING RESEARCH CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "08004B",
+			"OUISize": 24,
+			"OrgAddress": "1DHS SYSTEMS\\n1508 KENNEDY DRIVE-STE#215\\n\\n",
+			"OrgCountry": "BELLEVUE NE 68--5",
+			"OrgName": "PLANNING RESEARCH CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "08004B",
+			"OUISize": 24,
+			"OrgAddress": "1DHS SYSTEMS\\n1508 KENNEDY DRIVE-STE#215\\nBELLEVUE NE 68--5\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PLANNING RESEARCH CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "08004B",
+			"OUISize": 24,
+			"OrgAddress": "1508 Kennedy Drive\\nBellvue  NE  68005\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Planning Research Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

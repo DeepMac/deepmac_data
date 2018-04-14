@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-24",
+			"EventType": "add",
+			"OUI": "F88A3C3",
+			"OUISize": 28,
+			"OrgAddress": "Science and Technology Park North District, high tech North six Road, LAN LAN Technology Park, building C-309,Shenzhen Nanshan District, Guangdong Province, China\\nshenzhen  guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Shengyuan Tech Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

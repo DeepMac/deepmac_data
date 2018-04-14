@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "907AF1",
+			"OUISize": 24,
+			"OrgAddress": "Fluke Hall, Box 352141\\n4000 Mason Road\\nSeattle WA 98195\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SNUPI Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "907AF1",
+			"OUISize": 24,
+			"OrgAddress": "Fluke Hall, Box 352141\\n4000 Mason Road\\nSeattle WA 98195\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SNUPI Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "907AF1",
+			"OUISize": 24,
+			"OrgAddress": "Fluke Hall, Box 352141\\n4000 Mason Road\\nSeattle WA 98195\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SNUPI Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "907AF1",
+			"OUISize": 24,
+			"OrgAddress": "Fluke Hall, Box 352141\\nSeattle  WA  98195\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SNUPI Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-17",
+			"EventType": "change",
+			"OUI": "907AF1",
+			"OUISize": 24,
+			"OrgAddress": "1415 NE 45th St\\nSeattle  WA  98105\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Wally",
+			"Source": "IEEE"
+		}
+	]
+}

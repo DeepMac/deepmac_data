@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-05-15",
+			"EventType": "add",
+			"OUI": "70B3D5DC0",
+			"OUISize": 36,
+			"OrgAddress": "6 rue Dewoitine\\nGreen Plaza\\nVelizy-Villacoublay IDF 78140\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "ATEME",
+			"Source": "IEEE"
+		}
+	]
+}

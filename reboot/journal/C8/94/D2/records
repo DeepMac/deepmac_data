@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-02",
+			"EventType": "add",
+			"OUI": "C894D2",
+			"OUISize": 24,
+			"OrgAddress": "NO.20\\nPuzhu South Road\\nNanjing Jiangsu 211800\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Jiangsu Datang  Electronic Products Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "C894D2",
+			"OUISize": 24,
+			"OrgAddress": "NO.20\\nNanjing  Jiangsu  211800\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Jiangsu Datang  Electronic Products Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

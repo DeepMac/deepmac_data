@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2EDF",
+			"OUISize": 36,
+			"OrgAddress": "56-58 Grafton Road\\nGrafton\\nAuckland  1035\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Monitor Business Machines",
+			"Source": "IEEE"
+		}
+	]
+}

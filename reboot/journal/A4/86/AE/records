@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-16",
+			"EventType": "add",
+			"OUI": "A486AE",
+			"OUISize": 24,
+			"OrgAddress": "No.1801 Hongmei Road, Xuhui District\\nShanghai    200233\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Quectel Wireless Solutions",
+			"Source": "IEEE"
+		}
+	]
+}

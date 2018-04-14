@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-20",
+			"EventType": "add",
+			"OUI": "144FD7B",
+			"OUISize": 28,
+			"OrgAddress": "Generala Antonova 3a\\nMoscow    117342\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Arkus-ST Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

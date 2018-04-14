@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050E1",
+			"OUISize": 24,
+			"OrgAddress": "NO. 21 & 23 JALAN CANGGIH 10\\nTAMAN PERINDUSTRIAN CEMERLANG\\n81800 ULU TIRAM-JOHOR BAHRU\\n",
+			"OrgCountry": "MALAYSIA",
+			"OrgName": "NS TECH ELECTRONICS SDN BHD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050E1",
+			"OUISize": 24,
+			"OrgAddress": "NO. 21 & 23 JALAN CANGGIH 10\\nTAMAN PERINDUSTRIAN CEMERLANG 81800 ULU\\n\\n",
+			"OrgCountry": "MALAYSIA",
+			"OrgName": "NS TECH ELECTRONICS SDN BHD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0050E1",
+			"OUISize": 24,
+			"OrgAddress": "NO. 21 & 23 JALAN CANGGIH 10\\nTAMAN PERINDUSTRIAN CEMERLANG\\n81800 Ulu Tiram-Johor Bahru\\n",
+			"OrgCountry": "MALAYSIA",
+			"OrgName": "NS TECH ELECTRONICS SDN BHD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050E1",
+			"OUISize": 24,
+			"OrgAddress": "No. 37, Lorong 23, Geylang\\nSingapore 388371\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "NS TECH ELECTRONICS SDN BHD",
+			"Source": "IEEE"
+		}
+	]
+}

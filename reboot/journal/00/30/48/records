@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "003048",
+			"OUISize": 24,
+			"OrgAddress": "2051 Junction Avenue\\nSan Jose  CA  95131\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Supermicro Computer, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "003048",
+			"OUISize": 24,
+			"OrgAddress": "2051 Junction Avenue\\nSan Jose CA 95131\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Supermicro Computer, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "003048",
+			"OUISize": 24,
+			"OrgAddress": "2051 Junction Avenue\\nSan Jose  CA  95131\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Supermicro Computer, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-23",
+			"EventType": "change",
+			"OUI": "003048",
+			"OUISize": 24,
+			"OrgAddress": "2051 Junction Avenue\\nSan Jose  CA  95131\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Super Micro Computer, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

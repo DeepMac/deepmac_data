@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2984",
+			"OUISize": 36,
+			"OrgAddress": "2-18-10, NISHISHINGAI-CHO\\nFUKUYAMA-SHI HIROSHIMA 721-0958\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Atel Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

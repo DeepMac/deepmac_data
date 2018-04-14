@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-02",
+			"EventType": "add",
+			"OUI": "F44227",
+			"OUISize": 24,
+			"OrgAddress": "89 Access Rd #10\\nNorwood MA 02062\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "S & S Research Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F44227",
+			"OUISize": 24,
+			"OrgAddress": "89 Access Rd #10\\nNorwood  MA  02062\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "S & S Research Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

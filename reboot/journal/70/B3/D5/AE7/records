@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-14",
+			"EventType": "add",
+			"OUI": "70B3D5AE7",
+			"OUISize": 36,
+			"OrgAddress": "Industriestr. 2-8\\nAltdorf    90518\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "E-T-A Elektrotechnische Apparate GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

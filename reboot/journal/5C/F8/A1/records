@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "5CF8A1",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1 Higashikotariã\\nNagaokakyo-shi Kyoto 617-8555\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Murata Manufactuaring Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "5CF8A1",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1 Higashikotariã\\nNagaokakyo-shi Kyoto 617-8555\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Murata Manufactuaring Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "5CF8A1",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1 Higashikotariã\\nNagaokakyo-shi Kyoto 617-8555\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Murata Manufactuaring Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-05",
+			"EventType": "change",
+			"OUI": "5CF8A1",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1 Higashikotari?\\nNagaokakyo-shi Kyoto 617-8555\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Murata Manufactuaring Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-12-14",
+			"EventType": "change",
+			"OUI": "5CF8A1",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1 Higashikotariã\\nNagaokakyo-shi Kyoto 617-8555\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Murata Manufactuaring Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "5CF8A1",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1 Higashikotari\\nNagaokakyo-shi  Kyoto  617-8555\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Murata Manufactuaring Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "5CF8A1",
+			"OUISize": 24,
+			"OrgAddress": "1-10-1 Higashikotari\\nNagaokakyo-shi  Kyoto  617-8555\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Murata Manufacturing Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

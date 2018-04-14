@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-03",
+			"EventType": "add",
+			"OUI": "047D50",
+			"OUISize": 24,
+			"OrgAddress": "Units 608,Saiba Electronic tower,NO.6, Langshan 2 Rd., Hi-Tech Industrial Park North , Nanshan, Shenzhen City\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Kang Ying Technology Co.Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

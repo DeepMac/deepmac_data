@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-22",
+			"EventType": "add",
+			"OUI": "70B3D5C5C",
+			"OUISize": 36,
+			"OrgAddress": "5412 Courseview Drive, suite 100\\nMason  OH  45040\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Layer Logic Inc",
+			"Source": "IEEE"
+		}
+	]
+}

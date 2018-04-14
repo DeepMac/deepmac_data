@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-02-19",
+			"EventType": "add",
+			"OUI": "ACFD93",
+			"OUISize": 24,
+			"OrgAddress": "Gaoxin 2 Road,Free Trade Zone\\nWeifang Shandong 261205\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Weifang GoerTek Electronics Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "ACFD93",
+			"OUISize": 24,
+			"OrgAddress": "Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China\\nWeifang  Shandong  261205\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Weifang GoerTek Electronics Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "change",
+			"OUI": "ACFD93",
+			"OUISize": 24,
+			"OrgAddress": "Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China\\nWeifang  Shandong  261205\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Weifang GoerTek Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

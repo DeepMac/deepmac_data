@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C228C",
+			"OUISize": 36,
+			"OrgAddress": "1080 Yabutsuka\\nChosei-gun,Chosei-mura Chiba-ken 299-4395\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Futaba Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-13",
+			"EventType": "add",
+			"OUI": "64517E",
+			"OUISize": 24,
+			"OrgAddress": "NO.19.Jian she Road,Shi ma Village,Tang xia  Town,Dong guan,Guang dong,China\\nDong guan Guang dong 523731\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "LONG BEN (DONGGUAN) ELECTRONIC TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "64517E",
+			"OUISize": 24,
+			"OrgAddress": "NO.19.Jian she Road,Shi ma Village,Tang xia  Town,Dong guan,Guang dong,China\\nDong guan  Guang dong  523731\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "LONG BEN (DONGGUAN) ELECTRONIC TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

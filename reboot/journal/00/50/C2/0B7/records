@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20B7",
+			"OUISize": 36,
+			"OrgAddress": "102-A Wynn Drive\\nHuntsville AL 35805\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RYMIC",
+			"Source": "IEEE"
+		}
+	]
+}

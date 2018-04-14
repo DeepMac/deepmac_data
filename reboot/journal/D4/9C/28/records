@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-01",
+			"EventType": "add",
+			"OUI": "D49C28",
+			"OUISize": 24,
+			"OrgAddress": "2825 East Cottonwood Parkway #500\\nSalt Lake City UT 84121\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "JayBird Gear LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-06-11",
+			"EventType": "change",
+			"OUI": "D49C28",
+			"OUISize": 24,
+			"OrgAddress": "3676 California Ave\\nSuite A-111\\nSalt Lake City UT 84104\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "JayBird LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D49C28",
+			"OUISize": 24,
+			"OrgAddress": "3676 California Ave\\nSalt Lake City  UT  84104\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "JayBird LLC",
+			"Source": "IEEE"
+		}
+	]
+}

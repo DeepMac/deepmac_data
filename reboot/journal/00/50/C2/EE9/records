@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "0050C2EE9",
+			"OUISize": 36,
+			"OrgAddress": "Via A. Ferrarin, 19-23\\nFirenze FI 50145\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "QUANTA S.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

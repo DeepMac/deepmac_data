@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-Württemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-WÃ¼rttemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-Württemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-WÃÂ¼rttemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-Württemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-WÃÂ¼rttemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-WÃ¼rttemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstr. 46\\nMannheim Baden-WÃÂÃÂÃÂÃÂ¼rttemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "SteubenstraÃe 46\\nMannheim Baden-WÃ¼rttemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-12",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstrasse 46\\nMannheim Baden-Wuerttemberg 68163\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002452",
+			"OUISize": 24,
+			"OrgAddress": "Steubenstrasse 46\\nMannheim  Baden-Wuerttemberg  68163\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Silicon Software GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

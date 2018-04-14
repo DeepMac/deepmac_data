@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2535",
+			"OUISize": 36,
+			"OrgAddress": "Hodzova 261/1\\nMyjava Slovak Republic 907 01\\n\\n",
+			"OrgCountry": "SLOVAKIA",
+			"OrgName": "MMS Servis s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

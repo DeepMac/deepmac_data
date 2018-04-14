@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001016",
+			"OUISize": 24,
+			"OrgAddress": "6, PARC ARIANE\\nIMMEUBLE MERCURE\\n78284 GUYANCOURT CEDEX\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "T.SQWARE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001016",
+			"OUISize": 24,
+			"OrgAddress": "6, PARC ARIANE\\nIMMEUBLE MERCURE 78284 GUYANCOURT CEDEX\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "T.SQWARE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001016",
+			"OUISize": 24,
+			"OrgAddress": "6, PARC ARIANE\\nIMMEUBLE MERCURE\\n78284 GUYANCOURT CEDEX\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "T.SQWARE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001016",
+			"OUISize": 24,
+			"OrgAddress": "6, PARC ARIANE\\n78284 GUYANCOURT CEDEX\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "T.SQWARE",
+			"Source": "IEEE"
+		}
+	]
+}

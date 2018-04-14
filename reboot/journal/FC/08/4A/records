@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-07",
+			"EventType": "add",
+			"OUI": "FC084A",
+			"OUISize": 24,
+			"OrgAddress": "Mushashi-kosuge Tower Place 13F\\nKawasaki  Kanagawa  211-0063\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "FUJITSU LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

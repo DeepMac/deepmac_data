@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B08",
+			"OUISize": 36,
+			"OrgAddress": "August-Thyssen-Str. 32\\nKoblenz Rheinland-Pfalz 56077\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Goerlitz AG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-01",
+			"EventType": "add",
+			"OUI": "1C87768",
+			"OUISize": 28,
+			"OrgAddress": "6F/No.6 Building, No.9/4th Lanyu St., GZ Economy&Technology Development Area\\nGuangzhou  Guangdong  510730\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangzhou Video-Star Electronics Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

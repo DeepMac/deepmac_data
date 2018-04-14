@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E24",
+			"OUISize": 36,
+			"OrgAddress": "Alte Poststrasse 152\\nGraz Steiermark 8020\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "DiTEST Fahrzeugdiagnose GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

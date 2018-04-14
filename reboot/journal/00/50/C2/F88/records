@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-09",
+			"EventType": "add",
+			"OUI": "0050C2F88",
+			"OUISize": 36,
+			"OrgAddress": "1016 Enterprise Place\\nArlington TX 76001\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RTC Manufacturing Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

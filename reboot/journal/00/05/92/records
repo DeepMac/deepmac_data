@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000592",
+			"OUISize": 24,
+			"OrgAddress": "74-1, Yamashita-cho,\\nNaka-ku, Tokohama-city,\\n\\n",
+			"OrgCountry": "231-0023, JAPAN",
+			"OrgName": "Pultex Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000592",
+			"OUISize": 24,
+			"OrgAddress": "74-1, Yamashita-cho,\\nNaka-ku, Tokohama-city,\\n\\n",
+			"OrgCountry": "231-0023 231-0023 JAPAN",
+			"OrgName": "Pultex Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "000592",
+			"OUISize": 24,
+			"OrgAddress": "74-1, Yamashita-cho,\\nNaka-ku, Tokohama-city,\\n231-0023\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Pultex Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000592",
+			"OUISize": 24,
+			"OrgAddress": "74-1, Yamashita-cho,\\nNaka-ku, Tokohama-city,\\n231-0023\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Pultek Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000592",
+			"OUISize": 24,
+			"OrgAddress": "74-1, Yamashita-cho,\\n231-0023\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Pultek Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

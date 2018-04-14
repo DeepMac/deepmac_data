@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "0007D1",
+			"OUISize": 24,
+			"OrgAddress": "#200-2700 Production Way\\nBurnaby, BC VSA 4X1\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Spectrum Processing (Inc.)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0007D1",
+			"OUISize": 24,
+			"OrgAddress": "#200-2700 Production Way\\nBurnaby, BC V5A 4X1\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Spectrum Signal Processing Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0007D1",
+			"OUISize": 24,
+			"OrgAddress": "#200-2700 Production Way\\n\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Spectrum Signal Processing Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

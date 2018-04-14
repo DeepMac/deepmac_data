@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-26",
+			"EventType": "add",
+			"OUI": "8019FE",
+			"OUISize": 24,
+			"OrgAddress": "No. 383-1, Sec. 2, Jinling Rd., Pingzhen Dist.,\\nTao Yuan    324\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "JianLing Technology CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

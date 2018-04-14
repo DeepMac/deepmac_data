@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-15",
+			"EventType": "add",
+			"OUI": "54DF00",
+			"OUISize": 24,
+			"OrgAddress": "1625 N. Waterfront Parkway\\nSuite 250\\nWichita KS 67206\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ulterius Technologies, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "54DF00",
+			"OUISize": 24,
+			"OrgAddress": "1625 N. Waterfront Parkway\\nWichita  KS  67206\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ulterius Technologies, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

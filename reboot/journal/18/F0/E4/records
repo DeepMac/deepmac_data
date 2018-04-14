@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-17",
+			"EventType": "add",
+			"OUI": "18F0E4",
+			"OUISize": 24,
+			"OrgAddress": "The Rainbow City of China Resources , No.68 Qinghe Middle Street , Haidian District\\nBeijing  Beijing  100089\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Xiaomi Communications Co Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

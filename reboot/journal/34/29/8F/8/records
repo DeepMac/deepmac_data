@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-19",
+			"EventType": "add",
+			"OUI": "34298F8",
+			"OUISize": 28,
+			"OrgAddress": "Room 202, D Building, No.2 Dongda Road, Pukou District, Nanjing, Jiangsu Province, P.R.China\\nNanjing  Jiangsu  210032\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanjing Sandemarine Electric Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

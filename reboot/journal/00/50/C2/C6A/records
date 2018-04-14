@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C6A",
+			"OUISize": 36,
+			"OrgAddress": "C/Lentisco 15\\nPoligono Empresarium\\nLA CARTUJA BAJA ZARAGOZA 50720\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "ELECTRONICA KELD",
+			"Source": "IEEE"
+		}
+	]
+}

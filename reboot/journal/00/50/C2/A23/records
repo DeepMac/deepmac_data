@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A23",
+			"OUISize": 36,
+			"OrgAddress": "279 Locust Street\\nDover NH 03820\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Agility Mfg, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

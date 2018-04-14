@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-24",
+			"EventType": "add",
+			"OUI": "701404",
+			"OUISize": 24,
+			"OrgAddress": "I.Yakovleva St.,\\nCheboksary Chuvash Republic 428003\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Limited Liability Company &quot;Research Center &quot;Bresler&quot;",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-02",
+			"EventType": "change",
+			"OUI": "701404",
+			"OUISize": 24,
+			"OrgAddress": "I.Yakovleva St., 1\\nCheboksary Chuvash Republic  428003\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Limited Liability Company \"Research Center \"Bresler\"",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "701404",
+			"OUISize": 24,
+			"OrgAddress": "I.Yakovleva St., 1\\nCheboksary Chuvash Republic  428003\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Limited Liability Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "701404",
+			"OUISize": 24,
+			"OrgAddress": "I.Yakovleva St., 1\\nCheboksary Chuvash Republic    428003\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Limited Liability Company",
+			"Source": "IEEE"
+		}
+	]
+}

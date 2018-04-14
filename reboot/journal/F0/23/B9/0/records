@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-15",
+			"EventType": "add",
+			"OUI": "F023B90",
+			"OUISize": 28,
+			"OrgAddress": "Ringstr. 75\\nTherwil    4106\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Aquametro AG",
+			"Source": "IEEE"
+		}
+	]
+}

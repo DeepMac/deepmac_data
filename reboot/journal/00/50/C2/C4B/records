@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C4B",
+			"OUISize": 36,
+			"OrgAddress": "via del Fonditore 2/2c\\nBologna  40138\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "R.V.R. elettronica s.p.a.",
+			"Source": "IEEE"
+		}
+	]
+}

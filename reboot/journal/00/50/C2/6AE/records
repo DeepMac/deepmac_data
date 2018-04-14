@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C26AE",
+			"OUISize": 36,
+			"OrgAddress": "Packhusgatan 6\\nGothenburg  41113\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Qualisys AB",
+			"Source": "IEEE"
+		}
+	]
+}

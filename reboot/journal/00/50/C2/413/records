@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2413",
+			"OUISize": 36,
+			"OrgAddress": "Fuels & Utility Systems\\n100 Panton Road\\nVergennes Vermont 05491\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Goodrich",
+			"Source": "IEEE"
+		}
+	]
+}

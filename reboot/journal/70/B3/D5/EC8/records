@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-18",
+			"EventType": "add",
+			"OUI": "70B3D5EC8",
+			"OUISize": 36,
+			"OrgAddress": "Abdurrahmangazi Mah. Ebubekir Cad. No:44 Sancaktepe\\n\\n\\n",
+			"OrgCountry": "Istanbul    34887",
+			"OrgName": "Viko Elektrik-Elektronik A.Å.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-20",
+			"EventType": "change",
+			"OUI": "70B3D5EC8",
+			"OUISize": 36,
+			"OrgAddress": "Abdurrahmangazi Mah. Ebubekir Cad. No:44 Sancaktepe\\nIstanbul    34887\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Viko Elektrik-Elektronik A.Å.",
+			"Source": "IEEE"
+		}
+	]
+}

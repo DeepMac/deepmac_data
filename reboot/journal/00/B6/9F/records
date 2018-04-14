@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-08",
+			"EventType": "add",
+			"OUI": "00B69F",
+			"OUISize": 24,
+			"OrgAddress": "450 W 33rd  St\\nNew York  NY  10001\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Latch",
+			"Source": "IEEE"
+		}
+	]
+}

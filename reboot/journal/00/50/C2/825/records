@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2825",
+			"OUISize": 36,
+			"OrgAddress": "Dieselstr. 8\\nKarlsfeld  85757\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Funkwerk Information Technologies Karlsfeld GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

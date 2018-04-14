@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002032",
+			"OUISize": 24,
+			"OrgAddress": "4, MING SHENG STREET TU-CHENG\\nINDUSTRIAL DISTRICT\\nTAIPEI HSIEH\\n",
+			"OrgCountry": "TAIWAN ROC",
+			"OrgName": "ALCATEL TAISEL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002032",
+			"OUISize": 24,
+			"OrgAddress": "4, MING SHENG STREET TU-CHENG\\nINDUSTRIAL DISTRICT TAIPEI HSIEH\\n\\n",
+			"OrgCountry": "TAIWAN ROC",
+			"OrgName": "ALCATEL TAISEL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "002032",
+			"OUISize": 24,
+			"OrgAddress": "4, MING SHENG STREET TU-CHENG\\nINDUSTRIAL DISTRICT TAIPEI HSIEH\\nTAIWAN ROC\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ALCATEL TAISEL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002032",
+			"OUISize": 24,
+			"OrgAddress": "4, MING SHENG STREET TU-CHENG\\nINDUSTRIAL DISTRICT TAIPEI HSIEH\\nTAIWAN ROC\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ALCATEL TAISEL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002032",
+			"OUISize": 24,
+			"OrgAddress": "4, MING SHENG STREET TU-CHENG\\nTAIWAN  ROC\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ALCATEL TAISEL",
+			"Source": "IEEE"
+		}
+	]
+}

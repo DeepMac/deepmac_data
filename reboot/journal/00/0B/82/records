@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B82",
+			"OUISize": 24,
+			"OrgAddress": "4 Davis Ave, Unit 1C\\nBrookline, MA 02445 MA 02445\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Grandstream Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "change",
+			"OUI": "000B82",
+			"OUISize": 24,
+			"OrgAddress": "1297 Beacon Street\\n2nd Floor\\nBrookline MA 02446\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Grandstream Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B82",
+			"OUISize": 24,
+			"OrgAddress": "1297 Beacon Street\\nBrookline  MA  02446\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Grandstream Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

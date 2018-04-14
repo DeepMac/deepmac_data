@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-26",
+			"EventType": "add",
+			"OUI": "70B3D5A69",
+			"OUISize": 36,
+			"OrgAddress": "Kazal utca 64-66\\n\\n\\n",
+			"OrgCountry": "Budapest    1031",
+			"OrgName": "Leviathan Solutions Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-28",
+			"EventType": "change",
+			"OUI": "70B3D5A69",
+			"OUISize": 36,
+			"OrgAddress": "Kazal utca 64-66\\nBudapest    1031\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "Leviathan Solutions Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

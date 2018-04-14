@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-14",
+			"EventType": "add",
+			"OUI": "D860B3",
+			"OUISize": 24,
+			"OrgAddress": "Floor4 East side,build#6,Huangzhou industry Park, chebei Road, Tianhe District\\nGuangZhou  GuangDong  510660\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangdong Global Electronic Technology CO.ï¼LTD",
+			"Source": "IEEE"
+		}
+	]
+}

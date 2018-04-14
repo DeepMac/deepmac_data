@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551D8",
+			"OUISize": 36,
+			"OrgAddress": "38A Grove Street\\nSuite 101\\nRidgefield CT 06877\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Owl Computing Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

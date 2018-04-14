@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-04-07",
+			"EventType": "add",
+			"OUI": "D84B2A",
+			"OUISize": 24,
+			"OrgAddress": "6406 Laurel Bush Ln.\\nSugar Land Texas 77479\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cognitas Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "D84B2A",
+			"OUISize": 24,
+			"OrgAddress": "6406 Laurel Bush Ln.\\nSugar Land  Texas  77479\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cognitas Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

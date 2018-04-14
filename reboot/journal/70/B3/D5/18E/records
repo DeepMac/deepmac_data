@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-10",
+			"EventType": "add",
+			"OUI": "70B3D518E",
+			"OUISize": 36,
+			"OrgAddress": "2-8 Higashi-Takami 2-Chome\\nNAGAOKA  NIIGATA  940-0006\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NIPPON SEIKI CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

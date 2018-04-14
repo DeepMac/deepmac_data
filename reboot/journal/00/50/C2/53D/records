@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C253D",
+			"OUISize": 36,
+			"OrgAddress": "5201 Blue Lagoon Dr.  #843\\nMiami Florida 33126\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Digital communications Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

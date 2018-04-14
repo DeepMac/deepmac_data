@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "080020",
+			"OUISize": 24,
+			"OrgAddress": "2550 GARCIA AVE.\\nMOUNTAIN VIEW  CA  94043\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SUN MICROSYSTEMS INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "080020",
+			"OUISize": 24,
+			"OrgAddress": "901 SAN ANTONIO ROAD\\nMS UMPK02-106\\nPALO ALTO  CA  94303-4900\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SUN MICROSYSTEMS INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "080020",
+			"OUISize": 24,
+			"OrgAddress": "901 SAN ANTONIO ROAD\\nMS UMPK02-106\\nPALO ALTO CA 94303-4900\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SUN MICROSYSTEMS INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "change",
+			"OUI": "080020",
+			"OUISize": 24,
+			"OrgAddress": "4200 Network Circle\\nSanta Clara CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SUN MICROSYSTEMS INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-06-24",
+			"EventType": "change",
+			"OUI": "080020",
+			"OUISize": 24,
+			"OrgAddress": "17 Network Circle\\nBuilding 17, UMPK17-131\\nMenlo Park CA 95025\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Oracle Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "080020",
+			"OUISize": 24,
+			"OrgAddress": "17 Network Circle\\nMenlo Park  CA  95025\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Oracle Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

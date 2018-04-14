@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-16",
+			"EventType": "add",
+			"OUI": "84FEDC",
+			"OUISize": 24,
+			"OrgAddress": "Tower A, Building B23, Universal Business Park, No.10 Jiuxianqiao Road\\nChaoyang District  Beijing  100015\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Borqs Beijing Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

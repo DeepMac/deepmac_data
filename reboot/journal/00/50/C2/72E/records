@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C272E",
+			"OUISize": 36,
+			"OrgAddress": "2 AVENUE DE BRETAGNE\\nLE MANS SARTHE 72100\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SNCF EIM PAYS DE LOIRE",
+			"Source": "IEEE"
+		}
+	]
+}

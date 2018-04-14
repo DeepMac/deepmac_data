@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-13",
+			"EventType": "add",
+			"OUI": "94652D",
+			"OUISize": 24,
+			"OrgAddress": "18C02, 18C03, 18C04 ,18C05,TAIRAN BUILDING,\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "OnePlus Technology (Shenzhen) Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

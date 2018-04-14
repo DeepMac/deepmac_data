@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-22",
+			"EventType": "add",
+			"OUI": "F81D78B",
+			"OUISize": 28,
+			"OrgAddress": "Mobilv 10\\nLund    223 62\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "SigmaConnectivityAB",
+			"Source": "IEEE"
+		}
+	]
+}

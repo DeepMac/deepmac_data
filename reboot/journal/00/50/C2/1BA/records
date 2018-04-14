@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21BA",
+			"OUISize": 36,
+			"OrgAddress": "Rietbachstrasse 5\\nSchlieren  CH-8952\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "INTERZEAG AG",
+			"Source": "IEEE"
+		}
+	]
+}

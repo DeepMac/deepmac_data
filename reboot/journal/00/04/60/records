@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "000460",
+			"OUISize": 24,
+			"OrgAddress": "10F, #96, Hsin Tai Wu Rd.,\\nSec. 1, Hsi Chih, Taipei Hsien,\\n\\n",
+			"OrgCountry": "TAIWAN",
+			"OrgName": "Knilink Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000460",
+			"OUISize": 24,
+			"OrgAddress": "10F, #96, Hsin Tai Wu Rd.,\\nSec. 1, Hsi Chih, Taipei Hsien,\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Knilink Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "000460",
+			"OUISize": 24,
+			"OrgAddress": "10F, #96, Hsin Tai Wu Rd.,\\nSec. 1, Hsi Chih, Taipei Hsien,\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Knilink Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000460",
+			"OUISize": 24,
+			"OrgAddress": "10F, #96, Hsin Tai Wu Rd.,\\nSec. 1, Hsi Chih, Taipei Hsien,\\nTAIWAN\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Knilink Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000460",
+			"OUISize": 24,
+			"OrgAddress": "10F, #96, Hsin Tai Wu Rd.,\\nTAIWAN\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Knilink Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

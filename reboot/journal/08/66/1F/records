@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-14",
+			"EventType": "add",
+			"OUI": "08661F",
+			"OUISize": 24,
+			"OrgAddress": "4401 Great America Parkway\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Palo Alto Networks",
+			"Source": "IEEE"
+		}
+	]
+}

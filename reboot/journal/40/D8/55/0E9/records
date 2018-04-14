@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "add",
+			"OUI": "40D8550E9",
+			"OUISize": 36,
+			"OrgAddress": "Industriestr. 6\\nMainhausen  63533\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "HAMEG GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

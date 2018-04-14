@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2ED0",
+			"OUISize": 36,
+			"OrgAddress": "Shibuya Office 9F\\n2-15, Nanpeidai-cho\\nShibuya-ku Tokyo 150-0036\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Nippon Systemware Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

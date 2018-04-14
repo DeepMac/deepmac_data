@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-08-21",
+			"EventType": "add",
+			"OUI": "64A837",
+			"OUISize": 24,
+			"OrgAddress": "E603 Bundang Techno-Park 151\\nYatap, Bundang\\nSeongnam Gyeonggi 463-760\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Juni Korea Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "64A837",
+			"OUISize": 24,
+			"OrgAddress": "E603 Bundang Techno-Park 151\\nSeongnam  Gyeonggi  463-760\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Juni Korea Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

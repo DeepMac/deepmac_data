@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2EE7",
+			"OUISize": 36,
+			"OrgAddress": "via zanella,21\\nlissone (MB ) Monza Brianza 20851\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "Syes srl",
+			"Source": "IEEE"
+		}
+	]
+}

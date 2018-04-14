@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-22",
+			"EventType": "add",
+			"OUI": "98AAFC7",
+			"OUISize": 28,
+			"OrgAddress": "Xuefu Road, Nanshan District,\\n13th Floor, Bldg 1C, Shenzhen Software Industry Base, Xuefu Road, Nanshan District,  Guangdong  518054\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Hubsan Technology Co.ï¼LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

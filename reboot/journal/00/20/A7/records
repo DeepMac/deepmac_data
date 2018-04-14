@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0020A7",
+			"OUISize": 24,
+			"OrgAddress": "14402 FRANKLIN AVENUE\\nTUSTIN  CA  92680-7013\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PAIRGAIN TECHNOLOGIES, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0020A7",
+			"OUISize": 24,
+			"OrgAddress": "14402 FRANKLIN AVENUE\\nTUSTIN CA 92680-7013\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "PAIRGAIN TECHNOLOGIES, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0020A7",
+			"OUISize": 24,
+			"OrgAddress": "14402 FRANKLIN AVENUE\\nTUSTIN  CA  92680-7013\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "PAIRGAIN TECHNOLOGIES, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

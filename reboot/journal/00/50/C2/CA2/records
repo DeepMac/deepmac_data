@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CA2",
+			"OUISize": 36,
+			"OrgAddress": "75 Gateway Blvd.\\nCottage Grove OR 97424\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "The Logical Company",
+			"Source": "IEEE"
+		}
+	]
+}

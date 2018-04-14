@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-19",
+			"EventType": "add",
+			"OUI": "8096B1",
+			"OUISize": 24,
+			"OrgAddress": "600 North U.S. Highway 45\\nLibertyville IL 60046\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Motorola Mobility",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "8096B1",
+			"OUISize": 24,
+			"OrgAddress": "600 North US Highway 45\\nLibertyville IL 60048\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Motorola Mobility, LLC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-10",
+			"EventType": "change",
+			"OUI": "8096B1",
+			"OUISize": 24,
+			"OrgAddress": "3871 Lakefield Drive\\nSuwanee GA 30024\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARRIS Group, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "8096B1",
+			"OUISize": 24,
+			"OrgAddress": "3871 Lakefield Drive\\nSuwanee  GA  30024\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ARRIS Group, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-19",
+			"EventType": "change",
+			"OUI": "8096B1",
+			"OUISize": 24,
+			"OrgAddress": "6450 Sequence Drive\\nSan Diego  CA  92121\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ARRIS Group, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

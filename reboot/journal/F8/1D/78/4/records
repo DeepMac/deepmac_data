@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-17",
+			"EventType": "add",
+			"OUI": "F81D784",
+			"OUISize": 28,
+			"OrgAddress": "2275 Research Blvd Suite 500\\nRockville  MD  20850\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Digital Imaging Technology",
+			"Source": "IEEE"
+		}
+	]
+}

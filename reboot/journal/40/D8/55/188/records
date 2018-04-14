@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-10-09",
+			"EventType": "add",
+			"OUI": "40D855188",
+			"OUISize": 36,
+			"OrgAddress": "3-42-10 Yoyogi\\nShibuya-ku Tokyo 151-0053\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Array Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B3C",
+			"OUISize": 36,
+			"OrgAddress": "1. pluku 12\\nPraha 8 CR 18600\\n\\n",
+			"OrgCountry": "CZECH REPUBLIC",
+			"OrgName": "JanasCard",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B57",
+			"OUISize": 24,
+			"OrgAddress": "7000 W. William Cannon Dr.\\nBldg.1, Suite 200\\nAustin TX 78735\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Silicon Laboratories",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B57",
+			"OUISize": 24,
+			"OrgAddress": "7000 W. William Cannon Dr.\\nAustin  TX  78735\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Silicon Laboratories",
+			"Source": "IEEE"
+		}
+	]
+}

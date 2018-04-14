@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-07",
+			"EventType": "add",
+			"OUI": "B428F1",
+			"OUISize": 24,
+			"OrgAddress": "Rm1207, Kolon Science Valley, 811,\\nKuro-Dong, Kuro-Ku\\nSeoul  152050\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "E-Prime Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B428F1",
+			"OUISize": 24,
+			"OrgAddress": "Rm1207, Kolon Science Valley, 811,\\nSeoul    152050\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "E-Prime Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-26",
+			"EventType": "add",
+			"OUI": "282C027",
+			"OUISize": 28,
+			"OrgAddress": "1-ja ulica Buhvostova, d.12/11, korp.53, floor 13\\nMoscow    107258\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Telecom and Microelectonic Industries",
+			"Source": "IEEE"
+		}
+	]
+}

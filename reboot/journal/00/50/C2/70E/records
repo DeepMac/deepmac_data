@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C270E",
+			"OUISize": 36,
+			"OrgAddress": "RUUNIKKOKATU 2\\nP.O.Box 39\\nTURKU  20380\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "AUDICO SYSTEMS OY",
+			"Source": "IEEE"
+		}
+	]
+}

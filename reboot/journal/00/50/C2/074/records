@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2074",
+			"OUISize": 36,
+			"OrgAddress": "6th-F. Dae Rewing Techo Town-1, 327-24\\nKasan-dong, Kumchon-gu Seoul\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Edge Tech Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D21",
+			"OUISize": 36,
+			"OrgAddress": "26921 Gloucester Way\\nLangley BC V4W 3Y3\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Innovative Circuit Technology",
+			"Source": "IEEE"
+		}
+	]
+}

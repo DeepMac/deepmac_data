@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AE4",
+			"OUISize": 36,
+			"OrgAddress": "233 Enterprise Blvd\\nBozeman MT 59718\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Advanced Electronic Designs, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

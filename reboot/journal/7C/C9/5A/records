@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-04-01",
+			"EventType": "add",
+			"OUI": "7CC95A",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton MA 01748\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "EMC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "7CC95A",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton  MA  01748\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "EMC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-27",
+			"EventType": "change",
+			"OUI": "7CC95A",
+			"OUISize": 24,
+			"OrgAddress": "176 South Street\\nHopkinton  MA  01748\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell EMC",
+			"Source": "IEEE"
+		}
+	]
+}

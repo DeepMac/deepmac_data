@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006014",
+			"OUISize": 24,
+			"OrgAddress": "9F OF T.O.C. BUILDING\\n7-22-17 NISHIGOTANDA\\nSHINAGAWAKU,  TOKYO\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "EDEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006014",
+			"OUISize": 24,
+			"OrgAddress": "9F OF T.O.C. BUILDING\\n7-22-17 NISHIGOTANDA SHINAGAWAKU,  TOKYO\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "EDEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "006014",
+			"OUISize": 24,
+			"OrgAddress": "9F OF T.O.C. BUILDING\\n7-22-17 NISHIGOTANDA\\nSHINAGAWAKU,  TOKYO\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "EDEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006014",
+			"OUISize": 24,
+			"OrgAddress": "9F OF T.O.C. BUILDING\\nSHINAGAWAKU,  TOKYO\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "EDEC CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

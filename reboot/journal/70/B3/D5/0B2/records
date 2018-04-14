@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-31",
+			"EventType": "add",
+			"OUI": "70B3D50B2",
+			"OUISize": 36,
+			"OrgAddress": "1405-111 Av Saint-Jean-Baptiste\\nQuebec  Quebec  G2E5K2\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "ndb technologies",
+			"Source": "IEEE"
+		}
+	]
+}

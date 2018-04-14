@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A69",
+			"OUISize": 36,
+			"OrgAddress": "81 David Love Pl.\\nSuite J\\nGoleta CA 93117\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Advanced Integrated Systems",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-01-26",
+			"EventType": "add",
+			"OUI": "001B37",
+			"OUISize": 24,
+			"OrgAddress": "Juholankatu 8\\nPL 66\\nKouvola Kymi 45200\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Computec Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001B37",
+			"OUISize": 24,
+			"OrgAddress": "Juholankatu 8\\nKouvola  Kymi  45200\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Computec Oy",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-23",
+			"EventType": "add",
+			"OUI": "D8ED1C",
+			"OUISize": 24,
+			"OrgAddress": "C/Principe de Vergara, 55. 3Âª planta\\n\\n\\n",
+			"OrgCountry": "Madrid    28006",
+			"OrgName": "Magna Technology SL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-24",
+			"EventType": "change",
+			"OUI": "D8ED1C",
+			"OUISize": 24,
+			"OrgAddress": "C/Principe de Vergara, 55. 3Âª planta\\nMadrid    28006\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "Magna Technology SL",
+			"Source": "IEEE"
+		}
+	]
+}

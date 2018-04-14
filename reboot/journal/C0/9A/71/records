@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-01-14",
+			"EventType": "add",
+			"OUI": "C09A71",
+			"OUISize": 24,
+			"OrgAddress": "1-3F, Block2, No.6 Wanghai Rd\\nSiming District,\\nXiamen Fujian 361008\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "XIAMEN MEITU MOBILE TECHNOLOGY CO.LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "C09A71",
+			"OUISize": 24,
+			"OrgAddress": "1-3F, Block2, No.6 Wanghai Rd,Siming District, Xiamen, Fujian, China (âMEITUâ)\\nXiamen  Fujian  361008\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "XIAMEN MEITU MOBILE TECHNOLOGY CO.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

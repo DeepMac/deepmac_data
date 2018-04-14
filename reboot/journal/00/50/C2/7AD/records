@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27AD",
+			"OUISize": 36,
+			"OrgAddress": "Orikedonkatu 22 B\\nTurku  20380\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Turun Turvatekniikka Oy",
+			"Source": "IEEE"
+		}
+	]
+}

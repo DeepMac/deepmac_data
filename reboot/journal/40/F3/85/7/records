@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-12",
+			"EventType": "add",
+			"OUI": "40F3857",
+			"OUISize": 28,
+			"OrgAddress": "VIA ROVEREDO 103\\nPORCIA  PORDENONE  33080\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "PALAZZETTI LELIO SPA",
+			"Source": "IEEE"
+		}
+	]
+}

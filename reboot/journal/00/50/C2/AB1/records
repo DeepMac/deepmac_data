@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AB1",
+			"OUISize": 36,
+			"OrgAddress": "Schwedter Str. 23\\nBerlin  10119\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Bitmanufaktur GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

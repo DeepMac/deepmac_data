@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "009022",
+			"OUISize": 24,
+			"OrgAddress": "4295 INTERNATIONAL BLVD.\\nSUITE \"F\"\\nNORCROSS  GA  30093\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "IVEX",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009022",
+			"OUISize": 24,
+			"OrgAddress": "4295 INTERNATIONAL BLVD.\\nSUITE \"F\"\\nNORCROSS GA 30093\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "IVEX",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "009022",
+			"OUISize": 24,
+			"OrgAddress": "4295 INTERNATIONAL BLVD.\\nSUITE\\nNORCROSS GA 30093\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "IVEX",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009022",
+			"OUISize": 24,
+			"OrgAddress": "4295 INTERNATIONAL BLVD.\\nNORCROSS  GA  30093\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "IVEX",
+			"Source": "IEEE"
+		}
+	]
+}

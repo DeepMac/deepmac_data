@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-19",
+			"EventType": "add",
+			"OUI": "0014F7",
+			"OUISize": 24,
+			"OrgAddress": "8F, KyungHee-Respia, 1024-15, YoungTong\\nSuwon KyungKee Do 443-813\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Crevis",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-03-01",
+			"EventType": "change",
+			"OUI": "0014F7",
+			"OUISize": 24,
+			"OrgAddress": "D-11F, Digital Empire Bldg., 980-3\\nYoungtong-Don, Youngtong-Gu\\nSuwon GyeongGi-Do\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Crevis",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-01-14",
+			"EventType": "change",
+			"OUI": "0014F7",
+			"OUISize": 24,
+			"OrgAddress": "D-11F, Digital Empire Bldg., 980-3\\nYoungtong\\nSuwon\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Crevis",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0014F7",
+			"OUISize": 24,
+			"OrgAddress": "157-1, Hagal-Dong\\nGiheung-Gu\\nYoungin Kyungki 446930\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "CREVIS Co., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014F7",
+			"OUISize": 24,
+			"OrgAddress": "157-1, Hagal-Dong\\nYoungin  Kyungki  446930\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "CREVIS Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

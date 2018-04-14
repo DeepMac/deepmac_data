@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-23",
+			"EventType": "add",
+			"OUI": "6891D0D",
+			"OUISize": 28,
+			"OrgAddress": "tianewan 30#1601 Pushang Load,Cangshan District,\\nFuzhou  Fujian  350008\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fuzhou x-speed information technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

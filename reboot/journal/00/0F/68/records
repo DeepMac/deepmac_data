@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F68",
+			"OUISize": 24,
+			"OrgAddress": "1st Floor, 15 Jiangong Road\\nTianhe  S&T Zone\\nGuangzhou Guangdong 510665\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Vavic Network Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F68",
+			"OUISize": 24,
+			"OrgAddress": "1st Floor, 15 Jiangong Road\\nGuangzhou  Guangdong  510665\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Vavic Network Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

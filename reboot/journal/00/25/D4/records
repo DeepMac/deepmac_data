@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0025D4",
+			"OUISize": 24,
+			"OrgAddress": "2 Technology Park Dr\\nWestford MA 01886\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Fortress Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0025D4",
+			"OUISize": 24,
+			"OrgAddress": "2 Technology Park Drive\\nWestford  MA  01886\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Fortress Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-31",
+			"EventType": "change",
+			"OUI": "0025D4",
+			"OUISize": 24,
+			"OrgAddress": "150 Rustcraft Road\\nDedham  MA  20266\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "General Dynamics Mission Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-07",
+			"EventType": "change",
+			"OUI": "0025D4",
+			"OUISize": 24,
+			"OrgAddress": "150 Rustcraft Road\\nDedham  MA  02026\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "General Dynamics Mission Systems",
+			"Source": "IEEE"
+		}
+	]
+}

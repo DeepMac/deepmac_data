@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-08",
+			"EventType": "add",
+			"OUI": "448A5B",
+			"OUISize": 24,
+			"OrgAddress": "No69, LIde St.\\nJhonghe City\\nTaipei  235\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Micro-Star INT'L CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "448A5B",
+			"OUISize": 24,
+			"OrgAddress": "No69, LIde St.\\nTaipei    235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Micro-Star INT'L CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

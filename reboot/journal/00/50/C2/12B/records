@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C212B",
+			"OUISize": 36,
+			"OrgAddress": "7704 Dongil Techno Town #7, 823\\nKwan Yang-2 Dong, DongAn-gu, Anyang-Si\\nKyungki-Do, 431-062\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Dong A Eltek Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

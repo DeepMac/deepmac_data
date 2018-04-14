@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-27",
+			"EventType": "add",
+			"OUI": "500B91D",
+			"OUISize": 28,
+			"OrgAddress": "201A, BLOCK 10 ROW 1, SHANGTUN VILLAGE HESHUIKOU COMMUNITY,GO NGMING STREET, GUANGMING DISTRICT\\nSHENZHEN  GUANGDONG  518107\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Lucky Sonics Co .,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

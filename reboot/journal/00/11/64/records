@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001164",
+			"OUISize": 24,
+			"OrgAddress": "6F No.78 Sec1 Kwang Fu Road, Sanchung,\\nTaipei Hsien  241\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ACARD Technology Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001164",
+			"OUISize": 24,
+			"OrgAddress": "6F No.78 Sec1 Kwang Fu Road, Sanchung,\\nTaipei Hsien  241\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ACARD Technology Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001164",
+			"OUISize": 24,
+			"OrgAddress": "6F No.78 Sec1 Kwang Fu Road, Sanchung,\\nTaipei Hsien    241\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ACARD Technology Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

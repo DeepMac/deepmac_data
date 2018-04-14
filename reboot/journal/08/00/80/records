@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "080080",
+			"OUISize": 24,
+			"OrgAddress": "1900 MINNESOTA COURT\\nMISSISAUGA ONTARIO\\n\\n",
+			"OrgCountry": "CANADA L5N 3C9",
+			"OrgName": "AES DATA INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "080080",
+			"OUISize": 24,
+			"OrgAddress": "1900 MINNESOTA COURT\\nMISSISAUGA ONTARIO\\nCANADA L5N L5N 3C9\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "AES DATA INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "080080",
+			"OUISize": 24,
+			"OrgAddress": "1900 MINNESOTA COURT\\nCANADA  L5N  L5N 3C9\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "AES DATA INC.",
+			"Source": "IEEE"
+		}
+	]
+}

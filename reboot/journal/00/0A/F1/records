@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000AF1",
+			"OUISize": 24,
+			"OrgAddress": "13029 Danielson Street\\nSuite 108\\nPoway CA 92064-8811\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Clarity Design, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "000AF1",
+			"OUISize": 24,
+			"OrgAddress": "13029 Danielson Street\\nSuite 100\\nPoway CA 92064-8810\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Clarity Design, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000AF1",
+			"OUISize": 24,
+			"OrgAddress": "13029 Danielson Street\\nPoway  CA  92064-8810\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Clarity Design, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

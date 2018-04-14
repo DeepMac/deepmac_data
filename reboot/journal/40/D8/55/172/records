@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "add",
+			"OUI": "40D855172",
+			"OUISize": 36,
+			"OrgAddress": "1-17-1 Ohmorihigashi\\nOhta-ku Tokyo 143-0012\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "YAWATA ELECTRIC INDUSTRIAL CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

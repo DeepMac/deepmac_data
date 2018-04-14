@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22F6",
+			"OUISize": 36,
+			"OrgAddress": "Canary Wharf\\n10 Upper Bank Street\\nLondon UK E14 5JJ\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Clifford Chance LLP",
+			"Source": "IEEE"
+		}
+	]
+}

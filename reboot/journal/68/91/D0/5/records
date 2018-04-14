@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-11",
+			"EventType": "add",
+			"OUI": "6891D05",
+			"OUISize": 28,
+			"OrgAddress": "Leningradskaya str. 52a. lit.A, pos. Pesochny\\nSaint-Petersburg    197758\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "NIPK Electron Co.",
+			"Source": "IEEE"
+		}
+	]
+}

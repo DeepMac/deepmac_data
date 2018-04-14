@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-10-23",
+			"EventType": "add",
+			"OUI": "E89AFF",
+			"OUISize": 24,
+			"OrgAddress": "No.68, Hong Shan Yuan Road, Gulou District\\nFuzhou Municipality Fujian Province 350001\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Fujian Landi Commercial Equipment Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E89AFF",
+			"OUISize": 24,
+			"OrgAddress": "No.68, Hong Shan Yuan Road, Gulou District\\nFuzhou Municipality  Fujian Province  350001\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fujian Landi Commercial Equipment Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

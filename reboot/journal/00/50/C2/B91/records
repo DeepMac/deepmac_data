@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B91",
+			"OUISize": 36,
+			"OrgAddress": "Serebrianicheskyi per., b.2/5 str. 4.\\nMoscow  109028\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Finnet-Service Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

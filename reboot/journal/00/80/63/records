@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "GESCHAFTSBEREICH\\nOPTISCHE UBERTRAGUNGSTECHNIK\\nOBERTURKHEIMER STRASS 78\\n",
+			"OrgCountry": "7300 ESSLINGEN  GERMANY",
+			"OrgName": "RICHARD HIRSCHMANN GMBH & CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "GESCHAFTSBEREICH\\nOPTISCHE UBERTRAGUNGSTECHNIK OBERTURKHEI\\n\\n",
+			"OrgCountry": "7300 ESSLINGEN GERMANY",
+			"OrgName": "RICHARD HIRSCHMANN GMBH & CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "GESCHAFTSBEREICH\\nOPTISCHE UBERTRAGUNGSTECHNIK OBERTURKHEI\\n7300 ESSLINGEN GERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "RICHARD HIRSCHMANN GMBH & CO.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-09-22",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter Strasse 45-51\\nNeckartenzlingen   D-72654\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter Strasse 45-51\\nNeckartenzlingen  D-72654\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter Strasse 45-51\\nNeckartenzlingen   D-72654\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter Strasse 45-51\\nNeckartenzlingen  D-72654\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter StraÃe 45-51\\nNeckartenzlingen  D-72654\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter Strasse 45-51\\nNeckartenzlingen  D-72654\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter StraÃe 45-51\\nNeckartenzlingen  D-72654\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "008063",
+			"OUISize": 24,
+			"OrgAddress": "Stuttgarter StraÃe 45-51\\nNeckartenzlingen    D-72654\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Hirschmann Automation and Control GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-05-07",
+			"EventType": "add",
+			"OUI": "001471",
+			"OUISize": 24,
+			"OrgAddress": "5611, North Bridge Road,\\n#22-03, Eng Cheong Tower\\n198782\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "Eastern Asia Technology Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "001471",
+			"OUISize": 24,
+			"OrgAddress": "13F, No. 99, Sec. 1, Nankan Road,\\nLuchu, Taoyuan 338\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Eastern Asia Technology Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001471",
+			"OUISize": 24,
+			"OrgAddress": "13F, No. 99, Sec. 1, Nankan Road,\\nLuchu, Taoyuan 338\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Eastern Asia Technology Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-15",
+			"EventType": "change",
+			"OUI": "001471",
+			"OUISize": 24,
+			"OrgAddress": "8F-1, No. 188, Baoqiao Rd., Xindian Dist.\\nNew Taipei City  23145\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Eastern Asia Technology Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001471",
+			"OUISize": 24,
+			"OrgAddress": "8F-1, No. 188, Baoqiao Rd., Xindian Dist.\\nNew Taipei City    23145\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Eastern Asia Technology Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00304A",
+			"OUISize": 24,
+			"OrgAddress": "GRENZSTRASSE 28\\n01109 DRESDEN\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FRAUNHOFER INSTITUTE IMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00304A",
+			"OUISize": 24,
+			"OrgAddress": "GRENZSTRASSE 28\\n01109 DRESDEN\\nGERMANY\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "FRAUNHOFER INSTITUTE IMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-10-26",
+			"EventType": "change",
+			"OUI": "00304A",
+			"OUISize": 24,
+			"OrgAddress": "Grenzstrasse 28\\n01109 Dresden\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Fraunhofer IPMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-02-06",
+			"EventType": "change",
+			"OUI": "00304A",
+			"OUISize": 24,
+			"OrgAddress": "Grenzstrasse 28\\n01109 Dresden\\n01109\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Fraunhofer IPMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "00304A",
+			"OUISize": 24,
+			"OrgAddress": "Maria-Reiche-Strasse 2\\n01109\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Fraunhofer IPMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "00304A",
+			"OUISize": 24,
+			"OrgAddress": "Maria-Reiche-Strasse 2\\nDresden  01109\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Fraunhofer IPMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00304A",
+			"OUISize": 24,
+			"OrgAddress": "Maria-Reiche-Strasse 2\\nDresden    01109\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Fraunhofer IPMS",
+			"Source": "IEEE"
+		}
+	]
+}

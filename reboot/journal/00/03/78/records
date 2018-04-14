@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000378",
+			"OUISize": 24,
+			"OrgAddress": "271-2, Suh-hyun-Dong,\\nBundang-Gu, Sungnam-City,\\nKyonggi-Do, 463-050\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "HUMAX Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000378",
+			"OUISize": 24,
+			"OrgAddress": "271-2, Suh-hyun-Dong,\\nBundang-Gu, Sungnam-City, Kyonggi-Do, 46\\n\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "HUMAX Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000378",
+			"OUISize": 24,
+			"OrgAddress": "271-2, Suh-hyun-Dong,\\nBundang-Gu, Sungnam-City, Kyonggi-Do, 46\\nKOREA\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "HUMAX Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "change",
+			"OUI": "000378",
+			"OUISize": 24,
+			"OrgAddress": "271-2, Suh-hyun-Dong,\\nBundang-Gu, Sungnam-City, Kyonggi-Do, 46\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "HUMAX Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000378",
+			"OUISize": 24,
+			"OrgAddress": "271-2, Suh-hyun-Dong,\\n\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "HUMAX Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

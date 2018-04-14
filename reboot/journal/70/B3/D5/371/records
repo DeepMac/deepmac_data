@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-31",
+			"EventType": "add",
+			"OUI": "70B3D5371",
+			"OUISize": 36,
+			"OrgAddress": "Rankestr. 8\\nBerlin  Berlin  10789\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "BEDEROV GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

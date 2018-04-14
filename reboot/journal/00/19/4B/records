@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-08-15",
+			"EventType": "add",
+			"OUI": "00194B",
+			"OUISize": 24,
+			"OrgAddress": "27 RUE LEBLANC\\nPARIS  75512\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SAGEM COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00194B",
+			"OUISize": 24,
+			"OrgAddress": "Le Ponnant de Paris\\nCEDEX  Paris  75512\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "SAGEM COMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-14",
+			"EventType": "change",
+			"OUI": "00194B",
+			"OUISize": 24,
+			"OrgAddress": "Le Ponnant de Paris\\nCEDEX  Paris  75512\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Sagemcom Broadband SAS",
+			"Source": "IEEE"
+		}
+	]
+}

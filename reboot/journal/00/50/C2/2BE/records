@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22BE",
+			"OUISize": 36,
+			"OrgAddress": "Roemerstr. 57\\nDarmstadt Hessen 64291\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Lipowsky Industrie-Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-17",
+			"EventType": "add",
+			"OUI": "44B412",
+			"OUISize": 24,
+			"OrgAddress": "Im Langhag 1\\nEffretikon    8307\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "SIUS AG",
+			"Source": "IEEE"
+		}
+	]
+}

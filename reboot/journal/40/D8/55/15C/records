@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-29",
+			"EventType": "add",
+			"OUI": "40D85515C",
+			"OUISize": 36,
+			"OrgAddress": "4-22-3-101 Kaminoge\\nSetagayaku Tokyo 158-0093\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Spectratech Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

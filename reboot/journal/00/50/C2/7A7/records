@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27A7",
+			"OUISize": 36,
+			"OrgAddress": "5 Tiber Way\\nMeridian Business Park\\nLeicester Leicestershire LE19 1QP\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Guidance Navigation Limited",
+			"Source": "IEEE"
+		}
+	]
+}

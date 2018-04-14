@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-30",
+			"EventType": "add",
+			"OUI": "446A2E",
+			"OUISize": 24,
+			"OrgAddress": "No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park\\nDongguan    523808\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

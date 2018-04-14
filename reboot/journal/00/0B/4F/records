@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B4F",
+			"OUISize": 24,
+			"OrgAddress": "2455 Augustine Drive\\nSanta Clara California 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Verifone, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000B4F",
+			"OUISize": 24,
+			"OrgAddress": "2099 Gateway Place\\nSuite 600\\nSan Jose California 95110\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Verifone, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000B4F",
+			"OUISize": 24,
+			"OrgAddress": "2455 Augustine Drive\\nSanta Clara California 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Verifone, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000B4F",
+			"OUISize": 24,
+			"OrgAddress": "2099 Gateway Place\\nSuite 600\\nSan Jose California 95110\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Verifone, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B4F",
+			"OUISize": 24,
+			"OrgAddress": "2099 Gateway Place\\nSan Jose  California  95110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Verifone, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-20",
+			"EventType": "change",
+			"OUI": "000B4F",
+			"OUISize": 24,
+			"OrgAddress": "2099 Gateway Place\\nSan Jose  California  95110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Verifone",
+			"Source": "IEEE"
+		}
+	]
+}

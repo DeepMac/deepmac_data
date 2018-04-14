@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27B3",
+			"OUISize": 36,
+			"OrgAddress": "229 Billerica Road\\nChelmsford Mass 01824\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Elmec,  Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

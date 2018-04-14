@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-20",
+			"EventType": "add",
+			"OUI": "E4956E3",
+			"OUISize": 28,
+			"OrgAddress": "No.6608, Beisong Road,\\nSongjiang District\\nShanghai 201611\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shanghai DGE Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E4956E3",
+			"OUISize": 28,
+			"OrgAddress": "No.6608, Beisong Road,\\nShanghai  201611\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai DGE Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

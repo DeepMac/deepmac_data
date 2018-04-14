@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-27",
+			"EventType": "add",
+			"OUI": "AC512C",
+			"OUISize": 24,
+			"OrgAddress": "RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG\\nHongKong  HongKong  999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Infinix mobility limited",
+			"Source": "IEEE"
+		}
+	]
+}

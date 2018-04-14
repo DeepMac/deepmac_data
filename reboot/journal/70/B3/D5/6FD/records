@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-26",
+			"EventType": "add",
+			"OUI": "70B3D56FD",
+			"OUISize": 36,
+			"OrgAddress": "Akdeniz Mah. Cumhuriyet BulvarÄ± No:82/802 Konak\\nÄ°zmir    35210\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Core AkÄ±llÄ± Ev Sistemleri",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2051",
+			"OUISize": 36,
+			"OrgAddress": "3800 Monroe Ave.\\nPittsford NY 14534\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "JSR Ultrasonics",
+			"Source": "IEEE"
+		}
+	]
+}

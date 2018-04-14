@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-22",
+			"EventType": "add",
+			"OUI": "749C52",
+			"OUISize": 24,
+			"OrgAddress": "103, Hechang 5th Road West,\\nZhongkai National Hi-tech Industrial Development Zone\\nHuizhou Guangdong 516006\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Huizhou Desay SV Automotive Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "749C52",
+			"OUISize": 24,
+			"OrgAddress": "103, Hechang 5th Road West,\\nHuizhou  Guangdong  516006\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huizhou Desay SV Automotive Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

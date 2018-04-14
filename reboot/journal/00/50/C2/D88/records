@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D88",
+			"OUISize": 36,
+			"OrgAddress": "Planckstrasse 9-11\\nHerford NRW 32052\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "T+A elektroakustik GmbH &amp; Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2D88",
+			"OUISize": 36,
+			"OrgAddress": "PlanckstraÃe 9-11\\nHerford NRW 32052\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "T+A elektroakustik GmbH & Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2D88",
+			"OUISize": 36,
+			"OrgAddress": "PlanckstraÃÅ¸e 9-11\\nHerford NRW 32052\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "T+A elektroakustik GmbH & Co KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2D88",
+			"OUISize": 36,
+			"OrgAddress": "PlanckstraÃe 9-11\\nHerford NRW 32052\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "T+A elektroakustik GmbH & Co KG",
+			"Source": "IEEE"
+		}
+	]
+}

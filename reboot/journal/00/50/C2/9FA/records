@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29FA",
+			"OUISize": 36,
+			"OrgAddress": "12600 Challenger Parkway\\nSuite 100\\nOrlando FL 32826-2700\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Teranex A Division of Silicon Optix",
+			"Source": "IEEE"
+		}
+	]
+}

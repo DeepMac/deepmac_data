@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-03-23",
+			"EventType": "add",
+			"OUI": "A4134E",
+			"OUISize": 24,
+			"OrgAddress": "357 S 670 W\\nLindon UT 84042\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Luxul Wireless",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-01-25",
+			"EventType": "change",
+			"OUI": "A4134E",
+			"OUISize": 24,
+			"OrgAddress": "14203 Minuteman Drive\\nSuite 201\\nDraper UT 84020\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Luxul",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A4134E",
+			"OUISize": 24,
+			"OrgAddress": "14203 Minuteman Drive\\nDraper  UT  84020\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Luxul",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28D3",
+			"OUISize": 36,
+			"OrgAddress": "Parselvalstr. 2\\nErfurt Thuringia 99092\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IFAM GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

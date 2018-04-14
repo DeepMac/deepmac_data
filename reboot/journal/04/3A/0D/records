@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-29",
+			"EventType": "add",
+			"OUI": "043A0D",
+			"OUISize": 24,
+			"OrgAddress": "via Michelangelo Buonarroti, 1\\nCologno Monzese  Milan  I-20093\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "SM Optics S.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

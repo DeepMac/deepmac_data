@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-26",
+			"EventType": "add",
+			"OUI": "70B3D53F6",
+			"OUISize": 36,
+			"OrgAddress": "Einsteinstr 7\\nDachau    85221\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Sycomp Electronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

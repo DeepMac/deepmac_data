@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2286",
+			"OUISize": 36,
+			"OrgAddress": "26 Burospace\\nRoute de Gizy\\nBIEVRES Cedex  91573\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "ATEME",
+			"Source": "IEEE"
+		}
+	]
+}

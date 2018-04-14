@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-28",
+			"EventType": "add",
+			"OUI": "E441E6",
+			"OUISize": 24,
+			"OrgAddress": "Planetenring 12\\nRonnenberg Lower Saxony 30952\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Ottec Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-11",
+			"EventType": "change",
+			"OUI": "E441E6",
+			"OUISize": 24,
+			"OrgAddress": "BÃ¼nteweg 33\\nGehrden Lower Saxony 30989\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Ottec Technology GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E441E6",
+			"OUISize": 24,
+			"OrgAddress": "BÃ¼nteweg 33\\nGehrden  Lower Saxony  30989\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Ottec Technology GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

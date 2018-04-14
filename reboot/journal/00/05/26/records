@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-02-02",
+			"EventType": "add",
+			"OUI": "000526",
+			"OUISize": 24,
+			"OrgAddress": "Grabenstr. 149a\\n47057 Duisburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IPAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000526",
+			"OUISize": 24,
+			"OrgAddress": "GrabenstraÃe 149a\\n47057 Duisburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IPAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000526",
+			"OUISize": 24,
+			"OrgAddress": "Grabenstr. 149a\\n47057 Duisburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IPAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000526",
+			"OUISize": 24,
+			"OrgAddress": "GrabenstraÃe 149a\\n47057 Duisburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IPAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-27",
+			"EventType": "change",
+			"OUI": "000526",
+			"OUISize": 24,
+			"OrgAddress": "HÃ¶lscherstr. 27\\n47167 Duisburg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "IPAS GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000526",
+			"OUISize": 24,
+			"OrgAddress": "HÃ¶lscherstr. 27\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "IPAS GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

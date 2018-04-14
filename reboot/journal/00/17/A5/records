@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-08",
+			"EventType": "add",
+			"OUI": "0017A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 215, Bldg 53. 195-61 Sec.4, Chung Hsing Rd,\\nChutung Hsinchu 310\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "TrendChip Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-01-20",
+			"EventType": "change",
+			"OUI": "0017A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 215, Bldg 53. 195-61 Sec.4, Chung Hsing Rd,\\nChutung Hsinchu 310\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Ralink Technology Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0017A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 215, Bldg 53. 195-61 Sec.4, Chung Hsing Rd,\\nChutung Hsinchu 310\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Ralink Technology Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0017A5",
+			"OUISize": 24,
+			"OrgAddress": "Suite 215, Bldg 53. 195-61 Sec.4, Chung Hsing Rd,\\nChutung  Hsinchu  310\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Ralink Technology Corp",
+			"Source": "IEEE"
+		}
+	]
+}

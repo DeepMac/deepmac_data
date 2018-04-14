@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-15",
+			"EventType": "add",
+			"OUI": "F023B99",
+			"OUISize": 28,
+			"OrgAddress": "1400 E. Angela Blvd. #101\\nSouth Bend  IN  46617\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Emu Technology",
+			"Source": "IEEE"
+		}
+	]
+}

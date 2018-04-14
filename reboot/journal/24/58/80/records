@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-01",
+			"EventType": "add",
+			"OUI": "245880",
+			"OUISize": 24,
+			"OrgAddress": "13 rue Emile Decorps\\nVilleurbanne    69100\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "VIZEO",
+			"Source": "IEEE"
+		}
+	]
+}

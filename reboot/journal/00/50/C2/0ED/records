@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20ED",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 668\\nValley NE 68064\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Valley Products Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

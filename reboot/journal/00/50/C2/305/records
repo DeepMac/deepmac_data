@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2305",
+			"OUISize": 36,
+			"OrgAddress": "603 March Road, Suite 100\\nKanata Ontario K2K 2M5\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Symbium Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

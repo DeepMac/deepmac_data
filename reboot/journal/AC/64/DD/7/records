@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-08",
+			"EventType": "add",
+			"OUI": "AC64DD7",
+			"OUISize": 28,
+			"OrgAddress": "LichtblaustraÃe 10\\nVienna  Vienna  1220\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Wittmann KunststoffgerÃ¤te GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

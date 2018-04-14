@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "0004AF",
+			"OUISize": 24,
+			"OrgAddress": "600 Alabama St.\\nSan Francisco, CA 94110\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Digital Fountain, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0004AF",
+			"OUISize": 24,
+			"OrgAddress": "600 Alabama St.\\nSan Francisco CA 94110\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Digital Fountain, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0004AF",
+			"OUISize": 24,
+			"OrgAddress": "600 Alabama St.\\nSan Francisco  CA  94110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Digital Fountain, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

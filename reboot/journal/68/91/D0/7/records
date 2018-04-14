@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-17",
+			"EventType": "add",
+			"OUI": "6891D07",
+			"OUISize": 28,
+			"OrgAddress": "Waldhof 5\\nZug  Zug  6300\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Omniimpex GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

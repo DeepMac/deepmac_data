@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CF3",
+			"OUISize": 36,
+			"OrgAddress": "Av Sao Gabriel 481 - Campo Pequeno\\nColombo Pr 83404000\\n\\n",
+			"OrgCountry": "BRAZIL",
+			"OrgName": "Daiken Automacao Ltda",
+			"Source": "IEEE"
+		}
+	]
+}

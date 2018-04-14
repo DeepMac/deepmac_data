@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-08-06",
+			"EventType": "add",
+			"OUI": "8455A5",
+			"OUISize": 24,
+			"OrgAddress": "#94-1, Imsoo-Dong\\nGumi Gyeongbuk 730-350\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Samsung Elec Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "8455A5",
+			"OUISize": 24,
+			"OrgAddress": "#94-1, Imsoo-Dong\\nGumi  Gyeongbuk  730-350\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Elec Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-04",
+			"EventType": "change",
+			"OUI": "8455A5",
+			"OUISize": 24,
+			"OrgAddress": "#94-1, Imsoo-Dong\\nGumi  Gyeongbuk  730-350\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

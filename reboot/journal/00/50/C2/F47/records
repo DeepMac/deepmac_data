@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F47",
+			"OUISize": 36,
+			"OrgAddress": "Ho10-3,Ouramachi\\nKanazawa-shi Ishikawa 920-0205\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "cadac,inc.",
+			"Source": "IEEE"
+		}
+	]
+}

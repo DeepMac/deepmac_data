@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002063",
+			"OUISize": 24,
+			"OrgAddress": "UNITS 47-48, SDF BLOCK VII\\nMEPZ, KADAPPERI\\nMADRAS-600045\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "WIPRO INFOTECH LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002063",
+			"OUISize": 24,
+			"OrgAddress": "UNITS 47-48, SDF BLOCK VII\\nMEPZ, KADAPPERI MADRAS-600045\\n\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "WIPRO INFOTECH LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

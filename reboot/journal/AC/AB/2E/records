@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-07",
+			"EventType": "add",
+			"OUI": "ACAB2E",
+			"OUISize": 24,
+			"OrgAddress": "Chao-Yang-Bei-Lu No. 103, Room 1109-1110\\nBeijing    100025\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing LasNubes Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

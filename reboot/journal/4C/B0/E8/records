@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-21",
+			"EventType": "add",
+			"OUI": "4CB0E8",
+			"OUISize": 24,
+			"OrgAddress": "Beijing haidian district zhongguancun east road No. 18 smartfortune international building, room 909\\nbeijing  beijing  100000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing RongZhi xinghua technology co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "008038",
+			"OUISize": 24,
+			"OrgAddress": "9041 EXECUTIVE PARK DR.\\nSUITE 200\\nKNOXVILLE, TN  37923-4609\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DATA RESEARCH & APPLICATIONS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "008038",
+			"OUISize": 24,
+			"OrgAddress": "9041 EXECUTIVE PARK DR.\\nSUITE 200\\nKNOXVILLE TN 37923-4609\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DATA RESEARCH & APPLICATIONS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "008038",
+			"OUISize": 24,
+			"OrgAddress": "9041 EXECUTIVE PARK DR.\\nKNOXVILLE  TN  37923-4609\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DATA RESEARCH & APPLICATIONS",
+			"Source": "IEEE"
+		}
+	]
+}

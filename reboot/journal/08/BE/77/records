@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-03",
+			"EventType": "add",
+			"OUI": "08BE77",
+			"OUISize": 24,
+			"OrgAddress": "47801 Fremont Blvd\\nFremont  CA  94538\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Green Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

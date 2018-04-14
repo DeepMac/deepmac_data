@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-14",
+			"EventType": "add",
+			"OUI": "70B3D5A47",
+			"OUISize": 36,
+			"OrgAddress": "760 Bryant Street\\nSan Francisco  CA  94107\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "KANOA INC",
+			"Source": "IEEE"
+		}
+	]
+}

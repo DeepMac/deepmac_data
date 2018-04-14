@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2368",
+			"OUISize": 36,
+			"OrgAddress": "os. Sienkiewicza 33\\nZabierzow Malopolska 32080\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "ASPEL S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

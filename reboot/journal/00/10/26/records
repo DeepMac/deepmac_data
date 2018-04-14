@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001026",
+			"OUISize": 24,
+			"OrgAddress": "31238 VIA COLINAS, UNIT \"E\"\\nWESTLAKE VILLAGE  CA  91362\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ACCELERATED NETWORKS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001026",
+			"OUISize": 24,
+			"OrgAddress": "31238 VIA COLINAS, UNIT \"E\"\\nWESTLAKE VILLAGE CA 91362\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ACCELERATED NETWORKS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001026",
+			"OUISize": 24,
+			"OrgAddress": "31238 VIA COLINAS, UNIT\\nWESTLAKE VILLAGE CA 91362\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ACCELERATED NETWORKS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001026",
+			"OUISize": 24,
+			"OrgAddress": "31238 VIA COLINAS, UNIT\\nWESTLAKE VILLAGE  CA  91362\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ACCELERATED NETWORKS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-14",
+			"EventType": "add",
+			"OUI": "50A4D08",
+			"OUISize": 28,
+			"OrgAddress": "ï¼Room 501,Building 10, Area 2, Headquarters Baseï¼NO.188,South 4th Ring West Road, Fengtai District\\nBeijing  Beijing  100070\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "XinLian'AnBaoï¼Beijingï¼Technology Co.ï¼LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

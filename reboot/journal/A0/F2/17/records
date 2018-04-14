@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-14",
+			"EventType": "add",
+			"OUI": "A0F217",
+			"OUISize": 24,
+			"OrgAddress": "No.19, ChangJiang Road\\nWuxi Jiangsu 214028\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "GE Medical System(China) Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A0F217",
+			"OUISize": 24,
+			"OrgAddress": "No.19, ChangJiang Road\\nWuxi  Jiangsu  214028\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GE Medical System(China) Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

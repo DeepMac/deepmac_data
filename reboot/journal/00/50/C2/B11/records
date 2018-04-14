@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B11",
+			"OUISize": 36,
+			"OrgAddress": "Via di Corticella 201\\nBologna  40128\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "EXEL s.r.l",
+			"Source": "IEEE"
+		}
+	]
+}

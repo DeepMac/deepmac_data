@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-27",
+			"EventType": "add",
+			"OUI": "047D7B",
+			"OUISize": 24,
+			"OrgAddress": "211, Wen Hwa 2nd Rd., Kuei Shan, Tao Yuan,\\nTaipei  33377\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Quanta Computer Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "047D7B",
+			"OUISize": 24,
+			"OrgAddress": "211, Wen Hwa 2nd Rd., Kuei Shan, Tao Yuan,\\nTaipei  33377\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Quanta Computer Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "047D7B",
+			"OUISize": 24,
+			"OrgAddress": "NO. 211, WEN HWA 2RD.,KUEI SHAN HSIANG, TAO YUAN SHIEN,\\nTAIPEI  TAIWAN  333\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Quanta Computer Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-09",
+			"EventType": "change",
+			"OUI": "047D7B",
+			"OUISize": 24,
+			"OrgAddress": "NO. 211, WEN HWA 2RD.,KUEI SHAN HSIANG, TAO YUAN SHIEN,\\nTAIPEI  TAIWAN  333\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "QUANTA COMPUTER INC.",
+			"Source": "IEEE"
+		}
+	]
+}

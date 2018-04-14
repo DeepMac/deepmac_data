@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D12",
+			"OUISize": 36,
+			"OrgAddress": "2-28-1, Kitamagome\\nOta-ku Tokyo 143-0021\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Tokyo Weld Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

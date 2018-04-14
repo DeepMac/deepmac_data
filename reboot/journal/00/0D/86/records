@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000D86",
+			"OUISize": 24,
+			"OrgAddress": "Tumbelenstrasse 20\\nPfaeffikon Zuerich 8330\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Huber + Suhner AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-01-14",
+			"EventType": "change",
+			"OUI": "000D86",
+			"OUISize": 24,
+			"OrgAddress": "Degersheimerstrasse 14\\n9100 Herisau\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Huber + Suhner AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000D86",
+			"OUISize": 24,
+			"OrgAddress": "Degersheimerstrasse 14\\n9100  Herisau\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Huber + Suhner AG",
+			"Source": "IEEE"
+		}
+	]
+}

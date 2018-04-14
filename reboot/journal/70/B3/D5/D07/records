@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-29",
+			"EventType": "add",
+			"OUI": "70B3D5D07",
+			"OUISize": 36,
+			"OrgAddress": "#1002 Pankyo-Innovalley, 622 Sampyong-dong, Bundang-gu\\nSeongnam-si, Kyeonggi-do    13486\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Waversa Systems",
+			"Source": "IEEE"
+		}
+	]
+}

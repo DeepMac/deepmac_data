@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-21",
+			"EventType": "add",
+			"OUI": "CC69B0",
+			"OUISize": 24,
+			"OrgAddress": "7800 Third Street North\\nSuite 100\\nSt. Paul Minnesota 55128\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Global Traffic Technologies, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "CC69B0",
+			"OUISize": 24,
+			"OrgAddress": "7800 Third Street North\\nSt. Paul  Minnesota  55128\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Global Traffic Technologies, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

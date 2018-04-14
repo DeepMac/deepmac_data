@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-23",
+			"EventType": "add",
+			"OUI": "CC8CDA",
+			"OUISize": 24,
+			"OrgAddress": "5K, Block B,Yueshang Center Cultural Square Jianshe East Rd Longhua New District\\nShenzhen    518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Wei Da Intelligent Technology Go.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

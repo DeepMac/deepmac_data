@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000214",
+			"OUISize": 24,
+			"OrgAddress": "813 Daegong Bldg.,\\n823-21 Yeoksam-Dong, Kangnam-Gu,\\nSeoul,\\n",
+			"OrgCountry": "KOREA, 135-080",
+			"OrgName": "DTVRO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000214",
+			"OUISize": 24,
+			"OrgAddress": "813 Daegong Bldg.,\\n823-21 Yeoksam-Dong, Kangnam-Gu, Seoul,\\n\\n",
+			"OrgCountry": "KOREA KOREA 135-080",
+			"OrgName": "DTVRO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000214",
+			"OUISize": 24,
+			"OrgAddress": "813 Daegong Bldg.,\\n823-21 Yeoksam-Dong, Kangnam-Gu, Seoul,\\nKOREA KOREA 135-080\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "DTVRO",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000214",
+			"OUISize": 24,
+			"OrgAddress": "813 Daegong Bldg.,\\nKOREA  KOREA  135-080\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DTVRO",
+			"Source": "IEEE"
+		}
+	]
+}

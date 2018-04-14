@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-21",
+			"EventType": "add",
+			"OUI": "9CD332",
+			"OUISize": 24,
+			"OrgAddress": "Nauchny proezd, 17\\nMoscow  Select State  117246\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "PLC Technology Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

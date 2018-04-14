@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "add",
+			"OUI": "001C04",
+			"OUISize": 24,
+			"OrgAddress": "1930 Palomar Point Way\\nSuite 107\\nCarlsbad CA 92008\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Airgain, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C04",
+			"OUISize": 24,
+			"OrgAddress": "1930 Palomar Point Way\\nCarlsbad  CA  92008\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Airgain, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

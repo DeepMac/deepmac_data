@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-21",
+			"EventType": "add",
+			"OUI": "0017F0",
+			"OUISize": 24,
+			"OrgAddress": "Room 602 No.8 Building ,Shenzhen Software Park,\\nHi-Tech C.Zone ,Nanshan Area\\nShenzhen Guangdong 518057\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SZCOM Broadband Network Technology Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0017F0",
+			"OUISize": 24,
+			"OrgAddress": "Room 602 No.8 Building ,Shenzhen Software Park,\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SZCOM Broadband Network Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

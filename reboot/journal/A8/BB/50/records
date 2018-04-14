@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-10",
+			"EventType": "add",
+			"OUI": "A8BB50",
+			"OUISize": 24,
+			"OrgAddress": "148 Electric Road\\nHong Kong    0000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "WiZ IoT Company Limited",
+			"Source": "IEEE"
+		}
+	]
+}

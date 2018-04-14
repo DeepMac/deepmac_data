@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-12",
+			"EventType": "add",
+			"OUI": "A4D9A4",
+			"OUISize": 24,
+			"OrgAddress": "TelefonvÃ¤gen 26\\nStockholm    12626\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "neXus ID Solutions AB",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-07-11",
+			"EventType": "add",
+			"OUI": "E8D819",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 94, Baozhong Rd.\\nNew Taipei City  Taiwan  231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AzureWave Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "080064",
+			"OUISize": 24,
+			"OrgAddress": "ABT. TZM 307\\nZIEGELMATTSTRASSE 1-15\\n4503 SOLOTHURN\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "AUTOPHON AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "080064",
+			"OUISize": 24,
+			"OrgAddress": "ABT. TZM 307\\nZIEGELMATTSTRASSE 1-15 4503 SOLOTHURN\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "AUTOPHON AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "080064",
+			"OUISize": 24,
+			"OrgAddress": "ABT. TZM 307\\nZIEGELMATTSTRASSE 1-15 4503 SOLOTHURN\\nSWITZERLAND\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "AUTOPHON AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-26",
+			"EventType": "change",
+			"OUI": "080064",
+			"OUISize": 24,
+			"OrgAddress": "Freiburgstrasse 251\\nCH-3018 Bern\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Sitasys AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-17",
+			"EventType": "change",
+			"OUI": "080064",
+			"OUISize": 24,
+			"OrgAddress": "Industriestrasse 6\\n4513 Langendorf\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Sitasys AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "080064",
+			"OUISize": 24,
+			"OrgAddress": "Freiburgstrasse 251\\n\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Sitasys AG",
+			"Source": "IEEE"
+		}
+	]
+}

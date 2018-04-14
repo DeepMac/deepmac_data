@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2ED3",
+			"OUISize": 36,
+			"OrgAddress": "ST BEDES CHAMBERS\\nALBERT ROAD\\nJARROW TYNE AND WEAR NE32 5JU\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "ECO MONITORING UTILITY SYSTEMS LTD",
+			"Source": "IEEE"
+		}
+	]
+}

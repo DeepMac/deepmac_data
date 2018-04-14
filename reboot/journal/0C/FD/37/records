@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-03",
+			"EventType": "add",
+			"OUI": "0CFD37",
+			"OUISize": 24,
+			"OrgAddress": "MaxfeldstraÃe 5\\nNÃ¼rnberg  Bavaria  90409\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SUSE Linux GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

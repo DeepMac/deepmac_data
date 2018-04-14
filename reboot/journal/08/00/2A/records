@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "08002A",
+			"OUISize": 24,
+			"OrgAddress": "47 MANNING ROAD\\nBILLERICA MA 01821-3970\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MOSAIC TECHNOLOGIES INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "08002A",
+			"OUISize": 24,
+			"OrgAddress": "47 MANNING ROAD\\nBILLERICA  MA  01821-3970\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "MOSAIC TECHNOLOGIES INC.",
+			"Source": "IEEE"
+		}
+	]
+}

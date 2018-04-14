@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C243D",
+			"OUISize": 36,
+			"OrgAddress": "7300 Huron River Drive\\nSuite B\\nDexter MI 48130\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ann Arbor Sensor Systems LLC",
+			"Source": "IEEE"
+		}
+	]
+}

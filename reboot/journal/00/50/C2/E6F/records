@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E6F",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 1193\\nSan Luis Obispo CA 93406\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Leyden Engineering",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2043",
+			"OUISize": 36,
+			"OrgAddress": "2155 Niagara Lane, North\\nSuite 108\\nMinneapolis MN 55447\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Curtis, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

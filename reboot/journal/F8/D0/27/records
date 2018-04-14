@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-30",
+			"EventType": "add",
+			"OUI": "F8D027",
+			"OUISize": 24,
+			"OrgAddress": "2070 Kotobuki Koaka\\nMatsumoto-shi  Nagano-ken  399-8702\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Seiko Epson Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

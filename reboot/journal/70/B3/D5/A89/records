@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-14",
+			"EventType": "add",
+			"OUI": "70B3D5A89",
+			"OUISize": 36,
+			"OrgAddress": "10773 NW 58TH STREET, STE 712\\nDORAL  FL  33178\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "GBS COMMUNICATIONS, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

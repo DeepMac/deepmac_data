@@ -1,0 +1,33 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E72",
+			"OUISize": 36,
+			"OrgAddress": "Sandakerveien 118\\nOslo  0484\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Energy Micro AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "change",
+			"OUI": "0050C2E72",
+			"OUISize": 36,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "delete",
+			"OUI": "0050C2E72",
+			"OUISize": 36,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-13",
+			"EventType": "add",
+			"OUI": "DCCEBC",
+			"OUISize": 24,
+			"OrgAddress": "2-3F,E building,Yu Jianfeng science and industry park\\n,Huafan road,Tongheng community,Dalang,Baoan district,\\nShenzhen City Guangdong 518109\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen JSR Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "DCCEBC",
+			"OUISize": 24,
+			"OrgAddress": "2-3F,E building,Yu Jianfeng science and industry park\\nShenzhen City  Guangdong  518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen JSR Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

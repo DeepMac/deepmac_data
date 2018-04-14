@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-09",
+			"EventType": "add",
+			"OUI": "0050C2F76",
+			"OUISize": 36,
+			"OrgAddress": "No. 38, Jinqiao Road, Wuhan City,\\nwuhan hubei 430000\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Rong Jie(FuZhou)Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

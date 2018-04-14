@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24FA",
+			"OUISize": 36,
+			"OrgAddress": "25 Hartwell Ave\\nLexington MA 02421-3102\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cambridge Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

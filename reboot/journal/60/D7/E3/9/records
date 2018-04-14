@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-20",
+			"EventType": "add",
+			"OUI": "60D7E39",
+			"OUISize": 28,
+			"OrgAddress": "Room 606, Block B, Bldg. 1, No. 3000 Longdong Avenue., Zhangjiang Hi-Tech Park, Pudong District\\nShangHai    201203\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": " LongSung Technology (Shanghai) Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

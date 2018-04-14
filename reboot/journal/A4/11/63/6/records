@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-24",
+			"EventType": "add",
+			"OUI": "A411636",
+			"OUISize": 28,
+			"OrgAddress": "Room 1201, Zhongqing Building, East Third Ring Road, Chaoyang District, Beijing\\n\\n\\n",
+			"OrgCountry": "Beijing  Beijing  100029",
+			"OrgName": "Beijing XiaoRui Technology Co., Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "change",
+			"OUI": "A411636",
+			"OUISize": 28,
+			"OrgAddress": "Room 1201, Zhongqing Building, East Third Ring Road, Chaoyang District, Beijing\\nBeijing  Beijing  100029\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing XiaoRui Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

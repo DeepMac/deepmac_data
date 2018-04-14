@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-06",
+			"EventType": "add",
+			"OUI": "94E2FD",
+			"OUISize": 24,
+			"OrgAddress": "Otto Boge Str. 1-7\\nBielefeld Westfalia 33739\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Boge Kompressoren Otto Boge GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "94E2FD",
+			"OUISize": 24,
+			"OrgAddress": "Otto Boge Str. 1-7\\nBielefeld  Westfalia  33739\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Boge Kompressoren OTTO Boge GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

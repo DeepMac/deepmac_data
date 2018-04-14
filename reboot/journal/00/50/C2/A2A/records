@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A2A",
+			"OUISize": 36,
+			"OrgAddress": "6020 S 190th St\\nKent WA 98032\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Custom Control Concepts",
+			"Source": "IEEE"
+		}
+	]
+}

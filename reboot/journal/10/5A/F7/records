@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-02",
+			"EventType": "add",
+			"OUI": "105AF7",
+			"OUISize": 24,
+			"OrgAddress": "Viale Sarca 222\\nMilan  Italy  20126\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "ADB Italia",
+			"Source": "IEEE"
+		}
+	]
+}

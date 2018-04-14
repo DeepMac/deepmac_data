@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-06-05",
+			"EventType": "add",
+			"OUI": "BC66415",
+			"OUISize": 28,
+			"OrgAddress": "1500 Bluegrass Lakes Parkway\\nAlpharetta GA 30004\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Scientific Games",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "BC66415",
+			"OUISize": 28,
+			"OrgAddress": "1500 Bluegrass Lakes Parkway\\nAlpharetta  GA  30004\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Scientific Games",
+			"Source": "IEEE"
+		}
+	]
+}

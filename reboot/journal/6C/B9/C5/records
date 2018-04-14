@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-16",
+			"EventType": "add",
+			"OUI": "6CB9C5",
+			"OUISize": 24,
+			"OrgAddress": "256 Yang Guang Street, Neihu\\nTaipei  Taiwan  11491\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Delta Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

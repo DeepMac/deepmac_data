@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D25",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 40\\nDordrecht  3300 AA\\n\\n",
+			"OrgCountry": "NETHERLANDS",
+			"OrgName": "VAF Instruments BV",
+			"Source": "IEEE"
+		}
+	]
+}

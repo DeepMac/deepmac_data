@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E0E4",
+			"OUISize": 24,
+			"OrgAddress": "INC.\\n3900 W. HAMLIN RD.\\nROCHESTER HILLS MI 48309-3253\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FANUC ROBOTICS NORTH AMERICA,",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E0E4",
+			"OUISize": 24,
+			"OrgAddress": "3900 W. HAMLIN RD.\\nROCHESTER HILLS MI 48309-3253\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FANUC ROBOTICS NORTH AMERICA, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E0E4",
+			"OUISize": 24,
+			"OrgAddress": "3900 W. HAMLIN RD.\\nROCHESTER HILLS  MI  48309-3253\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "FANUC ROBOTICS NORTH AMERICA, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

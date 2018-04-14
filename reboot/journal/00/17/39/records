@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-01-30",
+			"EventType": "add",
+			"OUI": "001739",
+			"OUISize": 24,
+			"OrgAddress": "2nd F, No 8, Lane 337, Yung Ho Road\\nChung Ho City Taipei County 235\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Bright Headphone Electronics Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "001739",
+			"OUISize": 24,
+			"OrgAddress": "8F, 109, Li De Street\\nChung Ho City Taipei County 235\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Bright Headphone Electronics Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001739",
+			"OUISize": 24,
+			"OrgAddress": "8F, 109, Li De Street\\nChung Ho City Taipei County 235\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Bright Headphone Electronics Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001739",
+			"OUISize": 24,
+			"OrgAddress": "8F, 109, Li De Street\\nChung Ho City  Taipei County  235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Bright Headphone Electronics Company",
+			"Source": "IEEE"
+		}
+	]
+}

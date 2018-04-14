@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28CD",
+			"OUISize": 36,
+			"OrgAddress": "27 Moulton Street\\nCambridge MA 02138\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cambridge Sound Management, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

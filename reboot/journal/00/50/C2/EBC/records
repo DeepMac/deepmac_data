@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EBC",
+			"OUISize": 36,
+			"OrgAddress": "Pfannerstr. 75\\nWangen  88239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Diehl AKO Stiftung & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

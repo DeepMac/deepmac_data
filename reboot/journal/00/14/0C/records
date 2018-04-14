@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-03-17",
+			"EventType": "add",
+			"OUI": "00140C",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 1, Lane 641,\\nShen Ling South Rd.,\\nTa Ya Hsiang, TAICHUNG 428\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "GKB CCTV CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00140C",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 1, Lane 641,\\nShen Ling South Rd.,\\nTa Ya Hsiang, TAICHUNG 428\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GKB CCTV CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00140C",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 1, Lane 641,\\nTa Ya Hsiang,  TAICHUNG  428\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "GKB CCTV CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

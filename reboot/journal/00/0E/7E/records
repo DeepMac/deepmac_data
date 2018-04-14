@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E7E",
+			"OUISize": 24,
+			"OrgAddress": "P.O.BOX  219\\n(street) Isokatu 21\\nRauma Satakunta FIN-26100\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Comprog Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "change",
+			"OUI": "000E7E",
+			"OUISize": 24,
+			"OrgAddress": "P.O.BOX  246\\nFI-26101\\nRauma\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "ionSign Oy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E7E",
+			"OUISize": 24,
+			"OrgAddress": "P.O.BOX  246\\nRauma\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "ionSign Oy",
+			"Source": "IEEE"
+		}
+	]
+}

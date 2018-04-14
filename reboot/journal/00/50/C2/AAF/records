@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AAF",
+			"OUISize": 36,
+			"OrgAddress": "147A Castilian Drive\\nSanta Barbara CA 93117\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Santa Barbara Instrument Group",
+			"Source": "IEEE"
+		}
+	]
+}

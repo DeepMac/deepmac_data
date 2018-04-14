@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060BC",
+			"OUISize": 24,
+			"OrgAddress": "COMMUNICATION\\n325-76, DAEHEUNG-DONG,\\nMAPO-GU, SEOUL\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "KEUNYOUNG ELECTRONICS &",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060BC",
+			"OUISize": 24,
+			"OrgAddress": "COMMUNICATION\\n325-76, DAEHEUNG-DONG, MAPO-GU, SEOUL\\n\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "KEUNYOUNG ELECTRONICS &",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0060BC",
+			"OUISize": 24,
+			"OrgAddress": "325-76, DAEHEUNG-DONG, MAPO-GU,\\nSEOUL\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "KeunYoung Electronics & Communication Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060BC",
+			"OUISize": 24,
+			"OrgAddress": "325-76, DAEHEUNG-DONG, MAPO-GU,\\nSEOUL\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "KeunYoung Electronics & Communication Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

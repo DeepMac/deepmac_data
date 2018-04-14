@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-03-04",
+			"EventType": "add",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSï¿½nderborg  DK-6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSÃ¸nderborg  DK-6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSï¿½nderborg  DK-6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSÃ¸nderborg  DK-6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSønderborg  DK-6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSÃÂÃÂ¸nderborg  DK-6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSÃ¸nderborg  DK-6400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "58570D",
+			"OUISize": 24,
+			"OrgAddress": "Jyllandsgade 28\\nSÃ¸nderborg    DK-6400\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Danfoss Solar Inverters",
+			"Source": "IEEE"
+		}
+	]
+}

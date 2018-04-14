@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00E0B5",
+			"OUISize": 24,
+			"OrgAddress": "3801 ZANKER ROAD,  STE. \"A\"\\nSAN JOSE  CA  95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARDENT COMMUNICATIONS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00E0B5",
+			"OUISize": 24,
+			"OrgAddress": "3801 ZANKER ROAD,  STE. \"A\"\\nSAN JOSE CA 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARDENT COMMUNICATIONS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00E0B5",
+			"OUISize": 24,
+			"OrgAddress": "3801 ZANKER ROAD,  Suite A\\nSAN JOSE CA 95134\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ARDENT COMMUNICATIONS CORP.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00E0B5",
+			"OUISize": 24,
+			"OrgAddress": "3801 ZANKER ROAD,  Suite A\\nSAN JOSE  CA  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ARDENT COMMUNICATIONS CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "009077",
+			"OUISize": 24,
+			"OrgAddress": "PO BOX #751239\\n1 WILLOWBROOK CT\\nPETALUMA  CA  94975\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADVANCED FIBRE COMMUNICATIONS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009077",
+			"OUISize": 24,
+			"OrgAddress": "PO BOX #751239\\n1 WILLOWBROOK CT\\nPETALUMA CA 94975\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADVANCED FIBRE COMMUNICATIONS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009077",
+			"OUISize": 24,
+			"OrgAddress": "PO BOX #751239\\nPETALUMA  CA  94975\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ADVANCED FIBRE COMMUNICATIONS",
+			"Source": "IEEE"
+		}
+	]
+}

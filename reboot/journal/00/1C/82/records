@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "add",
+			"OUI": "001C82",
+			"OUISize": 24,
+			"OrgAddress": "3A3 Building B1, Cyber-tech Zone,\\nGaoxin Ave. 7S, Hi-tech Industrial Park,\\nShenzhen Guangdong 518057\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Genew Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C82",
+			"OUISize": 24,
+			"OrgAddress": "3A3 Building B1, Cyber-tech Zone,\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Genew Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

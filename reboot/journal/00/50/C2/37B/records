@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C237B",
+			"OUISize": 36,
+			"OrgAddress": "2100 east elliot\\nTempe Az 85284\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "freescale semiconductor",
+			"Source": "IEEE"
+		}
+	]
+}

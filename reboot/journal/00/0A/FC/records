@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000AFC",
+			"OUISize": 24,
+			"OrgAddress": "49 Leavenworth Street\\nSuite 200\\nWaterbury CT 06702\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Core Tec Communications, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000AFC",
+			"OUISize": 24,
+			"OrgAddress": "49 Leavenworth Street\\nWaterbury  CT  06702\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Core Tec Communications, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

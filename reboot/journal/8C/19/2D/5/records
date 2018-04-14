@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-08",
+			"EventType": "add",
+			"OUI": "8C192D5",
+			"OUISize": 28,
+			"OrgAddress": "NO. 12 4th XEDA Branch Road,XiQing Economic Development Area\\nTianjin    300385\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ELCO(TIANJIN)ELECTRONICS CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

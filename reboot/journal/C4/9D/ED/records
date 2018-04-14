@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-07",
+			"EventType": "add",
+			"OUI": "C49DED",
+			"OUISize": 24,
+			"OrgAddress": "One Microsoft Way\\nREDMOND  WA  98052\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Microsoft Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

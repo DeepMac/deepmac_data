@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "add",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. José Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÓNICA, Companhia de Comunicações, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. JosÃ© Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÃNICA, Companhia de ComunicaÃ§Ãµes, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. José Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÓNICA, Companhia de Comunicações, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. JosÃÂ© Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÃÂNICA, Companhia de ComunicaÃÂ§ÃÂµes, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. José Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÓNICA, Companhia de Comunicações, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. JosÃÂ© Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÃÂNICA, Companhia de ComunicaÃÂ§ÃÂµes, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. JosÃÂ© Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÃâNICA, Companhia de ComunicaÃÂ§ÃÂµes, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "R. Dr. JosÃÂÃÂÃÂÃÂ© Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BELTRÃÂÃÂÃÂ¢Ã¢ÂÂ¬ÃÂNICA, Companhia de ComunicaÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂµes, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "Rua Dr. JosÃ© Baptista de Sousa, 27\\nLisbon  1549-002 Lis\\n\\n",
+			"OrgCountry": "PORTUGAL",
+			"OrgName": "A BeltrÃ³nica-Companhia de ComunicaÃ§Ãµes, Lda",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001534",
+			"OUISize": 24,
+			"OrgAddress": "Rua Dr. JosÃ© Baptista de Sousa, 27\\nLisbon    1549-002 Lis\\n\\n",
+			"OrgCountry": "PT",
+			"OrgName": "A BeltrÃ³nica-Companhia de ComunicaÃ§Ãµes, Lda",
+			"Source": "IEEE"
+		}
+	]
+}

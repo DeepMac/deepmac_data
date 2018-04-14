@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D15",
+			"OUISize": 36,
+			"OrgAddress": "Ravensburger Str. 71\\nWangen Baden Wurtthemberg 88239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSR-Office GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2D15",
+			"OUISize": 36,
+			"OrgAddress": "Ravensburger StraÃe 71\\nWangen Baden-WÃ¼rttemberg 88239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSR-Office GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2D15",
+			"OUISize": 36,
+			"OrgAddress": "Ravensburger StraÃÅ¸e 71\\nWangen Baden-WÃÂ¼rttemberg 88239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSR-Office GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2D15",
+			"OUISize": 36,
+			"OrgAddress": "Ravensburger StraÃe 71\\nWangen Baden-WÃ¼rttemberg 88239\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "MSR-Office GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

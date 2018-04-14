@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E07",
+			"OUISize": 36,
+			"OrgAddress": "Ringstrasse 11\\nRengsdorf RLP 56579\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Protagon Process Technologies GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

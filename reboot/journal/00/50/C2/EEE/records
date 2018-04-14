@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "0050C2EEE",
+			"OUISize": 36,
+			"OrgAddress": "ABB Industrial Park, Torch Hi-Tech Development Zone.\\nXiao Dong Shan,\\nXiamen Fujian 361006\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "ABB Transmission and Distribution Automation Equipment (Xiamen) Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-22",
+			"EventType": "add",
+			"OUI": "54D751",
+			"OUISize": 24,
+			"OrgAddress": "Bld du Roi Albert II 27\\nBrussels    1030\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "Proximus",
+			"Source": "IEEE"
+		}
+	]
+}

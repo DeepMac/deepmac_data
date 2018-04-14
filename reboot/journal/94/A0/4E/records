@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-07",
+			"EventType": "add",
+			"OUI": "94A04E",
+			"OUISize": 24,
+			"OrgAddress": "NO.148 West MinZhou Road\\nCixi City  Zhejiang Province  315301\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Bostex Technology Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

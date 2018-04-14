@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-29",
+			"EventType": "add",
+			"OUI": "C4B512",
+			"OUISize": 24,
+			"OrgAddress": "4200 Wildwood Pkwy\\nAtlanta GA 30339\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "General Electric Digital Energy",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "C4B512",
+			"OUISize": 24,
+			"OrgAddress": "4200 Wildwood Pkwy\\nAtlanta  GA  30339\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "General Electric Digital Energy",
+			"Source": "IEEE"
+		}
+	]
+}

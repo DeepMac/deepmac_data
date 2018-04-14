@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "000469",
+			"OUISize": 24,
+			"OrgAddress": "655-2 Naebalsan-Dong\\nKangseo-Gu, Seoul\\n\\n",
+			"OrgCountry": "157-280, KOREA",
+			"OrgName": "Innocom, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000469",
+			"OUISize": 24,
+			"OrgAddress": "655-2 Naebalsan-Dong\\nKangseo-Gu, Seoul\\n\\n",
+			"OrgCountry": "157-280 157-280 KOREA",
+			"OrgName": "Innocom, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000469",
+			"OUISize": 24,
+			"OrgAddress": "655-2 Naebalsan-Dong\\nKangseo-Gu, Seoul\\n157-280 157-280 KOREA\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Innocom, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000469",
+			"OUISize": 24,
+			"OrgAddress": "655-2 Naebalsan-Dong\\n157-280  157-280  KOREA\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Innocom, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

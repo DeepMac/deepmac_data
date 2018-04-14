@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F42",
+			"OUISize": 36,
+			"OrgAddress": "380 Foothill Road\\nBridgewater NJ 08807\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DSPCon",
+			"Source": "IEEE"
+		}
+	]
+}

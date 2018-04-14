@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-05-27",
+			"EventType": "add",
+			"OUI": "0014C8",
+			"OUISize": 24,
+			"OrgAddress": "17630 Davenport Rd\\nSTE 113\\nDallas TX 75252\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Contemporary Research Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0014C8",
+			"OUISize": 24,
+			"OrgAddress": "4355 Excel Pkwy\\nSTE 600\\nAddison TX 75001\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Contemporary Research Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0014C8",
+			"OUISize": 24,
+			"OrgAddress": "4355 Excel Pkwy\\nAddison  TX  75001\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Contemporary Research Corp",
+			"Source": "IEEE"
+		}
+	]
+}

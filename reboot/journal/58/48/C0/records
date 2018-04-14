@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-24",
+			"EventType": "add",
+			"OUI": "5848C0",
+			"OUISize": 24,
+			"OrgAddress": "Parc d'activitï¿½s du moulin de Massy\\n7 rue du Saule Trapu\\nMASSY  91300\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "COFLEC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "5848C0",
+			"OUISize": 24,
+			"OrgAddress": "Parc d'activitÃÂ©s du moulin de Massy\\n7 rue du Saule Trapu\\nMASSY  91300\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "COFLEC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "5848C0",
+			"OUISize": 24,
+			"OrgAddress": "Parc d'activitÃ©s du moulin de Massy\\n7 rue du Saule Trapu\\nMASSY  91300\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "COFLEC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "5848C0",
+			"OUISize": 24,
+			"OrgAddress": "Parc d'activitÃ©s du moulin de Massy\\nMASSY    91300\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "COFLEC",
+			"Source": "IEEE"
+		}
+	]
+}

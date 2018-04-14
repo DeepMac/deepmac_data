@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000550",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 20002\\nWellington South\\n\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Digi-Tech Communications Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-10-21",
+			"EventType": "change",
+			"OUI": "000550",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 20002\\nWellington South\\n\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Vcomms Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-03-01",
+			"EventType": "change",
+			"OUI": "000550",
+			"OUISize": 24,
+			"OrgAddress": "75 The Esplanade, Level 3\\nPO Box 38-920\\nWellington Mail Centre 5045 Wellington\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Vcomms Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-30",
+			"EventType": "change",
+			"OUI": "000550",
+			"OUISize": 24,
+			"OrgAddress": "75 The Esplanade, Level 3\\nPO Box 38-920\\nWellington Mail Centre 5045 Wellington\\n",
+			"OrgCountry": "NEW ZEALAND",
+			"OrgName": "Vcomms Connect Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000550",
+			"OUISize": 24,
+			"OrgAddress": "75 The Esplanade, Level 3\\nWellington Mail Centre 5045  Wellington\\n\\n",
+			"OrgCountry": "NZ",
+			"OrgName": "Vcomms Connect Limited",
+			"Source": "IEEE"
+		}
+	]
+}

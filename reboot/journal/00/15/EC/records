@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-09-23",
+			"EventType": "add",
+			"OUI": "0015EC",
+			"OUISize": 24,
+			"OrgAddress": "6353 W. Rogers Circle #4\\nBoca Raton Florida 33487\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Boca Devices LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0015EC",
+			"OUISize": 24,
+			"OrgAddress": "7647 Sierra Ter\\nBoca Raton Florida 33433\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Boca Devices LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0015EC",
+			"OUISize": 24,
+			"OrgAddress": "6353 W. Rogers Circle #4\\nBoca Raton Florida 33487\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Boca Devices LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0015EC",
+			"OUISize": 24,
+			"OrgAddress": "7647 Sierra Ter\\nBoca Raton Florida 33433\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Boca Devices LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0015EC",
+			"OUISize": 24,
+			"OrgAddress": "7647 Sierra Ter\\nBoca Raton  Florida  33433\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Boca Devices LLC",
+			"Source": "IEEE"
+		}
+	]
+}

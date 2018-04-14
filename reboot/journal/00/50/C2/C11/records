@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C11",
+			"OUISize": 36,
+			"OrgAddress": "2.Industriestrasse 8\\nHockenheim  68766\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ART Antriebs- und Regeltechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

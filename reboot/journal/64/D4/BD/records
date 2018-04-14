@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-20",
+			"EventType": "add",
+			"OUI": "64D4BD",
+			"OUISize": 24,
+			"OrgAddress": "6-1\\nnishida\\nkakuda city Miyagi_PREF 981-1595\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "ALPS ELECTRIC CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "64D4BD",
+			"OUISize": 24,
+			"OrgAddress": "6-1\\nKAKUDA-CITY  MIYAGI-PREF  981-1595\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ALPS ELECTRIC CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

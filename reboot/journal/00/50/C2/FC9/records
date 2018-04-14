@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FC9",
+			"OUISize": 36,
+			"OrgAddress": "208 N. 12th Avenue\\nEldridge IA 52748\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Mehta Tech, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

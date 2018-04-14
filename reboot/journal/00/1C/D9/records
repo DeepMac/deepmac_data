@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "add",
+			"OUI": "001CD9",
+			"OUISize": 24,
+			"OrgAddress": "16 Nan-ke 9th Rd. Science-base Industrial Park,\\nShanHua Tainan county 741\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "GlobalTop Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001CD9",
+			"OUISize": 24,
+			"OrgAddress": "16 Nan-ke 9th Rd. Science-base Industrial Park,\\nShanHua Tainan county 741\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GlobalTop Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001CD9",
+			"OUISize": 24,
+			"OrgAddress": "16 Nan-ke 9th Rd. Science-base Industrial Park,\\nShanHua  Tainan county  741\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "GlobalTop Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

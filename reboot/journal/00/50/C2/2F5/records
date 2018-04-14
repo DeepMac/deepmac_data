@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22F5",
+			"OUISize": 36,
+			"OrgAddress": "4th floor SamKwang Bldg.\\nSamsung-2Dong Kangnam-Ku\\nSeoul Seoul 135-508\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "ADChips",
+			"Source": "IEEE"
+		}
+	]
+}

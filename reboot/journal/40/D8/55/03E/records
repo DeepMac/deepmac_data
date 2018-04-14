@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "add",
+			"OUI": "40D85503E",
+			"OUISize": 36,
+			"OrgAddress": "8F, No. 171-1, Sec. 2, Datong Rd., Sijhih City,\\nTaipei  22183\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Vishay Celtron Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

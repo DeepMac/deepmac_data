@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-05",
+			"EventType": "add",
+			"OUI": "40F385A",
+			"OUISize": 28,
+			"OrgAddress": "Pasilanraitio 9B\\nHelsinki  Uusimaa  00240\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Creanord",
+			"Source": "IEEE"
+		}
+	]
+}

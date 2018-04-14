@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006016",
+			"OUISize": 24,
+			"OrgAddress": "COSLIN DRIVE\\nM/S C25\\nSOUTHBORO  MA  01772\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CLARIION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006016",
+			"OUISize": 24,
+			"OrgAddress": "COSLIN DRIVE\\nM/S C25\\nSOUTHBORO MA 01772\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CLARIION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "006016",
+			"OUISize": 24,
+			"OrgAddress": "COSLIN DRIVE\\nMail Stop C25\\nSOUTHBORO MA 01772\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CLARIION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006016",
+			"OUISize": 24,
+			"OrgAddress": "COSLIN DRIVE\\nSOUTHBORO  MA  01772\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CLARIION",
+			"Source": "IEEE"
+		}
+	]
+}

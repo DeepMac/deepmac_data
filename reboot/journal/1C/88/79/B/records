@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-31",
+			"EventType": "add",
+			"OUI": "1C8879B",
+			"OUISize": 28,
+			"OrgAddress": "Julius-Otto-StraÃe 7\\nDresden    01219\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "gekartel AG",
+			"Source": "IEEE"
+		}
+	]
+}

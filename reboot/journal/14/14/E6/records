@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-25",
+			"EventType": "add",
+			"OUI": "1414E6",
+			"OUISize": 24,
+			"OrgAddress": "No.1177 Lingyun Road\\nningbo  zhejiang  315048\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Ningbo Sanhe Digital Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

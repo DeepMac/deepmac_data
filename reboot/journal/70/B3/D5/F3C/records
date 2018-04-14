@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-12",
+			"EventType": "add",
+			"OUI": "70B3D5F3C",
+			"OUISize": 36,
+			"OrgAddress": "100 Dicui Road\\nWuxi  Jiangsu  214072\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Gigaray",
+			"Source": "IEEE"
+		}
+	]
+}

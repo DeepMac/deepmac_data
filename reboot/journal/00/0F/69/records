@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000F69",
+			"OUISize": 24,
+			"OrgAddress": "Ernst Blickle Str. 42\\nBruchsal  76646\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SEW Eurodrive GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000F69",
+			"OUISize": 24,
+			"OrgAddress": "Ernst Blickle Str. 42\\nBruchsal    76646\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SEW Eurodrive GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

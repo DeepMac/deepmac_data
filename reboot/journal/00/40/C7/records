@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0040C7",
+			"OUISize": 24,
+			"OrgAddress": "6F-1, NO.3, LANE 250,\\nSEC. 5 NANKING E.ROAD\\n\\n",
+			"OrgCountry": "TAIPEI, TAIWAN, R.O.C.",
+			"OrgName": "RUBY TECH CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0040C7",
+			"OUISize": 24,
+			"OrgAddress": "6F-1, NO.3, LANE 250,\\nSEC. 5 NANKING E.ROAD\\n\\n",
+			"OrgCountry": "TAIPEI TAIWAN, R.O.C.",
+			"OrgName": "RUBY TECH CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "0040C7",
+			"OUISize": 24,
+			"OrgAddress": "6F-1, NO.3, LANE 250,\\nSEC. 5 NANKING E.ROAD\\nTAIPEI TAIWAN, R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "RUBY TECH CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0040C7",
+			"OUISize": 24,
+			"OrgAddress": "6F-1, NO.3, LANE 250,\\nSEC. 5 NANKING E.ROAD\\nTAIPEI TAIWAN, R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "RUBY TECH CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0040C7",
+			"OUISize": 24,
+			"OrgAddress": "6F-1, NO.3, LANE 250,\\nTAIPEI  TAIWAN,  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "RUBY TECH CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

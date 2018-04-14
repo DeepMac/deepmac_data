@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-29",
+			"EventType": "add",
+			"OUI": "70B3D574D",
+			"OUISize": 36,
+			"OrgAddress": "4 Krasutskogo str.\\nSaint Petersburg    196084\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "SPEECH TECHNOLOGY CENTER LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

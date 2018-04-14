@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C231E",
+			"OUISize": 36,
+			"OrgAddress": "47009 Benicia St.\\nFremont California 94538\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "C3-ilex, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

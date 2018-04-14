@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2623",
+			"OUISize": 36,
+			"OrgAddress": "EDIFICIO SAFELINE\\nCOOPERATIVA  24\\nMATARO BARCELONA 08302\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "SAFELINE SL",
+			"Source": "IEEE"
+		}
+	]
+}

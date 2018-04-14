@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-09",
+			"EventType": "add",
+			"OUI": "70B3D5F83",
+			"OUISize": 36,
+			"OrgAddress": "VSB Mahatma Gandhi Road Fort Mumbai\\nMumbai  Maharashtra  400001\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "Tata Communications Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

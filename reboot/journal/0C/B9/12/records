@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-17",
+			"EventType": "add",
+			"OUI": "0CB912",
+			"OUISize": 24,
+			"OrgAddress": "Hackl-Str. 1\\nTraun  Upper Austria  4050\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "JM-DATA GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

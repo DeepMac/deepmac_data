@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-24",
+			"EventType": "add",
+			"OUI": "506E92",
+			"OUISize": 24,
+			"OrgAddress": "PROSIT AZUMA 3 #201, 1973, NIPPA-CHO, KOHOKU-KU,\\nYOKOHAMA-SHI  KANAGAWA  2230057\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Innocent Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23EE",
+			"OUISize": 36,
+			"OrgAddress": "#68 East Mendez Vigo Suite 3\\nMayaguez PR 00680\\n\\n",
+			"OrgCountry": "PUERTO RICO",
+			"OrgName": "Commoca, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

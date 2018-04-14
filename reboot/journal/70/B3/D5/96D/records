@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-22",
+			"EventType": "add",
+			"OUI": "70B3D596D",
+			"OUISize": 36,
+			"OrgAddress": "Hofwiesenstr. 23\\nCrailsheim    74564\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MSB Elektronik und GerÃ¤tebau GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

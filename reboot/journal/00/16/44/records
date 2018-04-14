@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-10-29",
+			"EventType": "add",
+			"OUI": "001644",
+			"OUISize": 24,
+			"OrgAddress": "18F, No.392, Ruey Kuang Road, Niehu,\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "LITE-ON Technology Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001644",
+			"OUISize": 24,
+			"OrgAddress": "18F, No.392, Ruey Kuang Road, Niehu,\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "LITE-ON Technology Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001644",
+			"OUISize": 24,
+			"OrgAddress": "18F, No.392, Ruey Kuang Road, Niehu,\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "LITE-ON Technology Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "add",
+			"OUI": "70B3D539E",
+			"OUISize": 36,
+			"OrgAddress": "125 Nagog Park\\nActon  MA  01720\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Lanmark Controls Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

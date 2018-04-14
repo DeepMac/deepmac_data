@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2454",
+			"OUISize": 36,
+			"OrgAddress": "4330 East-West Highway\\nSuite 250\\nBethesda MD 20814\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Brivo Systems, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

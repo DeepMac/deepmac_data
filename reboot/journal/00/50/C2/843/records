@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2843",
+			"OUISize": 36,
+			"OrgAddress": "2624 Citronella Ct.\\nSimi Valley California 93063-2232\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Xtensor Systems Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

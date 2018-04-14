@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "004079",
+			"OUISize": 24,
+			"OrgAddress": "FLAT C, 3RD FLOOR, CDW BLDG.\\n388 CASTLE PEAK ROAD,\\nTSUEN WAN, N.T.\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "JUKO MANUFACTURE COMPANY, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004079",
+			"OUISize": 24,
+			"OrgAddress": "FLAT C, 3RD FLOOR, CDW BLDG.\\n388 CASTLE PEAK ROAD, TSUEN WAN, N.T.\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "JUKO MANUFACTURE COMPANY, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004079",
+			"OUISize": 24,
+			"OrgAddress": "FLAT C, 3RD FLOOR, CDW BLDG.\\n388 CASTLE PEAK ROAD, TSUEN WAN, N.T.\\nHONG KONG\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "JUKO MANUFACTURE COMPANY, LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004079",
+			"OUISize": 24,
+			"OrgAddress": "FLAT C, 3RD FLOOR, CDW BLDG.\\nHONG  KONG\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "JUKO MANUFACTURE COMPANY, LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

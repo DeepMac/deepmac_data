@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-11-24",
+			"EventType": "add",
+			"OUI": "001695",
+			"OUISize": 24,
+			"OrgAddress": "6/F Enterprise Square III\\n39 Wang Chiu Road\\nKowloon Bay\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "AVC Technology Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-14",
+			"EventType": "change",
+			"OUI": "001695",
+			"OUISize": 24,
+			"OrgAddress": "6/F Enterprise Square III\\n39 Wang Chiu Road\\nKowloon Bay\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "AVC Technology (International) Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001695",
+			"OUISize": 24,
+			"OrgAddress": "6/F Enterprise Square III\\nKowloon Bay\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "AVC Technology (International) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

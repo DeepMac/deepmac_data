@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-14",
+			"EventType": "add",
+			"OUI": "70B3D58C1",
+			"OUISize": 36,
+			"OrgAddress": "Room 505, Building A, No.88,Dazhou Road,Tiexinqiao,Yu huatai District, Nanjing City, Jiangsu Province,P.R.China +0086 25 52895099                 52890138 info@rievtech.com sales@rievtech.com\\nNanjing City  Jiangsu Province  210000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Rievtech Electronic Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

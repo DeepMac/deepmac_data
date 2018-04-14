@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-23",
+			"EventType": "add",
+			"OUI": "0CCEF6",
+			"OUISize": 24,
+			"OrgAddress": "2nd Floor, Factory Building 4, Hi-Tech Industrial Park, Xinpu Economic Development Zone, Xinpu New District\\nZunyi City  Guizhou Province  56300\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guizhou Fortuneship Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

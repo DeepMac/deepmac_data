@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "add",
+			"OUI": "001FD3",
+			"OUISize": 24,
+			"OrgAddress": "555 Riva Ave\\nEast Brunswick NJ 08816\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RIVA Networks Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001FD3",
+			"OUISize": 24,
+			"OrgAddress": "555 Riva Ave\\nEast Brunswick  NJ  08816\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "RIVA Networks Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

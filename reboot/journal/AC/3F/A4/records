@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-02",
+			"EventType": "add",
+			"OUI": "AC3FA4",
+			"OUISize": 24,
+			"OrgAddress": "8-1, Sakae-cho\\nTakasaki-shi Gunma 370-8522\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "TAIYO YUDEN CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "AC3FA4",
+			"OUISize": 24,
+			"OrgAddress": "8-1, Sakae-cho\\nTakasaki-shi  Gunma  370-8522\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "TAIYO YUDEN CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

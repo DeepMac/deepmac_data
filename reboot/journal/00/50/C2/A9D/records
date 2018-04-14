@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A9D",
+			"OUISize": 36,
+			"OrgAddress": "Neumuehlestrasse 42\\nWinterthur ZH 8406\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Joehl & Koeferli AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C2A9D",
+			"OUISize": 36,
+			"OrgAddress": "Wittenwilerstrasse 31\\nAadorf TG 8355\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Joehl & Koeferli AG",
+			"Source": "IEEE"
+		}
+	]
+}

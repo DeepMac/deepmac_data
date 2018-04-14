@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-14",
+			"EventType": "add",
+			"OUI": "3807D4",
+			"OUISize": 24,
+			"OrgAddress": "MessenhÃ¤user Str. 37-45\\nRÃ¶dermark  Hessen  63322\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Zeppelin Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

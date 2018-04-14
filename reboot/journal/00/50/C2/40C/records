@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C240C",
+			"OUISize": 36,
+			"OrgAddress": "Foundry Lane\\nHorsham West Sussex RH13 5PY\\n\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Applied Materials UK Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-07",
+			"EventType": "add",
+			"OUI": "70B3D530D",
+			"OUISize": 36,
+			"OrgAddress": "#516 Complex-dong Heongduk IT Valley, Heonduk 1ro 13, Giheong-gu\\nYoung-in  Gyeong-gi  16954\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Fiberbase",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24EE",
+			"OUISize": 36,
+			"OrgAddress": "F-5,Huayuelong Mansion,\\nNo.3 Jingyuan Road, Shijingshan District,\\nBeijing 100043\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Beijing Corelogic Communication Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

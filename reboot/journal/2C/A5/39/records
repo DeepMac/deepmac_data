@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-05-06",
+			"EventType": "add",
+			"OUI": "2CA539",
+			"OUISize": 24,
+			"OrgAddress": "1 Tara Blvd\\nSuite 404\\nNashua NH 03062\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Parallel Wireless, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "2CA539",
+			"OUISize": 24,
+			"OrgAddress": "1 Tara Blvd\\nNashua  NH  03062\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Parallel Wireless, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

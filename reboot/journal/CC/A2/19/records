@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-07",
+			"EventType": "add",
+			"OUI": "CCA219",
+			"OUISize": 24,
+			"OrgAddress": "Room 1301,13F,Zhenye international Business Center,No.3101-90,Qianhai Road,Nanshan District\\nShenzhen  Guangdong Province  518052\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN ALONG INVESTMENT CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

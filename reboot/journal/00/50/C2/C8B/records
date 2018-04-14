@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C8B",
+			"OUISize": 36,
+			"OrgAddress": "PB 434 Ã¯Â¿Â½kern\\nOslo  0513\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "OCAS AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "change",
+			"OUI": "0050C2C8B",
+			"OUISize": 36,
+			"OrgAddress": "Brobekkvn 80A\\nOslo  0582\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "OCAS AS",
+			"Source": "IEEE"
+		}
+	]
+}

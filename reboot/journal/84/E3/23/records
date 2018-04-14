@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-19",
+			"EventType": "add",
+			"OUI": "84E323",
+			"OUISize": 24,
+			"OrgAddress": "8, 12, 9 - Menara Mutiara, Bangsar, Jalan Liku, Off Jalan Bangsar\\nKuala Lumpur    59100\\n\\n",
+			"OrgCountry": "MY",
+			"OrgName": "Green Wave Telecommunication SDN BHD",
+			"Source": "IEEE"
+		}
+	]
+}

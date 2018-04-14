@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "add",
+			"OUI": "9492BC",
+			"OUISize": 24,
+			"OrgAddress": "Unit No.1,12/F.,Perfect Industrial Building,31 Tai Yau Street, San Po Kong, Kowloon, Hong Kong 999077\\nKowloon    999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "SYNTECH(HK) TECHNOLOGY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

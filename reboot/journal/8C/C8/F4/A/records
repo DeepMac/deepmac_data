@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-02",
+			"EventType": "add",
+			"OUI": "8CC8F4A",
+			"OUISize": 28,
+			"OrgAddress": "Heidestrasse\\nArnsberg    59759\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Trilux Group Management GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

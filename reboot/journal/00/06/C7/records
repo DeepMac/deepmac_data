@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0006C7",
+			"OUISize": 24,
+			"OrgAddress": "Unit 233 Innovation Centre Blk 2\\n18 Nanyang Drive\\n\\n",
+			"OrgCountry": "SINGAPORE 637722",
+			"OrgName": "RFNET Technologies Pte Ltd (S)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0006C7",
+			"OUISize": 24,
+			"OrgAddress": "Unit 233 Innovation Centre Blk 2\\n18 Nanyang Drive\\n637722\\n",
+			"OrgCountry": "SINGAPORE",
+			"OrgName": "RFNET Technologies Pte Ltd (S)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0006C7",
+			"OUISize": 24,
+			"OrgAddress": "Unit 233 Innovation Centre Blk 2\\n637722\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "RFNET Technologies Pte Ltd (S)",
+			"Source": "IEEE"
+		}
+	]
+}

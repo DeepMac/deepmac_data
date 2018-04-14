@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "add",
+			"OUI": "40D85504E",
+			"OUISize": 36,
+			"OrgAddress": "13125 Danielson Street\\nPoway California 92064\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Honeywell Aerospace/Intelligent Automation Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

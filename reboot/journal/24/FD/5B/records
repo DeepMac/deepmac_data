@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-26",
+			"EventType": "add",
+			"OUI": "24FD5B",
+			"OUISize": 24,
+			"OrgAddress": "456 University Avenue\\nPalo Alto  CA  94301\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SmartThings, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

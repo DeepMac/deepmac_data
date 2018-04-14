@@ -1,0 +1,125 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃ¯Â¿Â½ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKöln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKöln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃÂÃÂ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃÂ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃÂ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2CAB",
+			"OUISize": 36,
+			"OrgAddress": "Im Gewerbegebiet Pesch 14\\nKÃ¶ln NRW 50767\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SAE IT-systems GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

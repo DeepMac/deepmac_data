@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C290F",
+			"OUISize": 36,
+			"OrgAddress": "Schoenbuehlstrasse 8\\nChur Graubuenden 7000\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "INTEGRA Biosciences AG",
+			"Source": "IEEE"
+		}
+	]
+}

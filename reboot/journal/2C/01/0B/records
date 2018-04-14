@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-24",
+			"EventType": "add",
+			"OUI": "2C010B",
+			"OUISize": 24,
+			"OrgAddress": "2744 Yorkmont Road\\nCharlotte NC 28208\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NASCENT Technology, LLC - RemKon",
+			"Source": "IEEE"
+		}
+	]
+}

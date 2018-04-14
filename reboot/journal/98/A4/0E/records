@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-07",
+			"EventType": "add",
+			"OUI": "98A40E",
+			"OUISize": 24,
+			"OrgAddress": "64 Market Street\\nVenice  CA  90291\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Snap, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

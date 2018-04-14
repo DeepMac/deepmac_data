@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0009B1",
+			"OUISize": 24,
+			"OrgAddress": "17-5, Kyobashi 2-chome\\nChuo-ku Tokyo 104-8338\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Kanematsu Electronics, Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0009B1",
+			"OUISize": 24,
+			"OrgAddress": "17-5, Kyobashi 2-chome\\nChuo-ku  Tokyo  104-8338\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Kanematsu Electronics, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

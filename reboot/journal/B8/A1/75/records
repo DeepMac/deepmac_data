@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-24",
+			"EventType": "add",
+			"OUI": "B8A175",
+			"OUISize": 24,
+			"OrgAddress": "12980 Saratoga Ave\\nSaratoga  CA  95070\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Roku, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

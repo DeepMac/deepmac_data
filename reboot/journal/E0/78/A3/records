@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-20",
+			"EventType": "add",
+			"OUI": "E078A3",
+			"OUISize": 24,
+			"OrgAddress": "Lujiazui Software Park,No.190,Lane 91,Eshan Road,Pudong New Area\\nShanghai  Shanghai  200127\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Winner Information Technology Co.,Inc",
+			"Source": "IEEE"
+		}
+	]
+}

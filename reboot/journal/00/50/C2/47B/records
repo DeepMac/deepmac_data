@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C247B",
+			"OUISize": 36,
+			"OrgAddress": "35 Waterview Drive\\nMSC 26-21\\nShelton CT 06484\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Pitney Bowes, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

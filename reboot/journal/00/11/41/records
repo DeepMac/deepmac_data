@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001141",
+			"OUISize": 24,
+			"OrgAddress": "2F, No.572, Sec.1, Ming-Sheng N Road, Kwei-Shan Hsiang\\nTaoyuan Hsien  33300\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "GoodMan Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001141",
+			"OUISize": 24,
+			"OrgAddress": "2F, No.572, Sec.1, Ming-Sheng N Road, Kwei-Shan Hsiang\\nTaoyuan Hsien  33300\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "GoodMan Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001141",
+			"OUISize": 24,
+			"OrgAddress": "2F, No.572, Sec.1, Ming-Sheng N Road, Kwei-Shan Hsiang\\nTaoyuan Hsien    33300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "GoodMan Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

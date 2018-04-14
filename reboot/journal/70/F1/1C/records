@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-22",
+			"EventType": "add",
+			"OUI": "70F11C",
+			"OUISize": 24,
+			"OrgAddress": "4/F,5Bldg,Dongwu Industrial Park, Donghuan 1st Rd, Longhua District.\\nShenzhen    518059\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Ogemray Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

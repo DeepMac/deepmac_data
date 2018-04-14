@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23AD",
+			"OUISize": 36,
+			"OrgAddress": "Hamilton International Technology Park\\nWatt Place\\nGlasgow South Lanarkshire G72 0FF\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Spirent Communications (Scotland) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,136 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ¯Â¿Â½ Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  Unità Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  Unità Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃÂÃÂ  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ Â  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ Ã  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ Â  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-10-09",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ   Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "change",
+			"OUI": "0050C234E",
+			"OUISize": 36,
+			"OrgAddress": "vai Friuli 4\\nDalmine (Bergamo) 20044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies S.p.A.  UnitÃ Â  Operativa SACE (PTMV)",
+			"Source": "IEEE"
+		}
+	]
+}

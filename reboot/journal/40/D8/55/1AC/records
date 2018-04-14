@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-11-18",
+			"EventType": "add",
+			"OUI": "40D8551AC",
+			"OUISize": 36,
+			"OrgAddress": "10 IHASZ STR\\nBUDAPEST  1105\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "ELAN SYSTEMS",
+			"Source": "IEEE"
+		}
+	]
+}

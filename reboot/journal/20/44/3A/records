@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-25",
+			"EventType": "add",
+			"OUI": "20443A",
+			"OUISize": 24,
+			"OrgAddress": "4/F,Tower 1, Kerry Plaza,\\nNo. 1 Zhongxin Si Road,Futian District,\\nShenzhen Guangdong 518048\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Clipsal  Manufacturing (Hui Zhou) Ltd. Shenzhen Branch",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-02",
+			"EventType": "change",
+			"OUI": "20443A",
+			"OUISize": 24,
+			"OrgAddress": "13F East Wing, Warwick House, Taikoo Place\\n979 King's Road\\nQuarry Bay\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Schneider Electric Asia Pacific Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "20443A",
+			"OUISize": 24,
+			"OrgAddress": "13F East Wing, Warwick House, Taikoo Place\\nQuarry Bay\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Schneider Electric Asia Pacific Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

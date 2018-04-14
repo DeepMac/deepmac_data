@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002013",
+			"OUISize": 24,
+			"OrgAddress": "112 E. STATE STREET\\nRIDGELAND  MS  39157\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIVERSIFIED TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002013",
+			"OUISize": 24,
+			"OrgAddress": "112 E. STATE STREET\\nRIDGELAND MS 39157\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIVERSIFIED TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002013",
+			"OUISize": 24,
+			"OrgAddress": "112 E. STATE STREET\\nRIDGELAND  MS  39157\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DIVERSIFIED TECHNOLOGY, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

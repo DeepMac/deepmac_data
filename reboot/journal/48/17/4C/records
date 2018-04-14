@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-09-14",
+			"EventType": "add",
+			"OUI": "48174C",
+			"OUISize": 24,
+			"OrgAddress": "4225 Executive Sq.\\nSuite 430\\nLa Jolla California 92037\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MicroPower technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "48174C",
+			"OUISize": 24,
+			"OrgAddress": "4225 Executive Sq.\\nLa Jolla  California  92037\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "MicroPower technologies",
+			"Source": "IEEE"
+		}
+	]
+}

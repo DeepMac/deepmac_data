@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0001A2",
+			"OUISize": 24,
+			"OrgAddress": "4598 Murakushi-cho\\nHamamatsu-shi, Shizuoka-ken\\n\\n",
+			"OrgCountry": "431-1207 JAPAN",
+			"OrgName": "Logical Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0001A2",
+			"OUISize": 24,
+			"OrgAddress": "4598 Murakushi-cho\\nHamamatsu-shi, Shizuoka-ken\\n431-1207 JAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Logical Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0001A2",
+			"OUISize": 24,
+			"OrgAddress": "4598 Murakushi-cho\\nHamamatsu-shi, Shizuoka-ken\\n431-1207\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Logical Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0001A2",
+			"OUISize": 24,
+			"OrgAddress": "4598 Murakushi-cho\\nHamamatsu-shi, Shizuoka-ken\\n431-1207 JAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Logical Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0001A2",
+			"OUISize": 24,
+			"OrgAddress": "4598 Murakushi-cho\\nHamamatsu-shi, Shizuoka-ken\\n431-1207\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Logical Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0001A2",
+			"OUISize": 24,
+			"OrgAddress": "4598 Murakushi-cho\\n431-1207\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Logical Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28F7",
+			"OUISize": 36,
+			"OrgAddress": "204-3, Anyang-7Dong, Manan-Gu,\\nAnyang-City Gyeonggi-Do 430-017\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "TGE Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

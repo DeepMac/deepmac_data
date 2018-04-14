@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D66",
+			"OUISize": 36,
+			"OrgAddress": "Parque Empresarial Tactica\\nCalle Corretger 71-2\\nPaterna Valencia 46980\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Uvax Concepts",
+			"Source": "IEEE"
+		}
+	]
+}

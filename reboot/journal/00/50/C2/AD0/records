@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AD0",
+			"OUISize": 36,
+			"OrgAddress": "60 Morley Street\\nCoorparoo\\nBrisbane Queensland 4151\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "Geonautics Australia Pty Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000EC2",
+			"OUISize": 24,
+			"OrgAddress": "12000 E. Skelly Drive\\nTulsa OK 74128\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Lowrance Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000EC2",
+			"OUISize": 24,
+			"OrgAddress": "12000 E. Skelly Drive\\nTulsa  OK  74128\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Lowrance Electronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

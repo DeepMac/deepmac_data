@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000275",
+			"OUISize": 24,
+			"OrgAddress": "#600, 1177 11 Ave. S.W.\\nCalgary, Alberta\\n\\n",
+			"OrgCountry": "Canada, T2R 1K9",
+			"OrgName": "SMART Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000275",
+			"OUISize": 24,
+			"OrgAddress": "#600, 1177 11 Ave. S.W.\\nCalgary, Alberta\\n\\n",
+			"OrgCountry": "Canada T2R 1K9",
+			"OrgName": "SMART Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000275",
+			"OUISize": 24,
+			"OrgAddress": "#600, 1177 11 Ave. S.W.\\nCalgary, Alberta\\nCanada T2R 1K9\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "SMART Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-21",
+			"EventType": "change",
+			"OUI": "000275",
+			"OUISize": 24,
+			"OrgAddress": "3636 Research  Road NW\\nCalgary, Alberta  T2L1Y1\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "SMART Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000275",
+			"OUISize": 24,
+			"OrgAddress": "3636 Research  Road NW\\nCalgary, Alberta    T2L1Y1\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "SMART Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

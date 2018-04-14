@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-01-25",
+			"EventType": "add",
+			"OUI": "C027B9",
+			"OUISize": 24,
+			"OrgAddress": "No.18 Building, Huayuan YiLi,Fengtai District,\\nBeijing  100073\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Beijing National Railway Research & Design Institute  of Signal & Communication",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "C027B9",
+			"OUISize": 24,
+			"OrgAddress": "Building No.18, Huayuan YiLi,Fengtai District,\\nBeijing  100073\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Beijing National Railway Research & Design Institute  of Signal & Communication Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "C027B9",
+			"OUISize": 24,
+			"OrgAddress": "Building No.18, Huayuan YiLi,Fengtai District,\\nBeijing    100073\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing National Railway Research & Design Institute  of Signal & Communication Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2758",
+			"OUISize": 36,
+			"OrgAddress": "Kaiserstrasse 100\\nHerzogenrath NRW 52134\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "AixSolve GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

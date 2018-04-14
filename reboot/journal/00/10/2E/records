@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00102E",
+			"OUISize": 24,
+			"OrgAddress": "PVT. LTD.\\nPLOT NO. 2, COCHIN EXPORT\\nPROCESSING  ZONE,  KAKKANAD,\\n",
+			"OrgCountry": "COCHIN 682 030,  INDIA",
+			"OrgName": "NETWORK SYSTEMS & TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00102E",
+			"OUISize": 24,
+			"OrgAddress": "PVT. LTD.\\nPLOT NO. 2, COCHIN EXPORT PROCESSING  ZO\\n\\n",
+			"OrgCountry": "COCHIN 682 030 COCHIN 682 030 INDIA",
+			"OrgName": "NETWORK SYSTEMS & TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00102E",
+			"OUISize": 24,
+			"OrgAddress": "PLOT NO. 2, COCHIN EXPORT PROCESSING  ZO\\nKAKKANAD, COCHIN 682 030\\n\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "NETWORK SYSTEMS & TECHNOLOGIES PVT. LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00102E",
+			"OUISize": 24,
+			"OrgAddress": "PLOT NO. 2, COCHIN EXPORT PROCESSING  ZO\\nKAKKANAD, COCHIN 682 030\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "NETWORK SYSTEMS & TECHNOLOGIES PVT. LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

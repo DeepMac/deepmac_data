@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001052",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 2 50\\nD-72423 ALBSTADT\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "METTLER-TOLEDO (ALBSTADT) GMBH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001052",
+			"OUISize": 24,
+			"OrgAddress": "P.O. BOX 2 50\\nD-72423 ALBSTADT\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "METTLER-TOLEDO (ALBSTADT) GMBH",
+			"Source": "IEEE"
+		}
+	]
+}

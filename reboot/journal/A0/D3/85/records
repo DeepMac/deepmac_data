@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-25",
+			"EventType": "add",
+			"OUI": "A0D385",
+			"OUISize": 24,
+			"OrgAddress": "Aumastr. 1\\nMuellheim  Baden-WÃ¼rttemberg  79379\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AUMA Riester GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

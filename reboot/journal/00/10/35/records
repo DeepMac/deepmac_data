@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS CO., LTD\\n6F, NO. 88, SEC. 6\\nCHUNG SHAN N. RD, SHIH LIN\\n",
+			"OrgCountry": "TAIPEI, TAIWAN, R.O.C.",
+			"OrgName": "ELITEGROUP COMPUTER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS CO., LTD\\n6F, NO. 88, SEC. 6 CHUNG SHAN N. RD, SHI\\n\\n",
+			"OrgCountry": "TAIPEI TAIWAN, R.O.C.",
+			"OrgName": "ELITEGROUP COMPUTER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "6F, NO. 88, SEC. 6\\nCHUNG SHAN N. RD.\\nShih Lin TAIPEI\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ELITEGROUP COMPUTER SYSTEMS CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "6F, NO. 88, SEC. 6\\nCHUNG SHAN N. RD.\\nShih Lin TAIPEI\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ELITEGROUP COMPUTER SYSTEMS CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "6F, NO. 88, SEC. 6\\nCHUNG SHAN N. RD.\\nShih Lin TAIPEI\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ELITEGROUP COMPUTER SYSTEMS CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "6F, NO. 88, SEC. 6\\nShih Lin  TAIPEI\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ELITEGROUP COMPUTER SYSTEMS CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-26",
+			"EventType": "change",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "6F, NO. 88, SEC. 6\\nShih Lin  TAIPEI\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Elitegroup Computer Systems Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-07-31",
+			"EventType": "add",
+			"OUI": "002717",
+			"OUISize": 24,
+			"OrgAddress": "Wei 3 Road, Dingmao, Eco.Dev.Zone,\\nJiangsu\\nZhenjiang  212009\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "CE Digital(Zhenjiang)Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002717",
+			"OUISize": 24,
+			"OrgAddress": "Wei 3 Road, Dingmao, Eco.Dev.Zone,\\nZhenjiang    212009\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CE Digital(Zhenjiang)Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

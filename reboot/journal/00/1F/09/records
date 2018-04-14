@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001F09",
+			"OUISize": 24,
+			"OrgAddress": "Jastec B/D, 92-7\\nKum-gok Dong, Boon-Dang Gu\\nSeong-nam Si  Kyung-gi Do 463-804\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "JASTEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001F09",
+			"OUISize": 24,
+			"OrgAddress": "Jastec B/D, 92-7\\nKum-gok Dong, Boon-Dang Gu\\nSeong-nam Si Kyung-gi Do 463-804\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "JASTEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001F09",
+			"OUISize": 24,
+			"OrgAddress": "Jastec B/D, 92-7\\nKum-gok Dong, Boon-Dang Gu\\nSeong-nam Si  Kyung-gi Do 463-804\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "JASTEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001F09",
+			"OUISize": 24,
+			"OrgAddress": "Jastec B/D, 92-7\\nSeong-nam Si   Kyung-gi Do  463-804\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "JASTEC CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-03",
+			"EventType": "change",
+			"OUI": "001F09",
+			"OUISize": 24,
+			"OrgAddress": "Jastec B/D 2F, 92-7 Kumgok-dong,\\nBoondang-gu,    463-804\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Jastec",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001051",
+			"OUISize": 24,
+			"OrgAddress": "17-20-2 KAMINO-CHO\\nTAKAMATSU-SHI\\nKAGAWA\\n",
+			"OrgCountry": "JAPAN  761",
+			"OrgName": "CMICRO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001051",
+			"OUISize": 24,
+			"OrgAddress": "17-20-2 KAMINO-CHO\\nTAKAMATSU-SHI KAGAWA\\n\\n",
+			"OrgCountry": "JAPAN 761",
+			"OrgName": "CMICRO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "001051",
+			"OUISize": 24,
+			"OrgAddress": "17-20-2 KAMINO-CHO\\nTAKAMATSU-SHI, KAGAWA 761\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "CMICRO CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001051",
+			"OUISize": 24,
+			"OrgAddress": "17-20-2 KAMINO-CHO\\nTAKAMATSU-SHI, KAGAWA 761\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "CMICRO CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2336",
+			"OUISize": 36,
+			"OrgAddress": "6 Talisman Business Centre\\nTalisman road\\nBicester OXON OX26 6HR\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Golden River Traffic",
+			"Source": "IEEE"
+		}
+	]
+}

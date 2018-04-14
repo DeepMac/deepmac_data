@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0050C6",
+			"OUISize": 24,
+			"OrgAddress": "INTERNATIONAL, INC.\\n2F, NO. 22, PROSPERITY RD. 2\\nSCIENCE-BASED INDUSTRIAL PARK\\n",
+			"OrgCountry": "HSINCHU, TAIWAN, R.O.C.",
+			"OrgName": "LOOP TELECOMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0050C6",
+			"OUISize": 24,
+			"OrgAddress": "INTERNATIONAL, INC.\\n2F, NO. 22, PROSPERITY RD. 2 SCIENCE-BAS\\n\\n",
+			"OrgCountry": "HSINCHU TAIWAN, R.O.C.",
+			"OrgName": "LOOP TELECOMMUNICATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0050C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO. 22, PROSPERITY RD. 2\\nScience-Based Industrial Park\\nHSINCHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "LOOP TELECOMMUNICATION INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0050C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO. 22, PROSPERITY RD. 2\\nScience-Based Industrial Park\\nHSINCHU\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "LOOP TELECOMMUNICATION INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0050C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO. 22, PROSPERITY RD. 2\\nScience-Based Industrial Park\\nHSINCHU\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "LOOP TELECOMMUNICATION INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0050C6",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO. 22, PROSPERITY RD. 2\\nHSINCHU\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "LOOP TELECOMMUNICATION INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

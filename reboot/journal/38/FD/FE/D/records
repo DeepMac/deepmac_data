@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-01",
+			"EventType": "add",
+			"OUI": "38FDFED",
+			"OUISize": 28,
+			"OrgAddress": "Tec Center 1\\nBad Salzdetfurth    31162\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "FUBA Automotive Electronics GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

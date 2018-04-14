@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-09",
+			"EventType": "add",
+			"OUI": "683563",
+			"OUISize": 24,
+			"OrgAddress": "ROOM 301, NO.7, GONGYE 3RD ROAD\\nSHEKOU, NANSHAN DISTRICT  SHENZHEN  518054\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN LIOWN ELECTRONICS CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

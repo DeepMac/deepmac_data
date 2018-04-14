@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000AB9",
+			"OUISize": 24,
+			"OrgAddress": "48521 Warm Springs Blvd.\\nSuite 307B\\nFremont CA 94539\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Astera Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-01-14",
+			"EventType": "change",
+			"OUI": "000AB9",
+			"OUISize": 24,
+			"OrgAddress": "2380 Waverley Street\\nPalo Alto CA 94301\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Astera Technologies Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000AB9",
+			"OUISize": 24,
+			"OrgAddress": "2380 Waverley Street\\nPalo Alto  CA  94301\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Astera Technologies Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

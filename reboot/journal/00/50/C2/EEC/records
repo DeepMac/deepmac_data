@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "0050C2EEC",
+			"OUISize": 36,
+			"OrgAddress": "3-3-1 Meishinguchi\\nToyonaka Osaka 561-0841\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Yuyama Mfg. Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

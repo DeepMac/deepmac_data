@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "add",
+			"OUI": "0009D2",
+			"OUISize": 24,
+			"OrgAddress": "47697 Westinghouse Dr., Suite 200\\nFremont CA 94539\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Mai Logic Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0009D2",
+			"OUISize": 24,
+			"OrgAddress": "47697 Westinghouse Dr., Suite 200\\nFremont  CA  94539\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Mai Logic Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

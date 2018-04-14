@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "add",
+			"OUI": "001D34",
+			"OUISize": 24,
+			"OrgAddress": "21 F-2,  NO. 12,  SEC. 1,  Taijunggang Rd.\\nTaichung  403\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "SYRIS Technology Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001D34",
+			"OUISize": 24,
+			"OrgAddress": "21 F-2,  NO. 12,  SEC. 1,  Taijunggang Rd.\\nTaichung  403\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "SYRIS Technology Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001D34",
+			"OUISize": 24,
+			"OrgAddress": "21 F-2,  NO. 12,  SEC. 1,  Taijunggang Rd.\\nTaichung    403\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SYRIS Technology Corp",
+			"Source": "IEEE"
+		}
+	]
+}

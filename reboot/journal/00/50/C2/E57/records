@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E57",
+			"OUISize": 36,
+			"OrgAddress": "ZI STE ELIZABETH\\nMONTCEAU LES MINES SA 71300\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "EOLANE MONTCEAU",
+			"Source": "IEEE"
+		}
+	]
+}

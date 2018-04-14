@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-10",
+			"EventType": "add",
+			"OUI": "C477AB",
+			"OUISize": 24,
+			"OrgAddress": "15/F, Global Trade Center Tower, No.36, North 3rd Ring Road, Dongcheng District, Beijing, 100013, China\\nBEI JING  BEI JING  100013\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing ASU Tech Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

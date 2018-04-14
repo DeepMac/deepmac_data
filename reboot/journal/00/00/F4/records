@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0000F4",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\n950 KIFER ROAD\\nSUNNYVALE  CA  94086\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ALLIED TELESYN INTERNATIONAL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0000F4",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\n950 KIFER ROAD\\nSUNNYVALE CA 94086\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ALLIED TELESYN INTERNATIONAL",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-01-17",
+			"EventType": "change",
+			"OUI": "0000F4",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\n950 KIFER ROAD\\nSUNNYVALE CA 94086\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Allied Telesis",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0000F4",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\nSUNNYVALE  CA  94086\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Allied Telesis",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "0000F4",
+			"OUISize": 24,
+			"OrgAddress": "CORPORATION\\nSUNNYVALE  CA  94086\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Allied Telesis, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

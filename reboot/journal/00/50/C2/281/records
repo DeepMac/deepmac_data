@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2281",
+			"OUISize": 36,
+			"OrgAddress": "Hohstrass 1\\nKloten Zuerich 8302\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "CabTronix GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

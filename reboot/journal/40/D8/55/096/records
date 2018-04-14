@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "add",
+			"OUI": "40D855096",
+			"OUISize": 36,
+			"OrgAddress": "Bretonischer Ring 11\\nGrasbrunn  85630\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Comtel Electronics GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

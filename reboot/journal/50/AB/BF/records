@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "50ABBF",
+			"OUISize": 24,
+			"OrgAddress": "701 ACE Techno Tower 684-1\\nDeungchon 3-dong, Gangseo-gu\\nSeoul  157-721\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Hoseo Telecom",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "50ABBF",
+			"OUISize": 24,
+			"OrgAddress": "701 ACE Techno Tower 684-1\\nDeungchon 3-dong, Gangseo-gu\\nSeoul  157-721\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Hoseo Telecom",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "50ABBF",
+			"OUISize": 24,
+			"OrgAddress": "701 ACE Techno Tower 684-1\\nDeungchon 3-dong, Gangseo-gu\\nSeoul  157-721\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Hoseo Telecom",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "50ABBF",
+			"OUISize": 24,
+			"OrgAddress": "701 ACE Techno Tower 684-1\\nSeoul    157-721\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Hoseo Telecom",
+			"Source": "IEEE"
+		}
+	]
+}

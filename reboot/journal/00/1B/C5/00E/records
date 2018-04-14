@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-18",
+			"EventType": "add",
+			"OUI": "001BC500E",
+			"OUISize": 36,
+			"OrgAddress": "No. 42-12. Pidao Village\\nDanshuei Township\\nTaipei  251\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Vigor Electric Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-08",
+			"EventType": "change",
+			"OUI": "001BC500E",
+			"OUISize": 36,
+			"OrgAddress": "No. 42-12. Pidao Village\\nDanshuei Township\\nNew Taipei  251\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Vigor Electric Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC500E",
+			"OUISize": 36,
+			"OrgAddress": "No. 42-12. Pidao Village\\nNew Taipei    251\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Vigor Electric Corp",
+			"Source": "IEEE"
+		}
+	]
+}

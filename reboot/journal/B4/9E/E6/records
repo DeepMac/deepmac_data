@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-15",
+			"EventType": "add",
+			"OUI": "B49EE6",
+			"OUISize": 24,
+			"OrgAddress": "NO34 SHILONG RD\\nSHIYANG TOWN\\nSHENZHEN GUANGDONG 91732\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHENZHEN TECHNOLOGY CO LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "B49EE6",
+			"OUISize": 24,
+			"OrgAddress": "NO34 SHILONG RD\\nSHENZHEN  GUANGDONG  91732\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN TECHNOLOGY CO LTD",
+			"Source": "IEEE"
+		}
+	]
+}

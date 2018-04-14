@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-22",
+			"EventType": "add",
+			"OUI": "28FD809",
+			"OUISize": 28,
+			"OrgAddress": "KangMai Industrial Zone ,B building, F/3,\\nFuming Village ,Guanlan Town ,LongHua New District,Shenzhen ,China\\nShenzhen guangdong 518110\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "JINLITONG INTERNATIONAL CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "28FD809",
+			"OUISize": 28,
+			"OrgAddress": "KangMai Industrial Zone ,B building, F/3,\\nShenzhen  guangdong  518110\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "JINLITONG INTERNATIONAL CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

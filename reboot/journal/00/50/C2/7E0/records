@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27E0",
+			"OUISize": 36,
+			"OrgAddress": "65 Industrial Park Rd\\nDunlap TN 37327\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "C&D Technologies, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AAD",
+			"OUISize": 36,
+			"OrgAddress": "10545 Baur Blvd.\\nSaint Louis MO 63132\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Update Systems Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

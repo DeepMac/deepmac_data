@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2C34",
+			"OUISize": 36,
+			"OrgAddress": "hanamigahama2-1-1\\nfukutsu fukuoka 811-3216\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Kyuhen",
+			"Source": "IEEE"
+		}
+	]
+}

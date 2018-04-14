@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23EA",
+			"OUISize": 36,
+			"OrgAddress": "Route d'Onnens 1\\nNeyruz FR CH-1740\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Alro Information Systems SA",
+			"Source": "IEEE"
+		}
+	]
+}

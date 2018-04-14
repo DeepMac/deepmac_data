@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23FD",
+			"OUISize": 36,
+			"OrgAddress": "Johann-Feilner-Str.1\\nMistelbach Bayern 95511\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "HARTMANN software GbR",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C00F",
+			"OUISize": 24,
+			"OrgAddress": "175 TERRENCE MATTHEWS CRESCENT\\nKANATA, ONTARIO\\nCANADA\\n",
+			"OrgCountry": "K2L 3T5",
+			"OrgName": "QUANTUM SOFTWARE SYSTEMS LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C00F",
+			"OUISize": 24,
+			"OrgAddress": "175 TERRENCE MATTHEWS CRESCENT\\nKANATA, ONTARIO CANADA\\n\\n",
+			"OrgCountry": "K2L 3T5",
+			"OrgName": "QUANTUM SOFTWARE SYSTEMS LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "00C00F",
+			"OUISize": 24,
+			"OrgAddress": "175 TERRENCE MATTHEWS CRESCENT\\nKANATA, ONTARIO CANADA\\nK2L 3T5\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "QUANTUM SOFTWARE SYSTEMS LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C00F",
+			"OUISize": 24,
+			"OrgAddress": "175 TERRENCE MATTHEWS CRESCENT\\nK2L  3T5\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "QUANTUM SOFTWARE SYSTEMS LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

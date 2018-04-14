@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C250E",
+			"OUISize": 36,
+			"OrgAddress": "14252 Culver Dr.  Ste. A356\\nIrvine Ca 92604\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Fibresavers Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

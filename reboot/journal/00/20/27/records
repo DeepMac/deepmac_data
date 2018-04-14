@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002027",
+			"OUISize": 24,
+			"OrgAddress": "4F, NO. 5, LANE 45\\nPAO HSIN RD, HSIN TIEN\\nTAIPEI HSIEN\\n",
+			"OrgCountry": "TAIWAN, R.O.C.",
+			"OrgName": "MING FORTUNE INDUSTRY CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-01-24",
+			"EventType": "change",
+			"OUI": "002027",
+			"OUISize": 24,
+			"OrgAddress": "4F, NO. 800 CHUNG CHENG RD,\\nCHUNG HO CITY, TAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN , R.O.C.",
+			"OrgName": "MING FORTUNE INDUSTRY CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002027",
+			"OUISize": 24,
+			"OrgAddress": "4F, NO. 800 CHUNG CHENG RD,\\nCHUNG HO CITY, TAIPEI HSIEN\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "MING FORTUNE INDUSTRY CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "002027",
+			"OUISize": 24,
+			"OrgAddress": "4F, NO. 800 CHUNG CHENG RD,\\nCHUNG HO CITY, TAIPEI HSIEN\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "MING FORTUNE INDUSTRY CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002027",
+			"OUISize": 24,
+			"OrgAddress": "4F, NO. 800 CHUNG CHENG RD,\\nCHUNG HO CITY, TAIPEI HSIEN\\nTAIWAN TAIWAN R.O.C.\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "MING FORTUNE INDUSTRY CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002027",
+			"OUISize": 24,
+			"OrgAddress": "4F, NO. 800 CHUNG CHENG RD,\\nTAIWAN  TAIWAN  R.O.C.\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "MING FORTUNE INDUSTRY CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

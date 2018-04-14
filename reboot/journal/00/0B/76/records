@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B76",
+			"OUISize": 24,
+			"OrgAddress": "2F,No.2,Lane 57,Sec.1,Chien Kuo N. Rd.\\nTaipei  104\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ET&T Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "change",
+			"OUI": "000B76",
+			"OUISize": 24,
+			"OrgAddress": "6F No.101, SongJiang Rd.\\nTaipei  104\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "ET&T Technology Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000B76",
+			"OUISize": 24,
+			"OrgAddress": "6F No.101, SongJiang Rd.\\nTaipei  104\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "ET&T Technology Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B76",
+			"OUISize": 24,
+			"OrgAddress": "6F No.101, SongJiang Rd.\\nTaipei    104\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ET&T Technology Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

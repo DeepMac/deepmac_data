@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2097",
+			"OUISize": 36,
+			"OrgAddress": "via Cantonale\\nCH-6595 Riazzino\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "IMV Invertomatic",
+			"Source": "IEEE"
+		}
+	]
+}

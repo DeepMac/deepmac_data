@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre Mendès France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre MendÃ¨s France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre Mendès France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre MendÃÂ¨s France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre Mendès France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre MendÃÂ¨s France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre MendÃ¨s France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre MendÃÂÃÂÃÂÃÂ¨s France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre MendÃ¨s France\\nBP 231\\nVaulx en Velin CEDEX  69515\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0023E2",
+			"OUISize": 24,
+			"OrgAddress": "20-22 Rue Pierre MendÃ¨s France\\nVaulx en Velin CEDEX    69515\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "SEA Signalisation",
+			"Source": "IEEE"
+		}
+	]
+}

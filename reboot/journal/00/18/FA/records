@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-07-14",
+			"EventType": "add",
+			"OUI": "0018FA",
+			"OUISize": 24,
+			"OrgAddress": "11-260 KOGAHONMACHI\\nFUSHIMI-KU\\nKYOTO  612-8492 JAP\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Yushin Precision Equipment Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0018FA",
+			"OUISize": 24,
+			"OrgAddress": "11-260 KOGAHONMACHI\\nKYOTO    612-8492 JAP\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Yushin Precision Equipment Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

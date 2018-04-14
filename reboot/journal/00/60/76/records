@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "006076",
+			"OUISize": 24,
+			"OrgAddress": "RETAIL PETROLEUM SYSTEMS\\n825-M GREENBRIER CIRCLE\\nCHESAPEAKE  VA  23320\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SCHLUMBERGER TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006076",
+			"OUISize": 24,
+			"OrgAddress": "RETAIL PETROLEUM SYSTEMS\\n825-M GREENBRIER CIRCLE\\nCHESAPEAKE VA 23320\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SCHLUMBERGER TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "006076",
+			"OUISize": 24,
+			"OrgAddress": "825-M GREENBRIER CIRCLE\\nCHESAPEAKE VA 23320\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SCHLUMBERGER TECHNOLOGIES RETAIL PETROLEUM SYSTEMS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006076",
+			"OUISize": 24,
+			"OrgAddress": "825-M GREENBRIER CIRCLE\\nCHESAPEAKE  VA  23320\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SCHLUMBERGER TECHNOLOGIES RETAIL PETROLEUM SYSTEMS",
+			"Source": "IEEE"
+		}
+	]
+}

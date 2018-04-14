@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-05-16",
+			"EventType": "add",
+			"OUI": "34298FA",
+			"OUISize": 28,
+			"OrgAddress": "12 Kallang Avenue\\nAperia #04-30    339511\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "Virtual Trunk Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

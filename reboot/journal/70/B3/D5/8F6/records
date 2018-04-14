@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-24",
+			"EventType": "add",
+			"OUI": "70B3D58F6",
+			"OUISize": 36,
+			"OrgAddress": "RM306, Block E, RD Xinjunhuan,Pujiang\\nMinghang  Shanghai  201113\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Dofuntech Co.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

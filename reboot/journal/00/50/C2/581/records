@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2581",
+			"OUISize": 36,
+			"OrgAddress": "Sundsholmen 12\\nNoerresundby DK 9400\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Devitech ApS",
+			"Source": "IEEE"
+		}
+	]
+}

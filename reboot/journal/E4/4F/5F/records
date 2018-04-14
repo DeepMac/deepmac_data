@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-07-27",
+			"EventType": "add",
+			"OUI": "E44F5F",
+			"OUISize": 24,
+			"OrgAddress": "Meclis Mah. Hayran Sok. No:4\\nSancaktepe\\nIstanbul  34785\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "EDS Elektronik Destek San.Tic.Ltd.Sti",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "E44F5F",
+			"OUISize": 24,
+			"OrgAddress": "Meclis Mah. Hayran Sok. No:4\\nistanbul    34785\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "EDS Elektronik Destek San.Tic.Ltd.Sti",
+			"Source": "IEEE"
+		}
+	]
+}

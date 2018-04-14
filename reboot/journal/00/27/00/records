@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-07-28",
+			"EventType": "add",
+			"OUI": "002700",
+			"OUISize": 24,
+			"OrgAddress": "BUILDING A8,TANGLANG INDUSTRIAL ZONE,XILI,NANSHAN\\nShenzhen Guangdong 518000\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Siglent Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002700",
+			"OUISize": 24,
+			"OrgAddress": "BUILDING A8,TANGLANG INDUSTRIAL ZONE,XILI,NANSHAN\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Siglent Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

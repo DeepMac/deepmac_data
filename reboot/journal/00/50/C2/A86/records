@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A86",
+			"OUISize": 36,
+			"OrgAddress": "Exportgatan 38B\\nHisings Backa  42246\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "LIMAB AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C2A86",
+			"OUISize": 36,
+			"OrgAddress": "AlmedalsvÃ¤gen 15\\nGÃ¶teborg  41263\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "LIMAB AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-08",
+			"EventType": "change",
+			"OUI": "0050C2A86",
+			"OUISize": 36,
+			"OrgAddress": "AlmedalsvÃÂ¤gen 15\\nGÃÂ¶teborg  41263\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "LIMAB AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-25",
+			"EventType": "change",
+			"OUI": "0050C2A86",
+			"OUISize": 36,
+			"OrgAddress": "AlmedalsvÃ¤gen 15\\nGÃ¶teborg  41263\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "LIMAB AB",
+			"Source": "IEEE"
+		}
+	]
+}

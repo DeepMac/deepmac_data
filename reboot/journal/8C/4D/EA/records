@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-11",
+			"EventType": "add",
+			"OUI": "8C4DEA",
+			"OUISize": 24,
+			"OrgAddress": "2F., No.105, Mincyuan Rd., Sindian City\\nTaipei County  23141\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Cerio Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-28",
+			"EventType": "change",
+			"OUI": "8C4DEA",
+			"OUISize": 24,
+			"OrgAddress": "2F., No.105, Mincyuan Rd., Sindian City\\nTaipei County  23141\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Cerio Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "8C4DEA",
+			"OUISize": 24,
+			"OrgAddress": "2F., No.105, Mincyuan Rd., Sindian City\\nTaipei County  23141\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Cerio Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "8C4DEA",
+			"OUISize": 24,
+			"OrgAddress": "5F., No.88, Mincyuan Rd., Sindian City\\nTaipei County  23141\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Cerio Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "8C4DEA",
+			"OUISize": 24,
+			"OrgAddress": "5F., No.88, Mincyuan Rd., Sindian City\\nTaipei County    23141\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Cerio Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

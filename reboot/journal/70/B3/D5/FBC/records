@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-29",
+			"EventType": "add",
+			"OUI": "70B3D5FBC",
+			"OUISize": 36,
+			"OrgAddress": "41 Wu Kung 6 Rd., New Taipei Industrial Park, New Taipei City,24891,Taiwan,R.O.C.\\nNew Taipei city  Taipei  24891\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Twoway Communications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

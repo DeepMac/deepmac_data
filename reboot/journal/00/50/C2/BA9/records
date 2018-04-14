@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BA9",
+			"OUISize": 36,
+			"OrgAddress": "601 Ace-Technotower, 684-1 Deungchon-dong, Gangseo-gu\\nSeoul  157-030\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "SISS Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

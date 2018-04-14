@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2220",
+			"OUISize": 36,
+			"OrgAddress": "3305 NW Aloclek Dr\\nHillsboro OR 97124-7101\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Serveron Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

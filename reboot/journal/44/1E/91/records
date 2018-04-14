@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-01-16",
+			"EventType": "add",
+			"OUI": "441E91",
+			"OUISize": 24,
+			"OrgAddress": "No.3 Qiliang Road.,\\nDanyang Jiangsu 212300\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "ARVIDA Intelligent Electronics Technology  Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "441E91",
+			"OUISize": 24,
+			"OrgAddress": "No.3 Qiliang Road.,\\nDanyang  Jiangsu  212300\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ARVIDA Intelligent Electronics Technology  Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

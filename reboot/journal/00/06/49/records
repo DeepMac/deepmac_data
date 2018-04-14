@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000649",
+			"OUISize": 24,
+			"OrgAddress": "Uellendahler Str. 353\\nD-42109 Wuppertal\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Quante",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "000649",
+			"OUISize": 24,
+			"OrgAddress": "Carl-Schurz-Str. 1\\nD-42109 Wuppertal\\nNeuss  D-41453\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "3M Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-11",
+			"EventType": "change",
+			"OUI": "000649",
+			"OUISize": 24,
+			"OrgAddress": "Carl-Schurz-Str. 1\\nNeuss  D-41453\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "3M Deutschland GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000649",
+			"OUISize": 24,
+			"OrgAddress": "Carl-Schurz-Str. 1\\nNeuss    D-41453\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "3M Deutschland GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

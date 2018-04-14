@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-19",
+			"EventType": "add",
+			"OUI": "70A84C",
+			"OUISize": 24,
+			"OrgAddress": "702, Hanlla Sigma Vally, 545, Dunchon-daero, Jungwon-gu\\nSeongnam-Shi    13215\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "MONAD., Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

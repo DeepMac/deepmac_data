@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "005038",
+			"OUISize": 24,
+			"OrgAddress": "2ND FR., OH-SUNG BLDG. #2-28\\nYANGJAE-DONG, SEOCHO-GU\\nSEOUL\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "DAIN TELECOM CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "005038",
+			"OUISize": 24,
+			"OrgAddress": "2ND FR., OH-SUNG BLDG. #2-28\\nYANGJAE-DONG, SEOCHO-GU SEOUL\\n\\n",
+			"OrgCountry": "KOREA",
+			"OrgName": "DAIN TELECOM CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "005038",
+			"OUISize": 24,
+			"OrgAddress": "2ND Flr., OH-SUNG BLDG. #2-28\\nYANGJAE-DONG, SEOCHO-GU SEOUL\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "DAIN TELECOM CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "005038",
+			"OUISize": 24,
+			"OrgAddress": "2ND Flr., OH-SUNG BLDG. #2-28\\nYANGJAE-DONG, SEOCHO-GU  SEOUL\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DAIN TELECOM CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

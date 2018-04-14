@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-26",
+			"EventType": "add",
+			"OUI": "7CCBE2B",
+			"OUISize": 28,
+			"OrgAddress": "3rd Floor, Jinyanlong Building, Xisanqi Bridge, Haidian District, Beijing 100096, China\\nBeijing  Beijing  100096\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Easy Broadband Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

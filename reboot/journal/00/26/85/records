@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002685",
+			"OUISize": 24,
+			"OrgAddress": "Travbaneveien 6\\nTrondheim  7044\\n\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Digital Innovation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002685",
+			"OUISize": 24,
+			"OrgAddress": "Travbaneveien 6\\nTrondheim    7044\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Digital Innovation",
+			"Source": "IEEE"
+		}
+	]
+}

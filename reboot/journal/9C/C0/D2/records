@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-12-18",
+			"EventType": "add",
+			"OUI": "9CC0D2",
+			"OUISize": 24,
+			"OrgAddress": "Rheinstrasse 27+33\\nWeil am Rhein Baden-Wï¿½rttemberg D-79576\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Conductix-Wampfler AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "9CC0D2",
+			"OUISize": 24,
+			"OrgAddress": "Rheinstrasse 27+33\\nWeil am Rhein Baden-WÃ¼rttemberg D-79576\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Conductix-Wampfler AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "9CC0D2",
+			"OUISize": 24,
+			"OrgAddress": "Rheinstrasse 27+33\\nWeil am Rhein Baden-Württemberg D-79576\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Conductix-Wampfler AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "9CC0D2",
+			"OUISize": 24,
+			"OrgAddress": "Rheinstrasse 27+33\\nWeil am Rhein Baden-WÃÂÃÂ¼rttemberg D-79576\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Conductix-Wampfler AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "9CC0D2",
+			"OUISize": 24,
+			"OrgAddress": "RheinstraÃe 27+33\\nWeil am Rhein Baden-WÃ¼rttemberg D-79576\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Conductix-Wampfler AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-06",
+			"EventType": "change",
+			"OUI": "9CC0D2",
+			"OUISize": 24,
+			"OrgAddress": "Rheinstrasse 27+33\\nD-79576 Weil am Rhein\\nBaden-WÃ¼rttemberg\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Conductix-Wampfler GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "9CC0D2",
+			"OUISize": 24,
+			"OrgAddress": "Rheinstrasse 27+33\\nBaden-WÃ¼rttemberg\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Conductix-Wampfler GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

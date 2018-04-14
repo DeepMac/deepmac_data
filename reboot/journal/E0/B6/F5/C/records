@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-02-09",
+			"EventType": "add",
+			"OUI": "E0B6F5C",
+			"OUISize": 28,
+			"OrgAddress": "WindmÃ¼hlenbergstr. 20-22\\nSalzgitter    38259\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "funktel GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

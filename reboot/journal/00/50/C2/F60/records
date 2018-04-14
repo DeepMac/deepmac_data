@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "add",
+			"OUI": "0050C2F60",
+			"OUISize": 36,
+			"OrgAddress": "Bahnhofstr.79\\nRosengarten-Klecken Lower Saxonie 21224\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Deckma GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

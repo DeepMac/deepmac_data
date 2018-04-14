@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-06",
+			"EventType": "add",
+			"OUI": "0054BD",
+			"OUISize": 24,
+			"OrgAddress": "TullgÃ¥rdsgatan 8\\nStockholm    11668\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Swelaser AB",
+			"Source": "IEEE"
+		}
+	]
+}

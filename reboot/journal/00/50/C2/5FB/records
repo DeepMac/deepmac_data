@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25FB",
+			"OUISize": 36,
+			"OrgAddress": "16 Hope Street\\nSEVEN HILLS New South Wales 2147\\n\\n",
+			"OrgCountry": "AUSTRALIA",
+			"OrgName": "All-Systems Electronics Pty Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

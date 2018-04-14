@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2BAA",
+			"OUISize": 36,
+			"OrgAddress": "95-1036 Auina St.\\nMililani HI 96789\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NetworkFX Communications, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

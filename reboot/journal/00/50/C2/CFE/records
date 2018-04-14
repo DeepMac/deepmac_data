@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CFE",
+			"OUISize": 36,
+			"OrgAddress": "HYEON BLDG 4TH FL 157-1 CHUNUI-DONG\\nBUCHEON-SHI KYONGGI-DO 420-859\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Techleader",
+			"Source": "IEEE"
+		}
+	]
+}

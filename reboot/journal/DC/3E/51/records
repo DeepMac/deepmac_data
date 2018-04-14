@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-16",
+			"EventType": "add",
+			"OUI": "DC3E51",
+			"OUISize": 24,
+			"OrgAddress": "Litleï¿½sveien 61\\nN-5132 Nyborg\\nBergen  5132\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Solberg & Andersen AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "DC3E51",
+			"OUISize": 24,
+			"OrgAddress": "LitleÃ¥sveien 61\\nN-5132 Nyborg\\nBergen  5132\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Solberg & Andersen AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "DC3E51",
+			"OUISize": 24,
+			"OrgAddress": "Litleåsveien 61\\nN-5132 Nyborg\\nBergen  5132\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Solberg & Andersen AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "DC3E51",
+			"OUISize": 24,
+			"OrgAddress": "LitleÃÂÃÂ¥sveien 61\\nN-5132 Nyborg\\nBergen  5132\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Solberg & Andersen AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "DC3E51",
+			"OUISize": 24,
+			"OrgAddress": "LitleÃ¥svegen 61\\nN-5132 Nyborg\\nBergen  5132\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Solberg & Andersen AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-12",
+			"EventType": "change",
+			"OUI": "DC3E51",
+			"OUISize": 24,
+			"OrgAddress": "Litleaasvegen 61\\nN-5132 Nyborg\\nBergen  5132\\n",
+			"OrgCountry": "NORWAY",
+			"OrgName": "Solberg & Andersen AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "DC3E51",
+			"OUISize": 24,
+			"OrgAddress": "Litleaasvegen 61\\nBergen    5132\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Solberg & Andersen AS",
+			"Source": "IEEE"
+		}
+	]
+}

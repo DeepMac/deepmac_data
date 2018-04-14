@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-07-19",
+			"EventType": "add",
+			"OUI": "F8462D",
+			"OUISize": 24,
+			"OrgAddress": "3F, NO.105, Shing-shyue St.,\\nHsinchu  300\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "SYNTEC Incorporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "F8462D",
+			"OUISize": 24,
+			"OrgAddress": "3F, NO.105, Shing-shyue St.,\\nHsinchu  300\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "SYNTEC Incorporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F8462D",
+			"OUISize": 24,
+			"OrgAddress": "3F, NO.105, Shing-shyue St.,\\nHsinchu    300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SYNTEC Incorporation",
+			"Source": "IEEE"
+		}
+	]
+}

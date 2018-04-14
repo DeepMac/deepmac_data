@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-19",
+			"EventType": "add",
+			"OUI": "60D7E3D",
+			"OUISize": 28,
+			"OrgAddress": "380 S. 200 W.\\nFarmington  UT  84025\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Quantronix, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

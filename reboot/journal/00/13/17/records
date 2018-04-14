@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-12-15",
+			"EventType": "add",
+			"OUI": "001317",
+			"OUISize": 24,
+			"OrgAddress": "Metalbuen 66\\nP.O.Box 201\\nBallerup Skovlunde DK-2750\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "GN Netcom as",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001317",
+			"OUISize": 24,
+			"OrgAddress": "Metalbuen 66\\nBallerup  Skovlunde  DK-2750\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "GN Netcom as",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-28",
+			"EventType": "change",
+			"OUI": "001317",
+			"OUISize": 24,
+			"OrgAddress": "Metalbuen 66\\nBallerup  Skovlunde  DK-2750\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "GN Netcom A/S",
+			"Source": "IEEE"
+		}
+	]
+}

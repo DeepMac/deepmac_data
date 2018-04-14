@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-04",
+			"EventType": "add",
+			"OUI": "70F8E70",
+			"OUISize": 28,
+			"OrgAddress": "Floor 2, Building 11, WaiMao Industrial Park, Shiyan Subdistrict , Baoan District, Shenzhen\\nSHENZHEN  GUANGDONG  518108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN Xin JiuNing Electronics Co Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

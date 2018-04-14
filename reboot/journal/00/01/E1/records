@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0001E1",
+			"OUISize": 24,
+			"OrgAddress": "TSAC TI WEI, WAN SHUN TSUN,\\nSHEN KENG HSIANG, TAIPEI HSIEN\\nTAIWAN (222) R.O.C.\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Kinpo Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0001E1",
+			"OUISize": 24,
+			"OrgAddress": "TSAC TI WEI, WAN SHUN TSUN,\\nSHEN KENG HSIANG, TAIPEI HSIEN TAIWAN (2\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Kinpo Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0001E1",
+			"OUISize": 24,
+			"OrgAddress": "TSAC TI WEI, WAN SHUN TSUN,\\nSHEN KENG HSIANG, TAIPEI HSIEN TAIWAN (2\\nCHINA\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Kinpo Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0001E1",
+			"OUISize": 24,
+			"OrgAddress": "TSAC TI WEI, WAN SHUN TSUN,\\nSHEN KENG HSIANG, TAIPEI HSIEN TAIWAN (2\\nCHINA\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Kinpo Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0001E1",
+			"OUISize": 24,
+			"OrgAddress": "TSAC TI WEI, WAN SHUN TSUN,\\nSHEN KENG HSIANG, TAIPEI HSIEN TAIWAN (2\\nCHINA\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Kinpo Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0001E1",
+			"OUISize": 24,
+			"OrgAddress": "TSAC TI WEI, WAN SHUN TSUN,\\nCHINA\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Kinpo Electronics, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-09",
+			"EventType": "change",
+			"OUI": "0001E1",
+			"OUISize": 24,
+			"OrgAddress": "No.147, Sec. 3, Beishen Rd\\nShenkeng Dist.  New Taipei City  222\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Kinpo Electronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

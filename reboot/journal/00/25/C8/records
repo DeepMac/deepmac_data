@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "0025C8",
+			"OUISize": 24,
+			"OrgAddress": "Oberhausenstrasse 47\\nWettswil a/A Zuerich 8907\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "S-Access GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0025C8",
+			"OUISize": 24,
+			"OrgAddress": "Oberhausenstrasse 47\\nWettswil a/A  Zuerich  8907\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "S-Access GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

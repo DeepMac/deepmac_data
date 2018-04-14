@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2692",
+			"OUISize": 36,
+			"OrgAddress": "4, Hachoresh Street\\nYahud Center 56470\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Mate Media Access Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

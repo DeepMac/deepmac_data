@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C214D",
+			"OUISize": 36,
+			"OrgAddress": "R&D Center, #307, A-Dong,\\nBundang Technopark, 150\\nYatop-Dong, Pundang-Ku, Sungnam-Si, Kyungki-Do,\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "wellink, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

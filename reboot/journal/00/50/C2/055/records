@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2055",
+			"OUISize": 36,
+			"OrgAddress": "2375 Zanker Rd.\\nSuite 205\\nSan Jose CA 95131\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "San Castle Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

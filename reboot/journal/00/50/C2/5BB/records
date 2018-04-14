@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25BB",
+			"OUISize": 36,
+			"OrgAddress": "NO.7, 5TH AVE. SHANGDI\\nHAIDIAN BEIJING 100085\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "UNIC TECHNOLOGIES INC",
+			"Source": "IEEE"
+		}
+	]
+}

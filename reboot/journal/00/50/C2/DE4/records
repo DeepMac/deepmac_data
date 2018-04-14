@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DE4",
+			"OUISize": 36,
+			"OrgAddress": "6 Waterside Business Park\\nWheelhouse Road\\nRugeley Staffordshire WS15 1LJ\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "EGS Technologies Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

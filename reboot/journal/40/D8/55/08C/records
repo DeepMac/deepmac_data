@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "add",
+			"OUI": "40D85508C",
+			"OUISize": 36,
+			"OrgAddress": "45,Suzukawa\\nIsehara Kanagawa 259-1146\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Magnescale Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

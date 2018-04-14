@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-21",
+			"EventType": "add",
+			"OUI": "9C0E4A",
+			"OUISize": 24,
+			"OrgAddress": "2/F Building 6,ZhengZhong Industrial Park,Qiaotou Community,Fuyong,Baoan,ShenZhen China\\nShenzhen  Guangdong  518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Vastking Electronic Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-06",
+			"EventType": "add",
+			"OUI": "70DB98",
+			"OUISize": 24,
+			"OrgAddress": "80 West Tasman Drive\\nSan Jose  CA  94568\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cisco Systems, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

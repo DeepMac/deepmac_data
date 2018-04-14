@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "add",
+			"OUI": "001F37",
+			"OUISize": 24,
+			"OrgAddress": "#515 lisantekeunotaun\\n1141-1 Baekseok-Dong, lisandong-Gu\\nGoyang Gyeonggi 410-722\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Genesis I&C",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001F37",
+			"OUISize": 24,
+			"OrgAddress": "#515 lisantekeunotaun\\nGoyang  Gyeonggi  410-722\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Genesis I&C",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-05-31",
+			"EventType": "add",
+			"OUI": "005A39",
+			"OUISize": 24,
+			"OrgAddress": "Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District\\nShenzhen Guangdong 518057\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "SHENZHEN FAST TECHNOLOGIES CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "005A39",
+			"OUISize": 24,
+			"OrgAddress": "Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN FAST TECHNOLOGIES CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-07",
+			"EventType": "change",
+			"OUI": "005A39",
+			"OUISize": 24,
+			"OrgAddress": "Room 202,Building No.5,Section 30,No.2 of Kefa Road,Nanshan District\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN FAST TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

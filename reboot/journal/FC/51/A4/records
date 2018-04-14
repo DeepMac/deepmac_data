@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-24",
+			"EventType": "add",
+			"OUI": "FC51A4",
+			"OUISize": 24,
+			"OrgAddress": "6450 Sequence Drive\\nSan Diego  CA  92121\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ARRIS Group, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

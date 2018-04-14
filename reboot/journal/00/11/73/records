@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001173",
+			"OUISize": 24,
+			"OrgAddress": "3710 E University Drive\\nSuite 5\\nPhoenix AZ 85034\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Adtron Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-02",
+			"EventType": "change",
+			"OUI": "001173",
+			"OUISize": 24,
+			"OrgAddress": "4415 E Cotton Center Blvd\\nSuite 100\\nPhoenix AZ 85040\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Adtron Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-18",
+			"EventType": "change",
+			"OUI": "001173",
+			"OUISize": 24,
+			"OrgAddress": "4415 E Cotton Center Blvd\\nSuite 100\\nPhoenix AZ 85040\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SMART Modular Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-04-03",
+			"EventType": "change",
+			"OUI": "001173",
+			"OUISize": 24,
+			"OrgAddress": "39870 Eureka Drive\\nNewark CA 94560\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SMART Storage Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001173",
+			"OUISize": 24,
+			"OrgAddress": "2600 W Geronimo Place\\nChandler  AZ  85224\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SMART Storage Systems",
+			"Source": "IEEE"
+		}
+	]
+}

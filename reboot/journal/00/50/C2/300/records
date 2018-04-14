@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2300",
+			"OUISize": 36,
+			"OrgAddress": "PL 250\\nHelsinki  00031\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Soredex Instrumentarium Oyj",
+			"Source": "IEEE"
+		}
+	]
+}

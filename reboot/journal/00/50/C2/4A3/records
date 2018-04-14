@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C24A3",
+			"OUISize": 36,
+			"OrgAddress": "10 Bearfoot Rd.\\nNorthborough MA 01532\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Protium Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

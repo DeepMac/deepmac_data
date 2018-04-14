@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000717",
+			"OUISize": 24,
+			"OrgAddress": "Brennerstr. 10-14\\nD-96052 Bamberg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Wieland Electric GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000717",
+			"OUISize": 24,
+			"OrgAddress": "BrennerstraÃe 10-14\\nD-96052 Bamberg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Wieland Electric GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000717",
+			"OUISize": 24,
+			"OrgAddress": "Brennerstr. 10-14\\nD-96052 Bamberg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Wieland Electric GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000717",
+			"OUISize": 24,
+			"OrgAddress": "BrennerstraÃe 10-14\\nD-96052 Bamberg\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Wieland Electric GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000717",
+			"OUISize": 24,
+			"OrgAddress": "BrennerstraÃe 10-14\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Wieland Electric GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

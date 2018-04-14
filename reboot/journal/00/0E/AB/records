@@ -1,0 +1,57 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000EAB",
+			"OUISize": 24,
+			"OrgName": "PRIVATE",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-11-06",
+			"EventType": "change",
+			"OUI": "000EAB",
+			"OUISize": 24,
+			"OrgAddress": "301 - 4621 Canada Way\\nBurnaby BC V5G 4X8\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "OctigaBay Systems Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-02-09",
+			"EventType": "change",
+			"OUI": "000EAB",
+			"OUISize": 24,
+			"OrgAddress": "411 First Ave S Suite 600\\nSeattle WA 98104\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Cray Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000EAB",
+			"OUISize": 24,
+			"OrgAddress": "901 Fifth Avenue\\nSuite 1000\\nSeattle WA 98164\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cray Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000EAB",
+			"OUISize": 24,
+			"OrgAddress": "901 Fifth Avenue\\nSeattle  WA  98104\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cray Inc",
+			"Source": "IEEE"
+		}
+	]
+}

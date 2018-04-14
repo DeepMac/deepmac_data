@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-09-09",
+			"EventType": "add",
+			"OUI": "3C39E74",
+			"OUISize": 28,
+			"OrgAddress": "Department of Civil Engineering\\n2002 - 6250 Applied Science Lane\\nVancouver BC V6T 1Z4\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "University of British Columbia",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "3C39E74",
+			"OUISize": 28,
+			"OrgAddress": "Department of Civil Engineering\\nVancouver  BC  V6T 1Z4\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "University of British Columbia",
+			"Source": "IEEE"
+		}
+	]
+}

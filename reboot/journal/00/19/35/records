@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-08-15",
+			"EventType": "add",
+			"OUI": "001935",
+			"OUISize": 24,
+			"OrgAddress": "Hoepfigheimer Strasse 17\\nBietigheim-Bissingen Baden-Wuerttemberg 74321\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Duerr Dental GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001935",
+			"OUISize": 24,
+			"OrgAddress": "Hoepfigheimer Strasse 17\\nBietigheim-Bissingen Baden-WÃ¼rttemberg 74321\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Duerr Dental GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001935",
+			"OUISize": 24,
+			"OrgAddress": "Hoepfigheimer Strasse 17\\nBietigheim-Bissingen Baden-Wuerttemberg 74321\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Duerr Dental GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001935",
+			"OUISize": 24,
+			"OrgAddress": "Hoepfigheimer Strasse 17\\nBietigheim-Bissingen Baden-WÃ¼rttemberg 74321\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Duerr Dental GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-15",
+			"EventType": "change",
+			"OUI": "001935",
+			"OUISize": 24,
+			"OrgAddress": "Hoepfigheimer Strasse 17\\nBietigheim-Bissingen Baden-WÃ¼rttemberg 74321\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "DÃRR DENTAL AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-24",
+			"EventType": "change",
+			"OUI": "001935",
+			"OUISize": 24,
+			"OrgAddress": "Hoepfigheimer Strasse 17\\nBietigheim-Bissingen Baden-Wuerttemberg 74321\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "DUERR DENTAL AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001935",
+			"OUISize": 24,
+			"OrgAddress": "Hoepfigheimer Strasse 17\\nBietigheim-Bissingen  Baden-Wuerttemberg  74321\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "DUERR DENTAL AG",
+			"Source": "IEEE"
+		}
+	]
+}

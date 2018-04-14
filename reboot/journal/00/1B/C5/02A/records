@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-18",
+			"EventType": "add",
+			"OUI": "001BC502A",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 458\\nFlemington New Jersey 08822\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Analytical Instrument Systems, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC502A",
+			"OUISize": 36,
+			"OrgAddress": "P.O. Box 458\\nFlemington  New Jersey  08822\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Analytical Instrument Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

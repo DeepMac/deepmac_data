@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "00024F",
+			"OUISize": 24,
+			"OrgAddress": "Via Roma, 231\\n80027 Frattamaggiore\\n\\n",
+			"OrgCountry": "Naples ITALY",
+			"OrgName": "IPM Datacom S.R.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00024F",
+			"OUISize": 24,
+			"OrgAddress": "Via Roma, 231\\n80027 Frattamaggiore\\nNaples ITALY\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "IPM Datacom S.R.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "00024F",
+			"OUISize": 24,
+			"OrgAddress": "Via Roma, 231\\n80027 Frattamaggiore\\nNaples\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "IPM Datacom S.R.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "00024F",
+			"OUISize": 24,
+			"OrgAddress": "Via Roma, 231\\n80027 Frattamaggiore\\nNaples ITALY\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "IPM Datacom S.R.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "00024F",
+			"OUISize": 24,
+			"OrgAddress": "Via Roma, 231\\n80027 Frattamaggiore\\nNaples\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "IPM Datacom S.R.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00024F",
+			"OUISize": 24,
+			"OrgAddress": "Via Roma, 231\\nNaples\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "IPM Datacom S.R.L.",
+			"Source": "IEEE"
+		}
+	]
+}

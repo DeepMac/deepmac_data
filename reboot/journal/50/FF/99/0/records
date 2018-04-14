@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-22",
+			"EventType": "add",
+			"OUI": "50FF990",
+			"OUISize": 28,
+			"OrgAddress": "Mendeleevskay str. 8\\nSaint-Petersburg    194044\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Simicon",
+			"Source": "IEEE"
+		}
+	]
+}

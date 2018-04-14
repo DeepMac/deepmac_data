@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-29",
+			"EventType": "add",
+			"OUI": "1CC0E17",
+			"OUISize": 28,
+			"OrgAddress": "5F, A2 Building ,XinJianXing Tech Industrial Park,Fengxin Road ,Lou Cun , Gongming Street,Guangming New Dist.,\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN KINSTONE D&T DEVELOP CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

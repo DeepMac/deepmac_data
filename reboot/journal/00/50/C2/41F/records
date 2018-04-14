@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C241F",
+			"OUISize": 36,
+			"OrgAddress": "9941 W. Jessamine St\\nMiami FL 33157\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Avionica, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

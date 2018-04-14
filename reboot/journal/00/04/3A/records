@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-12-04",
+			"EventType": "add",
+			"OUI": "00043A",
+			"OUISize": 24,
+			"OrgAddress": "1687-2, Sinil-dong\\nDaedok-gu, Taejon\\n\\n",
+			"OrgCountry": "SOUTH KOREA 306-230",
+			"OrgName": "Intelligent Telecommunications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "00043A",
+			"OUISize": 24,
+			"OrgAddress": "1687-2, Sinil-dong\\nDaedok-gu, Taejon\\nSOUTH KOREA 306-230\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Intelligent Telecommunications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00043A",
+			"OUISize": 24,
+			"OrgAddress": "1687-2, Sinil-dong\\nSOUTH  KOREA  306-230\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Intelligent Telecommunications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

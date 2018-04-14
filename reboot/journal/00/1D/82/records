@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "add",
+			"OUI": "001D82",
+			"OUISize": 24,
+			"OrgAddress": "Lautrupbjerg 7\\nP.O.Box 99\\nBallerup  DK - 2750\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "GN A/S (GN Netcom A/S)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001D82",
+			"OUISize": 24,
+			"OrgAddress": "Lautrupbjerg 7\\nBallerup    DK - 2750\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "GN A/S (GN Netcom A/S)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-28",
+			"EventType": "change",
+			"OUI": "001D82",
+			"OUISize": 24,
+			"OrgAddress": "Lautrupbjerg 7\\nBallerup    DK - 2750\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "GN Netcom A/S",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-25",
+			"EventType": "add",
+			"OUI": "4409B8",
+			"OUISize": 24,
+			"OrgAddress": "Salcomp Road, Furong Industrial Area, Xinqiao, Shajing, Baoan District\\nShenzhen  Guangdong  518125\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Salcomp (Shenzhen) CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

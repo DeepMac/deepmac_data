@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-04",
+			"EventType": "add",
+			"OUI": "70B3D52D0",
+			"OUISize": 36,
+			"OrgAddress": "#109  BI, Hanyandaehak-ro\\nAnsan  South Korea  15588\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "ijin co.,ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

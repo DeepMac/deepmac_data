@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-08",
+			"EventType": "add",
+			"OUI": "2C279E0",
+			"OUISize": 28,
+			"OrgAddress": "Gaoyang Road No.1\\nChangzhou  Jiangsu  213000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Changzhou WEBO Weighing Device & System CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

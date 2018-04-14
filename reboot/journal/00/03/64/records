@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000364",
+			"OUISize": 24,
+			"OrgAddress": "1330 Charleston Rd.\\nMountainview, CA 94043\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Scenix Semiconductor, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000364",
+			"OUISize": 24,
+			"OrgAddress": "1330 Charleston Rd.\\nMountainview CA 94043\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Scenix Semiconductor, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000364",
+			"OUISize": 24,
+			"OrgAddress": "1330 Charleston Rd.\\nMountainview  CA  94043\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Scenix Semiconductor, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

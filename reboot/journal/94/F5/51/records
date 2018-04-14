@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-09",
+			"EventType": "add",
+			"OUI": "94F551",
+			"OUISize": 24,
+			"OrgAddress": "31 Ubi Road 1, Aztech Building, #07-01A\\nSingapore    408694\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "Cadi Scientific Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

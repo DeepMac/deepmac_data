@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-08-04",
+			"EventType": "add",
+			"OUI": "001204",
+			"OUISize": 24,
+			"OrgAddress": "2-20-8, Nakane\\nMeguro Tokyo 152-0031\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "u10 Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "change",
+			"OUI": "001204",
+			"OUISize": 24,
+			"OrgAddress": "2-2-14 Kakinokizaka\\nMeguro Tokyo 152-0022\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "u10 Networks, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001204",
+			"OUISize": 24,
+			"OrgAddress": "2-2-14 Kakinokizaka\\nMeguro  Tokyo  152-0022\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "u10 Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

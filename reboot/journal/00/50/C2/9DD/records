@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29DD",
+			"OUISize": 36,
+			"OrgAddress": "In Laisen 70\\nReutlingen  72766\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Institut Dr. Foerster",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-06",
+			"EventType": "add",
+			"OUI": "38F0C8",
+			"OUISize": 24,
+			"OrgAddress": "195 Morgan Avenue\\nBrooklyn  NY  11237\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Livestream",
+			"Source": "IEEE"
+		}
+	]
+}

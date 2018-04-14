@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2396",
+			"OUISize": 36,
+			"OrgAddress": "6296A San Ignacio Ave.\\nSan Jose CA 95119\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RapidWave Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-15",
+			"EventType": "add",
+			"OUI": "0050C2F0E",
+			"OUISize": 36,
+			"OrgAddress": "Smedevaenget 5\\nAarup  5560\\n\\n",
+			"OrgCountry": "DENMARK",
+			"OrgName": "Micro Technic A/S",
+			"Source": "IEEE"
+		}
+	]
+}

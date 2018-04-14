@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DD2",
+			"OUISize": 36,
+			"OrgAddress": "2513 W via de Pedro Miguel\\nPhoenix AZ 85086\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Electronic Applications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

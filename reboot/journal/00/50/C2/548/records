@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2548",
+			"OUISize": 36,
+			"OrgAddress": "Ponce de Leon  4\\nSant Just Desvern Barcelona 08960\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "I.T.W. Betaprint",
+			"Source": "IEEE"
+		}
+	]
+}

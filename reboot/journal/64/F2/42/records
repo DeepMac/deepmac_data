@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-09",
+			"EventType": "add",
+			"OUI": "64F242",
+			"OUISize": 24,
+			"OrgAddress": "Bergerwiesenstr. 9\\nMeckenheim NRW 53340\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gerdes Aktiengesellschaft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "64F242",
+			"OUISize": 24,
+			"OrgAddress": "BergerwiesenstraÃe 9\\nMeckenheim NRW 53340\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gerdes Aktiengesellschaft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "64F242",
+			"OUISize": 24,
+			"OrgAddress": "Bergerwiesenstr. 9\\nMeckenheim NRW 53340\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gerdes Aktiengesellschaft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "64F242",
+			"OUISize": 24,
+			"OrgAddress": "BergerwiesenstraÃe 9\\nMeckenheim NRW 53340\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gerdes Aktiengesellschaft",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "64F242",
+			"OUISize": 24,
+			"OrgAddress": "BergerwiesenstraÃe 9\\nMeckenheim  NRW  53340\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Gerdes Aktiengesellschaft",
+			"Source": "IEEE"
+		}
+	]
+}

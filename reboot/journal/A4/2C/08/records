@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "add",
+			"OUI": "A42C08",
+			"OUISize": 24,
+			"OrgAddress": "11F-3, 3,PARK ST., NAN GANG\\nTAIPEI  11503\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Masterwork Automodules",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "delete",
+			"OUI": "A42C08",
+			"OUISize": 24,
+			"OrgAddress": "11F-3, 3,PARK ST., NAN GANG\\nTAIPEI  11503\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Masterwork Automodules",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "add",
+			"OUI": "A42C08",
+			"OUISize": 24,
+			"OrgAddress": "11F-3, 3,PARK ST., NAN GANG\\nTAIPEI  11503\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Masterwork Automodules",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A42C08",
+			"OUISize": 24,
+			"OrgAddress": "11F-3, 3,PARK ST., NAN GANG\\nTAIPEI    11503\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Masterwork Automodules",
+			"Source": "IEEE"
+		}
+	]
+}

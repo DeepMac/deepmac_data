@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C078",
+			"OUISize": 24,
+			"OrgAddress": "46791 FREMONT BLVD.\\nFREMONT  CA  94538\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "COMPUTER SYSTEMS ENGINEERING",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C078",
+			"OUISize": 24,
+			"OrgAddress": "46791 FREMONT BLVD.\\nFREMONT CA 94538\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "COMPUTER SYSTEMS ENGINEERING",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C078",
+			"OUISize": 24,
+			"OrgAddress": "46791 FREMONT BLVD.\\nFREMONT  CA  94538\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "COMPUTER SYSTEMS ENGINEERING",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2513",
+			"OUISize": 36,
+			"OrgAddress": "5F., No. 150, Lane 360,\\nSec. 1, Neihu Road, Neihu Dist.\\nTaipei city  114\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Genie Network Resource Management Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C2513",
+			"OUISize": 36,
+			"OrgAddress": "5F., No. 150, Lane 360,\\nSec. 1, Neihu Road, Neihu Dist.\\nTaipei city  114\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Genie Network Resource Management Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

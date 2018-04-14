@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "002549",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.6, Ln. 70, Sec. 2, Academia Rd., Nangang District, Taipei City 115, Taiwan (R.O.C.)\\nTaipei Taiwan 110\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Jeorich Tech. Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002549",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.6, Ln. 70, Sec. 2, Academia Rd., Nangang District, Taipei City 115, Taiwan (R.O.C.)\\nTaipei Taiwan 110\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Jeorich Tech. Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002549",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.6, Ln. 70, Sec. 2, Academia Rd., Nangang District, Taipei City 115, Taiwan (R.O.C.)\\nTaipei  Taiwan  110\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Jeorich Tech. Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

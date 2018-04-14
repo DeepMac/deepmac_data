@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-09-25",
+			"EventType": "add",
+			"OUI": "0019AF",
+			"OUISize": 24,
+			"OrgAddress": "No. 156 Cai He Village, Sha He Town\\nChang Ping District\\nBeijing  102206\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Rigol Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0019AF",
+			"OUISize": 24,
+			"OrgAddress": "No. 156 Cai He Village, Sha He Town\\nBeijing    102206\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Rigol Technologies, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

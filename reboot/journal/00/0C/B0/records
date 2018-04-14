@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2003-04-11",
+			"EventType": "add",
+			"OUI": "000CB0",
+			"OUISize": 24,
+			"OrgAddress": "6F, No.17, Li-Hsin Rd\\nScience-Based Industrial Park\\nHsinchu City  300\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Star Semiconductor Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000CB0",
+			"OUISize": 24,
+			"OrgAddress": "6F, No.17, Li-Hsin Rd\\nScience-Based Industrial Park\\nHsinchu City  300\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Star Semiconductor Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000CB0",
+			"OUISize": 24,
+			"OrgAddress": "6F, No.17, Li-Hsin Rd\\nHsinchu City    300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Star Semiconductor Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

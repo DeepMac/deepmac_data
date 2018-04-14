@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-28",
+			"EventType": "add",
+			"OUI": "6C090A",
+			"OUISize": 24,
+			"OrgAddress": "Via Diocleziano, 107\\nNAPOLI    80125\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "GEMATICA SRL",
+			"Source": "IEEE"
+		}
+	]
+}

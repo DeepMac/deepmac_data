@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-02",
+			"EventType": "add",
+			"OUI": "C4BB4C",
+			"OUISize": 24,
+			"OrgAddress": "Room 415, No.569 Anchi Road, JiaDing District\\nShanghai    201804\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zebra Information Tech Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

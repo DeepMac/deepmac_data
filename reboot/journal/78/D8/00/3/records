@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-18",
+			"EventType": "add",
+			"OUI": "78D8003",
+			"OUISize": 28,
+			"OrgAddress": "New Longhua Districtï¼Guanlan rich Industrial Zone No. 22ï¼Silicon Valley Power Digital Industrial Park A6 Building 2 floor\\nShenzhen  Guangdong  518110\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Scodeno Technology Co,. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

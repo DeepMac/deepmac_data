@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C285F",
+			"OUISize": 36,
+			"OrgAddress": "8220 East Roosevelt Street\\nMD:  R1122\\nScottsdale Arizona 85257\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "General Dynamics C4 Systems",
+			"Source": "IEEE"
+		}
+	]
+}

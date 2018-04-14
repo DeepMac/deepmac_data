@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EAE",
+			"OUISize": 36,
+			"OrgAddress": "521B N 19th ST\\nPhilomath OREGON 97370\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Alyrica Networks",
+			"Source": "IEEE"
+		}
+	]
+}

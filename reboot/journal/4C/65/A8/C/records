@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-21",
+			"EventType": "add",
+			"OUI": "4C65A8C",
+			"OUISize": 28,
+			"OrgAddress": "1425 E St.\\nSan Diego    92110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Fuse",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-18",
+			"EventType": "add",
+			"OUI": "EC2257",
+			"OUISize": 24,
+			"OrgAddress": "F7,Block 06\\nNo.18 Jialing jiangdong Street\\nNanJing JiangSu 210000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "JiangSu NanJing University Electronic Information Technology Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "EC2257",
+			"OUISize": 24,
+			"OrgAddress": "F7,Block 06\\nNanJing  JiangSu  210000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "JiangSu NanJing University Electronic Information Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

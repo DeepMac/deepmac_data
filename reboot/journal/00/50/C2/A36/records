@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A36",
+			"OUISize": 36,
+			"OrgAddress": "Room 2017, Tianan Digital Era Building, Futian District,\\nShenzhen Guangdong 518048\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Shenzhen Shangji electronic Co.Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

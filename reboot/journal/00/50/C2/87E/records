@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C287E",
+			"OUISize": 36,
+			"OrgAddress": "155 RICEFIELD LANE\\nHAUPPAUGE NEW YORK 11788\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SCM PRODUCTS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

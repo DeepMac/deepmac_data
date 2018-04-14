@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-10",
+			"EventType": "add",
+			"OUI": "70F8E7A",
+			"OUISize": 28,
+			"OrgAddress": "264A Tanjong Katong Road\\nSingapore    437051\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "TiVACI CORPORATION PTE LTD",
+			"Source": "IEEE"
+		}
+	]
+}

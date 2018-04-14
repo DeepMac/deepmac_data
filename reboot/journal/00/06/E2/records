@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "0006E2",
+			"OUISize": 24,
+			"OrgAddress": "5f-7, 736, Chung Cheng Rd.,\\nChung Ho Taipei Hsien,\\n\\n",
+			"OrgCountry": "TAIWAN TAIWAN R.O.C.",
+			"OrgName": "Ceemax Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0006E2",
+			"OUISize": 24,
+			"OrgAddress": "5f-7, 736, Chung Cheng Rd.,\\nChung Ho Taipei Hsien,\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Ceemax Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0006E2",
+			"OUISize": 24,
+			"OrgAddress": "5f-7, 736, Chung Cheng Rd.,\\nChung Ho Taipei Hsien,\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Ceemax Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0006E2",
+			"OUISize": 24,
+			"OrgAddress": "5f-7, 736, Chung Cheng Rd.,\\nChung Ho Taipei Hsien,\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Ceemax Technology Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0006E2",
+			"OUISize": 24,
+			"OrgAddress": "5f-7, 736, Chung Cheng Rd.,\\n\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Ceemax Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

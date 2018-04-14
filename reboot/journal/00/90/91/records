@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "009091",
+			"OUISize": 24,
+			"OrgAddress": "6 MORGAN  - STE.#100\\nIRVINE  CA  92618\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIGITALSCAPE, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "009091",
+			"OUISize": 24,
+			"OrgAddress": "6 MORGAN  - STE.#100\\nIRVINE CA 92618\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIGITALSCAPE, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "009091",
+			"OUISize": 24,
+			"OrgAddress": "6 MORGAN  - STE.#100\\nIRVINE CA 92618\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DigitalScape, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "009091",
+			"OUISize": 24,
+			"OrgAddress": "6 MORGAN  - STE.#100\\nIRVINE  CA  92618\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DigitalScape, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

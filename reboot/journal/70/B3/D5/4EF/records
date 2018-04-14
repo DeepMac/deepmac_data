@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-18",
+			"EventType": "add",
+			"OUI": "70B3D54EF",
+			"OUISize": 36,
+			"OrgAddress": "316 East 9th Street\\nOwensboro  KY  42303\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CMI, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

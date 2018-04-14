@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-14",
+			"EventType": "add",
+			"OUI": "70B3D5805",
+			"OUISize": 36,
+			"OrgAddress": "Stirnova 8\\nKranj    4000\\n\\n",
+			"OrgCountry": "SI",
+			"OrgName": "Eurotronik Kranj d.o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

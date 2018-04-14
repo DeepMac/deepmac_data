@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B02",
+			"OUISize": 36,
+			"OrgAddress": "42-20, Palyong-Dong\\nChangwon-City Gyeongnam 641-847\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "MASTER CO LTD",
+			"Source": "IEEE"
+		}
+	]
+}

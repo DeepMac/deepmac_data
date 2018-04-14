@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-13",
+			"EventType": "add",
+			"OUI": "60E78A",
+			"OUISize": 24,
+			"OrgAddress": "10-7,Jangjinam-gil,Dongtan-meyeon\\nHwaseong-si  Gyeonggi-do  18510\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "UNISEM",
+			"Source": "IEEE"
+		}
+	]
+}

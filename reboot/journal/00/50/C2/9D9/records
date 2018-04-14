@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29D9",
+			"OUISize": 36,
+			"OrgAddress": "363 Hawick Court\\nSeverna Park Maryland 21146\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CNS Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

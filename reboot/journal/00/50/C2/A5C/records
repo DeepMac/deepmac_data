@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A5C",
+			"OUISize": 36,
+			"OrgAddress": "Severnyi proezd 1, k.5/6\\nChernogolovka Moscow Region 142432\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "JSC \"Component-ASU\"",
+			"Source": "IEEE"
+		}
+	]
+}

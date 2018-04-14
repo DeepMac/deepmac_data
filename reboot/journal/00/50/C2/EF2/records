@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-12-14",
+			"EventType": "add",
+			"OUI": "0050C2EF2",
+			"OUISize": 36,
+			"OrgAddress": "120 Raynor Ave\\nRonkonkoma New York 11779\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Specialty Microwave Corp",
+			"Source": "IEEE"
+		}
+	]
+}

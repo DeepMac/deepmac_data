@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-08-09",
+			"EventType": "add",
+			"OUI": "00156A",
+			"OUISize": 24,
+			"OrgAddress": "AML Center 1, Gnd. Floor, 8 Mahal Indl. Est.\\nOff. Mahakali Caves Road, Andheri E\\nMumbai Maharashtra 400093\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "DG2L Technologies Pvt. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00156A",
+			"OUISize": 24,
+			"OrgAddress": "AML Center 1, Gnd. Floor, 8 Mahal Indl. Est.\\nMumbai  Maharashtra  400093\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "DG2L Technologies Pvt. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

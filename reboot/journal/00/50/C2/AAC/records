@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2AAC",
+			"OUISize": 36,
+			"OrgAddress": "Gottf.-Aug.-Buerger-Str. 30\\nGleichen Lower Saxony D-37130\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "VisiCon GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

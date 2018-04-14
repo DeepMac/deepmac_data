@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-20",
+			"EventType": "add",
+			"OUI": "70B3D55D6",
+			"OUISize": 36,
+			"OrgAddress": "GÃ¼terfelder Damm 87-91\\nStahnsdorf    14532\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "BMT Messtechnik Gmbh",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-12",
+			"EventType": "add",
+			"OUI": "AC64DD0",
+			"OUISize": 28,
+			"OrgAddress": "4F., No.417, Ruiguang Rd., Neihu Dist., Taipei City 114, Taiwan (R.O.C)\\nTaipei  Taipei  114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Jia-Teng",
+			"Source": "IEEE"
+		}
+	]
+}

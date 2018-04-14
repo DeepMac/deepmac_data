@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "add",
+			"OUI": "40D85507D",
+			"OUISize": 36,
+			"OrgAddress": "No.1 Wind power Road, Wind Power Technology Industrial Park\\nWuxi Huishan Economic Development Zone\\nWuxi Jiangsu Province 214000\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Wuxi SiNeng New Energy Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

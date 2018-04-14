@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C214C",
+			"OUISize": 36,
+			"OrgAddress": "Shenkar 7\\nHerzlya  46725\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Optibase Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

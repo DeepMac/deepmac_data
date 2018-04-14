@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "000672",
+			"OUISize": 24,
+			"OrgAddress": "1671 Worcester Road\\nSuite 100\\nFramingham, MA 01701\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Netezza",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000672",
+			"OUISize": 24,
+			"OrgAddress": "1671 Worcester Road\\nSuite 100\\nFramingham MA 01701\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Netezza",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000672",
+			"OUISize": 24,
+			"OrgAddress": "1671 Worcester Road\\nFramingham  MA  01701\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Netezza",
+			"Source": "IEEE"
+		}
+	]
+}

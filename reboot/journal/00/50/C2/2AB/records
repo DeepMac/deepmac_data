@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22AB",
+			"OUISize": 36,
+			"OrgAddress": "306,17c main Road,\\nIII Block, Rajajinagar\\nBangalore Karnataka 560010\\n",
+			"OrgCountry": "INDIA",
+			"OrgName": "AUM Infotech Private Limited",
+			"Source": "IEEE"
+		}
+	]
+}

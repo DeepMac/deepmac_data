@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "0022A7",
+			"OUISize": 24,
+			"OrgAddress": "Amperestr. 12-14\\nBensheim Hessen 64625\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tyco Electronics AMP GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0022A7",
+			"OUISize": 24,
+			"OrgAddress": "AmperestraÃe 12-14\\nBensheim Hessen 64625\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tyco Electronics AMP GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0022A7",
+			"OUISize": 24,
+			"OrgAddress": "Amperestr. 12-14\\nBensheim Hessen 64625\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tyco Electronics AMP GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0022A7",
+			"OUISize": 24,
+			"OrgAddress": "AmperestraÃe 12-14\\nBensheim Hessen 64625\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Tyco Electronics AMP GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0022A7",
+			"OUISize": 24,
+			"OrgAddress": "AmperestraÃe 12-14\\nBensheim  Hessen  64625\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Tyco Electronics AMP GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

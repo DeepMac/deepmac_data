@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E58",
+			"OUISize": 36,
+			"OrgAddress": "599-20\\nMatoba\\nKawagoe Saitama 3501101\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Agri-hitech LLC",
+			"Source": "IEEE"
+		}
+	]
+}

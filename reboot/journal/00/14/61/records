@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-04-14",
+			"EventType": "add",
+			"OUI": "001461",
+			"OUISize": 24,
+			"OrgAddress": "7-7, HIGASHI-SHINBO\\nSANJO-SHI NIIGATA 955-8510\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "CORONA CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001461",
+			"OUISize": 24,
+			"OrgAddress": "7-7, HIGASHI-SHINBO\\nSANJO-SHI  NIIGATA  955-8510\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "CORONA CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

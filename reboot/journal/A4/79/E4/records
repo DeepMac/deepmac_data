@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-01-31",
+			"EventType": "add",
+			"OUI": "A479E4",
+			"OUISize": 24,
+			"OrgAddress": "301 923 wolpyung-dong\\nseo gu\\nDaejeon  302-852\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "KLINFO Corp",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A479E4",
+			"OUISize": 24,
+			"OrgAddress": "301 923 wolpyung-dong\\nDaejeon    302-852\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "KLINFO Corp",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2A41",
+			"OUISize": 36,
+			"OrgAddress": "38-23 higashi maeda\\nAsada cho\\nNishin City Aichi 470-0124\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Meiryo Denshi Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

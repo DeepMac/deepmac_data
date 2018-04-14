@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "add",
+			"OUI": "0050C2F61",
+			"OUISize": 36,
+			"OrgAddress": "Hirschbachstrasse 47\\nReinheim Hessen 64354\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Brauch Elektronik GmbH&Co.KG",
+			"Source": "IEEE"
+		}
+	]
+}

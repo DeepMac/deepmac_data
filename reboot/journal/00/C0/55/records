@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "00C055",
+			"OUISize": 24,
+			"OrgAddress": "2352 MAIN STREET\\nCONCORD  MA  01742\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MODULAR COMPUTING TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "00C055",
+			"OUISize": 24,
+			"OrgAddress": "2352 MAIN STREET\\nCONCORD MA 01742\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MODULAR COMPUTING TECHNOLOGIES",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00C055",
+			"OUISize": 24,
+			"OrgAddress": "2352 MAIN STREET\\nCONCORD  MA  01742\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "MODULAR COMPUTING TECHNOLOGIES",
+			"Source": "IEEE"
+		}
+	]
+}

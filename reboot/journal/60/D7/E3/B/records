@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-26",
+			"EventType": "add",
+			"OUI": "60D7E3B",
+			"OUISize": 28,
+			"OrgAddress": "16550 West Bernardo Road, Bldg 5, Suite 550\\nSan Diego  CA  92127\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Nextivity",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-16",
+			"EventType": "add",
+			"OUI": "70B3D5EB9",
+			"OUISize": 36,
+			"OrgAddress": "566 Mainstream Dr, Suite 500\\nNashville  TN  37228\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Thiel Audio Products Company, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-30",
+			"EventType": "add",
+			"OUI": "286D97",
+			"OUISize": 24,
+			"OrgAddress": "199-6, Anyang 7-dong, Manan-gu\\nAnyang-si Gyeonggi-do 430-817\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "SAMJIN Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "286D97",
+			"OUISize": 24,
+			"OrgAddress": "199-6, Anyang 7-dong, Manan-gu\\nAnyang-si  Gyeonggi-do  430-817\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "SAMJIN Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C200D",
+			"OUISize": 36,
+			"OrgAddress": "11 Herbert St.\\nFramingham MA 01702\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Opus Telecom Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

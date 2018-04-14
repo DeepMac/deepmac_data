@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-24",
+			"EventType": "add",
+			"OUI": "04C880",
+			"OUISize": 24,
+			"OrgAddress": "520 Park East Blvd\\nNew Albany IN 47150\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Samtec Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "04C880",
+			"OUISize": 24,
+			"OrgAddress": "520 Park East Blvd\\nNew Albany  IN  47150\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Samtec Inc",
+			"Source": "IEEE"
+		}
+	]
+}

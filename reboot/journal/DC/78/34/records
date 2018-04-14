@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-15",
+			"EventType": "add",
+			"OUI": "DC7834",
+			"OUISize": 24,
+			"OrgAddress": "55 Rue de Lisbonne\\nPARIS    75008\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "LOGICOM SA",
+			"Source": "IEEE"
+		}
+	]
+}

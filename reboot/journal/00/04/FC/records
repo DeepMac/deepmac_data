@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-02-02",
+			"EventType": "add",
+			"OUI": "0004FC",
+			"OUISize": 24,
+			"OrgAddress": "111 Powdermill Road\\nMaynard  MA  01754\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Stratus Computer (DE), Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0004FC",
+			"OUISize": 24,
+			"OrgAddress": "111 Powdermill Road\\nMaynard MA 01754\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Stratus Computer (DE), Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0004FC",
+			"OUISize": 24,
+			"OrgAddress": "111 Powdermill Road\\nMaynard  MA  01754\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Stratus Computer (DE), Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

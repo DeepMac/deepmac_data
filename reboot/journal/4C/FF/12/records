@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-22",
+			"EventType": "add",
+			"OUI": "4CFF12",
+			"OUISize": 24,
+			"OrgAddress": "3rd Floor Harbour Centre\\nGeorge Town  George Town  P.O. Box 613GT\\n\\n",
+			"OrgCountry": "KY",
+			"OrgName": "Fuze Entertainment Co., ltd",
+			"Source": "IEEE"
+		}
+	]
+}

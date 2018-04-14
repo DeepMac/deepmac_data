@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-16",
+			"EventType": "add",
+			"OUI": "70B3D54C7",
+			"OUISize": 36,
+			"OrgAddress": "Majdan KrasieniÅski 16A\\nNiemce  lubelskie  21-025\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "SOLVERIS sp. z o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

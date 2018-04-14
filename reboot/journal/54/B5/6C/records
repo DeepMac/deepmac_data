@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-09-02",
+			"EventType": "add",
+			"OUI": "54B56C",
+			"OUISize": 24,
+			"OrgAddress": "4F, Block D, Qinfeng Pavilion, Xi'an Software Park, No.68 Keji 2nd Rd.,\\nXi'an  Shanxi  710075\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Xi'an NovaStar Tech Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

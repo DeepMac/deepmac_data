@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-06-23",
+			"EventType": "add",
+			"OUI": "00244F",
+			"OUISize": 24,
+			"OrgAddress": "3F-1, No.30 Jihe Rd., 111\\nShihlin District\\nTaipei  11166\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Asantron Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "00244F",
+			"OUISize": 24,
+			"OrgAddress": "3F-1, No.30 Jihe Rd., 111\\nShihlin District\\nTaipei  11166\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Asantron Technologies Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00244F",
+			"OUISize": 24,
+			"OrgAddress": "3F-1, No.30 Jihe Rd., 111\\nTaipei    11166\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Asantron Technologies Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

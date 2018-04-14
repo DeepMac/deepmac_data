@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-06-01",
+			"EventType": "add",
+			"OUI": "A06E50",
+			"OUISize": 24,
+			"OrgAddress": "Ivedik Organize Sanayi\\n559. Sokak, No:56, Yenimahalle\\nAnkara  06370\\n",
+			"OrgCountry": "TURKEY",
+			"OrgName": "Nanotek Elektronik Sistemler Ltd. Sti.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A06E50",
+			"OUISize": 24,
+			"OrgAddress": "Ivedik Organize Sanayi\\nAnkara    06370\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Nanotek Elektronik Sistemler Ltd. Sti.",
+			"Source": "IEEE"
+		}
+	]
+}

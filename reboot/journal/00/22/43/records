@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "002243",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 94, Baozhong Rd., Xindian\\nTaipei  231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "AzureWave Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "002243",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 94, Baozhong Rd., Xindian\\nTaipei  231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AzureWave Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002243",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 94, Baozhong Rd., Xindian\\nTaipei    231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AzureWave Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "002243",
+			"OUISize": 24,
+			"OrgAddress": "8F., No. 94, Baozhong Rd., Xindian\\nTaipei    231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AzureWave Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

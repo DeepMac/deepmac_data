@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CD4",
+			"OUISize": 36,
+			"OrgAddress": "Herxheimer Str. 7\\nVagen Bavaria 83620\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "SCHRAML GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

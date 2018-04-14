@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001023",
+			"OUISize": 24,
+			"OrgAddress": "2480 N. 1ST STREET\\nSUITE #180\\nSAN JOSE  CA  95131\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FLOWWISE NETWORKS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001023",
+			"OUISize": 24,
+			"OrgAddress": "2480 N. 1ST STREET\\nSUITE #180\\nSAN JOSE CA 95131\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "FLOWWISE NETWORKS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-06-16",
+			"EventType": "change",
+			"OUI": "001023",
+			"OUISize": 24,
+			"OrgAddress": "6900 Paseo Padre Parkway\\nFreemont CA 94555-3660\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Network Equipment Technologies",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001023",
+			"OUISize": 24,
+			"OrgAddress": "6900 Paseo Padre Parkway\\nFreemont  CA  94555-3660\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Network Equipment Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

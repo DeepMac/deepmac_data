@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "add",
+			"OUI": "0050C2ED1",
+			"OUISize": 36,
+			"OrgAddress": "Gruvgatan 35A\\nVastra Frolunda  42130\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Arcontia Technology AB",
+			"Source": "IEEE"
+		}
+	]
+}

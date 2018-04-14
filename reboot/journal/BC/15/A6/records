@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-12-07",
+			"EventType": "add",
+			"OUI": "BC15A6",
+			"OUISize": 24,
+			"OrgAddress": "6F-1,No.1 Wu-Chuan 1St. Rd,Wu-Ku Industrial Park,\\nSinchwang City Taipei Hsien 24892\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Taiwan Jantek Electronics,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "BC15A6",
+			"OUISize": 24,
+			"OrgAddress": "6F-1,No.1 Wu-Chuan 1St. Rd,Wu-Ku Industrial Park,\\nSinchwang City Taipei Hsien 24892\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Taiwan Jantek Electronics,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "BC15A6",
+			"OUISize": 24,
+			"OrgAddress": "6F-1,No.1 Wu-Chuan 1St. Rd,Wu-Ku Industrial Park,\\nSinchwang City  Taipei Hsien  24892\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Taiwan Jantek Electronics,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

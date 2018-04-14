@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-09-10",
+			"EventType": "add",
+			"OUI": "103378",
+			"OUISize": 24,
+			"OrgAddress": "A-625, Sigma2, Tancheonsang-ro 164\\nBundang-gu\\nSeongnam-si Gyeonggi-do 463-741\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "FLECTRON Co., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "103378",
+			"OUISize": 24,
+			"OrgAddress": "A-625, Sigma2, Tancheonsang-ro 164\\nSeongnam-si  Gyeonggi-do  463-741\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "FLECTRON Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

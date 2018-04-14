@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C280F",
+			"OUISize": 36,
+			"OrgAddress": "C/ Peru, 8\\nGuadalajara  19005\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Selekron Microcontrol s.l.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-20",
+			"EventType": "add",
+			"OUI": "2880A2",
+			"OUISize": 24,
+			"OrgAddress": "9605 Scranton Road Suite 200\\nSan Diego    92121\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Novatel Wireless Solutions, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

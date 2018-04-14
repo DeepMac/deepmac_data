@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-06-05",
+			"EventType": "add",
+			"OUI": "001179",
+			"OUISize": 24,
+			"OrgAddress": "21F, No.37, Sec.2, San Min Rd.,\\nPan Chiao City, Taipei County\\nTaipei  220\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Singular Technology Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001179",
+			"OUISize": 24,
+			"OrgAddress": "21F, No.37, Sec.2, San Min Rd.,\\nPan Chiao City, Taipei County\\nTaipei  220\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Singular Technology Co. Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001179",
+			"OUISize": 24,
+			"OrgAddress": "21F, No.37, Sec.2, San Min Rd.,\\nTaipei    220\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Singular Technology Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

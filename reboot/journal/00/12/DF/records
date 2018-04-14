@@ -1,0 +1,147 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-11-19",
+			"EventType": "add",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen Niederösterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen NiederÃ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen Niederösterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen NiederÃÂ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen Niederösterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen NiederÃÂ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen NiederÃ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen NiederÃÂÃÂÃÂÃÂ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener StraÃe 158\\nGumpoldskirchen NiederÃ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen NiederÃ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener StraÃe 158\\nGumpoldskirchen NiederÃ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen NiederÃ¶sterreich A-2352\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0012DF",
+			"OUISize": 24,
+			"OrgAddress": "Wiener Strasse 158\\nGumpoldskirchen  NiederÃ¶sterreich  A-2352\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Novomatic AG",
+			"Source": "IEEE"
+		}
+	]
+}

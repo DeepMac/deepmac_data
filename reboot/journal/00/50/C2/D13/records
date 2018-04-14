@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2D13",
+			"OUISize": 36,
+			"OrgAddress": "760 OOMAMA\\nMIDORI-CITY GUNMA 376-0101\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "GUNMA ELECTRONICS CO LTD",
+			"Source": "IEEE"
+		}
+	]
+}

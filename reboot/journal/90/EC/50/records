@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-24",
+			"EventType": "add",
+			"OUI": "90EC50",
+			"OUISize": 24,
+			"OrgAddress": "via Tito Speri, 10\\nLeno  Brescia  25024\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "C.O.B.O. SPA",
+			"Source": "IEEE"
+		}
+	]
+}

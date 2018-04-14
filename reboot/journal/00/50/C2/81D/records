@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C281D",
+			"OUISize": 36,
+			"OrgAddress": "Suite 201, Woorim e-Biz center, 170-5,\\nGuro-dong, Guro-gu\\nSeoul  152-050\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "IT SALUX CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

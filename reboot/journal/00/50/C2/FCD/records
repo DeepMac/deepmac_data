@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-13",
+			"EventType": "add",
+			"OUI": "0050C2FCD",
+			"OUISize": 36,
+			"OrgAddress": "#501 , MARIO TOWER, 222-12\\nGURO 3-DONG, GURO-GU\\nSeoul 152 050\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "Jinyoung Contech",
+			"Source": "IEEE"
+		}
+	]
+}

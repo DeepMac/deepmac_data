@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-04-12",
+			"EventType": "add",
+			"OUI": "64D912",
+			"OUISize": 24,
+			"OrgAddress": "5840 Interface Drive\\nSuite 200\\nAnn Arbor Michigan 48103\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Solidica, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "64D912",
+			"OUISize": 24,
+			"OrgAddress": "5840 Interface Drive\\nAnn Arbor  Michigan  48103\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Solidica, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

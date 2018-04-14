@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-09-25",
+			"EventType": "add",
+			"OUI": "0050C2EA3",
+			"OUISize": 36,
+			"OrgAddress": "2290 Eastman Avenue\\nSuite 111\\nVentura CA 93003\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Subsea Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

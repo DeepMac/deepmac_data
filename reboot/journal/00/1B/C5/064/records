@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-08",
+			"EventType": "add",
+			"OUI": "001BC5064",
+			"OUISize": 36,
+			"OrgAddress": "KÃ¶ydenpunojankatu 8 G\\nHelsinki Uusimaa 00180\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Enkora Oy Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BC5064",
+			"OUISize": 36,
+			"OrgAddress": "KÃ¶ydenpunojankatu 8 G\\nHelsinki  Uusimaa  00180\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Enkora Oy Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-23",
+			"EventType": "add",
+			"OUI": "7C477C0",
+			"OUISize": 28,
+			"OrgAddress": "15F., No.19-11, Sanchong Rd., Nangang Dist., Taipei City 115, Taiwan (R.O.C.)\\nTaipei    100\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "BungBungame Inc",
+			"Source": "IEEE"
+		}
+	]
+}

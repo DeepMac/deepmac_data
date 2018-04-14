@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C291D",
+			"OUISize": 36,
+			"OrgAddress": "Andechser Str. 5\\nUtting am Ammersee Bayern 86919\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Rosendahl Studiotechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "0021B6",
+			"OUISize": 24,
+			"OrgAddress": "Box 582, 7 Mill Street\\nAlmonte Ontario K0A 1A0\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Triacta Power Technologies Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0021B6",
+			"OUISize": 24,
+			"OrgAddress": "Box 582, 7 Mill Street\\nAlmonte  Ontario  K0A 1A0\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Triacta Power Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

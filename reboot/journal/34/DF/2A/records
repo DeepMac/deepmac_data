@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-29",
+			"EventType": "add",
+			"OUI": "34DF2A",
+			"OUISize": 24,
+			"OrgAddress": "16/F., Tower 1, Grand Central Plaza,138 Shatin Rural\\nCommittee Road,Shatin, N.T.,\\n523930\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "Fujikon Industrial Co.,Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "34DF2A",
+			"OUISize": 24,
+			"OrgAddress": "16/F., Tower 1, Grand Central Plaza,138 Shatin Rural\\n523930\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Fujikon Industrial Co.,Limited",
+			"Source": "IEEE"
+		}
+	]
+}

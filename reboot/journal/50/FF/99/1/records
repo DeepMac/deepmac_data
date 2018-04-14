@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-23",
+			"EventType": "add",
+			"OUI": "50FF991",
+			"OUISize": 28,
+			"OrgAddress": "24 quai Gallieni\\nSuresnes    92150\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Coyote Sytem",
+			"Source": "IEEE"
+		}
+	]
+}

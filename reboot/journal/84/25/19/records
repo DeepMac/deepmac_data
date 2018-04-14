@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-22",
+			"EventType": "add",
+			"OUI": "842519",
+			"OUISize": 24,
+			"OrgAddress": "129, Samsung-rom Yeongtong-gu\\nSuwon-si  Gyeonggi-do  16677\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B17",
+			"OUISize": 36,
+			"OrgAddress": "Joensuunkatu 13\\nSalo  24100\\n\\n",
+			"OrgCountry": "FINLAND",
+			"OrgName": "Elcoteq Design Center Oy",
+			"Source": "IEEE"
+		}
+	]
+}

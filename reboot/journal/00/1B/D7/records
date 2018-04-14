@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-04-09",
+			"EventType": "add",
+			"OUI": "001BD7",
+			"OUISize": 24,
+			"OrgAddress": "5030 Sugarloaf Parkway\\nATL 1.3.473\\nLawrenceville GA 30044\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Scientific Atlanta, A Cisco Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001BD7",
+			"OUISize": 24,
+			"OrgAddress": "5030 Sugarloaf Parkway\\nLawrenceville  GA  30044\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Scientific Atlanta, A Cisco Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "001BD7",
+			"OUISize": 24,
+			"OrgAddress": "5030 Sugarloaf Parkway\\nLawrenceville  GA  30044\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cisco SPVTG",
+			"Source": "IEEE"
+		}
+	]
+}

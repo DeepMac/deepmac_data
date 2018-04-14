@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "004002",
+			"OUISize": 24,
+			"OrgAddress": "60 RENFREW DRIVE\\nMARKHAM\\nONTARIO\\n",
+			"OrgCountry": "CANADA L3R 0E1",
+			"OrgName": "PERLE SYSTEMS LIMITED",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004002",
+			"OUISize": 24,
+			"OrgAddress": "60 RENFREW DRIVE\\nMARKHAM ONTARIO\\n\\n",
+			"OrgCountry": "CANADA L3R 0E1",
+			"OrgName": "PERLE SYSTEMS LIMITED",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004002",
+			"OUISize": 24,
+			"OrgAddress": "60 RENFREW DRIVE\\nMARKHAM ONTARIO\\nCANADA L3R 0E1\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "PERLE SYSTEMS LIMITED",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004002",
+			"OUISize": 24,
+			"OrgAddress": "60 RENFREW DRIVE\\nCANADA  L3R  0E1\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "PERLE SYSTEMS LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

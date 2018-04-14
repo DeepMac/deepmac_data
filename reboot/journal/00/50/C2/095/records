@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2095",
+			"OUISize": 36,
+			"OrgAddress": "101 N. Beach Rd.\\nDania Beach FL 33004\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "SEATECH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-31",
+			"EventType": "add",
+			"OUI": "70B3D5AEA",
+			"OUISize": 36,
+			"OrgAddress": "Pillaustrasse 1e\\nBraunschweig    38126\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "BBR Verkehrstechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

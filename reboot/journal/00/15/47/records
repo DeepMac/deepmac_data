@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-27",
+			"EventType": "add",
+			"OUI": "001547",
+			"OUISize": 24,
+			"OrgAddress": "10F-1, No.29, Puding Rd.\\nHsinchu Hsinchu County 300\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "AiZen Solutions Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001547",
+			"OUISize": 24,
+			"OrgAddress": "10F-1, No.29, Puding Rd.\\nHsinchu Hsinchu County 300\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "AiZen Solutions Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001547",
+			"OUISize": 24,
+			"OrgAddress": "10F-1, No.29, Puding Rd.\\nHsinchu  Hsinchu County  300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AiZen Solutions Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2DFA",
+			"OUISize": 36,
+			"OrgAddress": "30569 Beck Rd\\nWixom MI 48393\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "MAC Valves, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

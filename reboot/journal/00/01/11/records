@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "000111",
+			"OUISize": 24,
+			"OrgAddress": "7FL Sindo B/D 1604-22 Seocho-Dong\\nSeocho-Gu\\nSeoul\\n",
+			"OrgCountry": "KOREA 137-070",
+			"OrgName": "iDigm Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000111",
+			"OUISize": 24,
+			"OrgAddress": "7FL Sindo B/D 1604-22 Seocho-Dong\\nSeocho-Gu Seoul\\n\\n",
+			"OrgCountry": "KOREA 137-070",
+			"OrgName": "iDigm Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000111",
+			"OUISize": 24,
+			"OrgAddress": "7FL Sindo B/D 1604-22 Seocho-Dong\\nSeocho-Gu\\nSeoul 137-070\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "iDigm Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000111",
+			"OUISize": 24,
+			"OrgAddress": "7FL Sindo B/D 1604-22 Seocho-Dong\\nSeoul 137-070\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "iDigm Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

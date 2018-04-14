@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-22",
+			"EventType": "add",
+			"OUI": "503A7D",
+			"OUISize": 24,
+			"OrgAddress": "13F., No.618, Sec. 7, New Taipei Blvd., Xinzhuang Dist.,\\nNew Taipei City    24260\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AlphaTech PLC Intâl Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

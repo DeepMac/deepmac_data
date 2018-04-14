@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2372",
+			"OUISize": 36,
+			"OrgAddress": "Maiburger Str. 32-36\\nLeer Niedersachsen 26789\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ELV Elektronik AG",
+			"Source": "IEEE"
+		}
+	]
+}

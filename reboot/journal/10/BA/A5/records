@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-08-20",
+			"EventType": "add",
+			"OUI": "10BAA5",
+			"OUISize": 24,
+			"OrgAddress": "154-17 kyoungdong B/D 3F karak-dong songpa-gu\\nSeoul Korea 138-160\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "GANA I&C CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "10BAA5",
+			"OUISize": 24,
+			"OrgAddress": "154-17 kyoungdong B/D 3F karak-dong songpa-gu\\nSeoul  Korea  138-160\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "GANA I&C CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002028",
+			"OUISize": 24,
+			"OrgAddress": "65 HIGH RIDGE ROAD-STE.#286\\nSTAMFORD  CT  06905\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "WEST EGG SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002028",
+			"OUISize": 24,
+			"OrgAddress": "65 HIGH RIDGE ROAD-STE.#286\\nSTAMFORD CT 06905\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "WEST EGG SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002028",
+			"OUISize": 24,
+			"OrgAddress": "65 HIGH RIDGE ROAD-STE.#286\\nSTAMFORD  CT  06905\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "WEST EGG SYSTEMS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

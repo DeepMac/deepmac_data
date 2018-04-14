@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27B5",
+			"OUISize": 36,
+			"OrgAddress": "5612 Brighton Terrace\\nKansas City Missouri 64130\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DIT-MCO International",
+			"Source": "IEEE"
+		}
+	]
+}

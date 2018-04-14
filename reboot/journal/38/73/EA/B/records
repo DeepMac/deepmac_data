@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-30",
+			"EventType": "add",
+			"OUI": "3873EAB",
+			"OUISize": 28,
+			"OrgAddress": "ROOM 802, No. 189, Hengxi Road, Pujiang Town, Minhang District, Shanghai PRC\\nShanghai    200000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai ZoomSmart Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

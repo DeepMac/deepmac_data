@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-02-12",
+			"EventType": "add",
+			"OUI": "000E34",
+			"OUISize": 24,
+			"OrgAddress": "1680 Glenville\\nSuite 100\\nRichardson Texas 75081\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "NexGen City, LP",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000E34",
+			"OUISize": 24,
+			"OrgAddress": "1680 Glenville\\nRichardson  Texas  75081\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NexGen City, LP",
+			"Source": "IEEE"
+		}
+	]
+}

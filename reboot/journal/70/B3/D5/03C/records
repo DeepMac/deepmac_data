@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-12",
+			"EventType": "add",
+			"OUI": "70B3D503C",
+			"OUISize": 36,
+			"OrgAddress": "2000 Ultimate Way\\nWeston  FL  33326\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ultimate Software",
+			"Source": "IEEE"
+		}
+	]
+}

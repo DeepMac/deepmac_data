@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-28",
+			"EventType": "add",
+			"OUI": "145BE1",
+			"OUISize": 24,
+			"OrgAddress": "MarienstraÃe 14\\nBerlin    10117\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "nyantec UG (haftungsbeschrÃ¤nkt)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-31",
+			"EventType": "change",
+			"OUI": "145BE1",
+			"OUISize": 24,
+			"OrgAddress": "Europaplatz 2\\nBerlin    10557\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "nyantec GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

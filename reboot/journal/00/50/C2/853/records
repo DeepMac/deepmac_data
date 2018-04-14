@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2853",
+			"OUISize": 36,
+			"OrgAddress": "1580 West El Camino Real\\nSuite 4\\nMountain View CA 94040\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ettus Research LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-03",
+			"EventType": "change",
+			"OUI": "0050C2853",
+			"OUISize": 36,
+			"OrgAddress": "1043 N Shoreline Blvd\\nSuite 100\\nMountain View CA 94043\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ettus Research LLC",
+			"Source": "IEEE"
+		}
+	]
+}

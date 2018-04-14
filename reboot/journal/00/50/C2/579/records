@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2579",
+			"OUISize": 36,
+			"OrgAddress": "Gerating 10\\nTraunstein Bayern 83278\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Gastager Systemtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

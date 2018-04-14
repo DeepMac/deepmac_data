@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-12-17",
+			"EventType": "add",
+			"OUI": "60E6BC",
+			"OUISize": 24,
+			"OrgAddress": "6F, Building 2, No.115, Lane 1276 Nanle Rd\\nSongjiang District, Shanghai\\n201613\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Sino-Telecom Technology Co.,Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "60E6BC",
+			"OUISize": 24,
+			"OrgAddress": "6F, Building 2, No.115, Lane 1276 Nanle Rd\\n201613\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Sino-Telecom Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

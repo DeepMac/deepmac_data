@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-01-23",
+			"EventType": "add",
+			"OUI": "001374",
+			"OUISize": 24,
+			"OrgAddress": "3F 147, Xianzheng 9th Road\\nZhubei, Xinzhu  302\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Attansic Technology Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-08-18",
+			"EventType": "change",
+			"OUI": "001374",
+			"OUISize": 24,
+			"OrgAddress": "5480 Great America Parkway\\nSanta Clara CA 95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Atheros Communications, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001374",
+			"OUISize": 24,
+			"OrgAddress": "529 Almanor Avenue\\nSunnyvale  CA  94085-3512\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Atheros Communications, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

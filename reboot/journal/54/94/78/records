@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-05-26",
+			"EventType": "add",
+			"OUI": "549478",
+			"OUISize": 24,
+			"OrgAddress": "800 High Street\\nSuite 101\\nPalo Alto CA 94301\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Silvershore Technology Partners",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "549478",
+			"OUISize": 24,
+			"OrgAddress": "800 High Street\\nPalo Alto  CA  94301\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Silvershore Technology Partners",
+			"Source": "IEEE"
+		}
+	]
+}

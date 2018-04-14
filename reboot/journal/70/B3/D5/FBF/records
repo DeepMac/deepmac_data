@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-29",
+			"EventType": "add",
+			"OUI": "70B3D5FBF",
+			"OUISize": 36,
+			"OrgAddress": "71 Redwood Valley Lane RD1\\nRichmond  Tasman  7081\\n\\n",
+			"OrgCountry": "NZ",
+			"OrgName": "SenSys (Design Electronics Ltd)",
+			"Source": "IEEE"
+		}
+	]
+}

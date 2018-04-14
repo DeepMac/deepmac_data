@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C214A",
+			"OUISize": 36,
+			"OrgAddress": "Torres Quevedo, 1-P.T.M.\\nTres Cantos Madrid 28760\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "DYCEC, S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C254A",
+			"OUISize": 36,
+			"OrgAddress": "Pyramidbacken 6\\nKungens Kurva Stockholm 14175\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "IPTC Tech. Comm. AB",
+			"Source": "IEEE"
+		}
+	]
+}

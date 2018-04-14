@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-19",
+			"EventType": "add",
+			"OUI": "B8BB23",
+			"OUISize": 24,
+			"OrgAddress": "A403-414, Building 13, No.232 Waihuan East Road, Higher           Education Mega Center, Guangdong 510006, China\\nGuangzhou  Guangdong  510006\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangdong Nufront CSC Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

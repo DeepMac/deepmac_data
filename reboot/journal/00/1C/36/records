@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "add",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "Schaliënhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "SchaliÃ«nhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "Schaliënhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "SchaliÃÂ«nhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "Schaliënhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "SchaliÃÂ«nhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "SchaliÃ«nhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "SchaliÃÂÃÂÃÂÃÂ«nhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "SchaliÃ«nhoevedreef 20D\\nMechelen Antwerp 2800\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C36",
+			"OUISize": 24,
+			"OrgAddress": "SchaliÃ«nhoevedreef 20D\\nMechelen  Antwerp  2800\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "iNEWiT NV",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C21C1",
+			"OUISize": 36,
+			"OrgAddress": "1095 E. Duane Ave.\\nSuite #205\\nSunnyvale CA 94085\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "InfinitiNetworks Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

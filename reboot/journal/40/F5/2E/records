@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-08-29",
+			"EventType": "add",
+			"OUI": "40F52E",
+			"OUISize": 24,
+			"OrgAddress": "Max Schmidheiny-Strasse 201\\nHeerbrugg SG 9435\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Leica Microsystems (Schweiz) AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "40F52E",
+			"OUISize": 24,
+			"OrgAddress": "Max Schmidheiny-Strasse 201\\nHeerbrugg  SG  9435\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Leica Microsystems (Schweiz) AG",
+			"Source": "IEEE"
+		}
+	]
+}

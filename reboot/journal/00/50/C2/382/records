@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2382",
+			"OUISize": 36,
+			"OrgAddress": "255 East 6th Street\\nLoveland Colorado 80537\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Colorado vNet",
+			"Source": "IEEE"
+		}
+	]
+}

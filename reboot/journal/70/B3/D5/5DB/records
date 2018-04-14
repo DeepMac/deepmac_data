@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-17",
+			"EventType": "add",
+			"OUI": "70B3D55DB",
+			"OUISize": 36,
+			"OrgAddress": "Nauchny proezd, 20\\nMoscow    117246\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Movicom LLC",
+			"Source": "IEEE"
+		}
+	]
+}

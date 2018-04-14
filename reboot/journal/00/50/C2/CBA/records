@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CBA",
+			"OUISize": 36,
+			"OrgAddress": "21314 LASSEN ST\\nCHATSWORTH CA 91311\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "DELTA TAU DATA SYSTEMS",
+			"Source": "IEEE"
+		}
+	]
+}

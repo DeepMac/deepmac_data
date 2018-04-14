@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-16",
+			"EventType": "add",
+			"OUI": "EC9F0DB",
+			"OUISize": 28,
+			"OrgAddress": "No.231 Ruichang Road Qingdao City\\nQingdao  Shandong  266000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CRRC QINGDAO SIFANG ROLLING STOCK RESEARCH INSTITUTE CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

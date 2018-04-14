@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C280E",
+			"OUISize": 36,
+			"OrgAddress": "14 Bar Kochva st.\\nBney Berak TA 51261\\n\\n",
+			"OrgCountry": "ISRAEL",
+			"OrgName": "Bruno International Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "004026",
+			"OUISize": 24,
+			"OrgAddress": "MELCO HI-TECH CENTER0,\\nSHIBATA HONDORI 4-15\\nMINAMI-KU, NAGOYA 457\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MELCO, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "004026",
+			"OUISize": 24,
+			"OrgAddress": "MELCO HI-TECH CENTER0,\\nSHIBATA HONDORI 4-15 MINAMI-KU, NAGOYA 4\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MELCO, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "004026",
+			"OUISize": 24,
+			"OrgAddress": "MELCO HI-TECH CENTER,\\nSHIBATA HONDORI 4-15 MINAMI-KU\\nNAGOYA  457-8520\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "MELCO, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-12-04",
+			"EventType": "change",
+			"OUI": "004026",
+			"OUISize": 24,
+			"OrgAddress": "MELCO HI-TECH CENTER,\\n4-15  Shibata, Hondori,\\nMINAMI-KU, NAGOYA Aichi 457-8520\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Buffalo, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "004026",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg., 30-20,Ohsu 3-chome\\nNaka-ku,Nagoya Aichi Pref. 460-8315\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Buffalo Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004026",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg., 30-20,Ohsu 3-chome\\nNaka-ku,Nagoya  Aichi Pref.  460-8315\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Buffalo Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-10",
+			"EventType": "change",
+			"OUI": "004026",
+			"OUISize": 24,
+			"OrgAddress": "AKAMONDORI Bldg., 30-20,Ohsu 3-chome\\nNaka-ku,Nagoya  Aichi Pref.  460-8315\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "BUFFALO.INC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-12-20",
+			"EventType": "add",
+			"OUI": "98AAFCD",
+			"OUISize": 28,
+			"OrgAddress": "Geneststr. 5\\nBerlin    10829\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MCS Micronic Computer Systeme GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

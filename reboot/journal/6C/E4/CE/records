@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-23",
+			"EventType": "add",
+			"OUI": "6CE4CE",
+			"OUISize": 24,
+			"OrgAddress": "Giessenmatt 2\\nSins  5643\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "Villiger Security Solutions AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "6CE4CE",
+			"OUISize": 24,
+			"OrgAddress": "Giessenmatt 2\\nSins    5643\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Villiger Security Solutions AG",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-05",
+			"EventType": "add",
+			"OUI": "38BC1A",
+			"OUISize": 24,
+			"OrgAddress": "Meizu Tech Bldg.,\\nTechnology&Innovation coast\\nZhuhai Guangdong 519085\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Meizu technology co.,ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "38BC1A",
+			"OUISize": 24,
+			"OrgAddress": "Meizu Tech Bldg.,\\nZhuhai  Guangdong  519085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Meizu technology co.,ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-05",
+			"EventType": "change",
+			"OUI": "38BC1A",
+			"OUISize": 24,
+			"OrgAddress": "MEIZU Tech Bldg., Technology & Innovation Coast\\nZhuhai  Guangdong  519085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "MEIZU Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

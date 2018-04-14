@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-06-18",
+			"EventType": "add",
+			"OUI": "FCA841",
+			"OUISize": 24,
+			"OrgAddress": "CARRETERA BASE AEREA # 5850\\nZapopan Jalisco 44130\\n\\n",
+			"OrgCountry": "MEXICO",
+			"OrgName": "Nortel Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-06",
+			"EventType": "change",
+			"OUI": "FCA841",
+			"OUISize": 24,
+			"OrgAddress": "211 Mount Airy Road\\nBasking Ridge NJ 07920\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Avaya, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "FCA841",
+			"OUISize": 24,
+			"OrgAddress": "211 Mount Airy Road\\nBasking Ridge  NJ  07920\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Avaya, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "FCA841",
+			"OUISize": 24,
+			"OrgAddress": "211 Mount Airy Road\\nBasking Ridge  NJ  07920\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Avaya Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-24",
+			"EventType": "change",
+			"OUI": "FCA841",
+			"OUISize": 24,
+			"OrgAddress": "360 Mt Kemble Ave\\nMorristown  NJ  07960\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Avaya Inc",
+			"Source": "IEEE"
+		}
+	]
+}

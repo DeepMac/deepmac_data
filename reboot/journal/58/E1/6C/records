@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-23",
+			"EventType": "add",
+			"OUI": "58E16C",
+			"OUISize": 24,
+			"OrgAddress": "Room 37 ,Building 13b, No. 4 , lane 600, Tianshan Road ,Changning District Shanghai\\nShanghai    201210\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Ying Hua Information Technology (Shanghai)Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

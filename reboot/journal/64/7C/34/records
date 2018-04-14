@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-05-03",
+			"EventType": "add",
+			"OUI": "647C34",
+			"OUISize": 24,
+			"OrgAddress": "10F-1, No. 5, Taiyuan 1st St\\nJhubei City Hsinchu County 302\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Ubee Interactive Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "647C34",
+			"OUISize": 24,
+			"OrgAddress": "10F-1, No. 5, Taiyuan 1st St\\nJhubei City  Hsinchu County  302\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Ubee Interactive Corp.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-03-24",
+			"EventType": "change",
+			"OUI": "647C34",
+			"OUISize": 24,
+			"OrgAddress": "Room 1607 Dominion Centre, 43 Queenâs Road East\\nWanchai  Hong Kong  302\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Ubee Interactive Co., Limited",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-19",
+			"EventType": "change",
+			"OUI": "647C34",
+			"OUISize": 24,
+			"OrgAddress": "Room 1607 Dominion Centre, 43 Queenâs Road East\\nWanchai  Hong Kong  302\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Ubee Interactive Co., Limited",
+			"Source": "IEEE"
+		}
+	]
+}

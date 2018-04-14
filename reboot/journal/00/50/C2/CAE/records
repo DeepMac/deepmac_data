@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CAE",
+			"OUISize": 36,
+			"OrgAddress": "11564 149 Street\\nEdmonton Alberta T5M 1W7\\n\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Campbell Scientific Canada Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

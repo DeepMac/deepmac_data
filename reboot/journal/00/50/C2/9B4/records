@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C29B4",
+			"OUISize": 36,
+			"OrgAddress": "74 AVENUE JEAN JAURES\\nPESSAC GIRONDE 33600\\n\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "EUKREA ELECTROMATIQUE SARL",
+			"Source": "IEEE"
+		}
+	]
+}

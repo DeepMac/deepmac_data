@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2B77",
+			"OUISize": 36,
+			"OrgAddress": "Porzeczkowa 12\\nUstron Slaskie 43-450\\n\\n",
+			"OrgCountry": "POLAND",
+			"OrgName": "KRISTECH",
+			"Source": "IEEE"
+		}
+	]
+}

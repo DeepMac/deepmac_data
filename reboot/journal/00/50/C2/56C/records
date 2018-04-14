@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C256C",
+			"OUISize": 36,
+			"OrgAddress": "273 Azalea Road\\nBuidling 1, Suite 515\\nMobile AL 36609\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Targeted Technologies, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

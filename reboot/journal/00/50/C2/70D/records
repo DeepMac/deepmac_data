@@ -1,0 +1,103 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "RosenstarÃ¯Â¿Â½e 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-26",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "RosenstarÃe 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-20",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "Rosenstarße 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-25",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "RosenstarÃe 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-26",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "Rosenstarße 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-03-30",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "RosenstarÃe 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-04",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "RosenstarÃÂÃÂ¸e 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-08",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "RosenstarÃe 2\\nBerlin  10178\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-05-05",
+			"EventType": "change",
+			"OUI": "0050C270D",
+			"OUISize": 36,
+			"OrgAddress": "Breitenbachstraye 10\\nBerlin  13509\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ela-soft GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

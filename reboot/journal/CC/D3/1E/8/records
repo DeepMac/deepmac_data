@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-08",
+			"EventType": "add",
+			"OUI": "CCD31E8",
+			"OUISize": 28,
+			"OrgAddress": "Wiener Str. 56\\nDresden    01219\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "inoage GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-03-20",
+			"EventType": "add",
+			"OUI": "70720D",
+			"OUISize": 24,
+			"OrgAddress": "No.999, Qishan North 2nd Road, Information & Optoelectronics Park, Torch Hi-tech Industry Development Zone, Xiamen, P.R.China\\nXiamen Fujian 361000\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Lenovo Mobile Communication Technology Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70720D",
+			"OUISize": 24,
+			"OrgAddress": "No.999, Qishan North 2nd Road, Information & Optoelectronics Park, Torch Hi-tech Industry Development Zone, Xiamen, P.R.China\\nXiamen  Fujian  361000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Lenovo Mobile Communication Technology Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

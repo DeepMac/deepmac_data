@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "001018",
+			"OUISize": 24,
+			"OrgAddress": "16251 LAGUNA CANYON RD.\\nIRVINE  CA  92618\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BROADCOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
+			"OUI": "001018",
+			"OUISize": 24,
+			"OrgAddress": "16215 ALTON PARKWAY\\nP.O. BOX 57013\\nIRVINE  CA  92619-7013\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BROADCOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "001018",
+			"OUISize": 24,
+			"OrgAddress": "16215 ALTON PARKWAY\\nP.O. BOX 57013\\nIRVINE CA 92619-7013\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BROADCOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-06-25",
+			"EventType": "change",
+			"OUI": "001018",
+			"OUISize": 24,
+			"OrgAddress": "5300 California Ave\\nIRVINE CA 92617\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "BROADCOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001018",
+			"OUISize": 24,
+			"OrgAddress": "16215 ALTON PARKWAY\\nIRVINE  CA  92619-7013\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BROADCOM CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-11-03",
+			"EventType": "change",
+			"OUI": "001018",
+			"OUISize": 24,
+			"OrgAddress": "16215 ALTON PARKWAY\\nIRVINE  CA  92619-7013\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Broadcom",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-24",
+			"EventType": "add",
+			"OUI": "ECD68A",
+			"OUISize": 24,
+			"OrgAddress": "Futian District, 13th Floor , Block B Building Tai\\nShenzhen  Guangdong Province  518040\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen JMicron Intelligent Technology Developmen",
+			"Source": "IEEE"
+		}
+	]
+}

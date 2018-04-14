@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-10-08",
+			"EventType": "add",
+			"OUI": "70B3D5C5A",
+			"OUISize": 36,
+			"OrgAddress": "Bartok Bela ut 105-113. Building 4. Floor 2\\nBudapest Budapest 1115\\n\\n",
+			"OrgCountry": "HUNGARY",
+			"OrgName": "Commsignia Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "70B3D5C5A",
+			"OUISize": 36,
+			"OrgAddress": "Bartok Bela ut 105-113. Building 4. Floor 2\\nBudapest  Budapest  1115\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "Commsignia Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,114 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "Bruckwiesenstraße 17-19\\nWeinstadt-Großheppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich Lütze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "BruckwiesenstraÃe 17-19\\nWeinstadt-GroÃheppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich LÃ¼tze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "Bruckwiesenstraße 17-19\\nWeinstadt-Großheppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich Lütze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "BruckwiesenstraÃÂe 17-19\\nWeinstadt-GroÃÂheppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich LÃÂ¼tze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "Bruckwiesenstraße 17-19\\nWeinstadt-Großheppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich Lütze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "BruckwiesenstraÃÂe 17-19\\nWeinstadt-GroÃÂheppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich LÃÂ¼tze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "BruckwiesenstraÃÅ¸e 17-19\\nWeinstadt-GroÃÅ¸heppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich LÃÂ¼tze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "BruckwiesenstraÃÂÃÂÃÂÃÂ¸e 17-19\\nWeinstadt-GroÃÂÃÂÃÂÃÂ¸heppach BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich LÃÂÃÂÃÂÃÂ¼tze GmbH &Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "BruckwiesenstraÃe 17 - 19\\nWeinstadt (GroÃheppach) BW 71384\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Friedrich LÃ¼tze GmbH & Co. KG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B61",
+			"OUISize": 24,
+			"OrgAddress": "BruckwiesenstraÃe 17 - 19\\nWeinstadt (GroÃheppach)  BW  71384\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Friedrich LÃ¼tze GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

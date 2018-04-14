@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551CF",
+			"OUISize": 36,
+			"OrgAddress": "A4-414 No.218 Xinghu Road\\nbioBAY Park\\nsuzhou jiangsu 215123\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Omnik New Energy Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

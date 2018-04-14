@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C220C",
+			"OUISize": 36,
+			"OrgAddress": "Gragdanski str. 111\\nSt.Petersburg  195256\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "Communication and Telemechanical Systems Company Limited",
+			"Source": "IEEE"
+		}
+	]
+}

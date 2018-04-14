@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-02-06",
+			"EventType": "add",
+			"OUI": "001378",
+			"OUISize": 24,
+			"OrgAddress": "2F., No.31, Lane 583, RueiGuang Rd., Neihu Dist.\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "QSAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "001378",
+			"OUISize": 24,
+			"OrgAddress": "2F., No.31, Lane 583, RueiGuang Rd., Neihu Dist.\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "QSAN Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-04-12",
+			"EventType": "change",
+			"OUI": "001378",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.103, Ruihu St., Neihu Dist.\\nTaipei  114\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Qsan Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001378",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.103, Ruihu St., Neihu Dist.\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Qsan Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

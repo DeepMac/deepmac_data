@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-11-04",
+			"EventType": "add",
+			"OUI": "40D8551E4",
+			"OUISize": 36,
+			"OrgAddress": "Metallistov pr. 23-4-10\\nSaint-Petersburg - 195176\\n\\n",
+			"OrgCountry": "RUSSIAN FEDERATION",
+			"OrgName": "STEK Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

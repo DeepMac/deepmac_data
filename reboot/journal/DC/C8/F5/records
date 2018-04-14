@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-07",
+			"EventType": "add",
+			"OUI": "DCC8F5",
+			"OUISize": 24,
+			"OrgAddress": "16/F,Building B ,NO.15 Changyi Road ,Baoshan District,\\nShanghai    200441\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai UMEinfo CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-29",
+			"EventType": "add",
+			"OUI": "001A2D",
+			"OUISize": 24,
+			"OrgAddress": "4400 Baker Road\\nMinnetonka MN 55343\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "The Navvo Group",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A2D",
+			"OUISize": 24,
+			"OrgAddress": "4400 Baker Road\\nMinnetonka  MN  55343\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "The Navvo Group",
+			"Source": "IEEE"
+		}
+	]
+}

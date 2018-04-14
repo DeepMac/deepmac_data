@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "002095",
+			"OUISize": 24,
+			"OrgAddress": "UNIT 17, BARRSFOLD RD.\\nWINGATES INDUSTRIAL PARK\\nWESTHOUGHTON, BOLTON,\\n",
+			"OrgCountry": "LANCASHIRE,  ENGLAND  BL5 3XW",
+			"OrgName": "RIVA ELECTRONICS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "002095",
+			"OUISize": 24,
+			"OrgAddress": "UNIT 17, BARRSFOLD RD.\\nWINGATES INDUSTRIAL PARK WESTHOUGHTON, B\\n\\n",
+			"OrgCountry": "LANCASHIRE ENGLAND BL5 3XW",
+			"OrgName": "RIVA ELECTRONICS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "002095",
+			"OUISize": 24,
+			"OrgAddress": "UNIT 17, BARRSFOLD RD.\\nWINGATES INDUSTRIAL PARK WESTHOUGHTON, B\\nLANCASHIRE ENGLAND BL5 3XW\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "RIVA ELECTRONICS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "002095",
+			"OUISize": 24,
+			"OrgAddress": "UNIT 17, BARRSFOLD RD.\\nLANCASHIRE  ENGLAND  BL5 3XW\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "RIVA ELECTRONICS",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-08-07",
+			"EventType": "add",
+			"OUI": "40D85511E",
+			"OUISize": 36,
+			"OrgAddress": "780 Keezletown Road\\nSuite 102\\nWeyers Cave VA 24486\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CEMSI, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

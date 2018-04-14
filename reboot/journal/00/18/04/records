@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-21",
+			"EventType": "add",
+			"OUI": "001804",
+			"OUISize": 24,
+			"OrgAddress": "UNIT1520,15/F.,TOWER 2,GRAND CENTURY PLACE,193 PRINCE EDWARD ROAD WEST,KOWLOON,\\n\\n\\n",
+			"OrgCountry": "HONG KONG",
+			"OrgName": "E-TEK DIGITAL TECHNOLOGY LIMITED",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001804",
+			"OUISize": 24,
+			"OrgAddress": "UNIT1520,15/F.,TOWER 2,GRAND CENTURY PLACE,193 PRINCE EDWARD ROAD WEST,KOWLOON,\\n\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "E-TEK DIGITAL TECHNOLOGY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DC0",
+			"OUISize": 36,
+			"OrgAddress": "Unit 12, Taurus Business Park\\nEuropa Boulevard\\nWarrington Cheshire WA5 7ZT\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Security Services Group (SSG)",
+			"Source": "IEEE"
+		}
+	]
+}

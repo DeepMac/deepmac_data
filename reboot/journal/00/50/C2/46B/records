@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C246B",
+			"OUISize": 36,
+			"OrgAddress": "Sommerauerstr.18\\nSt.Georgen BW 78112\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "EASYTECH GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

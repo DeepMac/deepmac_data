@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "0002AE",
+			"OUISize": 24,
+			"OrgAddress": "Waterside House\\nBasin Road North\\nHove, East Sussex\\n",
+			"OrgCountry": "BN41 1UY UK",
+			"OrgName": "Scannex Electronics Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0002AE",
+			"OUISize": 24,
+			"OrgAddress": "Waterside House\\nBasin Road North Hove, East Sussex\\n\\n",
+			"OrgCountry": "BN41 1UY UK",
+			"OrgName": "Scannex Electronics Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0002AE",
+			"OUISize": 24,
+			"OrgAddress": "Waterside House\\nBasin Road North Hove, East Sussex\\nBN41 1UY UK\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Scannex Electronics Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-12-31",
+			"EventType": "change",
+			"OUI": "0002AE",
+			"OUISize": 24,
+			"OrgAddress": "Unit 8 English Business Park\\nEnglish Close\\nHove  BN3 7ET\\n",
+			"OrgCountry": "UNITED KINGDOM",
+			"OrgName": "Scannex Electronics Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0002AE",
+			"OUISize": 24,
+			"OrgAddress": "Unit 8 English Business Park\\nHove    BN3 7ET\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "Scannex Electronics Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

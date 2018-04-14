@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-12",
+			"EventType": "add",
+			"OUI": "606453",
+			"OUISize": 24,
+			"OrgAddress": "No. 13155, Yuqing Street, High-Technology Development Zone,\\nWeifang  Shandong  261061\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "AOD Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

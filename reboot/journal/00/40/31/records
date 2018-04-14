@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "add",
+			"OUI": "004031",
+			"OUISize": 24,
+			"OrgAddress": "2-1 YASUUCHI\\nYATSUO-MACHI NEIGUN\\n\\n",
+			"OrgCountry": "TOYAMA 939-23 JAPAN",
+			"OrgName": "KOKUSAI ELECTRIC CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "004031",
+			"OUISize": 24,
+			"OrgAddress": "2-1 YASUUCHI\\nYATSUO-MACHI NEIGUN\\nTOYAMA 939-23 JAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KOKUSAI ELECTRIC CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "004031",
+			"OUISize": 24,
+			"OrgAddress": "2-1 YASUUCHI\\nYATSUO-MACHI NEIGUN\\nTOYAMA 939-23\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KOKUSAI ELECTRIC CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "004031",
+			"OUISize": 24,
+			"OrgAddress": "2-1 YASUUCHI\\nYATSUO-MACHI NEIGUN\\nTOYAMA 939-23 JAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KOKUSAI ELECTRIC CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "004031",
+			"OUISize": 24,
+			"OrgAddress": "2-1 YASUUCHI\\nYATSUO-MACHI NEIGUN\\nTOYAMA 939-23\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "KOKUSAI ELECTRIC CO., LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004031",
+			"OUISize": 24,
+			"OrgAddress": "2-1 YASUUCHI\\nTOYAMA  939-23\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KOKUSAI ELECTRIC CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-04-15",
+			"EventType": "add",
+			"OUI": "001119",
+			"OUISize": 24,
+			"OrgAddress": "900 W. Santa Anita Street\\nSan Gabriel CA 91776\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Solteras, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001119",
+			"OUISize": 24,
+			"OrgAddress": "900 W. Santa Anita Street\\nSan Gabriel  CA  91776\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Solteras, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

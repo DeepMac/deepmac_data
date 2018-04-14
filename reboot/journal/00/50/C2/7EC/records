@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C27EC",
+			"OUISize": 36,
+			"OrgAddress": "5570 Kennedy RD\\nUnit B\\nMississauga Ontario L4Z 2A9\\n",
+			"OrgCountry": "CANADA",
+			"OrgName": "Lyngsoe Systems",
+			"Source": "IEEE"
+		}
+	]
+}

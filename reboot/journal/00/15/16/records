@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-06-30",
+			"EventType": "add",
+			"OUI": "001516",
+			"OUISize": 24,
+			"OrgAddress": "#204 Byucksan Digitalvalley 1st, 212-16, Guro-dong, Guro-gu\\nSeoul  152-050\\n\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "URIEL SYSTEMS INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001516",
+			"OUISize": 24,
+			"OrgAddress": "#204 Byucksan Digitalvalley 1st, 212-16, Guro-dong, Guro-gu\\nSeoul    152-050\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "URIEL SYSTEMS INC.",
+			"Source": "IEEE"
+		}
+	]
+}

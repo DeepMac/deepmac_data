@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-01",
+			"EventType": "add",
+			"OUI": "103034",
+			"OUISize": 24,
+			"OrgAddress": "Ruzgarlibahce Mah. Kavak Sok. No: 31/1 Smart Plaza B Blok Kat: 4\\nIstanbul  Kavacik Beykoz  23805\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Cara Systems",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-01-06",
+			"EventType": "add",
+			"OUI": "1C5A0B",
+			"OUISize": 24,
+			"OrgAddress": "7999 Gateway Blvd Suite 120\\nNewark  CA  94560\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Tegile Systems",
+			"Source": "IEEE"
+		}
+	]
+}

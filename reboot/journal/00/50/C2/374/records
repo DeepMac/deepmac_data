@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2374",
+			"OUISize": 36,
+			"OrgAddress": "Parque Tecnologico, 207-B\\nZamudio Vizcaya E-48170\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Owasys Advanced Wireless Devices",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C217D",
+			"OUISize": 36,
+			"OrgAddress": "15865 SW 74th Suite 105\\nPortland OR 97224\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cognex Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

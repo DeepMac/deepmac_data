@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-05-13",
+			"EventType": "add",
+			"OUI": "001C58",
+			"OUISize": 24,
+			"OrgAddress": "80 West Tasman Dr.\\nSJC-M/1\\nSan Jose CA 95134\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cisco Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "001C58",
+			"OUISize": 24,
+			"OrgAddress": "170 W. TASMAN DRIVE\\nM/S SJA-2\\nSAN JOSE CA 95134-1706\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CISCO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "001C58",
+			"OUISize": 24,
+			"OrgAddress": "80 West Tasman Dr.\\nSJC-M/1\\nSan Jose CA 95134\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cisco Systems",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "001C58",
+			"OUISize": 24,
+			"OrgAddress": "170 W. TASMAN DRIVE\\nM/S SJA-2\\nSAN JOSE CA 95134-1706\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CISCO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001C58",
+			"OUISize": 24,
+			"OrgAddress": "170 W. TASMAN DRIVE\\nSAN JOSE  CA  95134-1706\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CISCO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "001C58",
+			"OUISize": 24,
+			"OrgAddress": "80 West Tasman Drive\\nSan Jose  CA  94568\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cisco Systems, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

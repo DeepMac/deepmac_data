@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-28",
+			"EventType": "add",
+			"OUI": "28F5373",
+			"OUISize": 28,
+			"OrgAddress": "Koishikawadaikoku Bldg. 3F, 1-3-25\\nKoishikawa, Bunkyo-ku  Tokyo  112-0002\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "PRIMETECH ENGINEERING CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

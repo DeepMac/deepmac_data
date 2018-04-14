@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0040D7",
+			"OUISize": 24,
+			"OrgAddress": "3-12-8 TAKANAWA #202\\nMINATOKU, TOKYO 108\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "STUDIO GEN INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "0040D7",
+			"OUISize": 24,
+			"OrgAddress": "3-12-8 TAKANAWA #202\\nMINATOKU, TOKYO 108\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "STUDIO GEN INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "0040D7",
+			"OUISize": 24,
+			"OrgAddress": "3-12-8 TAKANAWA #202\\nMINATOKU, TOKYO 108\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "STUDIO GEN INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "0040D7",
+			"OUISize": 24,
+			"OrgAddress": "3-12-8 TAKANAWA #202\\nMINATOKU, TOKYO 108\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "STUDIO GEN INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "0040D7",
+			"OUISize": 24,
+			"OrgAddress": "3-12-8 TAKANAWA #202\\nMINATOKU, TOKYO 108\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "STUDIO GEN INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0040D7",
+			"OUISize": 24,
+			"OrgAddress": "3-12-8 TAKANAWA #202\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "STUDIO GEN INC.",
+			"Source": "IEEE"
+		}
+	]
+}

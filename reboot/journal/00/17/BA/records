@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-04-08",
+			"EventType": "add",
+			"OUI": "0017BA",
+			"OUISize": 24,
+			"OrgAddress": "302, KT Bldg, 1ANNEX, 35-1\\nYeongdeungpo-dong 8ga, Yeongdeungpo-gu\\nSeoul  150-038\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "SEDO CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0017BA",
+			"OUISize": 24,
+			"OrgAddress": "302, KT Bldg, 1ANNEX, 35-1\\nSeoul    150-038\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "SEDO CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

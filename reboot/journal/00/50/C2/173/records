@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2173",
+			"OUISize": 36,
+			"OrgAddress": "Luetzelwiessen 5\\nLanggoens  35428\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "DeMeTec GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

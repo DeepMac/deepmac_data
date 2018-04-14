@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-05-18",
+			"EventType": "add",
+			"OUI": "70B3D5B11",
+			"OUISize": 36,
+			"OrgAddress": "VIA CARDUCCI, 41/E\\nSAN GIULIANO MILANESE  MILANO  20098\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "CAB S.R.L.",
+			"Source": "IEEE"
+		}
+	]
+}

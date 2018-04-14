@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-03-08",
+			"EventType": "add",
+			"OUI": "CCD31E1",
+			"OUISize": 28,
+			"OrgAddress": "Heimiswilstrasse 42\\nBurgdorf    3400\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Rondo Burgdorf AG",
+			"Source": "IEEE"
+		}
+	]
+}

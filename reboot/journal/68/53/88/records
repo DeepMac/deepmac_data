@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-26",
+			"EventType": "add",
+			"OUI": "685388",
+			"OUISize": 24,
+			"OrgAddress": "216 Deajiro\\nYongin-si  Gyeonggi-do  448-813\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "P&S Technology",
+			"Source": "IEEE"
+		}
+	]
+}

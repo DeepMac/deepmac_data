@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-08-15",
+			"EventType": "add",
+			"OUI": "480362",
+			"OUISize": 24,
+			"OrgAddress": "BuildingA,No.3 Desay Industrial Zone\\nHuizhou Guangdong 516029\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "DESAY ELECTRONICS(HUIZHOU)CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "480362",
+			"OUISize": 24,
+			"OrgAddress": "BuildingA,No.3 Desay Industrial Zone\\nHuizhou  Guangdong  516029\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "DESAY ELECTRONICS(HUIZHOU)CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

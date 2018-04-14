@@ -1,0 +1,92 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS DEVELOPMENT DIVISION\\n5-4 HACCHOBORI 4-CHOUME\\nCHUUOU-KU TOKOYO 104,\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS DEVELOPMENT DIVISION\\n5-4 HACCHOBORI 4-CHOUME CHUUOU-KU TOKOYO\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-07-21",
+			"EventType": "change",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS DEVELOPMENT DIVISION\\n5-4 HACCHOBORI 4-CHOUME CHUUOU-KU TOKOYO\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS DEVELOPMENT DIVISION\\n5-4 HACCHOBORI 4-CHOUME CHUUOU-KU TOKOYO\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS DEVELOPMENT DIVISION\\n5-4 HACCHOBORI 4-CHOUME CHUUOU-KU TOKOYO\\nJAPAN\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "SYSTEMS DEVELOPMENT DIVISION\\n5-4 HACCHOBORI 4-CHOUME CHUUOU-KU TOKOYO\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2014-07-22",
+			"EventType": "change",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "8,Nakase 1-chome,Mihama-ku\\n8,Nakase 1-chome,Mihama-ku\\n\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "008015",
+			"OUISize": 24,
+			"OrgAddress": "8,Nakase 1-chome,Mihama-ku\\n\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "SEIKO SYSTEMS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

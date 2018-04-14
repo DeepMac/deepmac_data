@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-09-09",
+			"EventType": "add",
+			"OUI": "001257",
+			"OUISize": 24,
+			"OrgAddress": "RM1804-05 South Tower Hong Kong Plaza, No.283 Huaihai Zhong Road\\nShanghai  200021\\n\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "LeapComm Communication Technologies Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001257",
+			"OUISize": 24,
+			"OrgAddress": "RM1804-05 South Tower Hong Kong Plaza, No.283 Huaihai Zhong Road\\nShanghai    200021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "LeapComm Communication Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

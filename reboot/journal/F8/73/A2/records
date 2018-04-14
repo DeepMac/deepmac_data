@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-05-20",
+			"EventType": "add",
+			"OUI": "F873A2",
+			"OUISize": 24,
+			"OrgAddress": "211 Mt Airy Road\\nBasking Ridge NJ 07920-2311\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Avaya, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "F873A2",
+			"OUISize": 24,
+			"OrgAddress": "211 Mount Airy Road\\nBasking Ridge  NJ  07920-2311\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Avaya, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-09-01",
+			"EventType": "change",
+			"OUI": "F873A2",
+			"OUISize": 24,
+			"OrgAddress": "211 Mount Airy Road\\nBasking Ridge  NJ  07920-2311\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Avaya Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-02-24",
+			"EventType": "change",
+			"OUI": "F873A2",
+			"OUISize": 24,
+			"OrgAddress": "360 Mt Kemble Ave\\nMorristown  NJ  07960\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Avaya Inc",
+			"Source": "IEEE"
+		}
+	]
+}

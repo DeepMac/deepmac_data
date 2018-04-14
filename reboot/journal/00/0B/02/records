@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "add",
+			"OUI": "000B02",
+			"OUISize": 24,
+			"OrgAddress": "Wuerzburgerstr.5\\nRegensburg Bavaria 93059\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Dallmeier electronic",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-30",
+			"EventType": "change",
+			"OUI": "000B02",
+			"OUISize": 24,
+			"OrgAddress": "WÃ¼rzburgerstraÃe 5\\nRegensburg Bavaria 93059\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Dallmeier electronic",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-01-31",
+			"EventType": "change",
+			"OUI": "000B02",
+			"OUISize": 24,
+			"OrgAddress": "Wuerzburgerstr.5\\nRegensburg Bavaria 93059\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Dallmeier electronic",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-14",
+			"EventType": "change",
+			"OUI": "000B02",
+			"OUISize": 24,
+			"OrgAddress": "WÃ¼rzburgerstraÃe 5\\nRegensburg Bavaria 93059\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Dallmeier electronic",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000B02",
+			"OUISize": 24,
+			"OrgAddress": "WÃ¼rzburgerstraÃe 5\\nRegensburg  Bavaria  93059\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Dallmeier electronic",
+			"Source": "IEEE"
+		}
+	]
+}

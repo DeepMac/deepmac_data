@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C25C4",
+			"OUISize": 36,
+			"OrgAddress": "Suedwestpark 100\\nNuernberg Bayern 90449\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "ProMik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

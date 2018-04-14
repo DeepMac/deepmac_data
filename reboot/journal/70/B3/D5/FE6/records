@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-02",
+			"EventType": "add",
+			"OUI": "70B3D5FE6",
+			"OUISize": 36,
+			"OrgAddress": "10-45 Taisha-cho\\nNishinomiya-shi Hyogo    662-0867\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "SHIZUKI ELECTRIC CO.,INC",
+			"Source": "IEEE"
+		}
+	]
+}

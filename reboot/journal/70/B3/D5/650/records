@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-04-30",
+			"EventType": "add",
+			"OUI": "70B3D5650",
+			"OUISize": 36,
+			"OrgAddress": "Dietrichstrasse  2\\nRheineck  St.Gallen  9424\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "GIFAS-ELECTRIC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

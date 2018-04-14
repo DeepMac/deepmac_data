@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-13",
+			"EventType": "add",
+			"OUI": "2059A0",
+			"OUISize": 24,
+			"OrgAddress": "68 North 4th Ring Rd West,\\nSuite 15B-H\\nBeijing  100080\\n",
+			"OrgCountry": "CHINA",
+			"OrgName": "Paragon Technologies Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "2059A0",
+			"OUISize": 24,
+			"OrgAddress": "68 North 4th Ring Rd West,\\nBeijing    100080\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Paragon Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

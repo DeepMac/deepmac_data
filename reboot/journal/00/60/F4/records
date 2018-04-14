@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "0060F4",
+			"OUISize": 24,
+			"OrgAddress": "12675 DANIELSON G.\\nSUITE #407\\nPOWAY  CA  92064\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADVANCED COMPUTER SOLUTIONS,",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0060F4",
+			"OUISize": 24,
+			"OrgAddress": "12675 DANIELSON COURT\\nSUITE #407\\nPOWAY CA 92064\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADVANCED COMPUTER SOLUTIONS,",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "0060F4",
+			"OUISize": 24,
+			"OrgAddress": "12675 DANIELSON COURT\\nSUITE #407\\nPOWAY CA 92064\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "ADVANCED COMPUTER SOLUTIONS, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0060F4",
+			"OUISize": 24,
+			"OrgAddress": "12675 DANIELSON COURT\\nPOWAY  CA  92064\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ADVANCED COMPUTER SOLUTIONS, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

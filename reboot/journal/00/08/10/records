@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000810",
+			"OUISize": 24,
+			"OrgAddress": "150 Avery St.\\nWalla Walla WA 99362\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Key Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000810",
+			"OUISize": 24,
+			"OrgAddress": "150 Avery St.\\nWalla Walla  WA  99362\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Key Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

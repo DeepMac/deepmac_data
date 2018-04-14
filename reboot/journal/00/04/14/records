@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "add",
+			"OUI": "000414",
+			"OUISize": 24,
+			"OrgAddress": "14-3, Minami 1, Nishi 8,\\nChuo-ku, Sapporo,\\n\\n",
+			"OrgCountry": "Hokkaido, JAPAN 060-0061",
+			"OrgName": "Umezawa Musen Denki Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "000414",
+			"OUISize": 24,
+			"OrgAddress": "14-3, Minami 1, Nishi 8,\\nChuo-ku, Sapporo,\\n\\n",
+			"OrgCountry": "Hokkaido JAPAN 060-0061",
+			"OrgName": "Umezawa Musen Denki Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "000414",
+			"OUISize": 24,
+			"OrgAddress": "14-3, Minami 1, Nishi 8,\\nChuo-ku, Sapporo,\\nHokkaido JAPAN 060-0061\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Umezawa Musen Denki Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000414",
+			"OUISize": 24,
+			"OrgAddress": "14-3, Minami 1, Nishi 8,\\nHokkaido  JAPAN  060-0061\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Umezawa Musen Denki Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C28FB",
+			"OUISize": 36,
+			"OrgAddress": "An der Kleinbahn 39\\nWinsen (Luhe) Niedersachsen 21423\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "Alfred Kuhse GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

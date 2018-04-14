@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-21",
+			"EventType": "add",
+			"OUI": "8CC8F49",
+			"OUISize": 28,
+			"OrgAddress": "1543 Mission Street\\nSan Francisco  CA  94103\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Swift Navigation Inc",
+			"Source": "IEEE"
+		}
+	]
+}

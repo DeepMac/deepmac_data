@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C20AF",
+			"OUISize": 36,
+			"OrgAddress": "250 East Arapaho Rd.\\nSuite 200\\nRichardson TX 75081\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Latus Lightworks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C270A",
+			"OUISize": 36,
+			"OrgAddress": "4830 E. 49th St.\\nCuyahoga Heights Ohio 44125\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Efficient Channel Coding",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-06-04",
+			"EventType": "add",
+			"OUI": "0005CA",
+			"OUISize": 24,
+			"OrgAddress": "HSINCHU SBIP SUBSIDIARY\\nNo. 25 R&D 1st Rd.\\nScience-Based Industrial Park\\n",
+			"OrgCountry": "Hsin-chu, TAIWAN R.O.C.",
+			"OrgName": "Hitron Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0005CA",
+			"OUISize": 24,
+			"OrgAddress": "HSINCHU SBIP SUBSIDIARY\\nNo. 25 R&D 1st Rd. Science-Based Industr\\n\\n",
+			"OrgCountry": "Hsin-chu TAIWAN R.O.C.",
+			"OrgName": "Hitron Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-12-14",
+			"EventType": "change",
+			"OUI": "0005CA",
+			"OUISize": 24,
+			"OrgAddress": "HSINCHU SBIP SUBSIDIARY\\nNo. 25 R&D 1st Rd. Science-Based Industr\\nHsin-chu\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Hitron Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-10-14",
+			"EventType": "change",
+			"OUI": "0005CA",
+			"OUISize": 24,
+			"OrgAddress": "HSINCHU SBIP SUBSIDIARY\\nNo. 25 R&D 1st Rd. Science-Based Industr\\nHsin-chu\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Hitron Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "0005CA",
+			"OUISize": 24,
+			"OrgAddress": "HSINCHU SBIP SUBSIDIARY\\nNo. 25 R&D 1st Rd. Science-Based Industr\\nHsin-chu\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Hitron Technology, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0005CA",
+			"OUISize": 24,
+			"OrgAddress": "HSINCHU SBIP SUBSIDIARY\\nHsin-chu\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Hitron Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

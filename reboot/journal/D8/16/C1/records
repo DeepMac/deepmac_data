@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-07-19",
+			"EventType": "add",
+			"OUI": "D816C1",
+			"OUISize": 24,
+			"OrgAddress": "UNIT NO.1-2, 06/F., PERFECT INDUSTRIAL BUILDING,NO. 31 TAI YAU STREET, SAN PO KONG\\nKOWLOON, HONG KONG    510610\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "DEWAV (HK) ELECTRONICS LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

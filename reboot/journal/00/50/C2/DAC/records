@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2DAC",
+			"OUISize": 36,
+			"OrgAddress": "353 Powerville Rd\\nBoonton NJ 07005\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "RFL Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

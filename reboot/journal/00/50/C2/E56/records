@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E56",
+			"OUISize": 36,
+			"OrgAddress": "2/809, ITCASTLE, 550-1 GASAN-DONG\\nGEUMCHEON-GU\\nSEOUL  153-768\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "RFENGINE CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

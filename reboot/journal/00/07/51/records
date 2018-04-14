@@ -1,0 +1,136 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "add",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "Am Marienhof 2\\n2280 Wedel\\n\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "m.u.t. - GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2007-09-29",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "Meßgeräte für Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "m·u·t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-11-07",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "MeÃgerÃ¤te fÃ¼r Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "mÂ·uÂ·t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-02-06",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "Meßgeräte für Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "m·u·t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-24",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "MeÃÂgerÃÂ¤te fÃÂ¼r Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "mÃÂ·uÃÂ·t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-25",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "Meßgeräte für Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "m·u·t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-17",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "MeÃÂgerÃÂ¤te fÃÂ¼r Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "mÃÂ·uÃÂ·t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-11-18",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "MeÃÅ¸gerÃÂ¤te fÃÂ¼r Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "mÃÂ·uÃÂ·t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-02-07",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "Messgeräte für Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "m-u-t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-09-17",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "MessgerÃÂÃÂ¤te fÃÂÃÂ¼r Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "m-u-t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "MessgerÃ¤te fÃ¼r Medizin- und Umwelttechnik\\nAm Marienhof 2\\nWedel  22880\\n",
+			"OrgCountry": "GERMANY",
+			"OrgName": "m-u-t AG",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000751",
+			"OUISize": 24,
+			"OrgAddress": "MessgerÃ¤te fÃ¼r Medizin- und Umwelttechnik\\nWedel    22880\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "m-u-t AG",
+			"Source": "IEEE"
+		}
+	]
+}

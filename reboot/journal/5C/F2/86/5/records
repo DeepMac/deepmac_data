@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-12-16",
+			"EventType": "add",
+			"OUI": "5CF2865",
+			"OUISize": 28,
+			"OrgAddress": "Seekamp 31\\nLÃ¼beck  Schleswig-Holstein  23560\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EUROIMMUN Medizinische Labordiagnostika AG",
+			"Source": "IEEE"
+		}
+	]
+}

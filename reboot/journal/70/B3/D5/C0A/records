@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-24",
+			"EventType": "add",
+			"OUI": "70B3D5C0A",
+			"OUISize": 36,
+			"OrgAddress": "1-6-1-303\\nMusashino  Tokyo  180-0005\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Infosocket Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

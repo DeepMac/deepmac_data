@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-06-21",
+			"EventType": "add",
+			"OUI": "504EDC",
+			"OUISize": 24,
+			"OrgAddress": "Brenden 18\\nAppenzell MeistersrÃ¼te  AI  9050\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Ping Communication",
+			"Source": "IEEE"
+		}
+	]
+}

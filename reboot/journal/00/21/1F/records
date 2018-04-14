@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2008-07-19",
+			"EventType": "add",
+			"OUI": "00211F",
+			"OUISize": 24,
+			"OrgAddress": "44-10\\nUNGNAM-DONG\\nCHANGWON-CITY KYUNGNAM-DO 641-290\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "SHINSUNG DELTATECH CO.,LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00211F",
+			"OUISize": 24,
+			"OrgAddress": "44-10\\nCHANGWON-CITY  KYUNGNAM-DO  641-290\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "SHINSUNG DELTATECH CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

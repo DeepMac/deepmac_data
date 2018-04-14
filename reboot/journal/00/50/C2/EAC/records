@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-10-15",
+			"EventType": "add",
+			"OUI": "0050C2EAC",
+			"OUISize": 36,
+			"OrgAddress": "300 ROUTE DES CRETES\\nESPACES ANTIPOLIS\\nSOPHIA ANTIPOLIS ALPES-MARITIMES 06560\\n",
+			"OrgCountry": "FRANCE",
+			"OrgName": "Alias ip",
+			"Source": "IEEE"
+		}
+	]
+}

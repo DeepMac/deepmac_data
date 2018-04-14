@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-08-06",
+			"EventType": "add",
+			"OUI": "0050C2E68",
+			"OUISize": 36,
+			"OrgAddress": "61-1 NAKADAHONCHO\\nSURUGA-KU\\nSHIZUOKA-SHI SHIZUOKA-KEN 422-8686\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "Kyoritsu Electric Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

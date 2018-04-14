@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-11-18",
+			"EventType": "add",
+			"OUI": "1CA0D3A",
+			"OUISize": 28,
+			"OrgAddress": "Dieselstrasse 16\\nAalen  Baden-Wuerttemberg  73431\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "DSM Messtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

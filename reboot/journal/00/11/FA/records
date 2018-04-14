@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2004-08-04",
+			"EventType": "add",
+			"OUI": "0011FA",
+			"OUISize": 24,
+			"OrgAddress": "10802 47th Avenue West\\nMukilteo WA 98275-5098\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Rane Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0011FA",
+			"OUISize": 24,
+			"OrgAddress": "10802 47th Avenue West\\nMukilteo  WA  98275-5098\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Rane Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

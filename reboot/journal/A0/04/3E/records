@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-01-09",
+			"EventType": "add",
+			"OUI": "A0043E",
+			"OUISize": 24,
+			"OrgAddress": "Gutenbergstrasse 38\\nKaarst  Select State  41564\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Parker Hannifin Manufacturing Germany GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

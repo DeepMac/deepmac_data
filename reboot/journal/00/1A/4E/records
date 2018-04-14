@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2006-11-29",
+			"EventType": "add",
+			"OUI": "001A4E",
+			"OUISize": 24,
+			"OrgAddress": "Haerdlistrasse 15\\nSpreitenbach AG 8957\\n\\n",
+			"OrgCountry": "SWITZERLAND",
+			"OrgName": "NTI AG / LinMot",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "001A4E",
+			"OUISize": 24,
+			"OrgAddress": "Haerdlistrasse 15\\nSpreitenbach  AG  8957\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "NTI AG / LinMot",
+			"Source": "IEEE"
+		}
+	]
+}

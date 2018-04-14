@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "1998-04-22",
+			"EventType": "add",
+			"OUI": "006065",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIE-ELEKTRONIC GMBH\\nEGGELSBERG 120\\n5142 EGGELSBERG\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "BERNECKER & RAINER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "006065",
+			"OUISize": 24,
+			"OrgAddress": "INDUSTRIE-ELEKTRONIC GMBH\\nEGGELSBERG 120 5142 EGGELSBERG\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "BERNECKER & RAINER",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2002-06-05",
+			"EventType": "change",
+			"OUI": "006065",
+			"OUISize": 24,
+			"OrgAddress": "EGGELSBERG 120\\n5142 EGGELSBERG\\n\\n",
+			"OrgCountry": "AUSTRIA",
+			"OrgName": "BERNECKER & RAINER INDUSTRIE-ELEKTRONIC GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "006065",
+			"OUISize": 24,
+			"OrgAddress": "EGGELSBERG 120\\n5142 EGGELSBERG\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "BERNECKER & RAINER INDUSTRIE-ELEKTRONIC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

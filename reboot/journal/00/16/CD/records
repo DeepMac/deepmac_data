@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-12-15",
+			"EventType": "add",
+			"OUI": "0016CD",
+			"OUISize": 24,
+			"OrgAddress": "Ohga 8133\\nHiji\\nHayami Oita 879-1504\\n",
+			"OrgCountry": "JAPAN",
+			"OrgName": "HIJI HIGH-TECH CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "0016CD",
+			"OUISize": 24,
+			"OrgAddress": "Ohga 8133\\nHayami  Oita  879-1504\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "HIJI HIGH-TECH CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

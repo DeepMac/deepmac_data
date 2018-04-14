@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2009-08-25",
+			"EventType": "add",
+			"OUI": "688540",
+			"OUISize": 24,
+			"OrgAddress": "4F Kyongnam Bldg.,\\n830-48 Yoksam-dong, Kangnam-gu\\nSeoul  135-080\\n",
+			"OrgCountry": "KOREA, REPUBLIC OF",
+			"OrgName": "IGI Mobile, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "688540",
+			"OUISize": 24,
+			"OrgAddress": "4F Kyongnam Bldg.,\\nSeoul    135-080\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "IGI Mobile, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C2CF1",
+			"OUISize": 36,
+			"OrgAddress": "125 N. Central Dr.\\nO&#39;Fallon MO 63366\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TelGaAs, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C2CF1",
+			"OUISize": 36,
+			"OrgAddress": "125 N. Central Dr.\\nO'Fallon MO 63366\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "TelGaAs, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

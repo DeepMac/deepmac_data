@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C215D",
+			"OUISize": 36,
+			"OrgAddress": "1190 Borregas Ave.\\nSunnyvale CA 94089-1302\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cepheid",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-02-07",
+			"EventType": "change",
+			"OUI": "0050C215D",
+			"OUISize": 36,
+			"OrgAddress": "904 Caribbean Drive\\nSunnyvale CA 94089\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Cepheid",
+			"Source": "IEEE"
+		}
+	]
+}

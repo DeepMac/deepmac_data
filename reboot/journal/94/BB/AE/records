@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-06-18",
+			"EventType": "add",
+			"OUI": "94BBAE",
+			"OUISize": 24,
+			"OrgAddress": "Drottninggatan 2\\nHuskvarna Sweden 56131\\n\\n",
+			"OrgCountry": "SWEDEN",
+			"OrgName": "Husqvarna AB",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "94BBAE",
+			"OUISize": 24,
+			"OrgAddress": "Drottninggatan 2\\nHuskvarna  Sweden  56131\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Husqvarna AB",
+			"Source": "IEEE"
+		}
+	]
+}

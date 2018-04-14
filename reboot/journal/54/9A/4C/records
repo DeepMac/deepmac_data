@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-08-25",
+			"EventType": "add",
+			"OUI": "549A4C",
+			"OUISize": 24,
+			"OrgAddress": "8F,12#, Taihua Industrial Park, Hangkong Rd., Gushuï¼ Baoan District\\nShenzhen  Guangdong  518128\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GUANGDONG HOMECARE TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

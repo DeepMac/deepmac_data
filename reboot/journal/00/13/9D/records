@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2005-02-06",
+			"EventType": "add",
+			"OUI": "00139D",
+			"OUISize": 24,
+			"OrgAddress": "C/ Charles Robert Darwin, 2\\nPaterna Valencia 46980\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Design of Systems on Silicon S.A.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-10-22",
+			"EventType": "change",
+			"OUI": "00139D",
+			"OUISize": 24,
+			"OrgAddress": "C/ Charles Robert Darwin, 2\\nParc Tecnologic Paterna 46980\\n\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Marvell Hispana S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2013-03-28",
+			"EventType": "change",
+			"OUI": "00139D",
+			"OUISize": 24,
+			"OrgAddress": "C/Charles Robert Darwin, 2\\nParc Tecnologic\\nValencia Paterna 46980\\n",
+			"OrgCountry": "SPAIN",
+			"OrgName": "Marvell Hispana S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00139D",
+			"OUISize": 24,
+			"OrgAddress": "C/Charles Robert Darwin, 2\\nValencia  Paterna  46980\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "Marvell Hispana S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-21",
+			"EventType": "change",
+			"OUI": "00139D",
+			"OUISize": 24,
+			"OrgAddress": "Ronda Narcis Monturiol\\nEstarriol, 11D  Paterna  46980\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "MaxLinear Hispana S.L.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-04-25",
+			"EventType": "change",
+			"OUI": "00139D",
+			"OUISize": 24,
+			"OrgAddress": "Ronda Narcis Monturiol\\nEstarriol, 11D  Paterna  46980\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "MaxLinear Hispania S.L.U.",
+			"Source": "IEEE"
+		}
+	]
+}

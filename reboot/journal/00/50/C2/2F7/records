@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C22F7",
+			"OUISize": 36,
+			"OrgAddress": "Mont St Martin 58\\nLIEGE  4000\\n\\n",
+			"OrgCountry": "BELGIUM",
+			"OrgName": "GILLAM-FEI S.A.",
+			"Source": "IEEE"
+		}
+	]
+}

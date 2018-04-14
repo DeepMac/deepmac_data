@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2011-02-21",
+			"EventType": "add",
+			"OUI": "0050C23DE",
+			"OUISize": 36,
+			"OrgAddress": "via Friuli 4\\nDalmine Bergamo 24044\\n\\n",
+			"OrgCountry": "ITALY",
+			"OrgName": "ABB Power Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

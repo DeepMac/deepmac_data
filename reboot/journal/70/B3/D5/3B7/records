@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-10-21",
+			"EventType": "add",
+			"OUI": "70B3D53B7",
+			"OUISize": 36,
+			"OrgAddress": "WHGA/U130\\nVilligen-PSI  Aargau  CH-5232\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Paul Scherrer Institut (PSI)",
+			"Source": "IEEE"
+		}
+	]
+}

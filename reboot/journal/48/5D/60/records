@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-07-21",
+			"EventType": "add",
+			"OUI": "485D60",
+			"OUISize": 24,
+			"OrgAddress": "8F ., No.94, Baozhong Rd.\\nXindian City Taipei County 231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Azurewave Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2010-08-28",
+			"EventType": "change",
+			"OUI": "485D60",
+			"OUISize": 24,
+			"OrgAddress": "8F ., No.94, Baozhong Rd.\\nXindian City Taipei County 231\\n\\n",
+			"OrgCountry": "TAIWAN, REPUBLIC OF CHINA",
+			"OrgName": "Azurewave Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2012-11-29",
+			"EventType": "change",
+			"OUI": "485D60",
+			"OUISize": 24,
+			"OrgAddress": "8F ., No.94, Baozhong Rd.\\nXindian City Taipei County 231\\n\\n",
+			"OrgCountry": "TAIWAN, PROVINCE OF CHINA",
+			"OrgName": "Azurewave Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "485D60",
+			"OUISize": 24,
+			"OrgAddress": "8F ., No.94, Baozhong Rd.\\nXindian City  Taipei County  231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Azurewave Technologies, Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-10-30",
+			"EventType": "change",
+			"OUI": "485D60",
+			"OUISize": 24,
+			"OrgAddress": "8F ., No.94, Baozhong Rd.\\nXindian City  Taipei County  231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AzureWave Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

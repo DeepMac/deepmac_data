@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-06-11",
+			"EventType": "add",
+			"OUI": "70F8E7C",
+			"OUISize": 28,
+			"OrgAddress": "1-11-1 Ohsaki\\nShinagawa-ku  TOKYO  141-0032\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Fixstars Corporation",
+			"Source": "IEEE"
+		}
+	]
+}
