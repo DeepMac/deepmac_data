@@ -54,6 +54,17 @@
 			"OrgCountry": "SE",
 			"OrgName": "SCAN COIN Industries AB",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-25",
+			"EventType": "change",
+			"OUI": "001A31",
+			"OUISize": 24,
+			"OrgAddress": "Jagershillgatan 26\\nMalmÃ¶  SkÃ¥ne  21375\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "SCAN COIN AB",
+			"Source": "IEEE"
 		}
 	]
 }

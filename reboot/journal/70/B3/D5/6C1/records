@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-19",
+			"EventType": "add",
+			"OUI": "70B3D56C1",
+			"OUISize": 36,
+			"OrgAddress": "Via di Cervara 49\\nRome  Italy  00155\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Labtronik s.r.l.",
+			"Source": "IEEE"
+		}
+	]
+}

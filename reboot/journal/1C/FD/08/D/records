@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-26",
+			"EventType": "add",
+			"OUI": "1CFD08D",
+			"OUISize": 28,
+			"OrgAddress": "No.15 HaitaiFazhanErlu Road, Binhai Hi-tech Industrial Huayuan Development Area(Outer Ring)\\nTianjin  Tianjin  300392\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Tianjin Keyvia Electric Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

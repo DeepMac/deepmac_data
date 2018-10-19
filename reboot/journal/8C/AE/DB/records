@@ -1,0 +1,59 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "8CAEDB",
+			"OUISize": 24,
+			"OrgAddress": "Predelnaya st 57/2\\nEkaterinburg  Sverdlovskaya oblast   620161\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "NAG LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-18",
+			"EventType": "delete",
+			"OUI": "8CAEDB",
+			"OUISize": 24,
+			"OrgAddress": "Predelnaya st 57/2\\nEkaterinburg  Sverdlovskaya oblast   620161\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "NAG LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-19",
+			"EventType": "add",
+			"OUI": "8CAEDB",
+			"OUISize": 24,
+			"OrgAddress": "Predelnaya st 57/2\\nEkaterinburg  Sverdlovskaya oblast   620161\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "NAG LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-20",
+			"EventType": "delete",
+			"OUI": "8CAEDB",
+			"OUISize": 24,
+			"OrgAddress": "Predelnaya st 57/2\\nEkaterinburg  Sverdlovskaya oblast   620161\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "NAG LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "add",
+			"OUI": "8CAEDB",
+			"OUISize": 24,
+			"OrgAddress": "Predelnaya st 57/2\\nEkaterinburg  Sverdlovskaya oblast   620161\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "NAG LLC",
+			"Source": "IEEE"
+		}
+	]
+}

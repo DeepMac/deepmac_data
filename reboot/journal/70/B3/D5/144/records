@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-27",
+			"EventType": "add",
+			"OUI": "70B3D5144",
+			"OUISize": 36,
+			"OrgAddress": "Hauswiesenstr. 26\\nKaufering  Bayern  86916\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "GS Elektromedizinsiche GerÃ¤te G. Stemple GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

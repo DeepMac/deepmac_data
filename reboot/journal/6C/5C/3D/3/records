@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-26",
+			"EventType": "add",
+			"OUI": "6C5C3D3",
+			"OUISize": 28,
+			"OrgAddress": "A3 bldg, Kwong Ming, Technology Industrial Zone, Shiwan Town, Boluo County\\nHuizhou  Guangdong  516100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "KWONG MING ELECTRICAL MANUFACTORY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-09",
+			"EventType": "add",
+			"OUI": "70B3D545B",
+			"OUISize": 36,
+			"OrgAddress": "Pravobulachnaya 35/2\\nKazan    420111\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "KOMZ - IZMERENIYA",
+			"Source": "IEEE"
+		}
+	]
+}

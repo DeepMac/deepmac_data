@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-21",
+			"EventType": "add",
+			"OUI": "300A60B",
+			"OUISize": 28,
+			"OrgAddress": "Am Weichselgarten 7\\nErlangen    91058\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Giax GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

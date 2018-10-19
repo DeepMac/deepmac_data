@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-23",
+			"EventType": "add",
+			"OUI": "885FE88",
+			"OUISize": 28,
+			"OrgAddress": "NO.5 Dongsan Rd, Changsha Economic & Technical Zone\\nChangsha  HuNan  410100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Changsha Xiangji-Haidun Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

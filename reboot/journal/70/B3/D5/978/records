@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-10",
+			"EventType": "add",
+			"OUI": "70B3D5978",
+			"OUISize": 36,
+			"OrgAddress": "12 Hamada st.\\nRehovot    7670300\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Satixfy Israel Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

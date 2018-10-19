@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-28",
+			"EventType": "add",
+			"OUI": "A4D931",
+			"OUISize": 24,
+			"OrgAddress": "1 Infinite Loop\\nCupertino  CA  95014\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Apple, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-19",
+			"EventType": "add",
+			"OUI": "1CFD08B",
+			"OUISize": 28,
+			"OrgAddress": "room 502, building 2, no. 6, haijing road, xinzao town, panyu district\\nguangzhou  guangdong  511436\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "guangzhou huiqun intelligent technology co. LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-07",
+			"EventType": "add",
+			"OUI": "A4ED438",
+			"OUISize": 28,
+			"OrgAddress": "Vielitzer Str. 43\\nSelb    95100\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Linseis Messgeraete GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

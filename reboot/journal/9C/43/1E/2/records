@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-14",
+			"EventType": "add",
+			"OUI": "9C431E2",
+			"OUISize": 28,
+			"OrgAddress": "8F, Haesung 2 Building, 508, Teheran-ro, Gangnam-gu\\nSeoul    06178\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "HAESUNG DS",
+			"Source": "IEEE"
+		}
+	]
+}

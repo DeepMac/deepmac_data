@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-06",
+			"EventType": "add",
+			"OUI": "70169F",
+			"OUISize": 24,
+			"OrgAddress": "Ostendstr. 196\\nNUremberg    90482\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EtherCAT Technology Group",
+			"Source": "IEEE"
+		}
+	]
+}

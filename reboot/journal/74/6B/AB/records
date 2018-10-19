@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-14",
+			"EventType": "add",
+			"OUI": "746BAB",
+			"OUISize": 24,
+			"OrgAddress": "NO.139 Lixiang road, Songmushan Dalang Town\\nDongguan, Guangdong    523770\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GUANGDONG ENOK COMMUNICATION CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-09",
+			"EventType": "add",
+			"OUI": "2C48356",
+			"OUISize": 28,
+			"OrgAddress": "Kampusranta 9 C\\nSeinÃ¤joki    60320\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Exertus Oy",
+			"Source": "IEEE"
+		}
+	]
+}

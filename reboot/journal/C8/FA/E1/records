@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-15",
+			"EventType": "add",
+			"OUI": "C8FAE1",
+			"OUISize": 24,
+			"OrgAddress": "2430 Auto Park Way\\nEscondido  CA  92029\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ARQ Digital LLC",
+			"Source": "IEEE"
+		}
+	]
+}

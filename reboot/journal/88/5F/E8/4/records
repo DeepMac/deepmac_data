@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-20",
+			"EventType": "add",
+			"OUI": "885FE84",
+			"OUISize": 28,
+			"OrgAddress": "Room 205,2/F,No.1 Fazhan Road Beijing information international base Huilongguan town Changping district Beijing\\nBeijing  Beijing  102206\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing laiwei Technology  Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

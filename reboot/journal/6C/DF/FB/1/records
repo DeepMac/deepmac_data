@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "6CDFFB1",
+			"OUISize": 28,
+			"OrgAddress": "No.2,1 Floor,Kelly Building,No.115 Xingtong Avenue,Guilin Street office, Tongnan District\\nChongqing  Chongqing  402660\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Chongqing Baoli Yota Technologies Limited",
+			"Source": "IEEE"
+		}
+	]
+}

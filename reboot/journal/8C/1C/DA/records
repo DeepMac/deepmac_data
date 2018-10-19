@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-26",
+			"EventType": "add",
+			"OUI": "8C1CDA",
+			"OUISize": 24,
+			"OrgAddress": "445 Hoes Lane\\nPiscataway  NJ  08554\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "IEEE Registration Authority",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-26",
+			"EventType": "add",
+			"OUI": "E0AF4F",
+			"OUISize": 24,
+			"OrgAddress": "Friedrich-Ebert-Allee 140\\nBonn    53113\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Deutsche Telekom AG",
+			"Source": "IEEE"
+		}
+	]
+}

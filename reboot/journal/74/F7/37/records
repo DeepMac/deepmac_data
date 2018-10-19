@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-28",
+			"EventType": "add",
+			"OUI": "74F737",
+			"OUISize": 24,
+			"OrgAddress": "5F KCE B/D,34,Annam-ro 369beon-gil,Bupyoung-gu\\nIncheon    21312\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "KCE",
+			"Source": "IEEE"
+		}
+	]
+}

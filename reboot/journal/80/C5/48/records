@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-12",
+			"EventType": "add",
+			"OUI": "80C548",
+			"OUISize": 24,
+			"OrgAddress": "NO.5 Zowee technology building, Science & Technology industrial park of privately  Science & Technology industrial park of privately owned enterprises\\nShenzhen  GuangDong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Zowee Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

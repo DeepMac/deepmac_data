@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Enginuity Communications",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-15",
+			"EventType": "change",
+			"OUI": "0060BD",
+			"OUISize": 24,
+			"OrgAddress": "3545 Stern Avenue\\nSt Charles  IL  60174\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Enginuity Communications",
+			"Source": "IEEE"
 		}
 	]
 }

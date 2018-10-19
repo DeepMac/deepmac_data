@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-28",
+			"EventType": "add",
+			"OUI": "F041C87",
+			"OUISize": 28,
+			"OrgAddress": "Room 319, Jiaoqiao Town Office Building, Economic and Technical development zone, Nanchang City, Jiangxi Province.\\nNanchang    330013\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanchang BlackShark Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

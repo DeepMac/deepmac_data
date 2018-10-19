@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-20",
+			"EventType": "add",
+			"OUI": "1CFD083",
+			"OUISize": 28,
+			"OrgAddress": "Room 1208-09, Research Building, Tsinghua Information Port, No. 1, Xindong Road, Nanshan District, Shenzhen\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Umeox Innovations Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

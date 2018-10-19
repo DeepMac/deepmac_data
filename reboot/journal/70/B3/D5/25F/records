@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "70B3D525F",
+			"OUISize": 36,
+			"OrgAddress": "185 avenue Archimede\\nAix en Provence    13857\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "COPPERNIC SAS",
+			"Source": "IEEE"
+		}
+	]
+}

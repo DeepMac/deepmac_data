@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-03",
+			"EventType": "add",
+			"OUI": "8C1CDA6",
+			"OUISize": 28,
+			"OrgAddress": "3350 Scott Blvd, Bldg 56\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "LocoLabs LLC",
+			"Source": "IEEE"
+		}
+	]
+}

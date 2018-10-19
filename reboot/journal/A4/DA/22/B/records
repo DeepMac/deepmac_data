@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-10",
+			"EventType": "add",
+			"OUI": "A4DA22B",
+			"OUISize": 28,
+			"OrgAddress": "441 Maclaren Street, Suite 408\\nOttawa  ON  K2P2H3\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Klashwerks Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-03",
+			"EventType": "add",
+			"OUI": "A019B26",
+			"OUISize": 28,
+			"OrgAddress": "Kloennestrasse 99\\nDortmund    44143\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "GfG mbH",
+			"Source": "IEEE"
+		}
+	]
+}

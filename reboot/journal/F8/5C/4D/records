@@ -10,6 +10,28 @@
 			"OrgCountry": "US",
 			"OrgName": "NOKIA",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-26",
+			"EventType": "change",
+			"OUI": "F85C4D",
+			"OUISize": 24,
+			"OrgAddress": "1 Robbins Road\\nWestford  MA  01886-4113\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NOKIA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-01",
+			"EventType": "change",
+			"OUI": "F85C4D",
+			"OUISize": 24,
+			"OrgAddress": "1 Robbins Road\\nWestford  MA  01886-4113\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Nokia",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-12",
+			"EventType": "add",
+			"OUI": "A83FA1C",
+			"OUISize": 28,
+			"OrgAddress": "15-3,Eonnam-Gil,Seocho-gu\\nSeoul    06779\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Laonz Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

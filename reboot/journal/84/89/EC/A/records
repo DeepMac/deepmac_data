@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-17",
+			"EventType": "add",
+			"OUI": "8489ECA",
+			"OUISize": 28,
+			"OrgAddress": "221 River Street\\nHoboken  NJ  07030\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Newell Brands",
+			"Source": "IEEE"
+		}
+	]
+}

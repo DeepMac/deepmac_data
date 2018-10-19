@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-26",
+			"EventType": "add",
+			"OUI": "C074AD",
+			"OUISize": 24,
+			"OrgAddress": "1297 Beacon Street\\nBrookline  MA  02446\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Grandstream Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

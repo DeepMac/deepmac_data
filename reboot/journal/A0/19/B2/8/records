@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-02",
+			"EventType": "add",
+			"OUI": "A019B28",
+			"OUISize": 28,
+			"OrgAddress": "Lohwiese 7\\nScheuring  Bavaria  86937\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MIS Industrie Systeme GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

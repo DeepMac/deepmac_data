@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-02",
+			"EventType": "add",
+			"OUI": "90A137",
+			"OUISize": 24,
+			"OrgAddress": "4 Floor,Taixing Tower,No.11 Huayuan East Road. Haidian District\\nBeijing  Beijing  100191\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Splendidtel Communication Technology Co,. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

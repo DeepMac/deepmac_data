@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-02",
+			"EventType": "add",
+			"OUI": "A019B22",
+			"OUISize": 28,
+			"OrgAddress": "7F Building D, Tsinghua Tongfang High-Tech PlazaRoom 1706, BuildingÂ D-East,Â TsinghuaÂ TongfangÂ High-TechÂ Plaza Haidian District, Beijing, 100083, China\\nBEIJING  HAIDIAN  100083\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Deephi Intelligent Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

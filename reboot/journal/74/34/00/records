@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-24",
+			"EventType": "add",
+			"OUI": "743400",
+			"OUISize": 24,
+			"OrgAddress": "MTG No. 2 HIKARI Bldg., 4-13 Honjindori\\nNakamura-ku, Nagoya  Aichi  453-0041\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "MTG Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

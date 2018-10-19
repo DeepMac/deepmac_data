@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-10",
+			"EventType": "add",
+			"OUI": "9CF6DD8",
+			"OUISize": 28,
+			"OrgAddress": "2005 De la cruz blvd, st 111,\\nsanta clara  CA  95050\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Savari Inc",
+			"Source": "IEEE"
+		}
+	]
+}

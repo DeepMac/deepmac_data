@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-20",
+			"EventType": "add",
+			"OUI": "C4FDE6",
+			"OUISize": 24,
+			"OrgAddress": "29, Dunchon-daero 541beon-gil, Jungwon-gu\\nSeongnam  Gyeonggi-do  13216\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DRTECH",
+			"Source": "IEEE"
+		}
+	]
+}

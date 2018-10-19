@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-12",
+			"EventType": "add",
+			"OUI": "3C427E0",
+			"OUISize": 28,
+			"OrgAddress": "Block 7, Zhu Keng Industrial Zone\\nPing Shan District  Shenzhen  518118\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Grandway Technology (Shenzhen) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

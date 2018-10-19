@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-03",
+			"EventType": "add",
+			"OUI": "70B3D5248",
+			"OUISize": 36,
+			"OrgAddress": "No. Ten Changchun Road\\nZHENGZHOU  HENAN  455000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GL TECH CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-21",
+			"EventType": "add",
+			"OUI": "4428A3",
+			"OUISize": 24,
+			"OrgAddress": "The south of lanling road, yongan new district\\nDanyang   Jiangsu  212300\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Jiangsu fulian  Communication Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

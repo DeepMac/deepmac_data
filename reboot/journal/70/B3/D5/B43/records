@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "add",
+			"OUI": "70B3D5B43",
+			"OUISize": 36,
+			"OrgAddress": "Khachaturiana 14a\\nMoscow    127562\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "ZAO ZEO",
+			"Source": "IEEE"
+		}
+	]
+}

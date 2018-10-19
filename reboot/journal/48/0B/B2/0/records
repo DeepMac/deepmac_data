@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-09",
+			"EventType": "add",
+			"OUI": "480BB20",
+			"OUISize": 28,
+			"OrgAddress": "PÃ¤rnu maantee 139E/13\\n\\n\\n",
+			"OrgCountry": "Tallinn  Harjumaa  11317",
+			"OrgName": "Ridango AS",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-10",
+			"EventType": "change",
+			"OUI": "480BB20",
+			"OUISize": 28,
+			"OrgAddress": "PÃ¤rnu maantee 139E/13\\nTallinn  Harjumaa  11317\\n\\n",
+			"OrgCountry": "EE",
+			"OrgName": "Ridango AS",
+			"Source": "IEEE"
+		}
+	]
+}

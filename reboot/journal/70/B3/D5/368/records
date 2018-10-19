@@ -10,6 +10,17 @@
 			"OrgCountry": "Seattle    98104",
 			"OrgName": "White Matter LLC",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-09-30",
+			"EventType": "change",
+			"OUI": "70B3D5368",
+			"OUISize": 36,
+			"OrgAddress": "999 3rd Ave 700\\nSeattle    98104\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "White Matter LLC",
+			"Source": "IEEE"
 		}
 	]
 }

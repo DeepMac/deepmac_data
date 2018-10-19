@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-29",
+			"EventType": "add",
+			"OUI": "F041C86",
+			"OUISize": 28,
+			"OrgAddress": "Taunusstr. 51\\nMunich  Bavaria  80807\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AED Engineering GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-16",
+			"EventType": "add",
+			"OUI": "A8D498",
+			"OUISize": 24,
+			"OrgAddress": "Kaplaneiweg 1\\nTettnang  Baden-Wuerttermberg  88069\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Avira Operations GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

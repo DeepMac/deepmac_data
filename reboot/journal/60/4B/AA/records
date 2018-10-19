@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-15",
+			"EventType": "add",
+			"OUI": "604BAA",
+			"OUISize": 24,
+			"OrgAddress": "1855 Griffin Rd, Room B454\\nDania Beach  FL  33004\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Magic Leap, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-05",
+			"EventType": "add",
+			"OUI": "70B3D5F8F",
+			"OUISize": 36,
+			"OrgAddress": "PraÃ§a Rotary Club, 355\\nRibeirÃ£o Preto  SÃ£o Paulo  14021-355\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "DIMASTEC GESTAO DE PONTO E ACESSO EIRELI-ME",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-17",
+			"EventType": "add",
+			"OUI": "9C431EA",
+			"OUISize": 28,
+			"OrgAddress": "3F., No. 111 Zhongzheng Rd., Banciao Dist., New Taipei City\\nNew Taipei City    22054\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ST Access Control System Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

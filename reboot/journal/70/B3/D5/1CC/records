@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-29",
+			"EventType": "add",
+			"OUI": "70B3D51CC",
+			"OUISize": 36,
+			"OrgAddress": "Siming District office building 14, Fu Lian\\nXiamen  Fujian  361000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "AooGee Controls Co., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

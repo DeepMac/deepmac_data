@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-14",
+			"EventType": "add",
+			"OUI": "04C3E6C",
+			"OUISize": 28,
+			"OrgAddress": "Chenghua Industrial Zoneï¼Wenguan Roadï¼Chenghai District\\nShantou City  Guangdong  515800\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHANTOU YINGSHENG IMPORT & EXPORT TRADING CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

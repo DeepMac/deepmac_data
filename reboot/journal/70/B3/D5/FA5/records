@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-30",
+			"EventType": "add",
+			"OUI": "70B3D5FA5",
+			"OUISize": 36,
+			"OrgAddress": "7th Floor, Yuemei Building, Gaoxin South Road, Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Hui Rui Tianyan Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

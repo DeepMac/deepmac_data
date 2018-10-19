@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-24",
+			"EventType": "add",
+			"OUI": "C08359B",
+			"OUISize": 28,
+			"OrgAddress": "8 floor of Jincheng star, Yunhe road NO.150, gaoxin Zone, Suzhou\\nSuzhou    215000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Suzhou Siheng Science and Technology Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-28",
+			"EventType": "add",
+			"OUI": "582D34",
+			"OUISize": 24,
+			"OrgAddress": "Room 304, A3 Building, NO.88 Dongchang Road, Suzhou Industrial Park\\nSuzhou  Jiangsu Province  215028\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingping Electronics (Suzhou) Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

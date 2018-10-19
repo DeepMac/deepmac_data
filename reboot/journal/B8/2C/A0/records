@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Honeywell HomMed",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-28",
+			"EventType": "change",
+			"OUI": "B82CA0",
+			"OUISize": 24,
+			"OrgAddress": "2 Corporate Center Dr.\\nMelville  NY  11747\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Resideo",
+			"Source": "IEEE"
 		}
 	]
 }

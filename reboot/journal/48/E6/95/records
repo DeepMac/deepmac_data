@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-22",
+			"EventType": "add",
+			"OUI": "48E695",
+			"OUISize": 24,
+			"OrgAddress": "43490, Yukon Drive, Suite 102\\nAshburn  VA  20147\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Insigma Inc",
+			"Source": "IEEE"
+		}
+	]
+}

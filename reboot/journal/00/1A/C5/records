@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "BreakingPoint Systems, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-24",
+			"EventType": "change",
+			"OUI": "001AC5",
+			"OUISize": 24,
+			"OrgAddress": "1400 Fountaingrove Pkwy.\\nSanta Rosa  CA  95403\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Keysight Technologies, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

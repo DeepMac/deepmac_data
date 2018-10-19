@@ -43,6 +43,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "AMBER wireless GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-07",
+			"EventType": "change",
+			"OUI": "0018DA",
+			"OUISize": 24,
+			"OrgAddress": "Max-Eyth-StraÃe 1\\nWaldenburg    74638\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "WÃ¼rth Elektronik eiSos GmbH & Co. KG",
+			"Source": "IEEE"
 		}
 	]
 }

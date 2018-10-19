@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-07",
+			"EventType": "add",
+			"OUI": "B0B3AD",
+			"OUISize": 24,
+			"OrgAddress": "HUMAX Village, 216, Hwangsaeul-ro, Bu\\nSeongnam-si  Gyeonggi-do  463-875\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "HUMAX Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

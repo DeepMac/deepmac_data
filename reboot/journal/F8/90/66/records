@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-26",
+			"EventType": "add",
+			"OUI": "F89066",
+			"OUISize": 24,
+			"OrgAddress": "Aoyamadai building 902, Shibuya 2-9-10, Shibuya-ku\\nTokyo    150-0002\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Nain Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

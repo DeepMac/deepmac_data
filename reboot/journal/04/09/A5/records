@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-31",
+			"EventType": "add",
+			"OUI": "0409A5",
+			"OUISize": 24,
+			"OrgAddress": "5F, Hana EZ Tower\\nSungnam-si  Kyunggi-do  463-870\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "HFR, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

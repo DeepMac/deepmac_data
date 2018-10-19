@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Echostar Technologies Corp",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-06",
+			"EventType": "change",
+			"OUI": "285767",
+			"OUISize": 24,
+			"OrgAddress": "94 Inverness Terrace E\\nEnglewood  CO  80112\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dish Technologies Corp",
+			"Source": "IEEE"
 		}
 	]
 }

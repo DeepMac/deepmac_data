@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-07",
+			"EventType": "add",
+			"OUI": "F041C88",
+			"OUISize": 28,
+			"OrgAddress": "A208 Samsong Techno Valley, 140 Tongil-ro, Deogyang-gu\\nKoyang-si  Kyeonggi-do  10594\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "POSTIUM KOREA CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

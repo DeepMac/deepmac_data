@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Sonos, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-21",
+			"EventType": "change",
+			"OUI": "000E58",
+			"OUISize": 24,
+			"OrgAddress": "614 Chapala St\\nSanta Barbara  CA  93101\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Sonos, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

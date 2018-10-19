@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-25",
+			"EventType": "add",
+			"OUI": "3C24F04",
+			"OUISize": 28,
+			"OrgAddress": "5750 E McKellips Rd\\nMesa  AZ  85215\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Inter-Coastal Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

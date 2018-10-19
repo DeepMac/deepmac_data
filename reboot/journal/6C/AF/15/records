@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-23",
+			"EventType": "add",
+			"OUI": "6CAF15",
+			"OUISize": 24,
+			"OrgAddress": "Kraillinger StraÃe 5\\nStockdorf  Bayern  82131\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Webasto SE",
+			"Source": "IEEE"
+		}
+	]
+}

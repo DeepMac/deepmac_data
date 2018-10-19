@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-16",
+			"EventType": "add",
+			"OUI": "A4DA220",
+			"OUISize": 28,
+			"OrgAddress": "Valle del Cedro #1551\\nCiudad Juarez  Chih  32575\\n\\n",
+			"OrgCountry": "MX",
+			"OrgName": "General Electric Company",
+			"Source": "IEEE"
+		}
+	]
+}

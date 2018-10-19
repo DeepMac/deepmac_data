@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-30",
+			"EventType": "add",
+			"OUI": "70B3D59D1",
+			"OUISize": 36,
+			"OrgAddress": "Wachtelstrasse 81\\nHamburg    22305\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "OS42 UG (haftungsbeschraenkt)",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-03",
+			"EventType": "add",
+			"OUI": "3C6A2C5",
+			"OUISize": 28,
+			"OrgAddress": "Room416, Science and Technology Park, Ocean University of China, No.23 HongKongEast Road\\nQingdao  Shandong  266100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao iGuan Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

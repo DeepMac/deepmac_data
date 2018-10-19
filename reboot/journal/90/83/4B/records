@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-28",
+			"EventType": "add",
+			"OUI": "90834B",
+			"OUISize": 24,
+			"OrgAddress": "1-411Room 19#Building No.26 Xihuan South Rd. BDA Daxing District,\\nBEIJING    100176\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "BEIJING YUNYI TIMES TECHNOLOGY CO,.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

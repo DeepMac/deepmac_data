@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-12",
+			"EventType": "add",
+			"OUI": "68A47D",
+			"OUISize": 24,
+			"OrgAddress": "16/F, CEO Tower, 77 Wing Hong Street, Kowloon\\nHong Kong    00000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Sun Cupid Technology (HK) LTD",
+			"Source": "IEEE"
+		}
+	]
+}

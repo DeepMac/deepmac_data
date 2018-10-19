@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-01",
+			"EventType": "add",
+			"OUI": "E8DE00",
+			"OUISize": 24,
+			"OrgAddress": "2F, A District,No.3 Middle Section of Mount Huangshan Avenue\\nChongQing  ChongQing  401121\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ChongQing GuanFang Technology Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-16",
+			"EventType": "add",
+			"OUI": "20AD56",
+			"OUISize": 24,
+			"OrgAddress": "21440 W. Lake Cook Rd.\\nDeer Park  IL  60010\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Continental Automotive Systems Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

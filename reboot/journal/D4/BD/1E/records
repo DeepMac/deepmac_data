@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-30",
+			"EventType": "add",
+			"OUI": "D4BD1E",
+			"OUISize": 24,
+			"OrgAddress": "6F,No.19-9,SanChong Rd.,Nangang Dist,\\nTaipei    11501\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "5VT Technologies,Taiwan LTd.",
+			"Source": "IEEE"
+		}
+	]
+}

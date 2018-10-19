@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-15",
+			"EventType": "add",
+			"OUI": "0CFE5DE",
+			"OUISize": 28,
+			"OrgAddress": "2F., No.200, Sec. 2, Gaotie N. Rd., Dayuan Dist., Taoyuan City 337, Taiwan (R.O.C.)\\nTaoyuan City    33743\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "NEWGREEN TECH CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

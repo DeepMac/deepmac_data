@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-23",
+			"EventType": "add",
+			"OUI": "2C4759",
+			"OUISize": 24,
+			"OrgAddress": "Room 2201,No.8,Ruichuang International B Block,Wangjing East Road\\nBeijing    100102\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing MEGA preponderance Science & Technology Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

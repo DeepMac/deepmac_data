@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-03",
+			"EventType": "add",
+			"OUI": "3C427E7",
+			"OUISize": 28,
+			"OrgAddress": "305, Qianhai Innovation and Entrepreneur Hub, Bldg. C Qianwan 1st Rd., Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GJS Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

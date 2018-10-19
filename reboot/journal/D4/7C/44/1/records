@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-13",
+			"EventType": "add",
+			"OUI": "D47C441",
+			"OUISize": 28,
+			"OrgAddress": "Atir Yeda 15\\nKfar Saba  Ha Sharon  4464312\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Innoviz Technologies LTD",
+			"Source": "IEEE"
+		}
+	]
+}

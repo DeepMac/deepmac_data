@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-21",
+			"EventType": "add",
+			"OUI": "70B3D508C",
+			"OUISize": 36,
+			"OrgAddress": "35 Meadowbrook Dr\\nMilford  NH  03055\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Airmar Technology Corp",
+			"Source": "IEEE"
+		}
+	]
+}

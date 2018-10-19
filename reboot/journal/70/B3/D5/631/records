@@ -21,6 +21,17 @@
 			"OrgCountry": "BE",
 			"OrgName": "SENSO2ME bvba",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-15",
+			"EventType": "change",
+			"OUI": "70B3D5631",
+			"OUISize": 36,
+			"OrgAddress": "Zandhoef  16\\nKASTERLEE  BelgiÃ«  2460\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "SENSO2ME",
+			"Source": "IEEE"
 		}
 	]
 }

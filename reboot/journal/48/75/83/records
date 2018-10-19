@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-13",
+			"EventType": "add",
+			"OUI": "487583",
+			"OUISize": 24,
+			"OrgAddress": "Schuppisstrasse 10\\nSt. Gallen  St. Gallen  9016\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Intellion AG",
+			"Source": "IEEE"
+		}
+	]
+}

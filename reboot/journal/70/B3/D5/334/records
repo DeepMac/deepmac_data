@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-11",
+			"EventType": "add",
+			"OUI": "70B3D5334",
+			"OUISize": 36,
+			"OrgAddress": "12-3 minami-matsunoki-cho higashi-kujo minami-ku\\nkyoto    6018023\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Dokuen Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-21",
+			"EventType": "add",
+			"OUI": "4C917A3",
+			"OUISize": 28,
+			"OrgAddress": "Nauchnuy Proezd 10\\nMoscow    117246\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Smart Access",
+			"Source": "IEEE"
+		}
+	]
+}

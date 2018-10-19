@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-17",
+			"EventType": "add",
+			"OUI": "7C6DA6",
+			"OUISize": 24,
+			"OrgAddress": "poselok Krasnaya Zarya, dom 15\\nVsevolozhskiy raiyon  Leningradskaya oblast  193149\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Superwave Group LLC",
+			"Source": "IEEE"
+		}
+	]
+}

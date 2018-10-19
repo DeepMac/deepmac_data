@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-29",
+			"EventType": "add",
+			"OUI": "70B3D57C0",
+			"OUISize": 36,
+			"OrgAddress": "The village of Rumyantsevo,  Build.1\\nMoscow  Moscow  142784\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "TORGOVYY DOM  TEHNOLOGIY LLC",
+			"Source": "IEEE"
+		}
+	]
+}

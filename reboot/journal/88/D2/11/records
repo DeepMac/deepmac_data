@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-25",
+			"EventType": "add",
+			"OUI": "88D211",
+			"OUISize": 24,
+			"OrgAddress": "2600 10th St Ste 260\\nBerkeley  CA  94710-2597\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Eko Devices, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

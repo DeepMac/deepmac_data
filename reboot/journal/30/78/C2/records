@@ -21,6 +21,61 @@
 			"OrgCountry": "KR",
 			"OrgName": "Innowireless, Co. Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-03",
+			"EventType": "change",
+			"OUI": "3078C2",
+			"OUISize": 24,
+			"OrgAddress": "1-301, Pangyo Seven Venture Valley 2-danji\\nSeongnam-Si  Gyeonggi-do  463-400\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "QUCELL Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-05",
+			"EventType": "change",
+			"OUI": "3078C2",
+			"OUISize": 24,
+			"OrgAddress": "1-301, Pangyo Seven Venture Valley 2-danji\\nSeongnam-Si  Gyeonggi-do  463-400\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Innowireless",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-10",
+			"EventType": "change",
+			"OUI": "3078C2",
+			"OUISize": 24,
+			"OrgAddress": "1-301, Pangyo Seven Venture Valley 2-danji\\nSeongnam-Si  Gyeonggi-do  463-400\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Innowireless / QUCELL Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "change",
+			"OUI": "3078C2",
+			"OUISize": 24,
+			"OrgAddress": "Innowireless Bldg.  190 Seohyeon-ro\\nBundang-gu, Seongnam-si  Gyeonggi-do  463-400\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Innowireless / QUCELL Networks",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-17",
+			"EventType": "change",
+			"OUI": "3078C2",
+			"OUISize": 24,
+			"OrgAddress": "Innowireless Bldg.  190 Seohyeon-ro\\nBundang-gu, Seongnam-si  Gyeonggi-do  13590\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Innowireless / QUCELL Networks",
+			"Source": "IEEE"
 		}
 	]
 }

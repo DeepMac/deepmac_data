@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-30",
+			"EventType": "add",
+			"OUI": "3C6A2C1",
+			"OUISize": 28,
+			"OrgAddress": "45 legin dr\\ncreskill  NJ  07626\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Olibra LLC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-23",
+			"EventType": "add",
+			"OUI": "885FE86",
+			"OUISize": 28,
+			"OrgAddress": "KingBrand Industrial Zone, Nanpu Road,Shang Liao Lin Pikeng,Shajing Town,Baoan District\\nShenzhen     518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Xin Kingbrand Enterprises Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

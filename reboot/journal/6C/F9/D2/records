@@ -10,6 +10,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Chengdu Goods for the Road Electronic Technology C",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-25",
+			"EventType": "change",
+			"OUI": "6CF9D2",
+			"OUISize": 24,
+			"OrgAddress": "High - West West West Center Road on the 4th\\nChengdu   Sichuan  611731\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CHENGDU POVODO ELECTRONIC TECHNOLOGY CO., LTD",
+			"Source": "IEEE"
 		}
 	]
 }

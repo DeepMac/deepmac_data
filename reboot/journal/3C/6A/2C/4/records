@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-03",
+			"EventType": "add",
+			"OUI": "3C6A2C4",
+			"OUISize": 28,
+			"OrgAddress": "5F,Building C,CLP Park,No.211, Tiangu 8 Road, High-tech Zone, Xi' an, Shanxi Province, China\\nXiâan  Shanxi   710001\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "XI'AN YEP TELECOM TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

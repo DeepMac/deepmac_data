@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-14",
+			"EventType": "add",
+			"OUI": "885FE80",
+			"OUISize": 28,
+			"OrgAddress": "Lawaetzstr. 9-13\\nNorderstedt    22844\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Jungheinrich Norderstedt AG & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

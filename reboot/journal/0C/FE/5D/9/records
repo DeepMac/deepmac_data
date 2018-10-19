@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-09",
+			"EventType": "add",
+			"OUI": "0CFE5D9",
+			"OUISize": 28,
+			"OrgAddress": "Martin Lingesvei 25\\nFornebu    1364\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Celerway Communication AS",
+			"Source": "IEEE"
+		}
+	]
+}

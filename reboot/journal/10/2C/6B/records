@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-09",
+			"EventType": "add",
+			"OUI": "102C6B",
+			"OUISize": 24,
+			"OrgAddress": "3F.,No.15-1 Zhonghua Road,Hsinchu Industrial Park, Hukou,Hsinchu, Taiwan (R.O.C.)\\nHsinchu  Taiwan ROC.  30352\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AMPAK Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

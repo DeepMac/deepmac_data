@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-27",
+			"EventType": "add",
+			"OUI": "00583F",
+			"OUISize": 24,
+			"OrgAddress": "Comcity Office Park, Kievskoe shosse, est.6, bld. 1, Rumyantsevo, Moscow, 108811, RF\\nMoscow    108811\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "PC Aquarius",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Ballard Technology Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-23",
+			"EventType": "change",
+			"OUI": "74F8DBA",
+			"OUISize": 28,
+			"OrgAddress": "11400 Airport Rd\\nEverett  Wa  98204\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ballard Technology, Inc,",
+			"Source": "IEEE"
 		}
 	]
 }

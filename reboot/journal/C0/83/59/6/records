@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-01",
+			"EventType": "add",
+			"OUI": "C083596",
+			"OUISize": 28,
+			"OrgAddress": "No. 1703, Zhong An Sheng Ye Building, No. 168  Bei Yuan Road, Chaoyang District, Beijing\\nBeijing  Beijing  100101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Cloud Fly Technology Development Co.Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

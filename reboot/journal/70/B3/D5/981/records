@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-01",
+			"EventType": "add",
+			"OUI": "70B3D5981",
+			"OUISize": 36,
+			"OrgAddress": "Manachat Tech Park 1/22\\nJerusalem    96951\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Zamir Recognition Systems Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

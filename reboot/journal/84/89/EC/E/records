@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-23",
+			"EventType": "add",
+			"OUI": "8489ECE",
+			"OUISize": 28,
+			"OrgAddress": "Suite701, Science Museum, Shenzhen City\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Intellifusion Technologies Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

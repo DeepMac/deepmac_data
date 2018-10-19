@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-10",
+			"EventType": "add",
+			"OUI": "184BDF",
+			"OUISize": 24,
+			"OrgAddress": "1525 McCarthy Blvd., #1182\\nMilpitas    95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Caavo Inc",
+			"Source": "IEEE"
+		}
+	]
+}

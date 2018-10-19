@@ -10,6 +10,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "Siemens",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-27",
+			"EventType": "change",
+			"OUI": "20A8B9",
+			"OUISize": 24,
+			"OrgAddress": "Oestliche Rheinbrueckenstrasse 50\\nKarlsruhe  Baden Wuerttemberg  76187\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SIEMENS AG",
+			"Source": "IEEE"
 		}
 	]
 }

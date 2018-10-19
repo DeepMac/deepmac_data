@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-10",
+			"EventType": "add",
+			"OUI": "A019B2E",
+			"OUISize": 28,
+			"OrgAddress": "Rodovia JosÃ© Carlos Daux (SC-401), 600 (Km 01) - ParqTec Alfa - MÃ³dulo 08\\nFlorianÃ³polis  Santa Catarina  88030000\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Ahgora Sistemas SA",
+			"Source": "IEEE"
+		}
+	]
+}

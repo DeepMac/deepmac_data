@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-23",
+			"EventType": "add",
+			"OUI": "E81A58",
+			"OUISize": 24,
+			"OrgAddress": "16525 E Laser Dr\\nFountain Hills  AZ  85268-6534\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "TECHNOLOGIC SYSTEMS",
+			"Source": "IEEE"
+		}
+	]
+}

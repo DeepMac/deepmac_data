@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-17",
+			"EventType": "add",
+			"OUI": "3C24F07",
+			"OUISize": 28,
+			"OrgAddress": "Route Saint-Nicolas-de-FlÃ¼e 2\\nFribourg    1700\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Swissdotnet SA",
+			"Source": "IEEE"
+		}
+	]
+}

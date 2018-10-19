@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-17",
+			"EventType": "add",
+			"OUI": "B0C387",
+			"OUISize": 24,
+			"OrgAddress": "118 N. Market St.\\nFrederick  MD  21701\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "GOEFER, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

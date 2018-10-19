@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-16",
+			"EventType": "add",
+			"OUI": "00CC3F",
+			"OUISize": 24,
+			"OrgAddress": "201 E. Sandpointe Ave\\nSanta Ana  CA  92707\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Universal Electronics, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-09",
+			"EventType": "add",
+			"OUI": "C8D9D2",
+			"OUISize": 24,
+			"OrgAddress": "11445 Compaq Center Drive\\nHouston  TX  77070\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Hewlett Packard",
+			"Source": "IEEE"
+		}
+	]
+}

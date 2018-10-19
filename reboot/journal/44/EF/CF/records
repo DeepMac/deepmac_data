@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-10",
+			"EventType": "add",
+			"OUI": "44EFCF",
+			"OUISize": 24,
+			"OrgAddress": "A-1508, 1509, 583, Yangcheon-ro, Gangseo-gu\\nSeoul    KS013\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "UGENE SOLUTION inc.",
+			"Source": "IEEE"
+		}
+	]
+}

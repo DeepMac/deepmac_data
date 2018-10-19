@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-26",
+			"EventType": "add",
+			"OUI": "3C24F08",
+			"OUISize": 28,
+			"OrgAddress": "Room 1602, Starbuilding 2, west Complex of ChangYing TianJie ChaoYang District\\nBeiJing  Beijing  100024\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Sivat Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

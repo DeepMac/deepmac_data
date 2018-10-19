@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-03",
+			"EventType": "add",
+			"OUI": "8C1CDA4",
+			"OUISize": 28,
+			"OrgAddress": "F803, Shangdi Third Street, No.9,HaiDian District\\nBeijing    100080\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Anntec ï¼Beijingï¼ Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "THEMIS COMPUTER",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-16",
+			"EventType": "change",
+			"OUI": "0080B6",
+			"OUISize": 24,
+			"OrgAddress": "6681 OWENS DRIVE\\nPLEASONTON  CA  94588\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Mercury Systems â Trusted Mission Solutions, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

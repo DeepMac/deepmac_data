@@ -21,6 +21,28 @@
 			"OrgCountry": "NL",
 			"OrgName": "Schleifenbauer Holding BV",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-03",
+			"EventType": "change",
+			"OUI": "D02212B",
+			"OUISize": 28,
+			"OrgAddress": "Rietwaard 15\\n\\n\\n",
+			"OrgCountry": "Hertogenbosch    5236WC",
+			"OrgName": "Schleifenbauer Holding BV",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-07",
+			"EventType": "change",
+			"OUI": "D02212B",
+			"OUISize": 28,
+			"OrgAddress": "Rietwaard 15\\nHertogenbosch    5236WC\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "Schleifenbauer Holding BV",
+			"Source": "IEEE"
 		}
 	]
 }

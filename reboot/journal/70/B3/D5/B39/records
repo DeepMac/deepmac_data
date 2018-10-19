@@ -21,6 +21,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "MB Connect Line GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-17",
+			"EventType": "change",
+			"OUI": "70B3D5B39",
+			"OUISize": 36,
+			"OrgAddress": "Winnettener StraÃe 5\\nDinkelsbÃ¼hl  Bavaria  91550\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "MB connect line GmbH Fernwartungssysteme",
+			"Source": "IEEE"
 		}
 	]
 }

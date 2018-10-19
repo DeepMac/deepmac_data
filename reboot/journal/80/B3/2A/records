@@ -54,6 +54,17 @@
 			"OrgCountry": "GB",
 			"OrgName": "Alstom Grid",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-16",
+			"EventType": "change",
+			"OUI": "80B32A",
+			"OUISize": 24,
+			"OrgAddress": "Harry Kerr Drive\\nStafford   Staffordshire  ST17 4LX\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "UK Grid Solutions Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

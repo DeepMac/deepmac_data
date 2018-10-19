@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-28",
+			"EventType": "add",
+			"OUI": "EC7FC6",
+			"OUISize": 24,
+			"OrgAddress": "CRA 106 15A 25 LT 88 MZ 17 BG 1, ZONA FRANCA BOGOTA\\nBOGOTA  D.C.  110921\\n\\n",
+			"OrgCountry": "CO",
+			"OrgName": "ECCEL CORPORATION SAS",
+			"Source": "IEEE"
+		}
+	]
+}

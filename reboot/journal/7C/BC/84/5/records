@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-28",
+			"EventType": "add",
+			"OUI": "7CBC845",
+			"OUISize": 28,
+			"OrgAddress": "3/f, no.6 guichun road, qingxiu district\\n\\n\\n",
+			"OrgCountry": "Nanning  Guangxi  530021",
+			"OrgName": "Nanning auto digital technology co.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-29",
+			"EventType": "change",
+			"OUI": "7CBC845",
+			"OUISize": 28,
+			"OrgAddress": "3/f, no.6 guichun road, qingxiu district\\nNanning  Guangxi  530021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanning auto digital technology co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

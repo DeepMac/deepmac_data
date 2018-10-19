@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-03",
+			"EventType": "add",
+			"OUI": "9CF6DDC",
+			"OUISize": 28,
+			"OrgAddress": "Room 402, Building 22, Chentian Industrial Zone, Xixiang Street, Bao'an District,\\nShenzhen  Guangdong  518100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Lighting New Energy Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

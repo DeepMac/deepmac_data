@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-31",
+			"EventType": "add",
+			"OUI": "D8445C",
+			"OUISize": 24,
+			"OrgAddress": "Av Prof Lineu Prestes 2242 SL 23\\nSao Paulo  SP  05508000\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "DEV Tecnologia Ind Com Man Eq LTDA",
+			"Source": "IEEE"
+		}
+	]
+}

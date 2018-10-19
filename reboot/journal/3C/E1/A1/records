@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-09",
+			"EventType": "add",
+			"OUI": "3CE1A1",
+			"OUISize": 24,
+			"OrgAddress": "141, Lane 351, Taiping Road, Sec.1,Tsao Tuen\\nNan-Tou  Taiwan  54261\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Universal Global Scientific Industrial Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-20",
+			"EventType": "add",
+			"OUI": "50DCFC",
+			"OUISize": 24,
+			"OrgAddress": "15ST,Block A,Fortune Plaza, No.7002 ShenNan Avenue, Futian District\\nShenzhen  Guangdong  518040\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ECOCOM",
+			"Source": "IEEE"
+		}
+	]
+}

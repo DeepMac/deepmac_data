@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-10",
+			"EventType": "add",
+			"OUI": "A4DA227",
+			"OUISize": 28,
+			"OrgAddress": "2120 Constitution Ave\\nHartford  WI  53027\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Hydro Electronic Devices, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

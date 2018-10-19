@@ -10,6 +10,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Beijing KXWELL Technology CO., LTD",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-21",
+			"EventType": "change",
+			"OUI": "8CC8F45",
+			"OUISize": 28,
+			"OrgAddress": "Room 12A05, North Real Estate Building, Block 3\\n81 Zizhuyuan Road, Haidian District  Beijing   100089\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing KXWELL Technology CO., LTD",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-09",
+			"EventType": "add",
+			"OUI": "E00EE1",
+			"OUISize": 24,
+			"OrgAddress": "201, 33, Deokcheon-ro, Manan-gu\\nAnyang-si  Gyeonggi-do  14088\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "We Corporation Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

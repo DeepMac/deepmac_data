@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-20",
+			"EventType": "add",
+			"OUI": "0C1C19",
+			"OUISize": 24,
+			"OrgAddress": "Building B, No. 42 Xingye Road, Phoenix First Industrial Zone, Fuyong, Baoan District\\nShenzhen  Guangdong  518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "LONGCONN ELECTRONICS(SHENZHEN) CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

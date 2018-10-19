@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-25",
+			"EventType": "add",
+			"OUI": "E48F65",
+			"OUISize": 24,
+			"OrgAddress": "Yanina 25\\nYelatma  Ryazan Region  391351\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Yelatma Instrument Making Enterprise, JSC",
+			"Source": "IEEE"
+		}
+	]
+}

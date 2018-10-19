@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-26",
+			"EventType": "add",
+			"OUI": "C4FFBC7",
+			"OUISize": 28,
+			"OrgAddress": "6712 Brooklawn  Parkway\\nSyracuse    13211\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Critical Link",
+			"Source": "IEEE"
+		}
+	]
+}

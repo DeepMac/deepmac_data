@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-23",
+			"EventType": "add",
+			"OUI": "C42C4F",
+			"OUISize": 24,
+			"OrgAddress": "No.399, Song Ling Road\\nQingdao  Shandong  266100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao Hisense Mobile Communication Technology Co,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

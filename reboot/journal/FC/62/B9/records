@@ -32,6 +32,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "ALPS ELECTRIC CO.,LTD.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-27",
+			"EventType": "change",
+			"OUI": "FC62B9",
+			"OUISize": 24,
+			"OrgAddress": "6-1\\nkakuda-city  Miyagi-Pref  981-1595\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ALPS ELECTRIC CO., LTD.",
+			"Source": "IEEE"
 		}
 	]
 }

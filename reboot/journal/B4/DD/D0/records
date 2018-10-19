@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-10",
+			"EventType": "add",
+			"OUI": "B4DDD0",
+			"OUISize": 24,
+			"OrgAddress": "NapmÃ¡tka u. 6.\\nBudapest  Pest  H-1106\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "Continental Automotive Hungary Kft",
+			"Source": "IEEE"
+		}
+	]
+}

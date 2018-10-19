@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Synaptics, Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-17",
+			"EventType": "change",
+			"OUI": "90CC24",
+			"OUISize": 24,
+			"OrgAddress": "1251 McKay Drive\\nSan Jose  CA   95131-1709\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Synaptics, Inc",
+			"Source": "IEEE"
 		}
 	]
 }

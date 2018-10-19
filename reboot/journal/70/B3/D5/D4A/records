@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "add",
+			"OUI": "70B3D5D4A",
+			"OUISize": 36,
+			"OrgAddress": "MÃ¤ealuse 2/1\\nTallinn  Harju  12618\\n\\n",
+			"OrgCountry": "EE",
+			"OrgName": "OÃ ELIKO Tehnoloogia Arenduskeskus",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-06",
+			"EventType": "add",
+			"OUI": "70B3D5AF2",
+			"OUISize": 36,
+			"OrgAddress": "#401 51 Seongnam-Daero Bundang-gu\\nSEONGNAM-si  GYEONGGI-do  13636\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "True Networks Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

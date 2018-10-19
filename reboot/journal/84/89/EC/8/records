@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-18",
+			"EventType": "add",
+			"OUI": "8489EC8",
+			"OUISize": 28,
+			"OrgAddress": "1704, 17/F, Fo Tan Industrial Centre, 26-28 Au Pui Wan Street, Fo Tan, Hong Kong\\nHong Kong    Nil\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Arts Digital Technology (HK) Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

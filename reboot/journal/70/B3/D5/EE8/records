@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-21",
+			"EventType": "add",
+			"OUI": "70B3D5EE8",
+			"OUISize": 36,
+			"OrgAddress": "32 route de beaumont\\nfresnoy en thelle  Oise  60530\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "robert juliat",
+			"Source": "IEEE"
+		}
+	]
+}

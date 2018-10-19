@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "add",
+			"OUI": "E8FAF7",
+			"OUISize": 24,
+			"OrgAddress": "39L, Pearl River Tower, No.15 Zhujiang West Road,Tianhe District\\nGUANGZHOU  GUANGDONG  510623\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangdong Uniteddata Holding Group Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-27",
+			"EventType": "add",
+			"OUI": "A83E0E",
+			"OUISize": 24,
+			"OrgAddress": "Karaportti 2\\nEspoo    02610\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "HMD Global Oy",
+			"Source": "IEEE"
+		}
+	]
+}

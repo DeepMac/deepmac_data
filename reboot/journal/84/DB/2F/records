@@ -21,6 +21,17 @@
 			"OrgCountry": "CA",
 			"OrgName": "Sierra Wireless Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "change",
+			"OUI": "84DB2F",
+			"OUISize": 24,
+			"OrgAddress": "1381 Wireless Way\\nRichmond  BC  V6V 3A4\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Sierra Wireless",
+			"Source": "IEEE"
 		}
 	]
 }

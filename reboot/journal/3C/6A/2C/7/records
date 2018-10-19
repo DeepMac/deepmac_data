@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-11",
+			"EventType": "add",
+			"OUI": "3C6A2C7",
+			"OUISize": 28,
+			"OrgAddress": "Am SchÃ¼tzenplatz 3\\nPreetz  Schleswig-Holstein  24211\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Homegear GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

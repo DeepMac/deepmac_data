@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-30",
+			"EventType": "add",
+			"OUI": "B44BD63",
+			"OUISize": 28,
+			"OrgAddress": "NO.4 XING JU WEST ROAD,DONG XING DISTRICT,ZHONG KAI DONG JIANG HIGH TECHNOLOGY INDUSTRIAL PARK,\\nHUI ZHOU  guangdong  516000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huizhou Sunoda Technology Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

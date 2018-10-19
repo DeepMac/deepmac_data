@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-05",
+			"EventType": "add",
+			"OUI": "F8272E",
+			"OUISize": 24,
+			"OrgAddress": "509 Beaver Creek Rd.\\nWaterloo  Ontario  N2V 2L3\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Mercku",
+			"Source": "IEEE"
+		}
+	]
+}

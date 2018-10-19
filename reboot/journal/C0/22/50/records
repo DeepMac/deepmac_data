@@ -8,6 +8,17 @@
 			"OUISize": 24,
 			"OrgName": "PRIVATE",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-07",
+			"EventType": "change",
+			"OUI": "C02250",
+			"OUISize": 24,
+			"OrgAddress": "4129 N. Port Washington Ave.\\nMilwaukee  WI  53212\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Koss Corporation",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-26",
+			"EventType": "add",
+			"OUI": "300A60D",
+			"OUISize": 28,
+			"OrgAddress": "#62, Sri Varda, 10th main, HMT Layout, R.T.Nagar\\nBangalore  Karnataka  560032\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "Sixth Energy Technologies Private Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-03",
+			"EventType": "add",
+			"OUI": "70B3D57D6",
+			"OUISize": 36,
+			"OrgAddress": "1-7-3 Sekiya-Matsunami, Chuo\\nNiigata  Niigata  951-8161\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Yukilab",
+			"Source": "IEEE"
+		}
+	]
+}

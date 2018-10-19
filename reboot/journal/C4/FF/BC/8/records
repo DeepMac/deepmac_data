@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-27",
+			"EventType": "add",
+			"OUI": "C4FFBC8",
+			"OUISize": 28,
+			"OrgAddress": "Floor four,Build C,FuSen Industrial park, HangCheng Avenue,Baoan District\\nShenzhen  GuangDong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ShenZhen ZYT Technology co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

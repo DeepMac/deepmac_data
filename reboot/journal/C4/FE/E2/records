@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-28",
+			"EventType": "add",
+			"OUI": "C4FEE2",
+			"OUISize": 24,
+			"OrgAddress": "10F, No.18, Taiyuan St., Zhubei City\\nHsinchu Country  Taiwan  30265\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AMICCOM Electronics Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

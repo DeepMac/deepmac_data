@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-05",
+			"EventType": "add",
+			"OUI": "E482CC",
+			"OUISize": 24,
+			"OrgAddress": "An der Weide 5\\nSpringe    31832\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Jumptronic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

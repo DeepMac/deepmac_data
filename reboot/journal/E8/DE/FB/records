@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-17",
+			"EventType": "add",
+			"OUI": "E8DEFB",
+			"OUISize": 24,
+			"OrgAddress": "11, Avenue de la Division Leclerc\\nCachan    94230\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "MESOTIC SAS",
+			"Source": "IEEE"
+		}
+	]
+}

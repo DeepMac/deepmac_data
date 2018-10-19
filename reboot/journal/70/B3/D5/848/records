@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-17",
+			"EventType": "add",
+			"OUI": "70B3D5848",
+			"OUISize": 36,
+			"OrgAddress": "10-16 Sir Joseph Banks Drive\\nSydney  NSW  2231\\n\\n",
+			"OrgCountry": "AU",
+			"OrgName": "Aldridge Electrical Industries",
+			"Source": "IEEE"
+		}
+	]
+}

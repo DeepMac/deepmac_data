@@ -109,6 +109,28 @@
 			"OrgCountry": "CH",
 			"OrgName": "Eltek Technologies LTD",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-21",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Glatt Tower\\n8301 Glattzentrum ZH\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Ping Communication",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-22",
+			"EventType": "change",
+			"OUI": "788C54",
+			"OUISize": 24,
+			"OrgAddress": "Brenden 18\\nAppenzell MeistersrÃ¼te  AI  9050\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Ping Communication",
+			"Source": "IEEE"
 		}
 	]
 }

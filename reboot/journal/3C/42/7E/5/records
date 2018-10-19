@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-05",
+			"EventType": "add",
+			"OUI": "3C427E5",
+			"OUISize": 28,
+			"OrgAddress": "Simin-ro 327-7 DaeMyung Bldg #614\\nAnYang    15044\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Geoplan Korea",
+			"Source": "IEEE"
+		}
+	]
+}

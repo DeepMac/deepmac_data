@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-08",
+			"EventType": "add",
+			"OUI": "70B3D5A82",
+			"OUISize": 36,
+			"OrgAddress": "Am Wildengrund 1\\nAltenambach  TH  98553\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Telefrank GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

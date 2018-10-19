@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-24",
+			"EventType": "add",
+			"OUI": "B8DE5E",
+			"OUISize": 24,
+			"OrgAddress": "Building 1,No.401,Caobao Rd\\nShanghai  Xuhui District  200233\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "LONGCHEER TELECOMMUNICATION LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

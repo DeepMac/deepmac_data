@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-01",
+			"EventType": "add",
+			"OUI": "80029C",
+			"OUISize": 24,
+			"OrgAddress": "No.15-1 Zhonghua Road\\nHukou  Hsinchu  30352\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Gemtek Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

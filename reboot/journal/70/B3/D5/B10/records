@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-14",
+			"EventType": "add",
+			"OUI": "70B3D5B10",
+			"OUISize": 36,
+			"OrgAddress": "Hauptstrasse 93\\nOrpund  Bern  2552\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Zumbach Electronic AG",
+			"Source": "IEEE"
+		}
+	]
+}

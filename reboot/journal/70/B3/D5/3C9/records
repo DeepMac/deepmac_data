@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-17",
+			"EventType": "add",
+			"OUI": "70B3D53C9",
+			"OUISize": 36,
+			"OrgAddress": "Potsdamerstr. 190\\nBielefeld    33719\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Duerkopp-Adler",
+			"Source": "IEEE"
+		}
+	]
+}

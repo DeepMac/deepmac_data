@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-24",
+			"EventType": "add",
+			"OUI": "D47C440",
+			"OUISize": 28,
+			"OrgAddress": "Hermiankatu 6-8D\\nTampere    33720\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Exafore Oy",
+			"Source": "IEEE"
+		}
+	]
+}

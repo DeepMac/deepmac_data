@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "3COM Corporation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-24",
+			"EventType": "change",
+			"OUI": "000A5E",
+			"OUISize": 24,
+			"OrgAddress": "5400 Bayfront Plaza\\nSanta Clara  CA  95052-8145\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "3COM",
+			"Source": "IEEE"
 		}
 	]
 }

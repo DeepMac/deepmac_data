@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-17",
+			"EventType": "add",
+			"OUI": "D47C44D",
+			"OUISize": 28,
+			"OrgAddress": "Building 1,No.399, Keyuan Road, Pudong, Shanghai China\\nShanghai    200120\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huaqin Telecom Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

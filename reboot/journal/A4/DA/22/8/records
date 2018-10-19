@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-14",
+			"EventType": "add",
+			"OUI": "A4DA228",
+			"OUISize": 28,
+			"OrgAddress": "10F.-1, No.150, Jian 1st Rd.\\nZhonghe Dist.  New Taipei City  23511\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SolidPro Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

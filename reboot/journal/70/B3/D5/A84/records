@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-22",
+			"EventType": "add",
+			"OUI": "70B3D5A84",
+			"OUISize": 36,
+			"OrgAddress": "REME-Str. 12\\nWetter    58300\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SOREL GmbH Mikroelektronik",
+			"Source": "IEEE"
+		}
+	]
+}

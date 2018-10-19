@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-07",
+			"EventType": "add",
+			"OUI": "A019B2C",
+			"OUISize": 28,
+			"OrgAddress": "2680 Matheson Blvd E., Suite 102\\nMississauga  Ontario  L4W2C6\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "LDA Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

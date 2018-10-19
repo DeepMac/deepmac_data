@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-04",
+			"EventType": "add",
+			"OUI": "70B3D5B0F",
+			"OUISize": 36,
+			"OrgAddress": "Wassergrabe 14\\nSursee    6210\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "merkur Funksysteme AG",
+			"Source": "IEEE"
+		}
+	]
+}

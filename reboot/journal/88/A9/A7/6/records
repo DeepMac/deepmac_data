@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-21",
+			"EventType": "add",
+			"OUI": "88A9A76",
+			"OUISize": 28,
+			"OrgAddress": "Schlittenbacher StraÃe 60\\nLÃ¼denscheid    58511\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Sieper LÃ¼denscheid GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

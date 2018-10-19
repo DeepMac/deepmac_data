@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-20",
+			"EventType": "add",
+			"OUI": "1CFD081",
+			"OUISize": 28,
+			"OrgAddress": "Busha Road No 231. Buji Street. Longgang District.\\nShenzhen  Guangdong  518112\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen SEWO Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

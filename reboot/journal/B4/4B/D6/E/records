@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-03",
+			"EventType": "add",
+			"OUI": "B44BD6E",
+			"OUISize": 28,
+			"OrgAddress": "618-2# Gongren West Road,Jiaojiang,\\nTaizhou  Zhejiang  317700\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CHUNGHSIN INTERNATIONAL ELECTRONICS CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

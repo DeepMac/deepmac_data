@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-27",
+			"EventType": "add",
+			"OUI": "30E3D6",
+			"OUISize": 24,
+			"OrgAddress": "45 West 18th Street\\nNew York  NY  10011\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Spotify USA Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

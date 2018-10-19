@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-03",
+			"EventType": "add",
+			"OUI": "283A4D",
+			"OUISize": 24,
+			"OrgAddress": "Building D21,No.1, East Zone 1st Road,Xiyong Town,Shapingba District\\nChongqing  Chongqing  401332\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Cloud Network Technology (Samoa) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

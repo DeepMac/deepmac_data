@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "6CDFFB9",
+			"OUISize": 28,
+			"OrgAddress": "18F-8, No.118, Ci-Yun Rd., Hsin Chu 30072, Taiwan(R.O.C.)\\nHsin Chu    30072\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "YongTechs Electric Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

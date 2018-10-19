@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-08",
+			"EventType": "add",
+			"OUI": "70B3D58FA",
+			"OUISize": 36,
+			"OrgAddress": "VIA DELLA TECNICA 6\\nPIOVENE ROCCHETTE  VICENZA  36013\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "DEA SYSTEM SPA",
+			"Source": "IEEE"
+		}
+	]
+}

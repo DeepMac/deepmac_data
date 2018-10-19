@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "DIGIBOARD, INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-23",
+			"EventType": "change",
+			"OUI": "00409D",
+			"OUISize": 24,
+			"OrgAddress": "6400 FLYING CLOUD DRIVE\\nEDEN PRAIRIE  MN  55344\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DigiBoard",
+			"Source": "IEEE"
 		}
 	]
 }

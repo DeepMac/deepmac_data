@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-27",
+			"EventType": "add",
+			"OUI": "9C69B45",
+			"OUISize": 28,
+			"OrgAddress": "Heuteilstrasse 18\\nBad Ragaz  St. Gallen  7310\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Elesta GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

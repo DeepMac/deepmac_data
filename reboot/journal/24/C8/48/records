@@ -21,6 +21,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "mywerk system GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-20",
+			"EventType": "change",
+			"OUI": "24C848",
+			"OUISize": 24,
+			"OrgAddress": "Fabrikstr. 3\\nGronau     48599\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "mywerk Portal GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

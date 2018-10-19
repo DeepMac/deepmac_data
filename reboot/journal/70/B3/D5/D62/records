@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-26",
+			"EventType": "add",
+			"OUI": "70B3D5D62",
+			"OUISize": 36,
+			"OrgAddress": "Teknopark Ä°stanbul,  Sanayi Mah, Teknopark BulvarÄ±, No:1/1C 1206 Pendik/Ä°stanbul\\nÄ°stanbul    34906\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Andasis Elektronik San. ve Tic. A.Å.",
+			"Source": "IEEE"
+		}
+	]
+}

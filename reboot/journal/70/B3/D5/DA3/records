@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-14",
+			"EventType": "add",
+			"OUI": "70B3D5DA3",
+			"OUISize": 36,
+			"OrgAddress": "Grathwohlstr. 5\\nReutlingen    72762\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Voleatech GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

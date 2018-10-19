@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-02",
+			"EventType": "add",
+			"OUI": "70B3D531B",
+			"OUISize": 36,
+			"OrgAddress": "Lot 8, Phase II, Kulim Hi-Tech Park\\nKULIM  KEDAH  09000\\n\\n",
+			"OrgCountry": "MY",
+			"OrgName": "SilTerra Malaysia Sdn. Bhd.",
+			"Source": "IEEE"
+		}
+	]
+}

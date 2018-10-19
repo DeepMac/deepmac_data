@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "A89CA4",
+			"OUISize": 24,
+			"OrgAddress": "Units 503C & 505-508, Level 5, Core D, Cyberport 3, 100 Cyberport Road\\nHong Kong    00000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Furrion Limited",
+			"Source": "IEEE"
+		}
+	]
+}

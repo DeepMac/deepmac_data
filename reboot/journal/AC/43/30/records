@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "add",
+			"OUI": "AC4330",
+			"OUISize": 24,
+			"OrgAddress": "6001 America center Drive, Suite 400\\nSan Jose  CA  95070\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Versa Networks",
+			"Source": "IEEE"
+		}
+	]
+}

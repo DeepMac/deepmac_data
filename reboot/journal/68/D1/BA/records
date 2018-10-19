@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-10",
+			"EventType": "add",
+			"OUI": "68D1BA",
+			"OUISize": 24,
+			"OrgAddress": "Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District\\nShenzhen  Guangdong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen YOUHUA Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

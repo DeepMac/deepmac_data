@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Honeywell International Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-11",
+			"EventType": "change",
+			"OUI": "70B3D5F4D",
+			"OUISize": 36,
+			"OrgAddress": "Aerospace - ETS\\nClearwater  Florida  33764\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Honeywell",
+			"Source": "IEEE"
 		}
 	]
 }

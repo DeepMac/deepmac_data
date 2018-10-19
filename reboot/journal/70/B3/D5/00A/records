@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-21",
+			"EventType": "add",
+			"OUI": "70B3D500A",
+			"OUISize": 36,
+			"OrgAddress": "8-10-17-403, HON-chou\\nKOUNOSU-shi  SAITAMA-ken  3650038\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "FUJICOM Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

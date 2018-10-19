@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "ABB Inc./Totalflow",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-28",
+			"EventType": "change",
+			"OUI": "001386",
+			"OUISize": 24,
+			"OrgAddress": "\\nBartlesville  OK  74006\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ABB Inc/Totalflow",
+			"Source": "IEEE"
 		}
 	]
 }

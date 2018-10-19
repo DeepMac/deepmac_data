@@ -21,6 +21,17 @@
 			"OrgCountry": "GB",
 			"OrgName": "Novo innovations Ltd",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-13",
+			"EventType": "add",
+			"OUI": "70B3D51D3",
+			"OUISize": 36,
+			"OrgAddress": "Pardi 32-1\\nPÃ¤rnu    80016\\n\\n",
+			"OrgCountry": "EE",
+			"OrgName": "AIROBOT OÃ",
+			"Source": "IEEE"
 		}
 	]
 }

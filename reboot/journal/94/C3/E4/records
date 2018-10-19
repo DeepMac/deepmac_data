@@ -21,6 +21,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "SCA Schucker Gmbh & Co KG",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-25",
+			"EventType": "change",
+			"OUI": "94C3E4",
+			"OUISize": 24,
+			"OrgAddress": "Gewerbestr. 52\\nBretten-Goelshausen    75015\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Atlas Copco IAS GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

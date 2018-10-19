@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-09",
+			"EventType": "add",
+			"OUI": "70B3D55DE",
+			"OUISize": 36,
+			"OrgAddress": "6th Floor,Building 2,No.307 Liuhe Road,Binjiang District,Hangzhou åå¸ï¼ Hangzhou\\nHangzhou  Zhejiang  310000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou AwareTec Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

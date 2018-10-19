@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-07",
+			"EventType": "add",
+			"OUI": "9C6937",
+			"OUISize": 24,
+			"OrgAddress": "Leidseveer 10\\nUtrecht  Utrecht  3511SB\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "Qorvo Utrecht B.V.",
+			"Source": "IEEE"
+		}
+	]
+}

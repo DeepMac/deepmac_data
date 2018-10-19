@@ -43,6 +43,17 @@
 			"OrgCountry": "TW",
 			"OrgName": "INVENTEC Corporation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-24",
+			"EventType": "change",
+			"OUI": "008CFA",
+			"OUISize": 24,
+			"OrgAddress": "No. 255, Jen-Ho Road Sec. 2, 33547,\\nTachi  Taoyuan  33547\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "INVENTEC CORPORATION",
+			"Source": "IEEE"
 		}
 	]
 }

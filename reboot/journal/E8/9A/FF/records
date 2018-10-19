@@ -21,6 +21,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Fujian Landi Commercial Equipment Co.,Ltd",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-30",
+			"EventType": "change",
+			"OUI": "E89AFF",
+			"OUISize": 24,
+			"OrgAddress": "Building 17,the 1st Section ,Fuzhou Software Park\\nNo.89 Software Road   Fuzhou ,Fujian  350003\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fujian LANDI Commercial Equipment Co.,Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

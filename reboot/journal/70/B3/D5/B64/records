@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-15",
+			"EventType": "add",
+			"OUI": "70B3D5B64",
+			"OUISize": 36,
+			"OrgAddress": "#433-31, Sandong-ro, Eumbong-myeon\\nAsan-si  Chungcheongnam-do  31418\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "OSUNG LST CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

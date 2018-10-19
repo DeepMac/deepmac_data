@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-17",
+			"EventType": "add",
+			"OUI": "04C3E68",
+			"OUISize": 28,
+			"OrgAddress": "Nikolaiplatz 4\\nGraz  Styria  8020\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "SLOC GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

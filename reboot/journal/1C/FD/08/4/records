@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-19",
+			"EventType": "add",
+			"OUI": "1CFD084",
+			"OUISize": 28,
+			"OrgAddress": "Wilhelm-Maybach-StraÃe 3\\nSchwerin  Mecklenburg-Vorpommern  D-19061\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SABIK Offshore GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

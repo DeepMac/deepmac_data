@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-17",
+			"EventType": "add",
+			"OUI": "04C3E64",
+			"OUISize": 28,
+			"OrgAddress": "4920 El Camino Real\\nLos Altos  CA  94022\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Innovusion Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

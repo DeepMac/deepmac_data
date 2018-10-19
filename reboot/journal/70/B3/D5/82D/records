@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-12",
+			"EventType": "add",
+			"OUI": "70B3D582D",
+			"OUISize": 36,
+			"OrgAddress": "MeÅgiewska 80\\nLublin    20-234\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "Elektronik Art S.C.",
+			"Source": "IEEE"
+		}
+	]
+}

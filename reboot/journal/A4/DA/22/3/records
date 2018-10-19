@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-14",
+			"EventType": "add",
+			"OUI": "A4DA223",
+			"OUISize": 28,
+			"OrgAddress": "NO.1013,184,Gasan digital 2-ro,Geumcheon-gu,Seoul\\nSeoul    08501\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DURATECH Enterprise,LLC",
+			"Source": "IEEE"
+		}
+	]
+}

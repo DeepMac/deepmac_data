@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-31",
+			"EventType": "add",
+			"OUI": "C4FFBCE",
+			"OUISize": 28,
+			"OrgAddress": "Phorusgasse 8/1\\nWien    1040\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "viRaTec GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

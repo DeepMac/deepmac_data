@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-06",
+			"EventType": "add",
+			"OUI": "88B66B",
+			"OUISize": 24,
+			"OrgAddress": "Rd kaituo 1# kaituohuiyuan B 1020, shangdi\\nBeijing    100084\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "easynetworks",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-24",
+			"EventType": "add",
+			"OUI": "C083590",
+			"OUISize": 28,
+			"OrgAddress": "T2-11-3, No. 2 Jiangbeizui Financial City, Jiangbei District,\\nChongqing  Chongqing  400000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CHONGQING JIUYU SMART TECHNOLOGY CO.LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

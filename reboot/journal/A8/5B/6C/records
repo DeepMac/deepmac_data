@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-06",
+			"EventType": "add",
+			"OUI": "A85B6C",
+			"OUISize": 24,
+			"OrgAddress": "Renningen\\nStuttgart    D-70465\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Robert Bosch Gmbh, CM-CI2",
+			"Source": "IEEE"
+		}
+	]
+}

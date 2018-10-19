@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-21",
+			"EventType": "add",
+			"OUI": "C4FFBC1",
+			"OUISize": 28,
+			"OrgAddress": "C-312 168, Gasan digital 1-ro\\nGeumcheon-gu   Seoul  08507\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "VISATECH C0., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

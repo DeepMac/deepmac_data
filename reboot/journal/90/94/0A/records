@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "add",
+			"OUI": "90940A",
+			"OUISize": 24,
+			"OrgAddress": "Unit 2200, Airport Business Park, Kinsale Road\\nCork    T12 X36X\\n\\n",
+			"OrgCountry": "IE",
+			"OrgName": "Analog Devices, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

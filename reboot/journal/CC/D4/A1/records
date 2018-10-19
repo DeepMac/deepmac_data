@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-30",
+			"EventType": "add",
+			"OUI": "CCD4A1",
+			"OUISize": 24,
+			"OrgAddress": "No. 6, Innovation Road II,\\nHsinchu    300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "MitraStar Technology Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

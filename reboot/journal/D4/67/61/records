@@ -32,6 +32,28 @@
 			"OrgCountry": "KW",
 			"OrgName": "SAHAB TECHNOLOGY",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-06",
+			"EventType": "change",
+			"OUI": "D46761",
+			"OUISize": 24,
+			"OrgAddress": "Office 20 - Qibla Tower\\nQibla    0000\\n\\n",
+			"OrgCountry": "KW",
+			"OrgName": "United Gulf Gate Co.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-04",
+			"EventType": "change",
+			"OUI": "D46761",
+			"OUISize": 24,
+			"OrgAddress": "XonTel, Borj ALadel Tower, Fahad Al-Salem St Fl 21\\nKuwait    0000\\n\\n",
+			"OrgCountry": "KW",
+			"OrgName": "United Gulf Gate Co.",
+			"Source": "IEEE"
 		}
 	]
 }

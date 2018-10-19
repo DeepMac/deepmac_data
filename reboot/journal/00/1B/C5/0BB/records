@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Triax A/S",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-13",
+			"EventType": "change",
+			"OUI": "001BC50BB",
+			"OUISize": 36,
+			"OrgAddress": "Bjornkaervej 3\\nHornsyld  Denmark  8783\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Triax A/S",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-11",
+			"EventType": "add",
+			"OUI": "0CFE5D6",
+			"OUISize": 28,
+			"OrgAddress": "7/F,Zhengjiyuan Buiding,2 Road,Qianjing, Xixiang, Baoan District,Shenzhen\\nSHEN ZHEN  GUANGDONG  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Antailiye Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

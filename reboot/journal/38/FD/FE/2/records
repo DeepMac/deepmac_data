@@ -10,6 +10,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "B.U.G.SST,Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-31",
+			"EventType": "change",
+			"OUI": "38FDFE2",
+			"OUISize": 28,
+			"OrgAddress": "1-15 Kagurazaka,Shinjyukuku,\\nTokyo    162-0825\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Smart Solution Technology, Inc",
+			"Source": "IEEE"
 		}
 	]
 }

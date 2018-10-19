@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-08",
+			"EventType": "add",
+			"OUI": "70B3D5050",
+			"OUISize": 36,
+			"OrgAddress": "8/10 Clarice Road\\nBox Hill  Victoria  3128\\n\\n",
+			"OrgCountry": "AU",
+			"OrgName": "Compusign Systems Pty Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

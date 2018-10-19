@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-25",
+			"EventType": "add",
+			"OUI": "A028330",
+			"OUISize": 28,
+			"OrgAddress": "Hans-Urmiller-Ring 12A\\nWolfratshausen    82515\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "GERSYS GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

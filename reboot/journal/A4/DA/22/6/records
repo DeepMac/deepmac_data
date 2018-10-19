@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-08",
+			"EventType": "add",
+			"OUI": "A4DA226",
+			"OUISize": 28,
+			"OrgAddress": "202 quai de clichy\\nCLICHY    92110\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "AURANEXT",
+			"Source": "IEEE"
+		}
+	]
+}

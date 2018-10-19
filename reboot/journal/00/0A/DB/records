@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "SkyPilot Network, Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-30",
+			"EventType": "change",
+			"OUI": "000ADB",
+			"OUISize": 24,
+			"OrgAddress": "401 Harrison Oaks Blvd. Suite 300\\nCary  NC  27513\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Trilliant",
+			"Source": "IEEE"
 		}
 	]
 }

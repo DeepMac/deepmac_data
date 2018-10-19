@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-25",
+			"EventType": "add",
+			"OUI": "3C24F09",
+			"OUISize": 28,
+			"OrgAddress": "Otto-Hahn-Ring 6\\nMunich    81379\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Siemens AG - Siemens Deutschland Mobility",
+			"Source": "IEEE"
+		}
+	]
+}

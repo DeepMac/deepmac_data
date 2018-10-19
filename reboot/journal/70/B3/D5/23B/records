@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-28",
+			"EventType": "add",
+			"OUI": "70B3D523B",
+			"OUISize": 36,
+			"OrgAddress": "Paradieshofstrasse 101\\nBasel    4054\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Fink Telecom Services",
+			"Source": "IEEE"
+		}
+	]
+}

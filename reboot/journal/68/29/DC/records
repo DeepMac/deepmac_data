@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-23",
+			"EventType": "add",
+			"OUI": "6829DC",
+			"OUISize": 24,
+			"OrgAddress": "Pol.Ind Can Mitjans s/n Viladecavalls Barcelona\\nViladecavalls  Barcelona  ES08232\\n\\n",
+			"OrgCountry": "ES",
+			"OrgName": "Ficosa Electronics S.L.U.",
+			"Source": "IEEE"
+		}
+	]
+}

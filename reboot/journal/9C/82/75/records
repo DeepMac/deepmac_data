@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-28",
+			"EventType": "add",
+			"OUI": "9C8275",
+			"OUISize": 24,
+			"OrgAddress": "Room 401, Building 15, No.498 Guoshoujing Road, Pudong Software Park\\nShanghai    200120\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "YichipÂ Microelectronics (Hangzhou) Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

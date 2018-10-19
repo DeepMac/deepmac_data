@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-11",
+			"EventType": "add",
+			"OUI": "60CE92",
+			"OUISize": 24,
+			"OrgAddress": "7/F Sun King Factory Bldg,1 - 7 Shing Chuen Road, Shatin, NT\\nHong Kong  NT  000000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "The Refined Industry Company Limited",
+			"Source": "IEEE"
+		}
+	]
+}

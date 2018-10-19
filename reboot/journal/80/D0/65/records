@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-14",
+			"EventType": "add",
+			"OUI": "80D065",
+			"OUISize": 24,
+			"OrgAddress": "1-24-11 Akebono\\nTachikawa  Tokyo  190-0012\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "CKS Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

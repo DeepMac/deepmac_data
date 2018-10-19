@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-06",
+			"EventType": "add",
+			"OUI": "A019B27",
+			"OUISize": 28,
+			"OrgAddress": "6F.,No.866,Zhongzheng Rd.,Zhonghe Dist.,\\nNew Taipei City  Taiwan  23586\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ARIMA Communications Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "KR",
 			"OrgName": "JTEC Card & Communication Co., Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-23",
+			"EventType": "change",
+			"OUI": "0026BD",
+			"OUISize": 24,
+			"OrgAddress": "Dabo Bldg, 4F, 61-1, Gyesu-dong, Sosa-gu\\nBucheon  Gyunggi-do  422-070\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "JTEC Card &amp; Communication Co., Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

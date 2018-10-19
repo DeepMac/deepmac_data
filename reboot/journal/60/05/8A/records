@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-23",
+			"EventType": "add",
+			"OUI": "60058A",
+			"OUISize": 24,
+			"OrgAddress": "Shinagawa Season Terrace, 2-70, Konan 1-chome\\nMinato-ku  Tokyo  108-8224\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Hitachi Metals, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

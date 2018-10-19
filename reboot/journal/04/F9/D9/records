@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-18",
+			"EventType": "add",
+			"OUI": "04F9D9",
+			"OUISize": 24,
+			"OrgAddress": "No. 8 Development Zone Road, Huimin Sub-district\\nJiashan  Zhejiang  314112\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Speaker Electronic(Jiashan) Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

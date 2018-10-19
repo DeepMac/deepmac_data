@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-23",
+			"EventType": "add",
+			"OUI": "C8C2F5",
+			"OUISize": 24,
+			"OrgAddress": "Xin Qing Science & Technology Industrial Park,Jin An Town,Doumen ,Zhuhai,Guangdong,PRC\\nZhuhai  Guangdong  519180\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-09",
+			"EventType": "add",
+			"OUI": "A43523",
+			"OUISize": 24,
+			"OrgAddress": "No.6,Kejizhong Road,Chuangye Building,Hi-tech Zone\\nShantou  Guangdong  515000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangdong Donyan Network Technologies Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

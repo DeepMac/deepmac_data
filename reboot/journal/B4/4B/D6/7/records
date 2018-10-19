@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-28",
+			"EventType": "add",
+			"OUI": "B44BD67",
+			"OUISize": 28,
+			"OrgAddress": "Room 1006,general chamber of commerce,159 henghu road\\nwenling  zhejiang  317515\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Taizhou convergence Information technology Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

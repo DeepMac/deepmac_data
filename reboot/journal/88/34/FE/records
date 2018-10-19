@@ -1,0 +1,48 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-01",
+			"EventType": "add",
+			"OUI": "8834FE",
+			"OUISize": 24,
+			"OrgAddress": "No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China\\n\\n\\n",
+			"OrgCountry": "Suzhou  Jiangsu  215021",
+			"OrgName": "Bosch Automotive Products (Suzhou) Co. Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-02",
+			"EventType": "change",
+			"OUI": "8834FE",
+			"OUISize": 24,
+			"OrgAddress": "No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China\\nSuzhou  Jiangsu  215021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Bosch Automotive Products (Suzhou) Co. Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-04",
+			"EventType": "change",
+			"OUI": "8834FE",
+			"OUISize": 24,
+			"OrgAddress": "No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China\\n\\n\\n",
+			"OrgCountry": "Suzhou  Jiangsu  215021",
+			"OrgName": "Bosch Automotive Products (Suzhou) Co. Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-05",
+			"EventType": "change",
+			"OUI": "8834FE",
+			"OUISize": 24,
+			"OrgAddress": "No. 455 Xing Long Street,Suzhou Industrial Park,Suzhou P.R., 215021 China\\nSuzhou  Jiangsu  215021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Bosch Automotive Products (Suzhou) Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

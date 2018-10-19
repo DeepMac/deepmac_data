@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "add",
+			"OUI": "4C962D",
+			"OUISize": 24,
+			"OrgAddress": "GransholmsvÃ¤gen 136\\nGemla    35599\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Fresh AB",
+			"Source": "IEEE"
+		}
+	]
+}

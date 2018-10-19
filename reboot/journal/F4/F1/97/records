@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-12",
+			"EventType": "add",
+			"OUI": "F4F197",
+			"OUISize": 24,
+			"OrgAddress": "14, Pangyoyeok ro 192, Bundang gu\\nSeongnam city  Kyeonggi do  13524\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "EMTAKE Inc",
+			"Source": "IEEE"
+		}
+	]
+}

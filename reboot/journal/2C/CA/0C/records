@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-28",
+			"EventType": "add",
+			"OUI": "2CCA0C",
+			"OUISize": 24,
+			"OrgAddress": "1604, O'BIZTOWER, Pyeong Chon, 126, Beolmal-ro, Dongan-gu\\nAnyang-si  Gyeonggi-do  14057\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "WITHUS PLANET",
+			"Source": "IEEE"
+		}
+	]
+}

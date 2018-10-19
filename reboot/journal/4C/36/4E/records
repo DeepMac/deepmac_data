@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-01",
+			"EventType": "add",
+			"OUI": "4C364E",
+			"OUISize": 24,
+			"OrgAddress": "4-1-62 Minoshima, Hakata-ku\\nFukuoka-shi  Fukuoka  812-8531\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Panasonic Corporation  Connected Solutions Company",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "add",
+			"OUI": "0C73EB7",
+			"OUISize": 28,
+			"OrgAddress": "No.19, Wuquan 2nd Rd., Wugu Dist.\\nNew Taipei City    24890\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Dinkle Enterprise Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

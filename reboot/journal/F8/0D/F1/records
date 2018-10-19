@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-22",
+			"EventType": "add",
+			"OUI": "F80DF1",
+			"OUISize": 24,
+			"OrgAddress": "rue de la gare\\nsonceboz  Bern  2605\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Sontex SA",
+			"Source": "IEEE"
+		}
+	]
+}

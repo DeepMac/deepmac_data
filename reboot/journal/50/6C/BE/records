@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-20",
+			"EventType": "add",
+			"OUI": "506CBE",
+			"OUISize": 24,
+			"OrgAddress": "WuHan East Lake Wuhan New Technology Development Zone\\nWuhan  Hubei Province  430223\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "InnosiliconTechnology Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

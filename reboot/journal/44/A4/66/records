@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-12",
+			"EventType": "add",
+			"OUI": "44A466",
+			"OUISize": 24,
+			"OrgAddress": "Groupe LDLC - 2 rue des Erables\\nLIMONEST  Rhone  69760\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "GROUPE LDLC",
+			"Source": "IEEE"
+		}
+	]
+}

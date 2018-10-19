@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "add",
+			"OUI": "949D57",
+			"OUISize": 24,
+			"OrgAddress": "Rua Matrinxa\\nManaus  Amazonas  69075150\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Panasonic do Brasil Limitada",
+			"Source": "IEEE"
+		}
+	]
+}

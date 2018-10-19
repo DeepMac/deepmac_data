@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Harris Corparation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-14",
+			"EventType": "change",
+			"OUI": "0017F3",
+			"OUISize": 24,
+			"OrgAddress": "1025 West NASA Blvd\\nMelbourne  FL  32919\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Harris Corporation",
+			"Source": "IEEE"
 		}
 	]
 }

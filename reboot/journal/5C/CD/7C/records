@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-09",
+			"EventType": "add",
+			"OUI": "5CCD7C",
+			"OUISize": 24,
+			"OrgAddress": "MEIZU Tech Bldg., Technology& Innovation Coast\\nZhuhai  Guangdong  519085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "MEIZU Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

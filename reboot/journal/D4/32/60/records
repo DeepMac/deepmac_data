@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-27",
+			"EventType": "add",
+			"OUI": "D43260",
+			"OUISize": 24,
+			"OrgAddress": "3000 Clearview Way\\nSan Mateo  CA  94402\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "GoPro",
+			"Source": "IEEE"
+		}
+	]
+}

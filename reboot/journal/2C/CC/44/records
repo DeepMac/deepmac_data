@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-28",
+			"EventType": "add",
+			"OUI": "2CCC44",
+			"OUISize": 24,
+			"OrgAddress": "1-7-1 Konan\\nMinato-ku  Tokyo  108-0075\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Sony Interactive Entertainment Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Advantage Pharmacy Services, LLC",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-10",
+			"EventType": "change",
+			"OUI": "F06130",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 7\\nMadison  MO  39130-0007\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Advantage Pharmacy Services, LLC",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-12",
+			"EventType": "add",
+			"OUI": "4C1B86",
+			"OUISize": 24,
+			"OrgAddress": "No.8, Sec.2, Guangfu Rd.\\nHsinchu City  Hsinchu  30071\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Arcadyan Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

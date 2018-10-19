@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-07",
+			"EventType": "add",
+			"OUI": "301F9A1",
+			"OUISize": 28,
+			"OrgAddress": "Gabrsko 11a\\nTrbovlje    1420\\n\\n",
+			"OrgCountry": "SI",
+			"OrgName": "Dewesoft d.o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

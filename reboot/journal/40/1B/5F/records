@@ -32,6 +32,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Weifang GoerTek Technology Co.,Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-15",
+			"EventType": "change",
+			"OUI": "401B5F",
+			"OUISize": 24,
+			"OrgAddress": "Gaoxin 2 Road,Free Trade Zone,Weifang,Shandong,261205,P.R.China\\nWeifang  Shandong  261205\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "WEIFANG GOERTEK ELECTRONICS CO.,LTD",
+			"Source": "IEEE"
 		}
 	]
 }

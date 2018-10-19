@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-07",
+			"EventType": "add",
+			"OUI": "F041C8E",
+			"OUISize": 28,
+			"OrgAddress": "Add: D2-6A, TCL Science Park, 1001 ZhongshanYuan Road, Nanshan District\\nShenzhen  Guangdong  581055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Umind Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

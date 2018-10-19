@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-16",
+			"EventType": "add",
+			"OUI": "70B3D5415",
+			"OUISize": 36,
+			"OrgAddress": "VIA PARALLELA 2/4\\nVILLA BARTOLOMEA  VERONA  37049\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "IDEA SPA",
+			"Source": "IEEE"
+		}
+	]
+}

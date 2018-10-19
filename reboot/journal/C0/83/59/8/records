@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-20",
+			"EventType": "add",
+			"OUI": "C083598",
+			"OUISize": 28,
+			"OrgAddress": "Luxemburger Strasse 1\\nEssen  NRW  45131\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ista International GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

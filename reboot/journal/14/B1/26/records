@@ -21,6 +21,17 @@
 			"OrgCountry": "BG",
 			"OrgName": "Industrial Software Co",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-09",
+			"EventType": "change",
+			"OUI": "14B126",
+			"OUISize": 24,
+			"OrgAddress": "85, Aleksandyr Malinov Blvd. Office 6\\nSofia    1715\\n\\n",
+			"OrgCountry": "BG",
+			"OrgName": "Industrial Software Co",
+			"Source": "IEEE"
 		}
 	]
 }

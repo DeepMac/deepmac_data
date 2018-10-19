@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-07",
+			"EventType": "add",
+			"OUI": "0CFE5DB",
+			"OUISize": 28,
+			"OrgAddress": "5 Floor, Chuangyecheng,Xinghua Road,Xingwei,Fuyong\\nShenzhen  Guangdong  518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "YINUO-LINK LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Insigma Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-07",
+			"EventType": "change",
+			"OUI": "1CCAE32",
+			"OUISize": 28,
+			"OrgAddress": "43490, Yukon Drive, Suite 102\\nAshburn  VA  20147\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Insigma Inc",
+			"Source": "IEEE"
 		}
 	]
 }

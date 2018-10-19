@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-31",
+			"EventType": "add",
+			"OUI": "806940",
+			"OUISize": 24,
+			"OrgAddress": "10TH FLOOR,CHINA AEROSPACE CENTRE,143 HOI BUN ROAD,KWUN TONG,KOWLOON, HONG KONG\\nHONG KONG    999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "LEXAR CO.,LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-23",
+			"EventType": "add",
+			"OUI": "70B3D529C",
+			"OUISize": 36,
+			"OrgAddress": "via Meucci 24/a\\nCastel San Pietro Terme  Bologna  40024\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Teko Telecom Srl",
+			"Source": "IEEE"
+		}
+	]
+}

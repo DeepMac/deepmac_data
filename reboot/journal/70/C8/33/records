@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "add",
+			"OUI": "70C833",
+			"OUISize": 24,
+			"OrgAddress": "Visiokatu 4\\nTampere    33720\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Wirepas Oy",
+			"Source": "IEEE"
+		}
+	]
+}

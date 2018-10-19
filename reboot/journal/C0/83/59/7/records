@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-20",
+			"EventType": "add",
+			"OUI": "C083597",
+			"OUISize": 28,
+			"OrgAddress": "28th floor, Building 1, area F, Fuzhou software park, 89 Ruanjian Avenue\\nFuzhou  Fujian  350001\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fuzhou Fdlinker Technology Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

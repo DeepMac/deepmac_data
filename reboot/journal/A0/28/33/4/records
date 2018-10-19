@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-30",
+			"EventType": "add",
+			"OUI": "A028334",
+			"OUISize": 28,
+			"OrgAddress": "APT. 8, LODG. XIV ,FL.6, bld.4, Passage Savelkinsky\\nZelenograd  Moscow  124482\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Firm INFORMTEST Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

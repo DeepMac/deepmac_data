@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-03",
+			"EventType": "add",
+			"OUI": "3C6A2C0",
+			"OUISize": 28,
+			"OrgAddress": "17741 Ludlow St.\\nGranada Hills  CA  91344-4502\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Rio Lago Technologies  LLC",
+			"Source": "IEEE"
+		}
+	]
+}

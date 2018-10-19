@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-29",
+			"EventType": "add",
+			"OUI": "7CBC842",
+			"OUISize": 28,
+			"OrgAddress": "301-1103, 345, Seokcheon-ro\\nBucheon-si  Gyeonggi-do  14501\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "3S Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

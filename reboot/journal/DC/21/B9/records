@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "DC21B9",
+			"OUISize": 24,
+			"OrgAddress": "10, Baekseokgongdan 1-ro, Seobuk-gu\\nCheonan-si  Chungcheongnam-do  31094\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Sentec Co.Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

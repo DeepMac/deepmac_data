@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-08",
+			"EventType": "add",
+			"OUI": "70B3D5510",
+			"OUISize": 36,
+			"OrgAddress": "Antalya OSB 3. KÄ±sÄ±m 25. Cadde No:30\\nANTALYA    07190\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "PSL ELEKTRONÄ°K SANAYÄ° VE TÄ°CARET A.S.",
+			"Source": "IEEE"
+		}
+	]
+}

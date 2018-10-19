@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "MITSUBISHI CABLE COMPANY",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-24",
+			"EventType": "change",
+			"OUI": "0000BD",
+			"OUISize": 24,
+			"OrgAddress": "8, NISHINO-CHO, HIGASHI-MUKOJIMA\\nAMAGASAKI  HYOGO  660-0856\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Mitsubishi Cable Industries, Ltd. / Ryosei Systems",
+			"Source": "IEEE"
 		}
 	]
 }

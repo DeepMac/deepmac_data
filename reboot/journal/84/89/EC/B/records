@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-17",
+			"EventType": "add",
+			"OUI": "8489ECB",
+			"OUISize": 28,
+			"OrgAddress": "Remschuetzer Str. 1\\nSaalfeld/Saale    07318\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EPSa Elektronik & PrÃ¤zisionsbau Saalfeld GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

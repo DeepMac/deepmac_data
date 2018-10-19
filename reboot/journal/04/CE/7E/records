@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-15",
+			"EventType": "add",
+			"OUI": "04CE7E",
+			"OUISize": 24,
+			"OrgAddress": "Parc les Algorithmes,Saint Aubin\\nGif sur Yvette    91193\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "NXP France Semiconductors France",
+			"Source": "IEEE"
+		}
+	]
+}

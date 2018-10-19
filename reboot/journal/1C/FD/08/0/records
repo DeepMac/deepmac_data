@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-20",
+			"EventType": "add",
+			"OUI": "1CFD080",
+			"OUISize": 28,
+			"OrgAddress": "1871 Wright Avenue\\nLa Verne  CA  91750\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "InSeat Solutions, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -10,6 +10,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "metraTec GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-23",
+			"EventType": "change",
+			"OUI": "50FF99A",
+			"OUISize": 28,
+			"OrgAddress": "Niels-Bohr-Str. 5\\nMagdeburg  Sachsen-Anh.  39106\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "metraTec GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

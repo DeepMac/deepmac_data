@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-24",
+			"EventType": "add",
+			"OUI": "C4FFBCB",
+			"OUISize": 28,
+			"OrgAddress": "20 Kandamatsunaga-cho\\nChiyoda-ku  TOKYO  101-8627\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "KAGA ELECTRONICS CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-15",
+			"EventType": "add",
+			"OUI": "70B3D5907",
+			"OUISize": 36,
+			"OrgAddress": "No.138 Zhenyong Road\\nNingbo  Zhejiang  315021\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "NINGBO CRRC TIMES TRANSDUCER TECHNOLOGY CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

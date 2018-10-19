@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-30",
+			"EventType": "add",
+			"OUI": "3C6A2C6",
+			"OUISize": 28,
+			"OrgAddress": "451 chemin de Champivost\\nLimonest    69760\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "La BarriÃ¨re Automatique",
+			"Source": "IEEE"
+		}
+	]
+}

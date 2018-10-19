@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-25",
+			"EventType": "add",
+			"OUI": "80A796",
+			"OUISize": 24,
+			"OrgAddress": "3180 18th St, Ste 200\\nSan Francisco  CA  94110\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Neurotek LLC",
+			"Source": "IEEE"
+		}
+	]
+}

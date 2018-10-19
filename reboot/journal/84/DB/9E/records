@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-07",
+			"EventType": "add",
+			"OUI": "84DB9E",
+			"OUISize": 24,
+			"OrgAddress": "Postbox 2005\\nStockholm    10311\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Aifloo AB",
+			"Source": "IEEE"
+		}
+	]
+}

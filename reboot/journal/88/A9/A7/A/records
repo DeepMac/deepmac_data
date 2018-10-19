@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-22",
+			"EventType": "add",
+			"OUI": "88A9A7A",
+			"OUISize": 28,
+			"OrgAddress": "Zhejiang Lishui city streets Nanming mountain Shek road Liandu District No. 268 Building 2 block B\\nLishui  Zhejiang  323000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zhejiang Haoteng Electronic Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

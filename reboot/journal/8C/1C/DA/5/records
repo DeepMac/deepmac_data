@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-30",
+			"EventType": "add",
+			"OUI": "8C1CDA5",
+			"OUISize": 28,
+			"OrgAddress": "Interleuvenlaan 15i\\nLeuven    3001\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "Septentrio NV",
+			"Source": "IEEE"
+		}
+	]
+}

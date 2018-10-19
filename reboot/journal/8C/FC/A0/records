@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-16",
+			"EventType": "add",
+			"OUI": "8CFCA0",
+			"OUISize": 24,
+			"OrgAddress": "SSMEC Building,Gao Xin Nan First Avenue Hi-Tech Park South,Nanshan\\nShenzhen  GuangDong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Smart Device Technology Co., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

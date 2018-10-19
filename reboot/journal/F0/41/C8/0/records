@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-01",
+			"EventType": "add",
+			"OUI": "F041C80",
+			"OUISize": 28,
+			"OrgAddress": "2A,No60 , Lizhong Road,DaliQingxi Town\\nDongguan  Guandong  523648\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "LINPA ACOUSTIC TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-07",
+			"EventType": "add",
+			"OUI": "70B3D527F",
+			"OUISize": 36,
+			"OrgAddress": "505A Airport Road Paya Lebar\\nSingapore  Singapore  539934\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "ST Aerospace Systems",
+			"Source": "IEEE"
+		}
+	]
+}

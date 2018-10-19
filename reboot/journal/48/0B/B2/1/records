@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-10",
+			"EventType": "add",
+			"OUI": "480BB21",
+			"OUISize": 28,
+			"OrgAddress": "403, Unit 3, Building 3, Zhongdian Hi-Tech Park, No.1 Kejiqi Rd.\\nZhuhai  Guangdong  519080\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "BAJA ELECTRONICS TECHNOLOGY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

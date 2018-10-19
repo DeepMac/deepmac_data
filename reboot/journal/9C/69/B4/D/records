@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-27",
+			"EventType": "add",
+			"OUI": "9C69B4D",
+			"OUISize": 28,
+			"OrgAddress": "Krasnogo kursanta str. 25 lit. J\\nSaint-Petersburg    197110\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Intellect module LLC",
+			"Source": "IEEE"
+		}
+	]
+}

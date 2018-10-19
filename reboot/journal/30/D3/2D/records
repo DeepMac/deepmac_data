@@ -21,6 +21,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "devolo AG",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-28",
+			"EventType": "change",
+			"OUI": "30D32D",
+			"OUISize": 24,
+			"OrgAddress": "Charlottenburger Allee 67\\nAachen  NRW  52068\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "devolo AG",
+			"Source": "IEEE"
 		}
 	]
 }

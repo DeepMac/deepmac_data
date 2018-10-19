@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Fluidic Energy",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-04",
+			"EventType": "change",
+			"OUI": "CCD31EC",
+			"OUISize": 28,
+			"OrgAddress": "8455 North 90th Street Suite 4\\nScottsdale  AZ  85258\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NantEnergy",
+			"Source": "IEEE"
 		}
 	]
 }

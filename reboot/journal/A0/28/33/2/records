@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-23",
+			"EventType": "add",
+			"OUI": "A028332",
+			"OUISize": 28,
+			"OrgAddress": "No.98,Lane 1971,(s)Lianhua Road,Minhang Area\\nShanghai  Shanghai  201108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Nohmi Secom Fire Protection  Equipment Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

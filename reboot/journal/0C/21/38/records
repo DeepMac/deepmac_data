@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-19",
+			"EventType": "add",
+			"OUI": "0C2138",
+			"OUISize": 24,
+			"OrgAddress": "Uhlandstrasse49\\nAldingen  BW  78554\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Hengstler GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

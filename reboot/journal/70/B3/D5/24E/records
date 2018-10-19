@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-30",
+			"EventType": "add",
+			"OUI": "70B3D524E",
+			"OUISize": 36,
+			"OrgAddress": "6-419, Hi-tech Incubation Park, No.1480 Tianfu Ave\\nChengdu  Sichuan  610000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Chengdu Cove Technology CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

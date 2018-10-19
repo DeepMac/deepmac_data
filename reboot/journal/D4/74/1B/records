@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-10",
+			"EventType": "add",
+			"OUI": "D4741B",
+			"OUISize": 24,
+			"OrgAddress": "No.1 Gaojiayuan,Chaoyang District,Beijing,China\\nBeijing  Beijing  100015\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing HuaDa ZhiBao Electronic System Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

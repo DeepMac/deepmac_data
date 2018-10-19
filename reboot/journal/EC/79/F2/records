@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-05",
+			"EventType": "add",
+			"OUI": "EC79F2",
+			"OUISize": 24,
+			"OrgAddress": "Xi Chuang Industrial Parkï¼Second industrial district of Guan Long Villageï¼Xili town ï¼Nanshan District\\nShenzhen  Guangdong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Startel",
+			"Source": "IEEE"
+		}
+	]
+}

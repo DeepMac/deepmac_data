@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-27",
+			"EventType": "add",
+			"OUI": "70B3D5C04",
+			"OUISize": 36,
+			"OrgAddress": "221 G Street, #204\\nDavis  CA  95616\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Barobo Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-23",
+			"EventType": "add",
+			"OUI": "70B3D5EF5",
+			"OUISize": 36,
+			"OrgAddress": "Paffrather Str. 140\\nBergisch Gladbach  North Rhine-Westphalia  51465\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "DEUTA-WERKE GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

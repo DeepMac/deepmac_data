@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Pigeon Point Systems LLC",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-24",
+			"EventType": "change",
+			"OUI": "001849",
+			"OUISize": 24,
+			"OrgAddress": "Langenalber Strasse 96-100\\nStraubenhardt    75334\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "nVent, Schroff GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

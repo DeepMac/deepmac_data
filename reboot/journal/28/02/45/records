@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-26",
+			"EventType": "add",
+			"OUI": "280245",
+			"OUISize": 24,
+			"OrgAddress": "4F., No.134, Ln. 235, Baoqiao Rd., Xindian Dist.\\nNew Taipei City  ---  231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Konze System Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

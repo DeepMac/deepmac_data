@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-23",
+			"EventType": "add",
+			"OUI": "3C24F0C",
+			"OUISize": 28,
+			"OrgAddress": "Erikdahlbergsgatan 4\\nGÃ¶teborg    41126\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Authentico Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

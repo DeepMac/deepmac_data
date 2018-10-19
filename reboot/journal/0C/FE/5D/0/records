@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-07",
+			"EventType": "add",
+			"OUI": "0CFE5D0",
+			"OUISize": 28,
+			"OrgAddress": "D7-13F, Chengdu Tianfu Software Park, No. 599 Shijicheng South street, Gaoxin District, Chengdu, China\\nChengdu  sichaun  610041\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Chengdu Ledong Information & Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

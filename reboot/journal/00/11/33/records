@@ -21,6 +21,17 @@
 			"OrgCountry": "AT",
 			"OrgName": "Siemens Austria SIMEA",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-27",
+			"EventType": "change",
+			"OUI": "001133",
+			"OUISize": 24,
+			"OrgAddress": "Siemensstrasse 90-92\\nVienna    1210\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Siemens AG Austria",
+			"Source": "IEEE"
 		}
 	]
 }

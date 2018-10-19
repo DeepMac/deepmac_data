@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-27",
+			"EventType": "add",
+			"OUI": "8C1CDA2",
+			"OUISize": 28,
+			"OrgAddress": "Suite514, 130, Digital-ro\\nSeoul    08589\\n\\n",
+			"OrgCountry": "KP",
+			"OrgName": "GEOMC",
+			"Source": "IEEE"
+		}
+	]
+}

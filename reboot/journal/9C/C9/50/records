@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-17",
+			"EventType": "add",
+			"OUI": "9CC950",
+			"OUISize": 24,
+			"OrgAddress": "Hummelstrasse 17\\nFrauenfeld  Thurgau  8501\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Baumer Holding",
+			"Source": "IEEE"
+		}
+	]
+}

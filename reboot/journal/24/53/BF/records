@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-03",
+			"EventType": "add",
+			"OUI": "2453BF",
+			"OUISize": 24,
+			"OrgAddress": "1007 B-dong, Hyundai Knowledge Industry Center, 70 Dusan-ro, Geumcheon-gu, Seoul, KOREA\\nSEOUL    08584\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Enernet",
+			"Source": "IEEE"
+		}
+	]
+}

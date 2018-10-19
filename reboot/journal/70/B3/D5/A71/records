@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-28",
+			"EventType": "add",
+			"OUI": "70B3D5A71",
+			"OUISize": 36,
+			"OrgAddress": "No. 317-1, Sec.2, An Kang Rd., Hsintien Dist\\nNew Taipei City    231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Samwell International Inc",
+			"Source": "IEEE"
+		}
+	]
+}

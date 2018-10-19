@@ -10,6 +10,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "Siemens AG - Industrial Automation - EWA",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-18",
+			"EventType": "change",
+			"OUI": "AC6417",
+			"OUISize": 24,
+			"OrgAddress": "Werner-von-Siemens Strasse 50\\nAmberg    92224\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Siemens AG",
+			"Source": "IEEE"
 		}
 	]
 }

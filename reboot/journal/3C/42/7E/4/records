@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-05",
+			"EventType": "add",
+			"OUI": "3C427E4",
+			"OUISize": 28,
+			"OrgAddress": "Ilmarisentie 8\\nLahti    15200\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Teknoware Oy",
+			"Source": "IEEE"
+		}
+	]
+}

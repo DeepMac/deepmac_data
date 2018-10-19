@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-28",
+			"EventType": "add",
+			"OUI": "6C5C3DC",
+			"OUISize": 28,
+			"OrgAddress": "11. Deoksan-ro 189beon-gil.\\nilsan seo-gu. Goyang-si  Gyeonggi-do  10205\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "choyang powertech",
+			"Source": "IEEE"
+		}
+	]
+}

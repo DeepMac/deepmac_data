@@ -32,6 +32,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "Hytec Geraetebau GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-21",
+			"EventType": "change",
+			"OUI": "30B216",
+			"OUISize": 24,
+			"OrgAddress": "Kallstadter Strasse 1\\nMannheim    68309\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ABB AG - Power Grids - Grid Automation",
+			"Source": "IEEE"
 		}
 	]
 }

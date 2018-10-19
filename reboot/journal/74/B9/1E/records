@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-21",
+			"EventType": "add",
+			"OUI": "74B91E",
+			"OUISize": 24,
+			"OrgAddress": "#50 Baoxiang Road, Jiangning Bin Jiang Economic Development Zone\\nnanjing  jiangsu  211161\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanjing Bestway Automation System Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

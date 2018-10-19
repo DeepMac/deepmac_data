@@ -76,6 +76,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "PFU LIMITED",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-16",
+			"EventType": "change",
+			"OUI": "008017",
+			"OUISize": 24,
+			"OrgAddress": "Nu 98-2 Unoke\\nKahoku-shi, Ishikawa    929-1192\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "PFU LIMITED",
+			"Source": "IEEE"
 		}
 	]
 }

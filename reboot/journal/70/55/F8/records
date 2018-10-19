@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-06",
+			"EventType": "add",
+			"OUI": "7055F8",
+			"OUISize": 24,
+			"OrgAddress": "175 S San Antonio Rd #100\\nLos Altos  CA  94022\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cerebras Systems Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-06",
+			"EventType": "add",
+			"OUI": "3CEAF9",
+			"OUISize": 24,
+			"OrgAddress": "Rm 808, 809, B dong, Gunpo IT vally, 17, Gosan-ro 148beon-gil, Gunpo-si, Gyeonggi-do, Republic of Korea\\nGUNPOSI    15850\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "JUBIXCOLTD",
+			"Source": "IEEE"
+		}
+	]
+}

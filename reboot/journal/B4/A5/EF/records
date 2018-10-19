@@ -10,6 +10,17 @@
 			"OrgCountry": "TW",
 			"OrgName": "Sercomm Corporation.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-15",
+			"EventType": "change",
+			"OUI": "B4A5EF",
+			"OUISize": 24,
+			"OrgAddress": "3F,No.81,Yu-Yih Rd.,Chu-Nan Chen\\nMiao-Lih Hsuan    115\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Sercomm Corporation.",
+			"Source": "IEEE"
 		}
 	]
 }

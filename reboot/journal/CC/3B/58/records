@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-02",
+			"EventType": "add",
+			"OUI": "CC3B58",
+			"OUISize": 24,
+			"OrgAddress": "712 Broadway #4\\nNew York  NY  10003\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Curiouser Products Inc",
+			"Source": "IEEE"
+		}
+	]
+}

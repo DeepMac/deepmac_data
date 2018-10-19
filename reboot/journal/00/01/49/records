@@ -76,6 +76,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "T.D.T. Transfer Data Test GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-06",
+			"EventType": "change",
+			"OUI": "000149",
+			"OUISize": 24,
+			"OrgAddress": "SiemensstraÃe 18\\n\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "TDT AG",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-21",
+			"EventType": "add",
+			"OUI": "641331",
+			"OUISize": 24,
+			"OrgAddress": "NO.48 North Yinhu Road\\nWuhu city  Anhui Province  241000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Bosch Car Multimedia (Wuhu) Co. Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

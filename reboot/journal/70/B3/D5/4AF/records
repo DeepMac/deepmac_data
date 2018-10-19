@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-13",
+			"EventType": "add",
+			"OUI": "70B3D54AF",
+			"OUISize": 36,
+			"OrgAddress": "Augustenborg Landevej 19\\nSoenderborg  DK  6400\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Agramkow Fluid Systems A/S",
+			"Source": "IEEE"
+		}
+	]
+}

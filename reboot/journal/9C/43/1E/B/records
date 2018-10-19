@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-17",
+			"EventType": "add",
+			"OUI": "9C431EB",
+			"OUISize": 28,
+			"OrgAddress": "W1205 Industrial Dr\\nIxonia  WI  53036\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "JNL Technologies Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-18",
+			"EventType": "change",
+			"OUI": "9C431EB",
+			"OUISize": 28,
+			"OrgAddress": "W1205 Industrial Dr\\nIxonia  WI  53036\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "JNL Technologies Inc",
+			"Source": "IEEE"
+		}
+	]
+}

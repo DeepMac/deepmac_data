@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-22",
+			"EventType": "add",
+			"OUI": "7485C4",
+			"OUISize": 24,
+			"OrgAddress": "466 Changhe Road, Binjiang District\\nHangzhou  Zhejiang  310052\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "New H3C Technologies Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

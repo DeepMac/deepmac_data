@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Watchguard Technologies, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-05",
+			"EventType": "change",
+			"OUI": "000121",
+			"OUISize": 24,
+			"OrgAddress": "605 Fifth Ave. S\\nSeattle  WA  98104-3892\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "WatchGuard Technologies, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

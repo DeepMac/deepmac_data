@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-25",
+			"EventType": "add",
+			"OUI": "4017E2",
+			"OUISize": 24,
+			"OrgAddress": "No.9, JINGKE RD.,NANTUN DIST.\\nTAICHUNG CITY    40852\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "INTAI TECHNOLOGY CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

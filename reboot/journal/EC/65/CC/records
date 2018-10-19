@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-10",
+			"EventType": "add",
+			"OUI": "EC65CC",
+			"OUISize": 24,
+			"OrgAddress": "776 Highway 74 South\\nPeachtree City    30269\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Panasonic Automotive Systems Company of America",
+			"Source": "IEEE"
+		}
+	]
+}

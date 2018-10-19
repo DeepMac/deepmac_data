@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "E4D3AA",
+			"OUISize": 24,
+			"OrgAddress": "4-1-1, Kamikodanaka, Nakahara-ku\\nKawasaki  Kanagawa  2118588\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "FUJITSU CONNECTED TECHNOLOGIES LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

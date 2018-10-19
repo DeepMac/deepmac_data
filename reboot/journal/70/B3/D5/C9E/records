@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-07",
+			"EventType": "add",
+			"OUI": "70B3D5C9E",
+			"OUISize": 36,
+			"OrgAddress": "Nazukari 996\\nNagareyama  Chiba  2700145\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "FUKUDA SANGYO CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

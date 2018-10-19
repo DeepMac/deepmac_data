@@ -21,6 +21,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Espressif Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-15",
+			"EventType": "change",
+			"OUI": "18FE34",
+			"OUISize": 24,
+			"OrgAddress": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area\\nShanghai  Shanghai  201203\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Espressif Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

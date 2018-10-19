@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-29",
+			"EventType": "add",
+			"OUI": "B44BD64",
+			"OUISize": 28,
+			"OrgAddress": "3F, 4Building, Anda Industrial Zone, Chongqing Road, Fuyong Town, Baoan District\\nShenZhen  GuangDong  518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Hi-Net Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -52,6 +52,17 @@
 			"OrgCountry": "AU",
 			"OrgName": "BHP LIMITED",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-09",
+			"EventType": "change",
+			"OUI": "00A068",
+			"OUISize": 24,
+			"OrgAddress": "1500 Post Oak Boulevard #11.08 B\\nHouston  TX  77056-3030\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BHP LIMITED",
+			"Source": "IEEE"
 		}
 	]
 }

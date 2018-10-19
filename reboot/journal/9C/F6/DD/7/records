@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-08",
+			"EventType": "add",
+			"OUI": "9CF6DD7",
+			"OUISize": 28,
+			"OrgAddress": "3F. No.42, Sec. 2, Chongsin Rd., Sanchong Dist.\\nNew Taipei City    241\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "KXT Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

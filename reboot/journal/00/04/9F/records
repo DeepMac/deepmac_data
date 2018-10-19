@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Freescale Semiconductor",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-25",
+			"EventType": "change",
+			"OUI": "00049F",
+			"OUISize": 24,
+			"OrgAddress": "2100 East  Elliot\\nTempe  AZ  85284\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Freescale Semiconductor",
+			"Source": "IEEE"
 		}
 	]
 }

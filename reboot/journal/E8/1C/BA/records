@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-09",
+			"EventType": "add",
+			"OUI": "E81CBA",
+			"OUISize": 24,
+			"OrgAddress": "899 Kifer Road\\nSunnyvale    94086\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Fortinet, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

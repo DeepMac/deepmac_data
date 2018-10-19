@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-12",
+			"EventType": "add",
+			"OUI": "A83FA13",
+			"OUISize": 28,
+			"OrgAddress": "602, No.11, Jiangong Road, Tianhe Software Park, Tianhe District\\nGuangzhou  Guangdong  510665\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangzhou Tupu Internet Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

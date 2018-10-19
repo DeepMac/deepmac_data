@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-01",
+			"EventType": "add",
+			"OUI": "1889A0",
+			"OUISize": 24,
+			"OrgAddress": "5th Floor,Financial Port Building A9,No.77 Optical Valley Avenue, East Lake High-Tech Development Zone, Wuhan\\nWuhan  CN/Hubei  430000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Wuhan Funshion Online Technologies Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

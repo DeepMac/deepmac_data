@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "70B3D5FEE",
+			"OUISize": 36,
+			"OrgAddress": "2-1-9,Takatsukadai,Nishi-ku\\nKobe  Hyogo  651-2271\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Kawasaki Robot Service,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "AT",
 			"OrgName": "DITEST FAHRZEUGDIAGNOSE GMBH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-23",
+			"EventType": "change",
+			"OUI": "70B3D5109",
+			"OUISize": 36,
+			"OrgAddress": "ALTE POSTSTRASSE 152\\nA-8020  GRAZ  STEIERMARK\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "DiTEST Fahrzeugdiagnose GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

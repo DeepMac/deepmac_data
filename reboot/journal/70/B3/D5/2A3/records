@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-07",
+			"EventType": "add",
+			"OUI": "70B3D52A3",
+			"OUISize": 36,
+			"OrgAddress": "Robert-Koch-Str. 35\\nKehl-Auenheim    77694\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ATT Nussbaum PrÃ¼ftechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

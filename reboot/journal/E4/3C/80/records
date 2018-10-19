@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-27",
+			"EventType": "add",
+			"OUI": "E43C80",
+			"OUISize": 24,
+			"OrgAddress": "Advanced Radar Research Center\\nNorman  OK  73019\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "University of Oklahoma",
+			"Source": "IEEE"
+		}
+	]
+}

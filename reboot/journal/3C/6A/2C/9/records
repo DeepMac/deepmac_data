@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-07",
+			"EventType": "add",
+			"OUI": "3C6A2C9",
+			"OUISize": 28,
+			"OrgAddress": "202,1-29 shingi takasu\\nkochi City  Kochi  781-8103\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "WICKS Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

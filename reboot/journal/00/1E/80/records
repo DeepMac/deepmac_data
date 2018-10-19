@@ -21,6 +21,28 @@
 			"OrgCountry": "HK",
 			"OrgName": "Last Mile Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-02",
+			"EventType": "change",
+			"OUI": "001E80",
+			"OUISize": 24,
+			"OrgAddress": "12/F VIP Commercial Centre\\nTsimshatsui\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Icotera A/S",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-03",
+			"EventType": "change",
+			"OUI": "001E80",
+			"OUISize": 24,
+			"OrgAddress": "Vibeholms AllÃ© 16\\nBrÃ¸ndby    2605\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Icotera A/S",
+			"Source": "IEEE"
 		}
 	]
 }

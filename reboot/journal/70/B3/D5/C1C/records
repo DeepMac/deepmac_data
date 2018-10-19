@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-14",
+			"EventType": "add",
+			"OUI": "70B3D5C1C",
+			"OUISize": 36,
+			"OrgAddress": "Z.I. VILLANOVA 20\\nLongarone (BL)    32013\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "D.E.M. SPA",
+			"Source": "IEEE"
+		}
+	]
+}

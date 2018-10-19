@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-13",
+			"EventType": "add",
+			"OUI": "04C3E61",
+			"OUISize": 28,
+			"OrgAddress": "No. 38 South Kemu Road\\nGuangzhou City  Tianhe District, Guangdong Province  510520\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": " Guangdong New Pulse Electric Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -32,6 +32,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "TETRA GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-15",
+			"EventType": "change",
+			"OUI": "0090CE",
+			"OUISize": 24,
+			"OrgAddress": "Gewerbepark âAm Waldâ 4\\nILMENAU    D-98693\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": " avateramedical Mechatronics GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

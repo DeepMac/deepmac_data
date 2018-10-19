@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-25",
+			"EventType": "add",
+			"OUI": "C4FFBC5",
+			"OUISize": 28,
+			"OrgAddress": "Gutenbergring 22\\nNorderstedt    22848\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "comtime GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

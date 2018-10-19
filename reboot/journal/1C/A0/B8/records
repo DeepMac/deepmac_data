@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-14",
+			"EventType": "add",
+			"OUI": "1CA0B8",
+			"OUISize": 24,
+			"OrgAddress": "GuangDongShenZhen\\nShenZhen  GuangDong  518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hon Hai Precision Ind. Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

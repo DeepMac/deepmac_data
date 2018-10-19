@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-07",
+			"EventType": "add",
+			"OUI": "A4ED43D",
+			"OUISize": 28,
+			"OrgAddress": "Nohrstedts vÃ¤g 5\\nSÃ¶derbÃ¤rke    77794\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Brand New Brand Nordic AB",
+			"Source": "IEEE"
+		}
+	]
+}

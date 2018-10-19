@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-16",
+			"EventType": "add",
+			"OUI": "8C1CDAD",
+			"OUISize": 28,
+			"OrgAddress": "RiedenburgstraÃe 48\\nHorn  NiederÃ¶sterreich  A-3580\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Riegl Laser Measurement Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

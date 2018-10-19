@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-23",
+			"EventType": "add",
+			"OUI": "787D53",
+			"OUISize": 24,
+			"OrgAddress": "1011 McCarthy Blvd\\nMilpitas  CA  95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Aerohive Networks Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

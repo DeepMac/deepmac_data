@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "add",
+			"OUI": "C80873",
+			"OUISize": 24,
+			"OrgAddress": "350 West Java Drive\\nSunnyvale  CA  94089\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Ruckus Wireless",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-25",
+			"EventType": "change",
+			"OUI": "C80873",
+			"OUISize": 24,
+			"OrgAddress": "350 West Java Drive\\nSunnyvale  CA  94089\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ruckus Wireless",
+			"Source": "IEEE"
+		}
+	]
+}

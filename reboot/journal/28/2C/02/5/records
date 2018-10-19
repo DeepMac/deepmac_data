@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-04",
+			"EventType": "add",
+			"OUI": "282C025",
+			"OUISize": 28,
+			"OrgAddress": "pl.5 bldg.2/3 Akademika Anokhina str.\\nMoscow    119602\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "LLC MICROTEH",
+			"Source": "IEEE"
+		}
+	]
+}

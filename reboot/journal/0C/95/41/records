@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-15",
+			"EventType": "add",
+			"OUI": "0C9541",
+			"OUISize": 24,
+			"OrgAddress": "9F,BLOCK A,GARDEN CITY DIGITAL BUILDING,NO.1079 NANHAI ROAD,NANSHAN DISTRICT\\nSHEN ZHEN  GUANG DONG  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CHIPSEA TECHNOLOGIES (SHENZHEN) CORP.",
+			"Source": "IEEE"
+		}
+	]
+}

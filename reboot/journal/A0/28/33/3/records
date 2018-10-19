@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-31",
+			"EventType": "add",
+			"OUI": "A028333",
+			"OUISize": 28,
+			"OrgAddress": "ET SPACE, ZIZHU PARK, NO.555, DONGCHUAN RD.\\nSHANGHAI  SHANGHAI  200241\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHANGHAI XUNTAI INFORMATION TECHNOLOGY CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

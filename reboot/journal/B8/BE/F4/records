@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-28",
+			"EventType": "add",
+			"OUI": "B8BEF4",
+			"OUISize": 24,
+			"OrgAddress": "Charlottenburger Allee 67\\nAachen  NRW  52068\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "devolo AG",
+			"Source": "IEEE"
+		}
+	]
+}

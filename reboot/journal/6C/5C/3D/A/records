@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-31",
+			"EventType": "add",
+			"OUI": "6C5C3DA",
+			"OUISize": 28,
+			"OrgAddress": "350 Townsend Street, Suite 301A\\nSan Francisco  CA  94107\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "krtkl inc.",
+			"Source": "IEEE"
+		}
+	]
+}

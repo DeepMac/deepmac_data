@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-13",
+			"EventType": "add",
+			"OUI": "A83FA19",
+			"OUISize": 28,
+			"OrgAddress": "12th floor, Building C1, Nanshan Zhiyuan, 1001 Xueyuan Avenue , Nanshan District\\nShenzhen  Guangdong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen ITLONG Intelligent Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

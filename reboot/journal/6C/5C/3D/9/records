@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-28",
+			"EventType": "add",
+			"OUI": "6C5C3D9",
+			"OUISize": 28,
+			"OrgAddress": "Komvuzovkaya\\nEkaterinburg    620137\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "IskraUralTEL",
+			"Source": "IEEE"
+		}
+	]
+}

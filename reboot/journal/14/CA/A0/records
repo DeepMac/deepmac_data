@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-13",
+			"EventType": "add",
+			"OUI": "14CAA0",
+			"OUISize": 24,
+			"OrgAddress": "105 Rue du Jardin\\nBordeaux    33000\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Hu&Co",
+			"Source": "IEEE"
+		}
+	]
+}

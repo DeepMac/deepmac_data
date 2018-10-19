@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-30",
+			"EventType": "add",
+			"OUI": "70B3D50D4",
+			"OUISize": 36,
+			"OrgAddress": "4/F,Block A, 23 Huancun Road,Dalong Street, Panyu District,Guangzhou City\\nGuangzhou City  Guangdong Province  514000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangzhou Male Industrial Animation Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-12",
+			"EventType": "add",
+			"OUI": "541031",
+			"OUISize": 24,
+			"OrgAddress": "25 QUAI GALLIENI\\nSURESNES  HAUT DE SEINE  92150\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "SMARTO",
+			"Source": "IEEE"
+		}
+	]
+}

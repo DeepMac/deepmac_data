@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-20",
+			"EventType": "add",
+			"OUI": "78B6EC",
+			"OUISize": 24,
+			"OrgAddress": "3970 Johns Creek Court Suite 325 Suwanee\\nAtlanta  GA  30024\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Scuf Gaming International LLC",
+			"Source": "IEEE"
+		}
+	]
+}

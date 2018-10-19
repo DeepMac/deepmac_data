@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-03",
+			"EventType": "add",
+			"OUI": "DCE5332",
+			"OUISize": 28,
+			"OrgAddress": "Im Seelenkamp 12\\nLage    32791\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Remko GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

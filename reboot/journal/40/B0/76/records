@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "add",
+			"OUI": "40B076",
+			"OUISize": 24,
+			"OrgAddress": "15,Li-Te Rd., Peitou, Taipei 112, Taiwan\\nTaipei  Taiwan  112\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASUSTek COMPUTER INC.",
+			"Source": "IEEE"
+		}
+	]
+}

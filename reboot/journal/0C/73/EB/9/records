@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-12",
+			"EventType": "add",
+			"OUI": "0C73EB9",
+			"OUISize": 28,
+			"OrgAddress": "1st Floor, Xingtianhaiyuan Building, Xianghuangqi Eaast Rd, Nondda South Rd,Haidian District\\nBeijing    100193\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing L&S Lancom Platform Tech. Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

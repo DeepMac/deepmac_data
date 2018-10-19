@@ -21,6 +21,28 @@
 			"OrgCountry": "AT",
 			"OrgName": "Riegl Laser Measurement Systems GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-16",
+			"EventType": "change",
+			"OUI": "70B3D5F10",
+			"OUISize": 36,
+			"OrgAddress": "RiedenburgstraÃe 48\\n\\n\\n",
+			"OrgCountry": "Horn  NiederÃ¶sterreich  A-3580",
+			"OrgName": "Riegl Laser Measurement Systems GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-17",
+			"EventType": "change",
+			"OUI": "70B3D5F10",
+			"OUISize": 36,
+			"OrgAddress": "RiedenburgstraÃe 48\\nHorn  NiederÃ¶sterreich  A-3580\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "Riegl Laser Measurement Systems GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

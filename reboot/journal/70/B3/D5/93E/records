@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-23",
+			"EventType": "add",
+			"OUI": "70B3D593E",
+			"OUISize": 36,
+			"OrgAddress": "6889 Rexwood Road, Unit 9\\nMississauga  Ontario  L4V 1R2\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Systems With Intelligence Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

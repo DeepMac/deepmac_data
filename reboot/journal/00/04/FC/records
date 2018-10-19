@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Stratus Computer (DE), Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-17",
+			"EventType": "change",
+			"OUI": "0004FC",
+			"OUISize": 24,
+			"OrgAddress": "5 Mill and Main Place, Suite 500\\nMaynard  MA  01754\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Stratus Technologies",
+			"Source": "IEEE"
 		}
 	]
 }

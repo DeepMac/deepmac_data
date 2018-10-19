@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-19",
+			"EventType": "add",
+			"OUI": "C4FFBC3",
+			"OUISize": 28,
+			"OrgAddress": "1ã2Â andÂ 3Â Floor,Â No.114,Â HaochongÂ No.2Â IndustryÂ Area,Â HongxingÂ Community,Â Songgang,Â Baoan,Â Shenzhen\\nSHENZHEN  GuangDong  518105\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN KALIF ELECTRONICS CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

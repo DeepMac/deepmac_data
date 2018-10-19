@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-16",
+			"EventType": "add",
+			"OUI": "70B3D5A86",
+			"OUISize": 36,
+			"OrgAddress": "Postnet Suite 72, Private Bag X7\\nChempet    7442\\n\\n",
+			"OrgCountry": "ZA",
+			"OrgName": "Divigraph (Pty) LTD",
+			"Source": "IEEE"
+		}
+	]
+}

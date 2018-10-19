@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-01",
+			"EventType": "add",
+			"OUI": "A85AF3",
+			"OUISize": 24,
+			"OrgAddress": "Rm. 408, No. 84, Lane 887. Zhangjiang Hi-Tech Park. Zuchongzhi Rd. Shanghai, China\\nShanghai  Shanghai  201210\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Siflower Communication Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

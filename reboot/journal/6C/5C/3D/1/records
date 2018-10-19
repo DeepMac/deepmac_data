@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-26",
+			"EventType": "add",
+			"OUI": "6C5C3D1",
+			"OUISize": 28,
+			"OrgAddress": "5/F, Building No.818, Qingtiexi Mabu Community, Bao 'an DistrictXixiang Street,\\nShenzhen  Guangdong  518102\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Justek Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

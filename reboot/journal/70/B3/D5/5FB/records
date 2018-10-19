@@ -10,6 +10,17 @@
 			"OrgCountry": "RU",
 			"OrgName": "TELEPLATFORMS",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-20",
+			"EventType": "change",
+			"OUI": "70B3D55FB",
+			"OUISize": 36,
+			"OrgAddress": "Polbina st., 3/1\\nMoscow    109388\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "TELEPLATFORMS",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-15",
+			"EventType": "add",
+			"OUI": "6CDFFB7",
+			"OUISize": 28,
+			"OrgAddress": "Bahnhofstrasse\\nZug    6300\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Hashtrend AG",
+			"Source": "IEEE"
+		}
+	]
+}

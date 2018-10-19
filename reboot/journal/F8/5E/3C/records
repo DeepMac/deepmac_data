@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-15",
+			"EventType": "add",
+			"OUI": "F85E3C",
+			"OUISize": 24,
+			"OrgAddress": "4F,Bldg A2,Hedian Industrial Park,NO.8 Shijing Rd,Guanlan,Longhua District,ShenZhen,China\\nshengzhen    518110\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN ZHIBOTONG ELECTRONICS CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

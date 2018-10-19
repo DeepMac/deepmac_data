@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-12",
+			"EventType": "add",
+			"OUI": "302952",
+			"OUISize": 24,
+			"OrgAddress": "North Olympic Science & Technology Park Building #20ï¼ Floor #5, SouthBaosheng\\nBeijing    100192\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hillstone Networks Inc",
+			"Source": "IEEE"
+		}
+	]
+}

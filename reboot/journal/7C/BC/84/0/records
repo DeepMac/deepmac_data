@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-28",
+			"EventType": "add",
+			"OUI": "7CBC840",
+			"OUISize": 28,
+			"OrgAddress": "5F-1, No. 3-1, Park Street, Nangang District, Taipei, 11503, Taiwan\\nTaipei    11503\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "AG Neovo",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "add",
+			"OUI": "9C69B40",
+			"OUISize": 28,
+			"OrgAddress": "Kechuang Road\\nSuzhou City  Jiangsu Province  215163\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Suzhou Fitcan Technology Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

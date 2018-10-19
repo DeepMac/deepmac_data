@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-23",
+			"EventType": "add",
+			"OUI": "300A609",
+			"OUISize": 28,
+			"OrgAddress": "Wintek Venture Bldg., 511, Poil-Dong\\nUiwang-City  Gyunggi-Do  16013\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "WINTEK System Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

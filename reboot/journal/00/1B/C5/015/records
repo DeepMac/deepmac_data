@@ -8,6 +8,17 @@
 			"OUISize": 36,
 			"OrgName": "PRIVATE",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-08-07",
+			"EventType": "change",
+			"OUI": "001BC5015",
+			"OUISize": 36,
+			"OrgAddress": "1215 Brookville Way\\nIndianapolis   IN  46239\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Corporate Systems Engineering",
+			"Source": "IEEE"
 		}
 	]
 }

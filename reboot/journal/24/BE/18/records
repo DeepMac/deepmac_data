@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-30",
+			"EventType": "add",
+			"OUI": "24BE18",
+			"OUISize": 24,
+			"OrgAddress": "14/F, Wilson Logistics Centre,No.24-28 Kung Yip St\\nKwai Chung  New Territories  000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "DADOUTEK COMPANY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

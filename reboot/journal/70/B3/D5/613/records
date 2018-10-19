@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-06",
+			"EventType": "add",
+			"OUI": "70B3D5613",
+			"OUISize": 36,
+			"OrgAddress": "45 Scott Hill Rd\\nWarren  NH  03279\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Suprock Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

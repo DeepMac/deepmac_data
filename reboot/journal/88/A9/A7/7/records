@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-21",
+			"EventType": "add",
+			"OUI": "88A9A77",
+			"OUISize": 28,
+			"OrgAddress": "4-9-19 kamiyoga\\nSetagaya-ku  Tokyo  158-0098\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "kimura giken corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "ALPS ELECTRIC CO.,LTD.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-27",
+			"EventType": "change",
+			"OUI": "E0750A",
+			"OUISize": 24,
+			"OrgAddress": "6-1\\nkakuda-City    981-1595\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ALPS ELECTRIC CO., LTD.",
+			"Source": "IEEE"
 		}
 	]
 }

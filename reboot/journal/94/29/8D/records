@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-01",
+			"EventType": "add",
+			"OUI": "94298D",
+			"OUISize": 24,
+			"OrgAddress": "3rd Floor, Building 14, No. 518 Xinzhuan Road, Songjiang District,\\nShanghai    201600\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai AdaptComm Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

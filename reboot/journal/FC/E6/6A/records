@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-16",
+			"EventType": "add",
+			"OUI": "FCE66A",
+			"OUISize": 24,
+			"OrgAddress": "85, Aleksandyr Malinov Blvd. Office 6\\nSofia    1715\\n\\n",
+			"OrgCountry": "BG",
+			"OrgName": "Industrial Software Co",
+			"Source": "IEEE"
+		}
+	]
+}

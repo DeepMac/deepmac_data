@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-01-03",
+			"EventType": "add",
+			"OUI": "04E229",
+			"OUISize": 24,
+			"OrgAddress": "Building A01,Haier Information Park, No.1 Haier Road,\\nQingdao  Shandong  266101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao Haier Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

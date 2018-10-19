@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-09",
+			"EventType": "add",
+			"OUI": "70B3D553D",
+			"OUISize": 36,
+			"OrgAddress": "16-32 Nakamachi\\nCHINO  Nagano  3910005\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ACCEL CORP",
+			"Source": "IEEE"
+		}
+	]
+}

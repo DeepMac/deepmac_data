@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-06",
+			"EventType": "add",
+			"OUI": "A019B2D",
+			"OUISize": 28,
+			"OrgAddress": "Room1602,No68 Taidong Road,Siming District,Xiamen City\\nXiamen  FuJian  361000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "RYD Electronic Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

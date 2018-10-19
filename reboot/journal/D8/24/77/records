@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-24",
+			"EventType": "add",
+			"OUI": "D82477",
+			"OUISize": 24,
+			"OrgAddress": "168 Georgetown Road\\nCanonsburg  PA  15317\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Universal Electric Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

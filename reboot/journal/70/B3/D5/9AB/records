@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-10",
+			"EventType": "add",
+			"OUI": "70B3D59AB",
+			"OUISize": 36,
+			"OrgAddress": "45 avenue Victor-Hugo, BÃ¢timent 270, 2e Ã©tage\\nAUBERVILLIERS    93300\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Groupe Paris-Turf",
+			"Source": "IEEE"
+		}
+	]
+}

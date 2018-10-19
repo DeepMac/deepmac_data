@@ -43,6 +43,17 @@
 			"OrgCountry": "FR",
 			"OrgName": "AREVA T&D",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-27",
+			"EventType": "change",
+			"OUI": "000284",
+			"OUISize": 24,
+			"OrgAddress": "St Leonards Building  Redhill Business Park\\nStafford    ST16 1TW\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "UK Grid Solutions Limited",
+			"Source": "IEEE"
 		}
 	]
 }

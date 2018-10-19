@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-01",
+			"EventType": "add",
+			"OUI": "70B3D5525",
+			"OUISize": 36,
+			"OrgAddress": "324-611 Alexander Street\\nVancouver  British Columbia  V6A 1E1\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Plantiga Technologies Inc",
+			"Source": "IEEE"
+		}
+	]
+}

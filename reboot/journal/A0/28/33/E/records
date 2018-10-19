@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-06-01",
+			"EventType": "add",
+			"OUI": "A02833E",
+			"OUISize": 28,
+			"OrgAddress": "23207 Townline Rd.\\nTremont  IL  61568\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Precision Planting, LLC.",
+			"Source": "IEEE"
+		}
+	]
+}

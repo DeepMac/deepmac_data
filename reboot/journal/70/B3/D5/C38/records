@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-05-15",
+			"EventType": "add",
+			"OUI": "70B3D5C38",
+			"OUISize": 36,
+			"OrgAddress": "D-315 ,177, Jeongjail-ro, Bundang-gu\\nSeongnam-si    13557\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "CRESPRIT INC.",
+			"Source": "IEEE"
+		}
+	]
+}

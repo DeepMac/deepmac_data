@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-11-11",
+			"EventType": "add",
+			"OUI": "347ECA",
+			"OUISize": 24,
+			"OrgAddress": "JJ-Building, 20, Deongmyeong-ro 71beon-gil1, Yuseong-gu\\nDaejeon    34155\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "NEXTWILL",
+			"Source": "IEEE"
+		}
+	]
+}

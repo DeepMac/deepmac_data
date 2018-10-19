@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-25",
+			"EventType": "add",
+			"OUI": "54B7E5",
+			"OUISize": 24,
+			"OrgAddress": "1F No.9 R&D Rd.II, Science-Based Industrial Park\\nHsin-Chu    300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Rayson Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

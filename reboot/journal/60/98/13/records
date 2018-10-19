@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-10-27",
+			"EventType": "add",
+			"OUI": "609813",
+			"OUISize": 24,
+			"OrgAddress": "Room 1301, Building A8, No.1688 Guoquan North Road, Yangpu District\\nShanghai    200082\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Visking Digital Technology Co. LTD",
+			"Source": "IEEE"
+		}
+	]
+}

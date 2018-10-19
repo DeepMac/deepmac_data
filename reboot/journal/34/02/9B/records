@@ -21,6 +21,17 @@
 			"OrgCountry": "IN",
 			"OrgName": "CloudBerry Technologies Private Limited",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-22",
+			"EventType": "change",
+			"OUI": "34029B",
+			"OUISize": 24,
+			"OrgAddress": "1st Floor, 181/23 Industrial Area Phase 1\\nChandigarh  Punjab  160002\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "Plexonics Technologies LImited",
+			"Source": "IEEE"
 		}
 	]
 }

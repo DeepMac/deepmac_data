@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-01",
+			"EventType": "add",
+			"OUI": "8C1CDAB",
+			"OUISize": 28,
+			"OrgAddress": "Planckstr. 9-11\\nHerford    32052\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "T+A elektroakustik GmbH & Co.KG",
+			"Source": "IEEE"
+		}
+	]
+}

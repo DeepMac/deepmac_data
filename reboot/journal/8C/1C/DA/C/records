@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-07",
+			"EventType": "add",
+			"OUI": "8C1CDAC",
+			"OUISize": 28,
+			"OrgAddress": "535 Mission St, 14th Fl,\\nSan Francisco  CA  94105\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Alcidae Inc",
+			"Source": "IEEE"
+		}
+	]
+}

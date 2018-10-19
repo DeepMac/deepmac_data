@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-12",
+			"EventType": "add",
+			"OUI": "B47748",
+			"OUISize": 24,
+			"OrgAddress": "4F-2#,Lian Jian Science & Industry Park,Huarong Road,Dalang Street,Longhua District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Neoway Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

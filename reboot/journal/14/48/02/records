@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-04-12",
+			"EventType": "add",
+			"OUI": "144802",
+			"OUISize": 24,
+			"OrgAddress": "D-311,H Business Park,26,Beobwon-ro 9-gil Songpa-gu,Seoul Korea\\nSeoul    05836\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "THE YEOLRIM Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

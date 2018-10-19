@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-27",
+			"EventType": "add",
+			"OUI": "903D68",
+			"OUISize": 24,
+			"OrgAddress": "Kawasaki Tech Center 5F, 580-16, Horikawacho\\nSaiwai-ku, Kawasaki-shi  Kanagawa  212-0013\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "G-Printec, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

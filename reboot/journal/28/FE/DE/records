@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2017-12-23",
+			"EventType": "add",
+			"OUI": "28FEDE",
+			"OUISize": 24,
+			"OrgAddress": "Techno1-ro 61-7, Yuseong-gu,\\nDaejeon    34014\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "COMESTA, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

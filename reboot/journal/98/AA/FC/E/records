@@ -10,6 +10,17 @@
 			"OrgCountry": "PL",
 			"OrgName": "Comarch S.A.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-02-21",
+			"EventType": "change",
+			"OUI": "98AAFCE",
+			"OUISize": 28,
+			"OrgAddress": "Al. Jana Pawla II 39A\\nKrakow  Poland  31-864\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "Comarch S.A.",
+			"Source": "IEEE"
 		}
 	]
 }

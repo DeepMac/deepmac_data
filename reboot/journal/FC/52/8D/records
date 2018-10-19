@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Technicolor CH USA Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-03-07",
+			"EventType": "change",
+			"OUI": "FC528D",
+			"OUISize": 24,
+			"OrgAddress": "5030 Sugarloaf Parkway Bldg 6\\nLawrenceville  GA  30044\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Technicolor CH USA Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

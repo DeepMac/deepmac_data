@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "APG Cash Drawer",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-07-27",
+			"EventType": "change",
+			"OUI": "70B3D5C9D",
+			"OUISize": 36,
+			"OrgAddress": "5250 Industrial Blvd NE\\nMinneapolis  MN  55421\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "APG Cash Drawer, LLC",
+			"Source": "IEEE"
 		}
 	]
 }
