@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-10-01",
+			"EventType": "add",
+			"OUI": "2CE310",
+			"OUISize": 24,
+			"OrgAddress": "40 N Main St, Suite 2600\\nDayton  OH  45423\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Stratacache",
+			"Source": "IEEE"
+		}
+	]
+}

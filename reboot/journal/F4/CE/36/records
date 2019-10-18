@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-25",
+			"EventType": "add",
+			"OUI": "F4CE36",
+			"OUISize": 24,
+			"OrgAddress": "Otto Nielsens veg 12\\nTrondheim    NO-7052\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Nordic Semiconductor ASA",
+			"Source": "IEEE"
+		}
+	]
+}

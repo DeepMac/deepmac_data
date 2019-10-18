@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "add",
+			"OUI": "E41E0AB",
+			"OUISize": 28,
+			"OrgAddress": "6100 West Sam Houston Parkway North\\nHouston  TX  77041-5113\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Safety Vision, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-21",
+			"EventType": "add",
+			"OUI": "848BCD6",
+			"OUISize": 28,
+			"OrgAddress": "Schaardijk 386\\nCapelle aan den IJssel    2909LA\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "TWTG R&D B.V.",
+			"Source": "IEEE"
+		}
+	]
+}

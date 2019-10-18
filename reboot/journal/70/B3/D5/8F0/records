@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D58F0",
+			"OUISize": 36,
+			"OrgAddress": "284-2, WONHYORO3-GA, YONGSAN-GU\\nSEOUL    140-849\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D58F0",

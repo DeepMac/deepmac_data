@@ -21,17 +21,6 @@
 			"OrgCountry": "JP",
 			"OrgName": "ALPINE ELECTRONICS, INC.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-04-05",
-			"EventType": "change",
-			"OUI": "000A08",
-			"OUISize": 24,
-			"OrgAddress": "20-1 Yoshima-Kogyodanchi\\niwaki-city  Fukushima  970-1192\\n\\n",
-			"OrgCountry": "JP",
-			"OrgName": "Alpine Electronics, Inc.",
-			"Source": "IEEE"
 		}
 	]
 }

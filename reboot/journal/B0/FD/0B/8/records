@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-14",
+			"EventType": "add",
+			"OUI": "B0FD0B8",
+			"OUISize": 28,
+			"OrgAddress": "1 Chervena stena Str., Office 1\\nSofia  Sofia-grad  1421\\n\\n",
+			"OrgCountry": "BG",
+			"OrgName": "eSenseLab Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

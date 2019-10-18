@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D520E",
+			"OUISize": 36,
+			"OrgAddress": "Friedrich-KÃ¶nig-StraÃe 11\\nWaldbÃ¼ttelbrunn  Bayern  97297\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D520E",

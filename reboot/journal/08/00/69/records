@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "SILICON GRAPHICS INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "080069",
+			"OUISize": 24,
+			"OrgAddress": "2011 N. SHORELINE BLVD.\\nMOUNTAIN VIEW  CA  94039-7311\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Silicon Graphics",
+			"Source": "IEEE"
 		}
 	]
 }

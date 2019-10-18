@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "58FCDBB",
+			"OUISize": 28,
+			"OrgAddress": "Kelterstr. 67\\nUnterensingen  Baden-WÃ¼rttemberg  72669\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "58FCDBB",

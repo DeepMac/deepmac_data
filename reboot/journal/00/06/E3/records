@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2001-12-14",
-			"EventType": "change",
-			"OUI": "0006E3",
-			"OUISize": 24,
-			"OrgAddress": "8081 Lougheed Highway\\nBurnaby, BC\\n\\n",
-			"OrgCountry": "CANADA",
-			"OrgName": "Quantitative Imaging Corporation",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0006E3",

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "DC44279",
+			"OUISize": 28,
+			"OrgAddress": "No.2 Xinxiu Street,Hunnan New District,Shenyang,Liaoning,China\\nShenyang  Liaoning  110179\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "DC44279",

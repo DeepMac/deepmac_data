@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "add",
+			"OUI": "4CBCB4",
+			"OUISize": 24,
+			"OrgAddress": "V.le dell'industria 18\\nVittuone  Milan  20010\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "ABB SpA - DIN Rail",
+			"Source": "IEEE"
+		}
+	]
+}

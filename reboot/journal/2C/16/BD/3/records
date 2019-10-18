@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-25",
+			"EventType": "add",
+			"OUI": "2C16BD3",
+			"OUISize": 28,
+			"OrgAddress": "Jungnergatan\\nOskarshamn    57228\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Saft AB",
+			"Source": "IEEE"
+		}
+	]
+}

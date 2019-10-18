@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC502E",
+			"OUISize": 36,
+			"OrgAddress": "VIA CESARE BATTISTI 22\\nCESANO MADERNO  MILAN  20031\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC502E",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-01",
+			"EventType": "add",
+			"OUI": "E41E0AE",
+			"OUISize": 28,
+			"OrgAddress": "Floor 6,Building 8,Yanjiaqiao Road,Pudong Area ,Shanghai ,China\\nshanghai    200125\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai LeXiang Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

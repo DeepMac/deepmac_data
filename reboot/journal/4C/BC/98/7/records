@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-27",
+			"EventType": "add",
+			"OUI": "4CBC987",
+			"OUISize": 28,
+			"OrgAddress": "Langenhagstrasse 1\\nAesch    CH-4147\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Voegtlin Instruments GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

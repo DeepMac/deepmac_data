@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "00A05D",
-			"OUISize": 24,
-			"OrgAddress": "ISARSTRASSE 3,\\n82065 BAIERBRUNN\\n\\n",
-			"OrgCountry": "GERMANY",
-			"OrgName": "CS COMPUTER SYSTEME GmbH",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "00A05D",

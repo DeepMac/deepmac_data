@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-30",
+			"EventType": "add",
+			"OUI": "8C593C9",
+			"OUISize": 28,
+			"OrgAddress": "1111, 11F RACREUM, 26 Wiryeseoil-ro\\nSeongnam-si  Gyeonggi-do  13647\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "GENIS",
+			"Source": "IEEE"
+		}
+	]
+}

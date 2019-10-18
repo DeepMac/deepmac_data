@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-14",
+			"EventType": "add",
+			"OUI": "745BC5B",
+			"OUISize": 28,
+			"OrgAddress": "233 Mt. Airy Road\\nBasking Ridge  NJ  07920\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Smartiply Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

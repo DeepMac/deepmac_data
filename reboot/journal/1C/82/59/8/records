@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-09",
+			"EventType": "add",
+			"OUI": "1C82598",
+			"OUISize": 28,
+			"OrgAddress": "B624,C1 Building,Hengchao Industrial Park,Tangtou Road,Shiyan,Bao'an District\\nSHENZHEN  Guangdong  518108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN AOA TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

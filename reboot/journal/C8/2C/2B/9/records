@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-05",
+			"EventType": "add",
+			"OUI": "C82C2B9",
+			"OUISize": 28,
+			"OrgAddress": "Nowy Kisielin-Nowa 7\\nZielona GÃ³ra  Lubuskie  66-002\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "BIOT Sp. z o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

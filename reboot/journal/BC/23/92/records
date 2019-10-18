@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-19",
+			"EventType": "add",
+			"OUI": "BC2392",
+			"OUISize": 24,
+			"OrgAddress": "No.3001, Bao He Road, Baolong Industrial, Longgang Street,Longgang Zone, Shenzhen\\nshenzhen    518116\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "BYD Precision Manufacture Company Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

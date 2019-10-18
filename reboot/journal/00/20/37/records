@@ -32,17 +32,6 @@
 			"OrgCountry": "US",
 			"OrgName": "SEAGATE TECHNOLOGY",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2017-08-31",
-			"EventType": "change",
-			"OUI": "002037",
-			"OUISize": 24,
-			"OrgAddress": "8001 E. BLOOMINGTON FWY\\nBLOOMINGTON  MN  55420\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Seagate Technology",
-			"Source": "IEEE"
 		}
 	]
 }

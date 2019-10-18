@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "141FBA8",
+			"OUISize": 28,
+			"OrgAddress": "3/FL, Block 1, Shenzhen Software Park, No.2, Gaoxin Middle Street,Nanshan\\nShen Zhen  Guang Dong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "141FBA8",

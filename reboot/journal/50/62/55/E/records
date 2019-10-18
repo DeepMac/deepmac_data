@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-07",
+			"EventType": "add",
+			"OUI": "506255E",
+			"OUISize": 28,
+			"OrgAddress": "3F., No. 128, Xinhu 2nd Rd., Neihu Dist.\\nTaipei City    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SHINSOFT CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

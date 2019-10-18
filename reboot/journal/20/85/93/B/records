@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-18",
+			"EventType": "add",
+			"OUI": "208593B",
+			"OUISize": 28,
+			"OrgAddress": "9737 LURLINE AVENUE\\nCHATSWORTH  CA  91311\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "IOG Products LLC",
+			"Source": "IEEE"
+		}
+	]
+}

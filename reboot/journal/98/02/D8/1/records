@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "9802D81",
+			"OUISize": 28,
+			"OrgAddress": "4-5F, E1 Building, TCL International E City, No.1001 Zhongshanyuan Road, Nanshan District\\nShenzhen,  Guangdong  518052\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "9802D81",

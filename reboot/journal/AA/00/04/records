@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2000-11-09",
+			"EventType": "change",
+			"OUI": "AA0004",
+			"OUISize": 24,
+			"OrgAddress": "LKG 1-2/A19\\n550 KING STREET\\nLITTLETON  MA  01460-1289\\n",
+			"OrgCountry": "",
+			"OrgName": "DIGITAL EQUIPMENT CORPORATION",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2000-12-04",
 			"EventType": "change",
 			"OUI": "AA0004",

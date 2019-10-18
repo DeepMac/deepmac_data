@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-17",
+			"EventType": "add",
+			"OUI": "70B3D5B84",
+			"OUISize": 36,
+			"OrgAddress": "Komsomolsky avenue, 90-17\\nPerm  Perm Region  614010\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "OOO Research and Production Center Computer Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

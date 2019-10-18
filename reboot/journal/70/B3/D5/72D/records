@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D572D",
+			"OUISize": 36,
+			"OrgAddress": "Rua Alexandre de GusmÃ£o, 278\\nSÃ£o Paulo  SÃ£o Paulo  04760-020\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D572D",

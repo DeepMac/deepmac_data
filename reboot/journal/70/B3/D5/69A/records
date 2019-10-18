@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-31",
+			"EventType": "add",
+			"OUI": "70B3D569A",
+			"OUISize": 36,
+			"OrgAddress": "ChaussÃ©e Verte, 93B\\nSaint-Georges    4470\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "Altaneos",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-09",
+			"EventType": "add",
+			"OUI": "8C593CA",
+			"OUISize": 28,
+			"OrgAddress": "Industriestr.2\\nAssamstadt  Baden-WÃ¼rttemberg  97959\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ecom instruments GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

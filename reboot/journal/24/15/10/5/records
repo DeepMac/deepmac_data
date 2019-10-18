@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-01",
+			"EventType": "add",
+			"OUI": "2415105",
+			"OUISize": 28,
+			"OrgAddress": "Dehuida Science and Technology Park, Huoyanshan Road, Anyuan District\\nGanzhou  Jiangxi  342100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GANZHOU DEHUIDA TECHNOLOGY CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

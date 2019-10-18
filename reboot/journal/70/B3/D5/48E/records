@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D548E",
+			"OUISize": 36,
+			"OrgAddress": "#605, E&C Venture Dream Tower 6Cha,\\nSeoul  Seoul  152-179\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D548E",

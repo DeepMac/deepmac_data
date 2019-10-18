@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-14",
+			"EventType": "add",
+			"OUI": "702E80",
+			"OUISize": 24,
+			"OrgAddress": "StephanstraÃe 49\\nNÃ¼rnberg  Bayern  90478\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "DIEHL Connectivity Solutions",
+			"Source": "IEEE"
+		}
+	]
+}

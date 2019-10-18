@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-30",
+			"EventType": "add",
+			"OUI": "8C593C1",
+			"OUISize": 28,
+			"OrgAddress": "Room 406 Block A South Wind Tower, Nanshan Cloud Valley Innovation Industry Park, No 4093 Lau Sin Avenue Taoyuan Street Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Future Robot Technology Co., Limited",
+			"Source": "IEEE"
+		}
+	]
+}

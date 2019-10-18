@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-02",
+			"EventType": "add",
+			"OUI": "70B3D547A",
+			"OUISize": 36,
+			"OrgAddress": "#413, 96 Gajeongbuk-Ro\\nDaejeon  Yuseong  34111\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "GlooVir Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

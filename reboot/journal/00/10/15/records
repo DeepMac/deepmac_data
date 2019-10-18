@@ -24,17 +24,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "001015",
-			"OUISize": 24,
-			"OrgAddress": "PO BOX 8241\\nCOBURG OR 97408\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "OOmon Inc.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001015",

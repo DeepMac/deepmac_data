@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-10",
+			"EventType": "add",
+			"OUI": "34E1D16",
+			"OUISize": 28,
+			"OrgAddress": "NO.655,Xueshi Road, Yinzhou District, Ningbo, Zhejiang,China\\nNingbo  Zhejiang  315100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Ningbo Hua Gao Mdt Info Tech Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

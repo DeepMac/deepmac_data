@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "F802788",
+			"OUISize": 28,
+			"OrgAddress": "11F, 657, Bannan Road\\nNew Taipei City  New Taipei City  235\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "F802788",

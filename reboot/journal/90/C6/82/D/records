@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "90C682D",
+			"OUISize": 28,
+			"OrgAddress": "12 Target Court\\nGlenfield  Auckland  0627\\n\\n",
+			"OrgCountry": "NZ",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "90C682D",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-13",
+			"EventType": "add",
+			"OUI": "D8CA06",
+			"OUISize": 24,
+			"OrgAddress": "E.SpacePark 45 Allee des ormes\\nmougins    06250\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Titan DataCenters France",
+			"Source": "IEEE"
+		}
+	]
+}

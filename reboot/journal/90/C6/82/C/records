@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "90C682C",
+			"OUISize": 28,
+			"OrgAddress": "Room 901, 9/F Shiu Fung Hong Building\\nHong Kong  852\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "90C682C",

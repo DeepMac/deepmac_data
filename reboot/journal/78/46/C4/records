@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "DAEHAP HYPER-TECH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "7846C4",
+			"OUISize": 24,
+			"OrgAddress": "#A-805, Woolim Lions Vally 5-cha, #144-3 Sangdaewon-dong, Jungwon-Gu\\nSeongnam    462-726\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "DAEHAP HYPER-TECH",
+			"Source": "IEEE"
 		}
 	]
 }

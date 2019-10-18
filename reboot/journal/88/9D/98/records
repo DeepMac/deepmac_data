@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-24",
+			"EventType": "add",
+			"OUI": "889D98",
+			"OUISize": 24,
+			"OrgAddress": "7-21-11 Nishi-Gotannda\\nShinagawa-ku  Tokyo  141-0031\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Allied-telesisK.K.",
+			"Source": "IEEE"
+		}
+	]
+}

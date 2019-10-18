@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "009033",
-			"OUISize": 24,
-			"OrgAddress": "CARL-ORFF STR. 14\\nD-71069 SINDELFINGEN\\n\\n",
-			"OrgCountry": "GERMANY",
-			"OrgName": "INNOVAPHONE GmbH",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2005-04-14",
 			"EventType": "change",
 			"OUI": "009033",

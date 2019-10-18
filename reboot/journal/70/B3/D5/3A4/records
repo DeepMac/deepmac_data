@@ -35,28 +35,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2018-09-19",
-			"EventType": "delete",
-			"OUI": "70B3D53A4",
-			"OUISize": 36,
-			"OrgAddress": "1120 Benfield Blvd. STE A\\nMillersville  MD  21108\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "Ascenix Corporation",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-21",
-			"EventType": "add",
-			"OUI": "70B3D53A4",
-			"OUISize": 36,
-			"OrgAddress": "1120 Benfield Blvd. STE A\\nMillersville  MD  21108\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "Ascenix Corporation",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2018-09-25",
 			"EventType": "change",
 			"OUI": "70B3D53A4",

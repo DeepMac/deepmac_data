@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-12",
+			"EventType": "add",
+			"OUI": "1C3B8F",
+			"OUISize": 24,
+			"OrgAddress": "Werdohler LandstraÃe 286\\nLÃ¼denscheid    58513\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Selve GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

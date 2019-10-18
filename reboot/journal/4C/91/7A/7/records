@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "4C917A7",
+			"OUISize": 28,
+			"OrgAddress": "Via Molinello, 8B\\nJerago con Orago  VARESE  21040\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "S.I.C.E.S. srl",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "add",
+			"OUI": "C4F0EC",
+			"OUISize": 24,
+			"OrgAddress": "No.5 DongXin Road\\nWuhan  Hubei  430074\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fiberhome Telecommunication Technologies Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

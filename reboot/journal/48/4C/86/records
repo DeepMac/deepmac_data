@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-31",
+			"EventType": "add",
+			"OUI": "484C86",
+			"OUISize": 24,
+			"OrgAddress": "No.2 of Xincheng Road, Songshan Lake Zone\\nDongguan  Guangdong  523808\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huawei Device Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

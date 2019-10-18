@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-05",
+			"EventType": "add",
+			"OUI": "70B3D58A9",
+			"OUISize": 36,
+			"OrgAddress": "Fulder Tor 30\\nAlsfeld  Hessen  36304\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "WoKa-Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

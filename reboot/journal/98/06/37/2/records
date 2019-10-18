@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-29",
+			"EventType": "add",
+			"OUI": "9806372",
+			"OUISize": 28,
+			"OrgAddress": "Rochesterlaan 6\\nGistel    8470\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "Summa nv",
+			"Source": "IEEE"
+		}
+	]
+}

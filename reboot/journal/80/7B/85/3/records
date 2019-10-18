@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "807B853",
+			"OUISize": 28,
+			"OrgAddress": "No.619,Huawei Road\\nZhuhai City  Guangdong Province  519070\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "807B853",

@@ -10,6 +10,17 @@
 			"OrgCountry": "NL",
 			"OrgName": "Sensoterra BV",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D5DC9",
+			"OUISize": 36,
+			"OrgAddress": "Science Park 106\\nAmsterdam    1098 XG\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "Sensoterra BV",
+			"Source": "IEEE"
 		}
 	]
 }

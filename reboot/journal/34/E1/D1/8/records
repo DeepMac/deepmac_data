@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-08",
+			"EventType": "add",
+			"OUI": "34E1D18",
+			"OUISize": 28,
+			"OrgAddress": "20343 N Hayden Rd, Suite 105-280\\nScottsdale  AZ  85255\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Hubitat Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

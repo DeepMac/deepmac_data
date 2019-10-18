@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-12",
+			"EventType": "add",
+			"OUI": "241510E",
+			"OUISize": 28,
+			"OrgAddress": "1305 ,SED science and technology Building,No.1 science and technology road,Nanshan District\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Satellite Link Technology CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

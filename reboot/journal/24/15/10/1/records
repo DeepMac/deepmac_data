@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-05",
+			"EventType": "add",
+			"OUI": "2415101",
+			"OUISize": 28,
+			"OrgAddress": "Friedrichstrasse 95\\nBerlin    10117\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SMaBiT GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-22",
+			"EventType": "add",
+			"OUI": "14ADCA",
+			"OUISize": 24,
+			"OrgAddress": "No. 8 Yangliu North Road, Yubei District, Chongqing, China\\nChong Qing  Chong Qing  401120\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "China Mobile Iot Limited company",
+			"Source": "IEEE"
+		}
+	]
+}

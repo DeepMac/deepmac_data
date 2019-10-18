@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D54B1",
+			"OUISize": 36,
+			"OrgAddress": "Obukhovskoy oborony 70/2, office 416\\nSaint-Petersburg  Saint-Petersburg  192029\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D54B1",

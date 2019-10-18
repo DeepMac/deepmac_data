@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5B08",
+			"OUISize": 36,
+			"OrgAddress": "1411, Kranz Techno, 5442-1\\nSeongnam-si  Gyeonggi-do  462-729\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5B08",

@@ -65,6 +65,17 @@
 			"OrgCountry": "US",
 			"OrgName": "NetApp",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "change",
+			"OUI": "0080E5",
+			"OUISize": 24,
+			"OrgAddress": "1395 Crossman Ave\\nSunnyvale,  CA  94089\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NetApp",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-19",
+			"EventType": "add",
+			"OUI": "C863148",
+			"OUISize": 28,
+			"OrgAddress": "2105 S. Bascom Avenue, Suite 318\\nCampbell  CA  95008\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Thinci, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-26",
+			"EventType": "add",
+			"OUI": "70B3D5D56",
+			"OUISize": 36,
+			"OrgAddress": "VIALE UNGHERIA 125\\nUDINE  ITALY/UDINE  33100\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "KRONOTECH SRL",
+			"Source": "IEEE"
+		}
+	]
+}

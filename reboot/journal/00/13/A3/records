@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Siemens Home & Office Comm. Devices",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0013A3",
+			"OUISize": 24,
+			"OrgAddress": "4849 Alpha Road\\nDallas    75244\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Siemens Home & Office Comm. Devices",
+			"Source": "IEEE"
 		}
 	]
 }

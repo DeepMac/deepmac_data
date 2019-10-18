@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "1CCAE34",
+			"OUISize": 28,
+			"OrgAddress": "4/F No.242 Tianhe Dong Road ,510620 Guangzhou,  PEOPLEâS REPUBLICA OF CHINA\\nGuangzhou  Guangdong  510620\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "1CCAE34",

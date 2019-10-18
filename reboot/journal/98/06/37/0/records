@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-24",
+			"EventType": "add",
+			"OUI": "9806370",
+			"OUISize": 28,
+			"OrgAddress": "7a Taymall Avenue\\nToronto  ON  M8Z 3Y8\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Zoleo Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

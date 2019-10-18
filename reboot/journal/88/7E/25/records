@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-20",
+			"EventType": "add",
+			"OUI": "887E25",
+			"OUISize": 24,
+			"OrgAddress": "6480 Via Del Oro\\nSan Jose  CA  95119\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Extreme Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

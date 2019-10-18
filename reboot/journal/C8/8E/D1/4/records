@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "C88ED14",
+			"OUISize": 28,
+			"OrgAddress": "Ey 13\\nIttigen  BE  3076\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "C88ED14",

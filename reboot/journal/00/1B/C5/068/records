@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC5068",
+			"OUISize": 36,
+			"OrgAddress": "Turgutreis Mah. Barbaros Cad.\\nEsenler / ISTANBUL    34235\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC5068",

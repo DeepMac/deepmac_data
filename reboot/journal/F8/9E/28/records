@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-23",
+			"EventType": "add",
+			"OUI": "F89E28",
+			"OUISize": 24,
+			"OrgAddress": "500 Terry A. Francois Blvd\\nSan Francisco    94158\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cisco Meraki",
+			"Source": "IEEE"
+		}
+	]
+}

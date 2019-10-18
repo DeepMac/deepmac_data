@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "D02212C",
+			"OUISize": 28,
+			"OrgAddress": "Unit 3709, 37th Floor, Tower II,\\nHong Kong  Hong Kong  HONG KONG\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "D02212C",

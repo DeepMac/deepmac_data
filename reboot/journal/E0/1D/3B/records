@@ -32,6 +32,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Cambridge Industries(Group) Co.,Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "E01D3B",
+			"OUISize": 24,
+			"OrgAddress": "22 Floor, Qilai Tower, #889 Yishan Road\\nShanghai  Shanghai  200233\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Cambridge Industries(Group) Co.,Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

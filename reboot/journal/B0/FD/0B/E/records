@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-21",
+			"EventType": "add",
+			"OUI": "B0FD0BE",
+			"OUISize": 28,
+			"OrgAddress": "5th floor,Bld. A1, Lilang Software Park\\nShenzhen    518112\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen FEIBIT Electronic Technology Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

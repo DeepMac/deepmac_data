@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-11",
+			"EventType": "add",
+			"OUI": "70B3D5535",
+			"OUISize": 36,
+			"OrgAddress": "Gostritzer Str. 63\\nDresden    01217\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "SITA Messtechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

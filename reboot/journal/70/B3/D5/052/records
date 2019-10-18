@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5052",
+			"OUISize": 36,
+			"OrgAddress": "Seoch dong, Seocho gu\\nASI|KR|KS013|SEOUL\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5052",

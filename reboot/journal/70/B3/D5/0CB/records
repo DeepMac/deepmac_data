@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-10",
+			"EventType": "add",
+			"OUI": "70B3D50CB",
+			"OUISize": 36,
+			"OrgAddress": "2951-4, Ishikawa-machi\\nHachioji-shi  Tokyo  192-8522\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NIRECO CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

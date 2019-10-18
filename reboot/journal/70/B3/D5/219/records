@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-26",
+			"EventType": "add",
+			"OUI": "70B3D5219",
+			"OUISize": 36,
+			"OrgAddress": "SÃ¼dfeld 9\\nAscheberg / Herbern    58387\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "D-E-K GmbH & Co.KG",
+			"Source": "IEEE"
+		}
+	]
+}

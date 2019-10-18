@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "E81863C",
+			"OUISize": 28,
+			"OrgAddress": "Room 502-503,Building C3 ,Kexing Science Park,Sci-Tech.Park(M.Zone),Nanshan District,Shenzhen\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "E81863C",

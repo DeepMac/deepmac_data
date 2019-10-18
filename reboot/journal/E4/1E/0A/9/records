@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-29",
+			"EventType": "add",
+			"OUI": "E41E0A9",
+			"OUISize": 28,
+			"OrgAddress": "VIA FRIULI 3\\nGONARS  UDINE  33050\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "B METERS S.R.L.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-24",
+			"EventType": "add",
+			"OUI": "70B3D51FC",
+			"OUISize": 36,
+			"OrgAddress": "No.127, Jianguo 1st Rd., Lingya Dist.\\nKaohsiung City     802\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Guan Show Technologe Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

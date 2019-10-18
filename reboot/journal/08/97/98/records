@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-20",
+			"EventType": "add",
+			"OUI": "089798",
+			"OUISize": 24,
+			"OrgAddress": "NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE\\nKUNSHAN  SUZHOU  215300\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

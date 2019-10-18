@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "add",
+			"OUI": "70B3D5107",
+			"OUISize": 36,
+			"OrgAddress": "9 maya, 20\\nKrasnoyarsk  Krasnoyarski Krai  660125\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "OOO Alyans",
+			"Source": "IEEE"
+		}
+	]
+}

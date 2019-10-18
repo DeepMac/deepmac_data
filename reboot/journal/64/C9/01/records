@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-20",
+			"EventType": "add",
+			"OUI": "64C901",
+			"OUISize": 24,
+			"OrgAddress": "No.66, Hougang St., Shilin Dist., Taipei City 111, Taiwan (R.O.C.)\\nTaipei    111\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "INVENTEC Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

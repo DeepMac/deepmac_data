@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5F92",
+			"OUISize": 36,
+			"OrgAddress": "6-20-13-803, Chuo\\nFukutsu  Fukuoka  8113217\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5F92",

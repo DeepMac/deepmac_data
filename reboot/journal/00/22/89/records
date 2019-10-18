@@ -21,6 +21,17 @@
 			"OrgCountry": "CA",
 			"OrgName": "Optosecurity Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-31",
+			"EventType": "change",
+			"OUI": "002289",
+			"OUISize": 24,
+			"OrgAddress": "1280 Lebourgneuf Blvd.\\nQuebec    G2K 0H1\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Vandelrande APC inc.",
+			"Source": "IEEE"
 		}
 	]
 }

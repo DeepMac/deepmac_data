@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-01",
+			"EventType": "add",
+			"OUI": "3C9180",
+			"OUISize": 24,
+			"OrgAddress": "4F, 90, Chien 1 Road\\nNew Taipei City  Taiwan  23585\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Liteon Technology Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

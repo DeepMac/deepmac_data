@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "0060AD",
-			"OUISize": 24,
-			"OrgAddress": "4-5-36 MIYAHARA, YODOGAWA-KU\\nOSAKA,  532\\n\\n",
-			"OrgCountry": "JAPAN",
-			"OrgName": "MegaChips Corporation",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2004-06-05",
 			"EventType": "change",
 			"OUI": "0060AD",

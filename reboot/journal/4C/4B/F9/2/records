@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-03",
+			"EventType": "add",
+			"OUI": "4C4BF92",
+			"OUISize": 28,
+			"OrgAddress": "5F,Building B,Zhengchangda Digital Technology Park,Jian'an Road,Tangwei community,Fuhai street,Bao'an District\\nShenzhen  GuangDong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen HommPro Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

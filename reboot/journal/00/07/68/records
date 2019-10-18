@@ -10,6 +10,17 @@
 			"OrgCountry": "DENMARK",
 			"OrgName": "Danfoss A/S",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "000768",
+			"OUISize": 24,
+			"OrgAddress": "E16-N12, DK-6430 Nordborg\\n\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "Danfoss A/S",
+			"Source": "IEEE"
 		}
 	]
 }

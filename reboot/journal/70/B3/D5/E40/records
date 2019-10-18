@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-30",
+			"EventType": "add",
+			"OUI": "70B3D5E40",
+			"OUISize": 36,
+			"OrgAddress": "Rudower Chaussee 29\\nBerlin  Berlin  12489\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Siemens Mobility GmbH - MO TI SPA",
+			"Source": "IEEE"
+		}
+	]
+}

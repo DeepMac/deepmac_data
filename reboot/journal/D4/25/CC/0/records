@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-03",
+			"EventType": "add",
+			"OUI": "D425CC0",
+			"OUISize": 28,
+			"OrgAddress": "Valukoja 8\\nTallinn city  Estonian Republic  11415\\n\\n",
+			"OrgCountry": "EE",
+			"OrgName": "NORDI TELEKOMMUNIKATSIOONI OÃ",
+			"Source": "IEEE"
+		}
+	]
+}

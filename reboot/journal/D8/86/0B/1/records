@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-08",
+			"EventType": "add",
+			"OUI": "D8860B1",
+			"OUISize": 28,
+			"OrgAddress": "Building 1, Junhao Central Park Plaza\\nChaoYang District  Beijing  100125\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Krspace",
+			"Source": "IEEE"
+		}
+	]
+}

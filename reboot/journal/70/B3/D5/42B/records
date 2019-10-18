@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-12",
+			"EventType": "add",
+			"OUI": "70B3D542B",
+			"OUISize": 36,
+			"OrgAddress": "Room 502, 4th Floor, No. 6 Building, Hongtai Wisdom Valley, No. 21 Sicheng Road, Tianhe District\\nGuangzhou  Guangdong  510665\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangzhou Haoxiang Computer Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

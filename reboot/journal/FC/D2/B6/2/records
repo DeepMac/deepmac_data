@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-20",
+			"EventType": "add",
+			"OUI": "FCD2B62",
+			"OUISize": 28,
+			"OrgAddress": "Gewerbering 9\\nSchalksmÃ¼hle  NRW  58579\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Soma GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5EFB",
+			"OUISize": 36,
+			"OrgAddress": "Przemyslowa 12\\nKrakow  Malopolska  30-701\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5EFB",

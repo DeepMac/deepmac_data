@@ -21,17 +21,6 @@
 			"OrgCountry": "CN",
 			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., Ltd.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-10-17",
-			"EventType": "change",
-			"OUI": "00235A",
-			"OUISize": 24,
-			"OrgAddress": "NO 25, The 3rd street,\\nKuanShan  SUZHOU  215300\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "COMPAL INFORMATION (KUNSHAN) CO., LTD.",
-			"Source": "IEEE"
 		}
 	]
 }

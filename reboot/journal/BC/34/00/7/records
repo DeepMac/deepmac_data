@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "BC34007",
+			"OUISize": 28,
+			"OrgAddress": "Rybnicna 38/K\\nBratislava  SK  83106\\n\\n",
+			"OrgCountry": "SK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "BC34007",

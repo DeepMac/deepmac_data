@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B437D1D",
+			"OUISize": 28,
+			"OrgAddress": "Ingvald Ystgaards vei 1\\nTrondheim  Norway  7047\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B437D1D",

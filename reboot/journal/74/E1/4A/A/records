@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "74E14AA",
+			"OUISize": 28,
+			"OrgAddress": "3F, No219-1, Jianguo Rd. Sindian Dist.\\nNew Taipei City  Taiwan  23142\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "74E14AA",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-23",
+			"EventType": "add",
+			"OUI": "980637A",
+			"OUISize": 28,
+			"OrgAddress": "Alacaatli Mah. Park Cad 47/31, Cayyolu\\nAnkara    06810\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Angora Networks",
+			"Source": "IEEE"
+		}
+	]
+}

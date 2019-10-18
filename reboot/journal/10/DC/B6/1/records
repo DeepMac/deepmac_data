@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-25",
+			"EventType": "add",
+			"OUI": "10DCB61",
+			"OUISize": 28,
+			"OrgAddress": "Fabrikstrasse 3\\nLenzburg    5600\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "ABB Switzerland Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

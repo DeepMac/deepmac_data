@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-05",
+			"EventType": "add",
+			"OUI": "70B3D58C4",
+			"OUISize": 36,
+			"OrgAddress": "Plauener Str. 163-165, Haus N\\nBerlin    13053\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "APE GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Blackboard Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-15",
+			"EventType": "change",
+			"OUI": "002487",
+			"OUISize": 24,
+			"OrgAddress": "22601 North 19th Avenue\\nPhoenix  AZ  85027\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Transact Campus, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

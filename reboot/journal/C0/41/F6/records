@@ -21,17 +21,6 @@
 			"OrgCountry": "KR",
 			"OrgName": "LG Electronics Inc",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-04-19",
-			"EventType": "change",
-			"OUI": "C041F6",
-			"OUISize": 24,
-			"OrgAddress": "19-1,Cheongho-Ri,Jinwi-Myeon\\nPyeongtaek  Gyeonggi-Do  451-713\\n\\n",
-			"OrgCountry": "KR",
-			"OrgName": "LG ELECTRONICS INC",
-			"Source": "IEEE"
 		}
 	]
 }

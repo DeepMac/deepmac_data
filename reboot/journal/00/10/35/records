@@ -76,6 +76,17 @@
 			"OrgCountry": "TW",
 			"OrgName": "Elitegroup Computer Systems Co.,Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "001035",
+			"OUISize": 24,
+			"OrgAddress": "6F, NO. 88, SEC. 6\\nShih Lin  TAIPEI  00000\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Elitegroup Computer Systems Co.,Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

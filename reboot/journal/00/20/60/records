@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "002060",
-			"OUISize": 24,
-			"OrgAddress": "VIA TRENTO, 30\\n20059 VIMERCATE (MI)\\n\\n",
-			"OrgCountry": "ITALY",
-			"OrgName": "ALCATEL ITALIA S.p.A.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "002060",

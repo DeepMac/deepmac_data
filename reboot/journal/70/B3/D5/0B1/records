@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "70B3D50B1",
+			"OUISize": 36,
+			"OrgAddress": "Kinkelstrasse 36\\nZurich  Zurich  8006\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "AirBie AG",
+			"Source": "IEEE"
+		}
+	]
+}

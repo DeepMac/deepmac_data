@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-10",
+			"EventType": "add",
+			"OUI": "7C48B2",
+			"OUISize": 24,
+			"OrgAddress": "10 Anson road, unit #16-20 International Plaza\\nSingapore    079903\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "Vida Resources Lte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

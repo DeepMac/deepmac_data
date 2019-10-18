@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC509C",
+			"OUISize": 36,
+			"OrgAddress": "Via Molinello, 8B\\nJerago con Orago  VARESE  21040\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC509C",

@@ -76,6 +76,17 @@
 			"OrgCountry": "TW",
 			"OrgName": "Accton Technology Corp",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0030F1",
+			"OUISize": 24,
+			"OrgAddress": "No. 1, Creation Rd. IV\\nHsinchu    12345\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Accton Technology Corp",
+			"Source": "IEEE"
 		}
 	]
 }

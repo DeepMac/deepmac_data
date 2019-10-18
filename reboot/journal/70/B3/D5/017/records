@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-31",
+			"EventType": "add",
+			"OUI": "70B3D5017",
+			"OUISize": 36,
+			"OrgAddress": "10 Commander Blvd.\\nAjax  Ontario  M1S 3T2\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "FTG Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

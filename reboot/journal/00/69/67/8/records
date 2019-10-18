@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-25",
+			"EventType": "add",
+			"OUI": "0069678",
+			"OUISize": 28,
+			"OrgAddress": "ul. Galaktyczna 37\\nGdansk    80-299\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "Ambient-System sp. z o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

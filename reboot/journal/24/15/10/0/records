@@ -1,0 +1,70 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-06",
+			"EventType": "add",
+			"OUI": "2415100",
+			"OUISize": 28,
+			"OrgAddress": "8112 Mill Creek Rd\\nFremont  CA  94539\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Safetrust Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-09",
+			"EventType": "change",
+			"OUI": "2415100",
+			"OUISize": 28,
+			"OrgAddress": "8112 Mill Creek Rd\\nFremont  CA  94539\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Safetrust Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-10",
+			"EventType": "change",
+			"OUI": "2415100",
+			"OUISize": 28,
+			"OrgAddress": "8112 Mill Creek Rd\\nFremont  CA  94539\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Safetrust Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-11",
+			"EventType": "change",
+			"OUI": "2415100",
+			"OUISize": 28,
+			"OrgAddress": "8112 Mill Creek Rd\\nFremont  CA  94539\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Safetrust Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-12",
+			"EventType": "change",
+			"OUI": "2415100",
+			"OUISize": 28,
+			"OrgAddress": "8112 Mill Creek Rd\\nFremont  CA  94539\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Safetrust Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-13",
+			"EventType": "change",
+			"OUI": "2415100",
+			"OUISize": 28,
+			"OrgAddress": "8112 Mill Creek Rd\\nFremont  CA  94539\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Safetrust Inc",
+			"Source": "IEEE"
+		}
+	]
+}

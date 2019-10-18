@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D50D6",
+			"OUISize": 36,
+			"OrgAddress": "via G.Donizetti 1/3/5\\nBrescia    25030\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D50D6",
@@ -20,17 +31,6 @@
 			"OrgAddress": "via G.Donizetti 1/3/5\\nBrescia    25030\\n\\n",
 			"OrgCountry": "IT",
 			"OrgName": "Tattile srl",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-10-31",
-			"EventType": "change",
-			"OUI": "70B3D50D6",
-			"OUISize": 36,
-			"OrgAddress": "via G.Donizetti 1/3/5\\nBrescia    25030\\n\\n",
-			"OrgCountry": "IT",
-			"OrgName": "TATTILE SRL",
 			"Source": "IEEE"
 		}
 	]

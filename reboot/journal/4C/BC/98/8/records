@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-27",
+			"EventType": "add",
+			"OUI": "4CBC988",
+			"OUISize": 28,
+			"OrgAddress": "No.10, Chiwan 1 Road, Shekou, Nanshan\\nShenzhen  GuangDong  518068\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Shanling Digital Technology Development Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

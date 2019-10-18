@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-26",
+			"EventType": "add",
+			"OUI": "4C4BF93",
+			"OUISize": 28,
+			"OrgAddress": "4F, No.23, Wugong 6th Rd., Wugu Dist.\\nNew Taipei City    248\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Power Active Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

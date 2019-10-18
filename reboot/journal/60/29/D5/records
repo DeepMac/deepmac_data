@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-30",
+			"EventType": "add",
+			"OUI": "6029D5",
+			"OUISize": 24,
+			"OrgAddress": "112, Beolmal-ro\\nDongan-gu, Anyang-si  Gyeonggi-do  14057\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "DAVOLINK Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

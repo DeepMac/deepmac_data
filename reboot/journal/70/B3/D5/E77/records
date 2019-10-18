@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5E77",
+			"OUISize": 36,
+			"OrgAddress": "19 Kliment Ohridski str.\\nSofia  Sofia  1756\\n\\n",
+			"OrgCountry": "BG",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5E77",

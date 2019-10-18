@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-29",
+			"EventType": "add",
+			"OUI": "70B3D52A6",
+			"OUISize": 36,
+			"OrgAddress": "Raul Walenberg 18\\nTel Aviv  IL  6971915\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "GSI Technology",
+			"Source": "IEEE"
+		}
+	]
+}

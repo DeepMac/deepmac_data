@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-04",
+			"EventType": "add",
+			"OUI": "70B3D556D",
+			"OUISize": 36,
+			"OrgAddress": "RUA SENADOR SARAIVA 200\\nCURITIBA  PR  80510300\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Pro-Digital Projetos Eletronicos Ltda",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-13",
+			"EventType": "add",
+			"OUI": "70B3D5A49",
+			"OUISize": 36,
+			"OrgAddress": "PO Box 411\\nSE-441 28 Alingsas\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Unipower AB",
+			"Source": "IEEE"
+		}
+	]
+}

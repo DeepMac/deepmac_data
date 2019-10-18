@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "D022127",
+			"OUISize": 28,
+			"OrgAddress": "ROD VICE PREF HERMENEGILDO TONOLI, 2285\\nITUPEVA  SAO PAULO  13295000\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "D022127",

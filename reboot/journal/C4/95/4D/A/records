@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-21",
+			"EventType": "add",
+			"OUI": "C4954DA",
+			"OUISize": 28,
+			"OrgAddress": "Istanbul Trakya Serbest Bolgesi Ataturk Bulvari No:20\\nIstanbul  Catalca  34500\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "KAT Mekatronik Urunleri AS",
+			"Source": "IEEE"
+		}
+	]
+}

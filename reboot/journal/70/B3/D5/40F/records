@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-07",
+			"EventType": "add",
+			"OUI": "70B3D540F",
+			"OUISize": 36,
+			"OrgAddress": "15 AllÃ©e FJ BROUSSAIS\\nVANNES    56000\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "NEXELEC",
+			"Source": "IEEE"
+		}
+	]
+}

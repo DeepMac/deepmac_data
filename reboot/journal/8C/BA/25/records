@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-05",
+			"EventType": "add",
+			"OUI": "8CBA25",
+			"OUISize": 24,
+			"OrgAddress": "No.5,Huitai Road,Huinan High-Tech Park,Huiao Highway\\nHuizhou  Guangdong  516025\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "UNIONMAN TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

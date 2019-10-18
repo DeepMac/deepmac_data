@@ -21,17 +21,6 @@
 			"OrgCountry": "JP",
 			"OrgName": "KYOCERA Corporation",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2017-05-18",
-			"EventType": "change",
-			"OUI": "6C7660",
-			"OUISize": 24,
-			"OrgAddress": "2-1-1 Kagahara\\nYokohama-shi  Kanagawa  224-8502\\n\\n",
-			"OrgCountry": "JP",
-			"OrgName": "KYOCERA CORPORATION",
-			"Source": "IEEE"
 		}
 	]
 }

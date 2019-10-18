@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-24",
+			"EventType": "add",
+			"OUI": "70B3D5588",
+			"OUISize": 36,
+			"OrgAddress": "Bronnitskaya str., 3\\nPodolsk    Moscow region  142103\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "LLC NPO Svyazkomplektservis",
+			"Source": "IEEE"
+		}
+	]
+}

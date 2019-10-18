@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-18",
+			"EventType": "add",
+			"OUI": "50CEE3",
+			"OUISize": 24,
+			"OrgAddress": "3-21-8,kisonishi\\nmachida-city  tokyo  1940037\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Gigafirm.co.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

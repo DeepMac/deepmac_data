@@ -76,6 +76,17 @@
 			"OrgCountry": "IL",
 			"OrgName": "Breezecom, Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0020D6",
+			"OUISize": 24,
+			"OrgAddress": "ATIDIM TECHNOLOGICAL PK-BLDG.3\\nTel-aviv    12345\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Breezecom, Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

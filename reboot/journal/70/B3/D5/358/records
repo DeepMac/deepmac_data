@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "70B3D5358",
+			"OUISize": 36,
+			"OrgAddress": "5201 Great America Pkwy ste 320\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Nevotek",
+			"Source": "IEEE"
+		}
+	]
+}

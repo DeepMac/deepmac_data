@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-09",
+			"EventType": "add",
+			"OUI": "1C4455",
+			"OUISize": 24,
+			"OrgAddress": "Auf dem Schmaarkamp 21\\nLueneburg    21339\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Sieb & Meyer AG",
+			"Source": "IEEE"
+		}
+	]
+}

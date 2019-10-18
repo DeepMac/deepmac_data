@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-13",
+			"EventType": "add",
+			"OUI": "18B6F7",
+			"OUISize": 24,
+			"OrgAddress": "AB Unit, 14th Floor,Block A, Financial Technology Building.No. 11 Keyuan Rd\\nShenzhen    518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "NEW POS TECHNOLOGY LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

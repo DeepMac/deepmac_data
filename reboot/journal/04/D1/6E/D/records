@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-31",
+			"EventType": "add",
+			"OUI": "04D16ED",
+			"OUISize": 28,
+			"OrgAddress": "NordgaustraÃe 20\\nFurth im Wald  Bavaria  93437\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Elotec Fischer Elektronik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

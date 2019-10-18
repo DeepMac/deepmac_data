@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "B8EF8B",
+			"OUISize": 24,
+			"OrgAddress": "F-20,7A,Baoneng Technology Park\\nShenzhen  Guangdong  518109\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN CANNICE TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

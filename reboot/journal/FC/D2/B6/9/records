@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-01",
+			"EventType": "add",
+			"OUI": "FCD2B69",
+			"OUISize": 28,
+			"OrgAddress": "4-6, Shinyokohama 2-chome, Kohoku-ku\\nYokohama  Kanagawa  222-0033\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Winglet Systems Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "NimbeLink Corp",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D516F",
+			"OUISize": 36,
+			"OrgAddress": "3131 Fernbrook LN N, Ste 100\\nPlymouth  MN  55447\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "NimbeLink Corp",
+			"Source": "IEEE"
 		}
 	]
 }

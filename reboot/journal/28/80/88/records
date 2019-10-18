@@ -13,19 +13,8 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "288088",
-			"OUISize": 24,
-			"OrgAddress": "350 East Plumeria Drive\\nSan Jose  CA  95134\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "NETGEAR",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2018-09-22",
-			"EventType": "add",
+			"EventType": "change",
 			"OUI": "288088",
 			"OUISize": 24,
 			"OrgAddress": "350 East Plumeria Drive\\nSan Jose  CA  95134\\n\\n",

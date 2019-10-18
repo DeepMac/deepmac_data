@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-25",
+			"EventType": "add",
+			"OUI": "F8C4F3",
+			"OUISize": 24,
+			"OrgAddress": "Room 522, Building A, No.1687 Changyang Road, Yangpu District, Shanghai\\nShanghai  Shanghai  200082\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Infinity Wireless Technologies Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,28 @@
 			"OrgCountry": "RU",
 			"OrgName": "Eltex Enterprise Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-05",
+			"EventType": "change",
+			"OUI": "A8F94B",
+			"OUISize": 24,
+			"OrgAddress": "Okruzhnaya st. 29v\\n\\n\\n",
+			"OrgCountry": "Novosibirsk    630020",
+			"OrgName": "Eltex Enterprise Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-07",
+			"EventType": "change",
+			"OUI": "A8F94B",
+			"OUISize": 24,
+			"OrgAddress": "Okruzhnaya st. 29v\\nNovosibirsk    630020\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Eltex Enterprise Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

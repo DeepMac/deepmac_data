@@ -10,6 +10,17 @@
 			"OrgCountry": "CHINA",
 			"OrgName": "Shenzhen Prifox Innovation Technology Co., Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "30A243",
+			"OUISize": 24,
+			"OrgAddress": "Room B905, Bldg 4, Software Industry Park,\\nShenzhen  Guangdong Province  518057\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "Shenzhen Prifox Innovation Technology Co., Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

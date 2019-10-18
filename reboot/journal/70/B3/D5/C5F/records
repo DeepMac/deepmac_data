@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-16",
+			"EventType": "add",
+			"OUI": "70B3D5C5F",
+			"OUISize": 36,
+			"OrgAddress": "Dornkaulstr. 6-8\\nHerzogenrath  NRW  52134\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Clean-Lasersysteme GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-18",
+			"EventType": "add",
+			"OUI": "FCD2B6B",
+			"OUISize": 28,
+			"OrgAddress": "Room 320, C Tower, Jingji Building, HuaFeng Headquarter, Xixiang, Baoan\\nSHENZHEN  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "T CHIP DIGITAL TECHNOLOGY CO.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-09",
+			"EventType": "add",
+			"OUI": "501B32",
+			"OUISize": 24,
+			"OrgAddress": "89# Jiang Nan RD\\nSuzhou  Jiangsu  215412\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Taicang T&W Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

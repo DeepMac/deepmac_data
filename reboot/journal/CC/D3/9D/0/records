@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "CCD39D0",
+			"OUISize": 28,
+			"OrgAddress": "6F Nippatsu Nishiguchi Bldg 3-32-1 Tsuruya-cho Kanagawa-ku\\nYokohama-shi  Kanagawa  221-0835\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "INX CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -10,6 +10,17 @@
 			"OrgCountry": "GR",
 			"OrgName": "Cubitech",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-11",
+			"EventType": "change",
+			"OUI": "70B3D57D0",
+			"OUISize": 36,
+			"OrgAddress": "4-6 Kiprou str\\nTavros  Athens  17778\\n\\n",
+			"OrgCountry": "GR",
+			"OrgName": "Cubitech",
+			"Source": "IEEE"
 		}
 	]
 }

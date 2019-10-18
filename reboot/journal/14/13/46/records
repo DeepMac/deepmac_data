@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-26",
+			"EventType": "add",
+			"OUI": "141346",
+			"OUISize": 24,
+			"OrgAddress": "7F,Block A,Skyworth Building,\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Skyworth Digital Technology(Shenzhen) Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

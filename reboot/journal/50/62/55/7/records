@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-30",
+			"EventType": "add",
+			"OUI": "5062557",
+			"OUISize": 28,
+			"OrgAddress": "16 Cutler Str, Cutler Mill\\nWarren  RI  02885\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AVTECH Software, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

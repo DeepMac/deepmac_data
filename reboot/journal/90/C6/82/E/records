@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "90C682E",
+			"OUISize": 28,
+			"OrgAddress": "Room 342ï¼Building Aï¼No.68. Donghe Road, Chengqiao town, Chongming countyï¼Chengqiao Economic Development Zoneï¼\\nshanghai  shanghai  202150\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "90C682E",

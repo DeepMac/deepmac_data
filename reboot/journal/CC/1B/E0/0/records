@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "CC1BE00",
+			"OUISize": 28,
+			"OrgAddress": "A-1102, Digital Empire Building\\nSuwon  Gyeonggi-do  16690\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "CC1BE00",

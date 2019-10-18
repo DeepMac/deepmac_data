@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "add",
+			"OUI": "FCA47AE",
+			"OUISize": 28,
+			"OrgAddress": "6 / F 1#ZhongShi Building,CSV, High-tech Zone\\nHEFEI    230000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hefei Feier Smart Science&Technology Co. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

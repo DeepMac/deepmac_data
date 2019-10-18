@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-21",
+			"EventType": "add",
+			"OUI": "4CBC98D",
+			"OUISize": 28,
+			"OrgAddress": "C-323,Baoan,Xinyidai Info.Tech.Industrial Park, No.139 Chuangye Er Rd.,Baoan District\\nShenzhen  Guangdong  518101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Elink Technology (Shenzhen) Co., Limited",
+			"Source": "IEEE"
+		}
+	]
+}

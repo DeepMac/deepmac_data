@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-02",
+			"EventType": "add",
+			"OUI": "5CE50C",
+			"OUISize": 24,
+			"OrgAddress": "The Rainbow City Office Building, 68 Qinghe Middle Street Haidian District\\nBeijing  Beijing  100085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Xiaomi Mobile Software Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

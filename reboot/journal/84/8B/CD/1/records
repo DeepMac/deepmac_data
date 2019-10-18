@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-23",
+			"EventType": "add",
+			"OUI": "848BCD1",
+			"OUISize": 28,
+			"OrgAddress": "4/F, Building 1, Nangang 1st Industrial ParkÂ No. 1029, Songbai Road, Xili, Nanshan District\\nSHENZHEN  GUANGDONG  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ShenzhenÂ LTIMEÂ In-VehicleÂ EntertainmentÂ SystemÂ CompanyÂ Limited",
+			"Source": "IEEE"
+		}
+	]
+}

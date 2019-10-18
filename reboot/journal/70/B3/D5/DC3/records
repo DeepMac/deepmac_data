@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-30",
+			"EventType": "add",
+			"OUI": "70B3D5DC3",
+			"OUISize": 36,
+			"OrgAddress": "HÃ¼gelmÃ¼hle 31\\nSpalt  bavaria  91174\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Fath Mechatronics",
+			"Source": "IEEE"
+		}
+	]
+}

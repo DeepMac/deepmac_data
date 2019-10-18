@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "add",
+			"OUI": "D05F646",
+			"OUISize": 28,
+			"OrgAddress": "HergelsbendenstraÃe 49\\nAachen    52080\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Cyrus Technology GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

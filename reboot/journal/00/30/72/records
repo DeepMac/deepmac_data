@@ -46,17 +46,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2007-09-29",
-			"EventType": "change",
-			"OUI": "003072",
-			"OUISize": 24,
-			"OrgAddress": "Canada Trust Tower - BCE Place\\n161 Bay St. 27th Floor,\\nToronto Ontario M5J 2S1\\n",
-			"OrgCountry": "CANADA",
-			"OrgName": "Intellibyte Inc.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "003072",

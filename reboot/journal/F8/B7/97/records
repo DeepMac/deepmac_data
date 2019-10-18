@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-02",
+			"EventType": "add",
+			"OUI": "F8B797",
+			"OUISize": 24,
+			"OrgAddress": "2-3 Kandatsukasamachi\\nChiyodaku  Tokyo  101-8532\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NEC Platforms, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

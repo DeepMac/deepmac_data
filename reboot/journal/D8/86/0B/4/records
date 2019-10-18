@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-08",
+			"EventType": "add",
+			"OUI": "D8860B4",
+			"OUISize": 28,
+			"OrgAddress": "Novaya , 51v\\nRyazan    390027\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Teplovodokhran Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

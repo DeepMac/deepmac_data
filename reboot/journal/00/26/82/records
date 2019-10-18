@@ -32,17 +32,6 @@
 			"OrgCountry": "TW",
 			"OrgName": "GemTek Technology Co., Ltd.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-11-07",
-			"EventType": "change",
-			"OUI": "002682",
-			"OUISize": 24,
-			"OrgAddress": "No.1 Jen Ai Road, Hsinchu Industrial Park,\\nHukou,  Hsinchu  303\\n\\n",
-			"OrgCountry": "TW",
-			"OrgName": "Gemtek Technology Co., Ltd.",
-			"Source": "IEEE"
 		}
 	]
 }

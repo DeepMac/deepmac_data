@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-19",
+			"EventType": "add",
+			"OUI": "2C16BD6",
+			"OUISize": 28,
+			"OrgAddress": "Five Floors of Block 106, West Jinkai Avenue, Yubei District\\nChongqing  Chongqing  401120\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CLOUDWALK TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

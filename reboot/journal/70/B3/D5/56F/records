@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "70B3D556F",
+			"OUISize": 36,
+			"OrgAddress": "J. Mise 8\\nSesvete  Sesvete  10360\\n\\n",
+			"OrgCountry": "HR",
+			"OrgName": "Radikal d.o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

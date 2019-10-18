@@ -21,6 +21,28 @@
 			"OrgCountry": "KR",
 			"OrgName": "Fortis, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "change",
+			"OUI": "001EB8",
+			"OUISize": 24,
+			"OrgAddress": "#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,\\n\\n\\n",
+			"OrgCountry": "JUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438",
+			"OrgName": "Aloys, Inc",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-03",
+			"EventType": "change",
+			"OUI": "001EB8",
+			"OUISize": 24,
+			"OrgAddress": "#3F HANWHA TECHWIN R&D BLDG. 4-5, YANGHYEON-RO 405 BEON-GIL,\\nJUNGWON-GU, SEONGNAM-SI  GYEONGGI-DO  13438\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Aloys, Inc",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-19",
+			"EventType": "add",
+			"OUI": "B49A95",
+			"OUISize": 24,
+			"OrgAddress": "2F, Block E, Bao'an Intelligent Valley, Yingtian Road No.4 Xixiang Sub-District Office, Bao'an District\\nShenzhen  Guangdong  518102\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Boomtech Industrial Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-04",
+			"EventType": "add",
+			"OUI": "CC3FEA",
+			"OUISize": 24,
+			"OrgAddress": "1098 Clark St\\nEndicott  NY  13760\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BAE Systems, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2016-08-18",
+			"EventType": "add",
+			"OUI": "244E7BD",
+			"OUISize": 28,
+			"OrgName": "Private",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-06",
+			"EventType": "change",
+			"OUI": "244E7BD",
+			"OUISize": 28,
+			"OrgAddress": "500 Charles Ewing Blvd\\nEwing  NJ  08628\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Church & Dwight Co., Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

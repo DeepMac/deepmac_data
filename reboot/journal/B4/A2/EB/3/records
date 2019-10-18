@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "B4A2EB3",
+			"OUISize": 28,
+			"OrgAddress": "ZPark 27# QianFang Science Building C,  Haidian District, Beijing, China.\\nBeijing  Beijing  100094\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Canaan Creative Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

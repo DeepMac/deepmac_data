@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-18",
+			"EventType": "add",
+			"OUI": "2C16BD0",
+			"OUISize": 28,
+			"OrgAddress": "4/F,No.3 building,No.8,Haiying Road,Fengtai District\\nBeijing  Beijing  100070\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Jishi Huitong Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

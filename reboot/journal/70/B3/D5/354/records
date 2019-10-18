@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-29",
+			"EventType": "add",
+			"OUI": "70B3D5354",
+			"OUISize": 36,
+			"OrgAddress": "Volgina 15\\nBelgrade    11000\\n\\n",
+			"OrgCountry": "RS",
+			"OrgName": "IMP-Computer Systems",
+			"Source": "IEEE"
+		}
+	]
+}

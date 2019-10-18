@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-01",
+			"EventType": "add",
+			"OUI": "04BA8D",
+			"OUISize": 24,
+			"OrgAddress": "#94-1, Imsoo-Dong\\n\\n\\n",
+			"OrgCountry": "Gumi  Gyeongbuk  730-350",
+			"OrgName": "Samsung Electronics Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-05",
+			"EventType": "change",
+			"OUI": "04BA8D",
+			"OUISize": 24,
+			"OrgAddress": "#94-1, Imsoo-Dong\\nGumi  Gyeongbuk  730-350\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

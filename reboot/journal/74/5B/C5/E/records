@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-18",
+			"EventType": "add",
+			"OUI": "745BC5E",
+			"OUISize": 28,
+			"OrgAddress": "Wintec Park, Xinye Road, High-tech Zone, Qingdao, China 266114\\nQING DAO  shan dong  of  China  6805\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Qingdao Wintec System Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

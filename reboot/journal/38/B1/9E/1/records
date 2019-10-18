@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "38B19E1",
+			"OUISize": 28,
+			"OrgAddress": "Via Frova, 34\\nCinisello Balsamo    20092\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Freedompro Srl",
+			"Source": "IEEE"
+		}
+	]
+}

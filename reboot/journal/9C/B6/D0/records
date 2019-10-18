@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2015-02-25",
-			"EventType": "change",
-			"OUI": "9CB6D0",
-			"OUISize": 24,
-			"OrgAddress": "11940 Jollyville Rd\\nSuite 105s\\nAustin TX 78759\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "Rivet Networks",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "9CB6D0",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-11",
+			"EventType": "add",
+			"OUI": "F4CFA2",
+			"OUISize": 24,
+			"OrgAddress": "Room 204, Building 2, 690 Bibo Rd, Pudong New Area\\nShanghai  Shanghai  201203\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Espressif Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

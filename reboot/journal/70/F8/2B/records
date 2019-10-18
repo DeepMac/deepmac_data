@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-12",
+			"EventType": "add",
+			"OUI": "70F82B",
+			"OUISize": 24,
+			"OrgAddress": "No.8,Tangzhuang Road, Suzhou Industrial Park, Jiangsu, China\\nSuzhou    21500\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "DWnet Technologies(Suzhou) Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

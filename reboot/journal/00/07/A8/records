@@ -43,6 +43,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Haier Group Technologies Ltd",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0007A8",
+			"OUISize": 24,
+			"OrgAddress": "No. 1 Haier Road, Hi-tech Zone\\n00000    00000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Haier Group Technologies Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

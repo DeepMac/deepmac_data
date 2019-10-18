@@ -35,17 +35,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2016-11-08",
-			"EventType": "change",
-			"OUI": "00E02B",
-			"OUISize": 24,
-			"OrgAddress": "10460 BANDLEY DRIVE\\nCUPERINT0  CA  95014\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Extreme Networks",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2017-09-14",
 			"EventType": "change",
 			"OUI": "00E02B",

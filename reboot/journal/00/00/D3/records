@@ -10,6 +10,17 @@
 			"OrgCountry": "UNITED STATES",
 			"OrgName": "WANG LABORATORIES INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2001-10-24",
+			"EventType": "change",
+			"OUI": "0000D3",
+			"OUISize": 24,
+			"OrgAddress": "\\n\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "WANG LABORATORIES INC.",
+			"Source": "IEEE"
 		}
 	]
 }

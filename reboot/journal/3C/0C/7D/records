@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-17",
+			"EventType": "add",
+			"OUI": "3C0C7D",
+			"OUISize": 24,
+			"OrgAddress": "Elisabeth von HÃ¼bschs gate 6\\nMOSS    1534\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Tiny Mesh AS",
+			"Source": "IEEE"
+		}
+	]
+}

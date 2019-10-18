@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-11",
+			"EventType": "add",
+			"OUI": "C8C64A",
+			"OUISize": 24,
+			"OrgAddress": "SURVEYNO.381, PADUR ROAD, KUTHAMBAKKAM VILLAGE, 602107 POONAMALLEE TALUK, THIRUVALLUR DISTRIC\\nChennai    602107\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "Flextronics Tech.(Ind) Pvt Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

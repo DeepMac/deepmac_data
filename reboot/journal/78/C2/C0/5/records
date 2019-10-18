@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "78C2C05",
+			"OUISize": 28,
+			"OrgAddress": "BLK 9, No 28, Langshan Road, Northern District of High Tech. Industry Park, Nanshan Dist., SZ., PRC.\\nShenZhen  GuangDong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "78C2C05",

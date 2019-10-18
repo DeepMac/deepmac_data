@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-28",
+			"EventType": "add",
+			"OUI": "848BCD7",
+			"OUISize": 28,
+			"OrgAddress": "Keji North 3rd Rd\\nShenzhen  guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SmartÂ Code (Shenzhen) Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

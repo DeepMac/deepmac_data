@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-25",
+			"EventType": "add",
+			"OUI": "2C16BD1",
+			"OUISize": 28,
+			"OrgAddress": "Badstrasse 5\\n\\n\\n",
+			"OrgCountry": "Neuhausen am Rheinfall  Schaffhausen  8212",
+			"OrgName": "Curtiss-Wright Drive Technology",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "change",
+			"OUI": "2C16BD1",
+			"OUISize": 28,
+			"OrgAddress": "Badstrasse 5\\nNeuhausen am Rheinfall  Schaffhausen  8212\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Curtiss-Wright Drive Technology",
+			"Source": "IEEE"
+		}
+	]
+}

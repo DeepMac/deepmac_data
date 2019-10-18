@@ -21,6 +21,28 @@
 			"OrgCountry": "US",
 			"OrgName": "eero inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-08",
+			"EventType": "change",
+			"OUI": "605F8D",
+			"OUISize": 24,
+			"OrgAddress": "500 Howard Street, Suite 900\\nSAN FRANCISCO  CA  94105\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "eero inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-09",
+			"EventType": "change",
+			"OUI": "605F8D",
+			"OUISize": 24,
+			"OrgAddress": "500 Howard Street, Suite 900\\nSAN FRANCISCO  CA  94105\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "eero inc.",
+			"Source": "IEEE"
 		}
 	]
 }

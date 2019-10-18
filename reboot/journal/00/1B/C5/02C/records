@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC502C",
+			"OUISize": 36,
+			"OrgAddress": "9 Tech Circle\\nNatick  MA  01760\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC502C",

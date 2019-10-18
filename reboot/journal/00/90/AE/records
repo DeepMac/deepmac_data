@@ -43,6 +43,17 @@
 			"OrgCountry": "IT",
 			"OrgName": "ITALTEL S.p.A/RF-UP-I",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0090AE",
+			"OUISize": 24,
+			"OrgAddress": "LOCALITA' BOSCHETTO\\n67100 L'AQUILA    na\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "ITALTEL S.p.A/RF-UP-I",
+			"Source": "IEEE"
 		}
 	]
 }

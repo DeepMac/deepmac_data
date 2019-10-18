@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-13",
+			"EventType": "add",
+			"OUI": "B4A2EB9",
+			"OUISize": 28,
+			"OrgAddress": "10221 BUENA VISTA AVE\\nSANTEE  CA  92071\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "CURRENT WAYS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-19",
+			"EventType": "change",
+			"OUI": "B4A2EB9",
+			"OUISize": 28,
+			"OrgAddress": "10221 BUENA VISTA AVE\\nSANTEE  CA  92071\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CURRENT WAYS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

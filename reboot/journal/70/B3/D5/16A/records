@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-12",
+			"EventType": "add",
+			"OUI": "70B3D516A",
+			"OUISize": 36,
+			"OrgAddress": "Ringhofferova 115/1\\nPrague  Czech Republic  155 21\\n\\n",
+			"OrgCountry": "CZ",
+			"OrgName": "4Jtech s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-09",
+			"EventType": "add",
+			"OUI": "1C8259D",
+			"OUISize": 28,
+			"OrgAddress": "855 E Collins Blvd\\nRichardson  TX  75081\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Applied Concepts, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

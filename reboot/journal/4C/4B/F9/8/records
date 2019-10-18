@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-28",
+			"EventType": "add",
+			"OUI": "4C4BF98",
+			"OUISize": 28,
+			"OrgAddress": "Gjerdrums vei 10A\\nOslo    0484\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Zivid AS",
+			"Source": "IEEE"
+		}
+	]
+}

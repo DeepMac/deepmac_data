@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2001-12-14",
-			"EventType": "change",
-			"OUI": "0004FA",
-			"OUISize": 24,
-			"OrgAddress": "703 Evans Avenue - Ste. #500\\nEtobicoke, Ontario M9C 5E9\\n\\n",
-			"OrgCountry": "CANADA",
-			"OrgName": "MIST Inc.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2006-04-08",
 			"EventType": "change",
 			"OUI": "0004FA",

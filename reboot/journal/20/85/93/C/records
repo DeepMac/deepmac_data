@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-21",
+			"EventType": "add",
+			"OUI": "208593C",
+			"OUISize": 28,
+			"OrgAddress": "Flurhofstrasse 158c\\nSt. Gallen    9006\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Regloplas AG",
+			"Source": "IEEE"
+		}
+	]
+}

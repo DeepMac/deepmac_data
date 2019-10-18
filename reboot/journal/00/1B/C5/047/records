@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC5047",
+			"OUISize": 36,
+			"OrgAddress": "Jalan Pangeran Jayakarta 101 Blok D No. 4~5\\nJakarta  Jawa Barat  10730\\n\\n",
+			"OrgCountry": "ID",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC5047",

@@ -76,6 +76,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Overland Storage, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-10",
+			"EventType": "change",
+			"OUI": "00C0B6",
+			"OUISize": 24,
+			"OrgAddress": "Suite 2, 100 Executive Court\\nWaxahachie  TX  75165\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "HVE, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

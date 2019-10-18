@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-25",
+			"EventType": "add",
+			"OUI": "0069671",
+			"OUISize": 28,
+			"OrgAddress": "room 423,105 gwanggyo-ro, yengtong-gu\\nsuwon-si  Kyunggi-do  16229\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "miliwave",
+			"Source": "IEEE"
+		}
+	]
+}

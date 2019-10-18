@@ -98,6 +98,17 @@
 			"OrgCountry": "CH",
 			"OrgName": "Dr. Sigrist AG",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-24",
+			"EventType": "change",
+			"OUI": "F0264C",
+			"OUISize": 24,
+			"OrgAddress": "Hofurlistrasse 1\\nEnnetbÃ¼rgen    6373\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Sigrist-Photometer AG",
+			"Source": "IEEE"
 		}
 	]
 }

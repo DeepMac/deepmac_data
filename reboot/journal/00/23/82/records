@@ -32,17 +32,6 @@
 			"OrgCountry": "TW",
 			"OrgName": "Lih Rong Electronic Enterprise Co., Ltd.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-02-19",
-			"EventType": "change",
-			"OUI": "002382",
-			"OUISize": 24,
-			"OrgAddress": "No. 2, Lane 387, Hsin Shu Rd.\\nHsin Chuang City,  Taipei  242\\n\\n",
-			"OrgCountry": "TW",
-			"OrgName": "Lih Rong electronic Enterprise Co., Ltd.",
-			"Source": "IEEE"
 		}
 	]
 }

@@ -32,28 +32,6 @@
 			"OrgCountry": "US",
 			"OrgName": "Amazon.com, LLC",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "5C415A",
-			"OUISize": 24,
-			"OrgAddress": "1200 12th Ave. South, Suite 1200\\nSeattle    98144\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Amazon.com, LLC",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-22",
-			"EventType": "add",
-			"OUI": "5C415A",
-			"OUISize": 24,
-			"OrgAddress": "1200 12th Ave. South, Suite 1200\\nSeattle    98144\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Amazon.com, LLC",
-			"Source": "IEEE"
 		}
 	]
 }

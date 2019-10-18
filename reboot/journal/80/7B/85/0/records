@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "807B850",
+			"OUISize": 28,
+			"OrgAddress": "1-1-58, Tokiiri\\nUeda-shi  Nagano  386-0015\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "807B850",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-09",
+			"EventType": "add",
+			"OUI": "34E1D19",
+			"OUISize": 28,
+			"OrgAddress": "Industriepark Brechtsebaan 8 bus 1\\nSchoten    2900\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "Apart Audio NV",
+			"Source": "IEEE"
+		}
+	]
+}

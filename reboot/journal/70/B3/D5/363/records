@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Contec DTx",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-28",
+			"EventType": "change",
+			"OUI": "70B3D5363",
+			"OUISize": 36,
+			"OrgAddress": "3991 Sarno Rd\\nMelbourne  FL  32934\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Contec Americas Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

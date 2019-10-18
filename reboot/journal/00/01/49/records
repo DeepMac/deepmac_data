@@ -87,6 +87,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "TDT AG",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "000149",
+			"OUISize": 24,
+			"OrgAddress": "SiemensstraÃe 18\\nEssenbach    84051\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "TDT AG",
+			"Source": "IEEE"
 		}
 	]
 }

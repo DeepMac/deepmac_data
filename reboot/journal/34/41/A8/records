@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-15",
+			"EventType": "add",
+			"OUI": "3441A8",
+			"OUISize": 24,
+			"OrgAddress": "Ovchinnikovskaya embankment, 20, Building 1\\nMoscow    115324\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "ER-Telecom",
+			"Source": "IEEE"
+		}
+	]
+}

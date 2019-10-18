@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-06",
+			"EventType": "add",
+			"OUI": "8C593C8",
+			"OUISize": 28,
+			"OrgAddress": "Skjernvej 4A\\nAalborg    9220\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Nanonord A/S",
+			"Source": "IEEE"
+		}
+	]
+}

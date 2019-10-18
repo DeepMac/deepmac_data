@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2005-05-07",
-			"EventType": "change",
-			"OUI": "000AEB",
-			"OUISize": 24,
-			"OrgAddress": "Hi-Tech Park R1-B3\\nShenzhen Guangdong 518057\\n\\n",
-			"OrgCountry": "CHINA",
-			"OrgName": "Shenzhen Tp-Link Technology Co; Ltd.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2007-03-01",
 			"EventType": "change",
 			"OUI": "000AEB",

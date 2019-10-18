@@ -32,6 +32,17 @@
 			"OrgCountry": "BR",
 			"OrgName": "Teracom Telematica Ltda.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-11",
+			"EventType": "change",
+			"OUI": "0004DF",
+			"OUISize": 24,
+			"OrgAddress": "RUA AMERICA N.1000\\nEldorado do Sul - RS    Brazil\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "TERACOM TELEMATICA S.A",
+			"Source": "IEEE"
 		}
 	]
 }

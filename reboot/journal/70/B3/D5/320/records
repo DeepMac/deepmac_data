@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-25",
+			"EventType": "add",
+			"OUI": "70B3D5320",
+			"OUISize": 36,
+			"OrgAddress": "Dunchon-daero\\nSeongnam-si  Gyeonggi-do  13215\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "CYNIX Systems Inc",
+			"Source": "IEEE"
+		}
+	]
+}

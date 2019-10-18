@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-18",
+			"EventType": "add",
+			"OUI": "C863146",
+			"OUISize": 28,
+			"OrgAddress": "222, Dogok-ro, Gangnam-gu\\nSeoul    06272\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "GRINBI PARTNERS",
+			"Source": "IEEE"
+		}
+	]
+}

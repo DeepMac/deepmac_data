@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "742EDB",
+			"OUISize": 24,
+			"OrgAddress": "Rudower Chaussee 29\\nBerlin  Berlin  12489\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Perinet GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B8D812B",
+			"OUISize": 28,
+			"OrgAddress": "The Old Granary, 21 High Street\\nLeatherhead  Surrey  KT23 4AA\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B8D812B",

@@ -24,17 +24,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "0002F9",
-			"OUISize": 24,
-			"OrgAddress": "Taman Teknologi Malaysia\\nBukit Jalil 57000 Kuala Lumpur,\\n\\n",
-			"OrgCountry": "MALAYSIA",
-			"OrgName": "Mimos Semiconductor SDN BHD",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2013-03-28",
 			"EventType": "change",
 			"OUI": "0002F9",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-19",
+			"EventType": "add",
+			"OUI": "70B3D5CE4",
+			"OUISize": 36,
+			"OrgAddress": "La Ville en Bois\\nBOUAYE  Loire Atlantique  44830\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "WAVES SYSTEM",
+			"Source": "IEEE"
+		}
+	]
+}

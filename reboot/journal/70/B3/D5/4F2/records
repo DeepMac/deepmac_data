@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-14",
+			"EventType": "add",
+			"OUI": "70B3D54F2",
+			"OUISize": 36,
+			"OrgAddress": "No.500, Ruiguang Rd., Neihu District,\\nTaipei    11492\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "COMPAL ELECTRONICS, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

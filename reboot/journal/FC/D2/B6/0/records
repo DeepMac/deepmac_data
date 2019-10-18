@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-19",
+			"EventType": "add",
+			"OUI": "FCD2B60",
+			"OUISize": 28,
+			"OrgAddress": "A-3, MIDC , AMBAD\\nNASHIK  MAHARASHTRA  422010\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "CG POWER AND INDUSTRIAL SOLUTIONS LTD",
+			"Source": "IEEE"
+		}
+	]
+}

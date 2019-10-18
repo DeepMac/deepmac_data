@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-27",
+			"EventType": "add",
+			"OUI": "70B3D5101",
+			"OUISize": 36,
+			"OrgAddress": "FriedrichstÃ¤dter Chaussee 4\\nTÃ¶nning    25832\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Adolf Nissen Elektrobau GmbH + Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

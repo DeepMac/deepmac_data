@@ -131,6 +131,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "Beck IPC GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-20",
+			"EventType": "change",
+			"OUI": "003056",
+			"OUISize": 24,
+			"OrgAddress": "P O Box 4126\\nHalmstad  Halland  300 04\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "HMS Industrial Networks",
+			"Source": "IEEE"
 		}
 	]
 }

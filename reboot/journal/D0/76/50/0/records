@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "D076500",
+			"OUISize": 28,
+			"OrgAddress": "275 Meijer Way\\nLexington  KY  40503\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "D076500",

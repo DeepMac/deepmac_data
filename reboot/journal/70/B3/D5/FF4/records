@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Serveron Corporation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D5FF4",
+			"OUISize": 36,
+			"OrgAddress": "20325 NW Von Neumann Dr\\nBeaverton  null  97006\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Serveron Corporation",
+			"Source": "IEEE"
 		}
 	]
 }

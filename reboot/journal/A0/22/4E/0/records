@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-28",
+			"EventType": "add",
+			"OUI": "A0224E0",
+			"OUISize": 28,
+			"OrgAddress": "#1411, Byucksan Digital Valley 2, 184, Gasan Digital2-ro, Geumcheon-gu\\nSeoul    08501\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Kyung In Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

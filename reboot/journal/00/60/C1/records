@@ -35,17 +35,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "0060C1",
-			"OUISize": 24,
-			"OrgAddress": "500 N. BERNARDO AVE.\\nMOUNTAIN VIEW CA 94043\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "WaveSpan Corporation",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0060C1",

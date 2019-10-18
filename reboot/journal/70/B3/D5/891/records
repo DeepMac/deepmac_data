@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5891",
+			"OUISize": 36,
+			"OrgAddress": "rua santa fe 100\\nbelo horizonte  MG  30320-130\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5891",

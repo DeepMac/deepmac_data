@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "74F8DB2",
+			"OUISize": 28,
+			"OrgAddress": "9G,Building A,Nanyuemingzhu Buliding,No.2322, Houhai Avenue,Nanshan District\\nShenzhen  Guangdong  518062\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "74F8DB2",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "add",
+			"OUI": "70B3D5F50",
+			"OUISize": 36,
+			"OrgAddress": "UU bld 4F  2-5-2 Shinyokohama\\nKouhoku-ku Yokohama  Kanagawa  2220033\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Vectology,Inc",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-19",
+			"EventType": "add",
+			"OUI": "DC58BC",
+			"OUISize": 24,
+			"OrgAddress": "Speltenbach-Steinaecker 1\\nFreyung    94078\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Thomas-Krenn.AG",
+			"Source": "IEEE"
+		}
+	]
+}

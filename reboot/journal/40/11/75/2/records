@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-05",
+			"EventType": "add",
+			"OUI": "4011752",
+			"OUISize": 28,
+			"OrgAddress": "3-6 Kandacho\\nHImeji  Hyogo  6700991\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Kanda Kogyo",
+			"Source": "IEEE"
+		}
+	]
+}

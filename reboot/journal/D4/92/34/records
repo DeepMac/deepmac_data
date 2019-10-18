@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-17",
+			"EventType": "add",
+			"OUI": "D49234",
+			"OUISize": 24,
+			"OrgAddress": "7-1 Shiba 5-chome\\nMinato-Ku  Tokyo  108-8001\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NEC Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5FF5",
+			"OUISize": 36,
+			"OrgAddress": "Szentendrei Ãºt 1-3.\\nBudakalÃ¡sz  HUngary  2013\\n\\n",
+			"OrgCountry": "HU",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5FF5",

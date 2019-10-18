@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-20",
+			"EventType": "add",
+			"OUI": "5C0BCA",
+			"OUISize": 24,
+			"OrgAddress": "Agnesfridsvagen 113A\\nMalmo    21237\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Tunstall Nordic AB",
+			"Source": "IEEE"
+		}
+	]
+}

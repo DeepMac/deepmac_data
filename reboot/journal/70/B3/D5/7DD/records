@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Excel Medical Electronics LLC",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D57DD",
+			"OUISize": 36,
+			"OrgAddress": "801 Maplewood Dr.\\nJupiter  null  33458\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Excel Medical Electronics LLC",
+			"Source": "IEEE"
 		}
 	]
 }

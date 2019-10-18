@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-11",
+			"EventType": "add",
+			"OUI": "EC1BBD",
+			"OUISize": 24,
+			"OrgAddress": "7000 W. William Cannon Dr.\\nAustin    78735\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Silicon Laboratories",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-22",
+			"EventType": "add",
+			"OUI": "4C56DF",
+			"OUISize": 24,
+			"OrgAddress": "1211 North Miller Street\\nAnaheim  CA  92806\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Targus US LLC",
+			"Source": "IEEE"
+		}
+	]
+}

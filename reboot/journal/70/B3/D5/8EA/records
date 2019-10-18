@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-01",
+			"EventType": "add",
+			"OUI": "70B3D58EA",
+			"OUISize": 36,
+			"OrgAddress": "142 Arena St\\nEl Segundo  CA  90245\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "JLCooper Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

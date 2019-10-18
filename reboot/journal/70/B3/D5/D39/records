@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-11",
+			"EventType": "add",
+			"OUI": "70B3D5D39",
+			"OUISize": 36,
+			"OrgAddress": "ASHIDA House Plot No A308 Road No. 21 Wagle Ind. Estate\\nThane  Maharashtra  400604\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "ASHIDA Electronics Pvt. Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

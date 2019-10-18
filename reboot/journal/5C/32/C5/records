@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-15",
+			"EventType": "add",
+			"OUI": "5C32C5",
+			"OUISize": 24,
+			"OrgAddress": "11 Vasil Levski blvd.\\nRuse    7019\\n\\n",
+			"OrgCountry": "BG",
+			"OrgName": "Teracom Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

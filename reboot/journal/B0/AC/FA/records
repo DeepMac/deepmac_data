@@ -21,6 +21,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "FUJITSU LIMITED",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-28",
+			"EventType": "change",
+			"OUI": "B0ACFA",
+			"OUISize": 24,
+			"OrgAddress": "403, Kosugi-cho 1-chome, Nakahara-ku\\nKawasaki  Kanagawa  211-0063\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "FUJITSU LIMITED",
+			"Source": "IEEE"
 		}
 	]
 }

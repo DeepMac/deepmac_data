@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B0C5CAE",
+			"OUISize": 28,
+			"OrgAddress": "Esenkent Mah. Barajyolu cad. No:26\\nÄ°stanbul  Ãmraniye  34776\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B0C5CAE",

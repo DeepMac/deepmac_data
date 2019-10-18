@@ -21,6 +21,28 @@
 			"OrgCountry": "GB",
 			"OrgName": "Deep Sea Electronics PLC",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-08",
+			"EventType": "change",
+			"OUI": "E8A4C1",
+			"OUISize": 24,
+			"OrgAddress": "Highfield House\\n\\n\\n",
+			"OrgCountry": "Hunmanby  North Yorkshire  YO14 0PH",
+			"OrgName": "Deep Sea Electronics Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-09",
+			"EventType": "change",
+			"OUI": "E8A4C1",
+			"OUISize": 24,
+			"OrgAddress": "Highfield House\\nHunmanby  North Yorkshire  YO14 0PH\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "Deep Sea Electronics Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "A04246",
+			"OUISize": 24,
+			"OrgAddress": "517 TheOvalley 555-9 Hogye-dong, Dong An-gu\\nAnyang-si   Gyeonggi-do  14117\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "IT Telecom Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

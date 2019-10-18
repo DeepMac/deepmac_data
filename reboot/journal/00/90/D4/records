@@ -24,17 +24,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "0090D4",
-			"OUISize": 24,
-			"OrgAddress": "3355 WEST ALABAMA #1200\\nHOUSTON TX 77098\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "BindView Development Corp.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0090D4",

@@ -32,17 +32,6 @@
 			"OrgCountry": "SE",
 			"OrgName": "ERICSSON AB",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2017-03-22",
-			"EventType": "change",
-			"OUI": "74D0DC",
-			"OUISize": 24,
-			"OrgAddress": "Torshamnsgatan 48\\nSTOCKHOLM    164 83\\n\\n",
-			"OrgCountry": "SE",
-			"OrgName": "Ericsson AB",
-			"Source": "IEEE"
 		}
 	]
 }

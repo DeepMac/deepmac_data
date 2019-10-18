@@ -65,6 +65,17 @@
 			"OrgCountry": "KR",
 			"OrgName": "Hanyang Digitech Co.Ltd",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "000358",
+			"OUISize": 24,
+			"OrgAddress": "13F, Acetwintower2, 212-30, Guro-Dong\\nSeoul    12304\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Hanyang Digitech Co.Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

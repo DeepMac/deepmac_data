@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-25",
+			"EventType": "add",
+			"OUI": "2C16BDE",
+			"OUISize": 28,
+			"OrgAddress": "46360 Fremont Blvd\\nFremont  CA  94538\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Molex Incorporated",
+			"Source": "IEEE"
+		}
+	]
+}

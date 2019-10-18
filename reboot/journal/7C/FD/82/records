@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "7CFD82",
+			"OUISize": 24,
+			"OrgAddress": "No.168, Middle Road Of East Gate\\nXiaobian Community  Chang'an Town  523851\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GUANGDONG GENIUS TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

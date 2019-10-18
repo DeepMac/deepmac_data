@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-22",
+			"EventType": "add",
+			"OUI": "380118",
+			"OUISize": 24,
+			"OrgAddress": "2500 Hagizono\\nChigasaki  Kanagawa  253-8543\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ULVAC,Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

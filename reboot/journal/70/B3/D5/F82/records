@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-14",
+			"EventType": "add",
+			"OUI": "70B3D5F82",
+			"OUISize": 36,
+			"OrgAddress": "6600 W. Touhy Ave\\nNiles  IL  60714-4588\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Preston Industries dba PolyScience",
+			"Source": "IEEE"
+		}
+	]
+}

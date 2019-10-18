@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-25",
+			"EventType": "add",
+			"OUI": "70B3D5D16",
+			"OUISize": 36,
+			"OrgAddress": "3400 S West Temple\\nSalt Lake City    84115\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Monnit Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

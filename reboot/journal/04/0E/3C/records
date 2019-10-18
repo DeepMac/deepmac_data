@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-26",
+			"EventType": "add",
+			"OUI": "040E3C",
+			"OUISize": 24,
+			"OrgAddress": "10300 Energy Dr\\nSpring  TX  77389\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "HP Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

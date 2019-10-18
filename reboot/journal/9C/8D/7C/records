@@ -21,6 +21,17 @@
 			"OrgCountry": "Kakuda  Miyagi-Pref  981-1595",
 			"OrgName": "ALPS ELECTRIC CO., LTD.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-28",
+			"EventType": "change",
+			"OUI": "9C8D7C",
+			"OUISize": 24,
+			"OrgAddress": "6-1\\nKakuda  Miyagi-Pref  981-1595\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ALPS ELECTRIC CO., LTD.",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-09",
+			"EventType": "add",
+			"OUI": "ACB1EE",
+			"OUISize": 24,
+			"OrgAddress": "Fenda Hi-Tech Park, Zhoushi Road, Shiyan, Baoan\\nShenZhen  GuangDong  518108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN FENDA TECHNOLOGY CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

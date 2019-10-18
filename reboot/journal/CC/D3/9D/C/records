@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-17",
+			"EventType": "add",
+			"OUI": "CCD39DC",
+			"OUISize": 28,
+			"OrgAddress": "Room706,707,5th,No.998,Wenyi West Raod,Wuchang Street,Yuhang District,Hangzhou\\nHangZhou  ZheJiang  311121\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou Scooper Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

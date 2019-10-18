@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "F80278B",
+			"OUISize": 28,
+			"OrgAddress": "10241 West Little York, Suite 200\\nHouston, TX 77040  Texas  77040\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "F80278B",

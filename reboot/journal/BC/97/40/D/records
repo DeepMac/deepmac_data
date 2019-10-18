@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-21",
+			"EventType": "add",
+			"OUI": "BC9740D",
+			"OUISize": 28,
+			"OrgAddress": "Viestitie 2 B\\nKajaani    87700\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Rollock Oy",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-22",
+			"EventType": "add",
+			"OUI": "980637D",
+			"OUISize": 28,
+			"OrgAddress": "Room 201,Huiheng Building,No.12,Gaoxin South 7th Road,Yuehai Steet,Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "VR Technology(Shenzhen) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

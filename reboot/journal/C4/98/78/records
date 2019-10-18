@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-25",
+			"EventType": "add",
+			"OUI": "C49878",
+			"OUISize": 24,
+			"OrgAddress": "BLOCK B, 4TH FLOOR, BUILDING 2, NO. 401 CAOBAO ROAD, XUHUI DISTRICT, SHANGHAI\\nSHANGHAI    200030\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHANGHAI MOAAN INTELLIGENT TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

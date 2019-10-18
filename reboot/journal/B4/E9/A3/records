@@ -10,6 +10,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "port GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-24",
+			"EventType": "change",
+			"OUI": "B4E9A3",
+			"OUISize": 24,
+			"OrgAddress": "Regensburger Str. 7b\\nHalle (S.)    06132\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "port industrial automation GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

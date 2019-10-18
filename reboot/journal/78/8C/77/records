@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-17",
+			"EventType": "add",
+			"OUI": "788C77",
+			"OUISize": 24,
+			"OrgAddress": "740 NEW CIRCLE ROAD\\nLEXINGTON  KY  40550\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "LEXMARK INTERNATIONAL, INC.",
+			"Source": "IEEE"
+		}
+	]
+}

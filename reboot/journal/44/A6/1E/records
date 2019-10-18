@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-10",
+			"EventType": "add",
+			"OUI": "44A61E",
+			"OUISize": 24,
+			"OrgAddress": "100 CHEMIN DE BAILLOT\\nMONTAUBAN    82000\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "INGRAM MICRO SERVICES",
+			"Source": "IEEE"
+		}
+	]
+}

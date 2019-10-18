@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-07",
+			"EventType": "add",
+			"OUI": "D420B0",
+			"OUISize": 24,
+			"OrgAddress": "1601 South De Anza Blvd, Suite 248\\nCupertino  CA  95014\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Mist Systems, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

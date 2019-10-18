@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-14",
+			"EventType": "add",
+			"OUI": "FC1CA1",
+			"OUISize": 24,
+			"OrgAddress": "600 March Road\\nKanata  Ontario  K2K 2E6\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Nokia",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "38B19EE",
+			"OUISize": 28,
+			"OrgAddress": "No. 10, Lane 3, Longxing Rd, Dakang Village,HengGang Town\\nShenZhen  Guangdong  518115\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ShenZhen ShuaiXian Electronic Equipment Co.Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

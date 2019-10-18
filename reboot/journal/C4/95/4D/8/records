@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-18",
+			"EventType": "add",
+			"OUI": "C4954D8",
+			"OUISize": 28,
+			"OrgAddress": "A02 office building of Cloud Computing Industrial Park, Karamay District\\nKaramay  Xinjiang  834000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Xinjiang Golden Calf Energy IOT Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

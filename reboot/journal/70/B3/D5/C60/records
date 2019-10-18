@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5C60",
+			"OUISize": 36,
+			"OrgAddress": "303 S. Technology Ct\\nBroomfield  co  80021\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5C60",
@@ -29,6 +40,17 @@
 			"OUI": "70B3D5C60",
 			"OUISize": 36,
 			"OrgAddress": "303 S. Technology Ct\\nBroomfield  co  80021\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Gogo BA",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D5C60",
+			"OUISize": 36,
+			"OrgAddress": "303 S. Technology Ct\\nBroomfield    80021\\n\\n",
 			"OrgCountry": "US",
 			"OrgName": "Gogo BA",
 			"Source": "IEEE"

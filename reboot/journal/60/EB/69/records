@@ -43,17 +43,6 @@
 			"OrgCountry": "TW",
 			"OrgName": "Quanta computer Inc.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-04-09",
-			"EventType": "change",
-			"OUI": "60EB69",
-			"OUISize": 24,
-			"OrgAddress": "211, Wen Hwa 2nd Rd.,Kuei Shan,\\nTao Yuan    33377\\n\\n",
-			"OrgCountry": "TW",
-			"OrgName": "QUANTA COMPUTER INC.",
-			"Source": "IEEE"
 		}
 	]
 }

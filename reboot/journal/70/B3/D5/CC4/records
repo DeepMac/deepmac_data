@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-06",
+			"EventType": "add",
+			"OUI": "70B3D5CC4",
+			"OUISize": 36,
+			"OrgAddress": "Lelyweg 10\\nAlmelo  Overijssel  7602 EA\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "Benchmark Electronics BV",
+			"Source": "IEEE"
+		}
+	]
+}

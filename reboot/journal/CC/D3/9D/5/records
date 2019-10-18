@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-16",
+			"EventType": "add",
+			"OUI": "CCD39D5",
+			"OUISize": 28,
+			"OrgAddress": "Building #43, Dayun Software Town, No.8288 Longgang Road, Henggang Street, Longgang District,\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN ROYOLE TECHNOLOGIES CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

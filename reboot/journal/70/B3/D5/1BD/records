@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-03",
+			"EventType": "add",
+			"OUI": "70B3D51BD",
+			"OUISize": 36,
+			"OrgAddress": "Room 2039, Shenhai Building, Wanzhong Village, Bulong Road, Minzhi, Longhua district,  City: Shenzhen\\nShenzhen  Guangdong  518131\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Siera Technology Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

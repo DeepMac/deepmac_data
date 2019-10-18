@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-17",
+			"EventType": "add",
+			"OUI": "C4954DB",
+			"OUISize": 28,
+			"OrgAddress": "1076 Florida Central Parkway\\nLongwood  FL  32750\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Multicom, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

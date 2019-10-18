@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-21",
+			"EventType": "add",
+			"OUI": "D4F547",
+			"OUISize": 24,
+			"OrgAddress": "1600 Amphitheatre Parkway\\nMountain View  CA  94043\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Google, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

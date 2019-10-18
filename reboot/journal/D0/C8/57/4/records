@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-27",
+			"EventType": "add",
+			"OUI": "D0C8574",
+			"OUISize": 28,
+			"OrgAddress": "77 Sciene park Drive #03-10 Cintech III\\nSingapore  Singapore  118256\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "Imin Technology Pte Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

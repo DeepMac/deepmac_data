@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-04",
+			"EventType": "add",
+			"OUI": "5062550",
+			"OUISize": 28,
+			"OrgAddress": "bldg 4/3, Prospect Octyabrya\\nUfa    450001\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Ufanet SC",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-09",
+			"EventType": "add",
+			"OUI": "70B3D5AC0",
+			"OUISize": 36,
+			"OrgAddress": "25 East Easy St\\nSimi Valley  CA  93065\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "RITEC",
+			"Source": "IEEE"
+		}
+	]
+}

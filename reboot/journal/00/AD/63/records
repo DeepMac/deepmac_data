@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-27",
+			"EventType": "add",
+			"OUI": "00AD63",
+			"OUISize": 24,
+			"OrgAddress": "Blb017, Qasam Industrijali Bulebel\\nZEJTUN    ZTN 3000\\n\\n",
+			"OrgCountry": "MT",
+			"OrgName": "Dedicated Micros Malta LTD",
+			"Source": "IEEE"
+		}
+	]
+}

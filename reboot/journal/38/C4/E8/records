@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-23",
+			"EventType": "add",
+			"OUI": "38C4E8",
+			"OUISize": 24,
+			"OrgAddress": "Modularna 11\\nWarszawa    02-238\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "NSS Sp. z o.o.",
+			"Source": "IEEE"
+		}
+	]
+}

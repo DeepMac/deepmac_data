@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "add",
+			"OUI": "64DF10",
+			"OUISize": 24,
+			"OrgAddress": "No.800 Naxian Rd\\nShanghai    201210\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "JingLue Semiconductor(SH) Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

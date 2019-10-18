@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-02",
+			"EventType": "add",
+			"OUI": "F43328",
+			"OUISize": 24,
+			"OrgAddress": "35 Crosby Drive\\nBedford  MA  01730\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CIMCON Lighting Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

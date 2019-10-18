@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "C88ED10",
+			"OUISize": 28,
+			"OrgAddress": "ROOM 1406, 14/F., WING TUCK COMMERCIAL CENTRE 177-183 WING LOK STREET, SHEUNG WAN. HONG KONG\\nHONG KONG  SHEUNG WAN  999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "C88ED10",

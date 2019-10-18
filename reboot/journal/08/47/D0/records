@@ -10,6 +10,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "Nokia Shanghai Bell Co. Ltd.ï¼",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-20",
+			"EventType": "change",
+			"OUI": "0847D0",
+			"OUISize": 24,
+			"OrgAddress": "No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai 201206,P.R.China\\nShanghai   Pudong  201206\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nokia Shanghai Bell Co., Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

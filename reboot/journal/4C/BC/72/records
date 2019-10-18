@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-23",
+			"EventType": "add",
+			"OUI": "4CBC72",
+			"OUISize": 24,
+			"OrgAddress": "965 Wells Street\\nLake Geneva  WI  53147\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Primex Wireless",
+			"Source": "IEEE"
+		}
+	]
+}

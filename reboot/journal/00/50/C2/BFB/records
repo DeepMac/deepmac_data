@@ -10,17 +10,6 @@
 			"OrgCountry": "ITALY",
 			"OrgName": "ecs srl",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2013-04-03",
-			"EventType": "change",
-			"OUI": "0050C2BFB",
-			"OUISize": 36,
-			"OrgAddress": "Via del Candel 55/d\\nBelluno  32100\\n\\n",
-			"OrgCountry": "ITALY",
-			"OrgName": "ECS Srl",
-			"Source": "IEEE"
 		}
 	]
 }

@@ -21,6 +21,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "Reliance Electric Limited",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-10",
+			"EventType": "change",
+			"OUI": "001836",
+			"OUISize": 24,
+			"OrgAddress": "2-3-2 Fukuura, Kanazawa-ku\\nYokohama  Kanagawa  236-8641\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "REJ Co.,Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

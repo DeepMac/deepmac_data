@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-18",
+			"EventType": "add",
+			"OUI": "B47C59",
+			"OUISize": 24,
+			"OrgAddress": "No.138 Taodu Road,Yixing city,Jiangsu Province,China\\nYixing  Jiangsu  214200\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Jiangsu Hengxin Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

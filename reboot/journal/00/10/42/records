@@ -24,17 +24,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "001042",
-			"OUISize": 24,
-			"OrgAddress": "888 NORTH FIRST ST. - STE.#302\\nSAN JOSE CA 95112\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "AlacriTech",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2003-06-01",
 			"EventType": "change",
 			"OUI": "001042",

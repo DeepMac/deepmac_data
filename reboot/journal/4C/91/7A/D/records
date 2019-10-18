@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "4C917AD",
+			"OUISize": 28,
+			"OrgAddress": "Room 802, Tower A, Yuanzheng Venture Building, No. 19 Langshan Road, Nanshan District\\nShenzhen     518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen bankledger Technology Co, Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

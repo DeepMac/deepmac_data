@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "DC44275",
+			"OUISize": 28,
+			"OrgAddress": "6220 Overlook Rd.\\nPeachtree Corners  Georgia  30092\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "DC44275",

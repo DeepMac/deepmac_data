@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "9C3A9A",
+			"OUISize": 24,
+			"OrgAddress": "5th Floor, Block A4, Nanshan ipark,NO.1001 Xue Yuan Road, Nanshan District, Shenzhen 518055, P.R. China\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Sundray Technologies Company Limited",
+			"Source": "IEEE"
+		}
+	]
+}

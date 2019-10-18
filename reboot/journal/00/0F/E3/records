@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2013-02-14",
-			"EventType": "change",
-			"OUI": "000FE3",
-			"OUISize": 24,
-			"OrgAddress": "Moellegade 68\\nSoenderborg  DK-6400\\n\\n",
-			"OrgCountry": "DENMARK",
-			"OrgName": "Damm Cellular Systems A/S",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "000FE3",

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "0CEFAFB",
+			"OUISize": 28,
+			"OrgAddress": "9-11th floor, B7, FinancialHarbour, NO.77, Guanggu Avenue, East Lake New Technology Development Zone\\nWuhan  Hubei  430074\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0CEFAFB",

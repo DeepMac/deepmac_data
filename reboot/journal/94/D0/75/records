@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-27",
+			"EventType": "add",
+			"OUI": "94D075",
+			"OUISize": 24,
+			"OrgAddress": "Nauchnyy proezd 6\\nMoscow    117246\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "CIS Crypto",
+			"Source": "IEEE"
+		}
+	]
+}

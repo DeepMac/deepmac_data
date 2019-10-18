@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-19",
+			"EventType": "add",
+			"OUI": "CCD39DD",
+			"OUISize": 28,
+			"OrgAddress": "Ha-Melacha 13\\nLod  Israel  7152025\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Ethernity Networks",
+			"Source": "IEEE"
+		}
+	]
+}

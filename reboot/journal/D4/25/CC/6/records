@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-03",
+			"EventType": "add",
+			"OUI": "D425CC6",
+			"OUISize": 28,
+			"OrgAddress": "No.8,YongZhi Road\\nNanjing  Jiangsu  210014\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanjing LES Information Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

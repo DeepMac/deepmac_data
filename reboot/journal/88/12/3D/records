@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-07",
+			"EventType": "add",
+			"OUI": "88123D",
+			"OUISize": 24,
+			"OrgAddress": "Room 201, Building 3, 18 Dongchang Road, Suzhou Industry Park, Suzhou, PRC. Zip Code: 215000\\nSuzhou    215000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Suzhou Aquila Solutions Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

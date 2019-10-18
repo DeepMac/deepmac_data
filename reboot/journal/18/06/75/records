@@ -21,17 +21,6 @@
 			"OrgCountry": "DE",
 			"OrgName": "DILAX Intelcom GmbH",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-08-10",
-			"EventType": "change",
-			"OUI": "180675",
-			"OUISize": 24,
-			"OrgAddress": "Alt-Moabit 96b\\nBerlin    10559\\n\\n",
-			"OrgCountry": "DE",
-			"OrgName": "Dilax Intelcom GmbH",
-			"Source": "IEEE"
 		}
 	]
 }

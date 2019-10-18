@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "D82FE6",
+			"OUISize": 24,
+			"OrgAddress": "Ali Center,No.3331 Keyuan South RD (Shenzhen bay), Nanshan District, Shenzhen Guangdong province\\nShenzhen  GuangDong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zhejiang Tmall Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

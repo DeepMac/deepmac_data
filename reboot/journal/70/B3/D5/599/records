@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "LECO Corporation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D5599",
+			"OUISize": 36,
+			"OrgAddress": "3000 Lakeview Ave.\\nSt. Joseph  null  49085\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "LECO Corporation",
+			"Source": "IEEE"
 		}
 	]
 }

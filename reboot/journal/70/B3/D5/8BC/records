@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-14",
+			"EventType": "add",
+			"OUI": "70B3D58BC",
+			"OUISize": 36,
+			"OrgAddress": "Ahornweg 5A\\nOthmarsingen    5504\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "GSI GeoSolutions International Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

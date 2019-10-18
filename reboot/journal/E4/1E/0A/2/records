@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "add",
+			"OUI": "E41E0A2",
+			"OUISize": 28,
+			"OrgAddress": "Aljunied road, 627A,06-02\\nsingapore  singapore  389842\\n\\n",
+			"OrgCountry": "SG",
+			"OrgName": "IDvaco Private Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,17 +21,6 @@
 			"OrgCountry": "CN",
 			"OrgName": "ZTE CORPORATION",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-09-01",
-			"EventType": "change",
-			"OUI": "0026ED",
-			"OUISize": 24,
-			"OrgAddress": "12/F ZTE Plaza,Keji Road South,Hi-Tech Industrial Park,Nanshan District,\\nShenzhen  GUANGDONG  518057\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "zte corporation",
-			"Source": "IEEE"
 		}
 	]
 }

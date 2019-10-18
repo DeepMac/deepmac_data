@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-23",
+			"EventType": "add",
+			"OUI": "78CC2B",
+			"OUISize": 24,
+			"OrgAddress": "2F., No.179, Dongmin Rd.\\nToufen City, Miaoli County    351\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SINEWY TECHNOLOGY CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

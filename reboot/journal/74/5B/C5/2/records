@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-13",
+			"EventType": "add",
+			"OUI": "745BC52",
+			"OUISize": 28,
+			"OrgAddress": "Blog No.4 & No.5, Antongda Industrial Zone, 3rd Liuxian Road, Baoâan District, Shenzhen, 518101, China.\\nShenzhen  Guangdong  518101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SIGLENT TECHNOLOGIES CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D56F9",
+			"OUISize": 36,
+			"OrgAddress": "Janka Krala 16\\nTrencin    911 01\\n\\n",
+			"OrgCountry": "SK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D56F9",

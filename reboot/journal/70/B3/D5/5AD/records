@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-30",
+			"EventType": "add",
+			"OUI": "70B3D55AD",
+			"OUISize": 36,
+			"OrgAddress": "Volgogradsky prospekt, 42/5\\nMoscow    109316\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Profotech",
+			"Source": "IEEE"
+		}
+	]
+}

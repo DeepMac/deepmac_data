@@ -24,17 +24,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "006043",
-			"OUISize": 24,
-			"OrgAddress": "7405 COLSHIRE DRIVE- STE #240\\nMCLEAN VA 22101\\n\\n",
-			"OrgCountry": "UNITED STATES",
-			"OrgName": "ComSoft Systems, Inc.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2008-07-19",
 			"EventType": "change",
 			"OUI": "006043",

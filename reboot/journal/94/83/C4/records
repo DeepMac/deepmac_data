@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-09",
+			"EventType": "add",
+			"OUI": "9483C4",
+			"OUISize": 24,
+			"OrgAddress": "103B Enterprise Place, 5W Science Park\\nNT    00000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "GL Technologies (Hong Kong) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-27",
+			"EventType": "add",
+			"OUI": "54A4932",
+			"OUISize": 28,
+			"OrgAddress": "Domagkstr. 7\\n\\n\\n",
+			"OrgCountry": "Kirchheim    85551",
+			"OrgName": "genua GmbH",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-01",
+			"EventType": "change",
+			"OUI": "54A4932",
+			"OUISize": 28,
+			"OrgAddress": "Domagkstr. 7\\nKirchheim    85551\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "genua GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

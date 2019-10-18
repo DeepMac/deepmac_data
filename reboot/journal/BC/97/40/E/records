@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-23",
+			"EventType": "add",
+			"OUI": "BC9740E",
+			"OUISize": 28,
+			"OrgAddress": "Office 2/6, 16a, Ivana Babushkina street\\nMoscow    117292\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "B4ComTechnologies LLC",
+			"Source": "IEEE"
+		}
+	]
+}

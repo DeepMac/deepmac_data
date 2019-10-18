@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "D076508",
+			"OUISize": 28,
+			"OrgAddress": "LÃ¤stmakargatan 20\\nStockholm  111 44\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "D076508",

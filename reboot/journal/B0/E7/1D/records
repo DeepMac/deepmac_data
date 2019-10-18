@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-21",
+			"EventType": "add",
+			"OUI": "B0E71D",
+			"OUISize": 24,
+			"OrgAddress": "Room 2211,No.88 Caoxi North Rd,Xuhui District\\n\\n\\n",
+			"OrgCountry": "Shanghai  Shanghai  200030",
+			"OrgName": "Shanghai Maigantech Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-28",
+			"EventType": "change",
+			"OUI": "B0E71D",
+			"OUISize": 24,
+			"OrgAddress": "Room 2211,No.88 Caoxi North Rd,Xuhui District\\nShanghai  Shanghai  200030\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Maigantech Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

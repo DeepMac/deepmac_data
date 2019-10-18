@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-11",
+			"EventType": "add",
+			"OUI": "745BC56",
+			"OUISize": 28,
+			"OrgAddress": "Fourways Golf Park,Selbourne Building,Roos St\\nWitkoppen  Gauteng  5214\\n\\n",
+			"OrgCountry": "ZA",
+			"OrgName": "Yekani Manufacturing PTY Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -35,17 +35,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "0005F1",
-			"OUISize": 24,
-			"OrgAddress": "401, Songam Bldg, 479-1,\\nBangbae 3-dong, Seocho-ku,\\nSeoul\\n",
-			"OrgCountry": "KOREA, REPUBLIC OF",
-			"OrgName": "Vrcom, Inc.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0005F1",

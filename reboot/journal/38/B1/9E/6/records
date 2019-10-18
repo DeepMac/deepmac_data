@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "38B19E6",
+			"OUISize": 28,
+			"OrgAddress": "Pangeran Jayakarta 129 No B 7\\nJakarta  Jakarta  10730\\n\\n",
+			"OrgCountry": "ID",
+			"OrgName": "Thrust Networks",
+			"Source": "IEEE"
+		}
+	]
+}

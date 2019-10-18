@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-13",
+			"EventType": "add",
+			"OUI": "88E034",
+			"OUISize": 24,
+			"OrgAddress": "No.26,Huifeng West 2 Road,Zhongkai High-tech Zone\\nHuizhou  Guangdong  516006\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shinwa industries(China) ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

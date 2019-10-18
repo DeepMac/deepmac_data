@@ -10,28 +10,6 @@
 			"OrgCountry": "PL",
 			"OrgName": "LARS",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "907E30",
-			"OUISize": 24,
-			"OrgAddress": "Swierkowa 14\\nNiepruszewo    64-320\\n\\n",
-			"OrgCountry": "PL",
-			"OrgName": "LARS",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-22",
-			"EventType": "add",
-			"OUI": "907E30",
-			"OUISize": 24,
-			"OrgAddress": "Swierkowa 14\\nNiepruszewo    64-320\\n\\n",
-			"OrgCountry": "PL",
-			"OrgName": "LARS",
-			"Source": "IEEE"
 		}
 	]
 }

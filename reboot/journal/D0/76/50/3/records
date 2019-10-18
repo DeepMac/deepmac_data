@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "D076503",
+			"OUISize": 28,
+			"OrgAddress": "Im Gewerbepark A15\\nRegensburg  Bayern  93059\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "D076503",

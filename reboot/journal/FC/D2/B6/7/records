@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-22",
+			"EventType": "add",
+			"OUI": "FCD2B67",
+			"OUISize": 28,
+			"OrgAddress": "11-13 Avenue de Friedland\\nParis  Ile de France  75008\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Teamly Digital",
+			"Source": "IEEE"
+		}
+	]
+}

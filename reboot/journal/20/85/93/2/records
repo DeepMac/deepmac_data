@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-20",
+			"EventType": "add",
+			"OUI": "2085932",
+			"OUISize": 28,
+			"OrgAddress": "901 North River Street\\nDerby  KS  67037\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Mid Continent Controls, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

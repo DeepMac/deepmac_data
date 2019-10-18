@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-21",
+			"EventType": "add",
+			"OUI": "2823F5",
+			"OUISize": 24,
+			"OrgAddress": "No. 1600 Yuhangtang Road, Wuchang Street, Yuhang District\\nHangzhou  Zhejiang  310000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "China Mobile (Hangzhou) Information Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

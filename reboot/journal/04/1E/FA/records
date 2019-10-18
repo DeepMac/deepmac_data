@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-28",
+			"EventType": "add",
+			"OUI": "041EFA",
+			"OUISize": 24,
+			"OrgAddress": "2345 Walker Ave NW\\nGrand Rapids  MI  49544\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BISSELL Homecare, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

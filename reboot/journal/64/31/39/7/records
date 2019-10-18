@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-10",
+			"EventType": "add",
+			"OUI": "6431397",
+			"OUISize": 28,
+			"OrgAddress": "Dalang Town, Biyun Cai Bai Cun East Second Street 66,A4 Building 501\\nDongguan  Guangdong  523770\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Dongguan Huili electroacoustic Industrial Co.,ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "0055DA5",
+			"OUISize": 28,
+			"OrgAddress": "162 John Street\\nToronto  Ontario  M5V2E5\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0055DA5",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-17",
+			"EventType": "add",
+			"OUI": "CCD39D7",
+			"OUISize": 28,
+			"OrgAddress": "1211 Air Way\\nGlendale  CA  91201\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Glenair",
+			"Source": "IEEE"
+		}
+	]
+}

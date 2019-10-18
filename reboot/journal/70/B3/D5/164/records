@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5164",
+			"OUISize": 36,
+			"OrgAddress": "103 Ni Terai-machi\\nNomi-shi  Ishikawa  923-1121\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5164",

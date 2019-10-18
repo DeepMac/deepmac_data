@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-12",
+			"EventType": "add",
+			"OUI": "B4055D",
+			"OUISize": 24,
+			"OrgAddress": "No 224 Shanda Road\\nJinan  Shandong  250013\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Inspur Electronic Information Industry Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

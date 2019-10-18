@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-21",
+			"EventType": "add",
+			"OUI": "BC9740B",
+			"OUISize": 28,
+			"OrgAddress": "77, Shaumyana Str.\\nRostov-na-Donu  UFO  344079\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "ForoTel",
+			"Source": "IEEE"
+		}
+	]
+}

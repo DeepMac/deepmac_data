@@ -24,17 +24,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2015-11-03",
-			"EventType": "change",
-			"OUI": "F8C001",
-			"OUISize": 24,
-			"OrgAddress": "1194 N. Mathilda Avenue\\nSunnyvale  CA  94089\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Juniper Networks",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2016-02-06",
 			"EventType": "change",
 			"OUI": "F8C001",

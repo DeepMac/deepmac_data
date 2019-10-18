@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-21",
+			"EventType": "add",
+			"OUI": "2085933",
+			"OUISize": 28,
+			"OrgAddress": "No.112 Yongfu Rd.,BaoanDistrict,\\nshenzhen  guangdong  518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "UNILUMIN GROUP CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

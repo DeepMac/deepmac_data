@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Blonder Tongue Laboratories, Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "001439",
+			"OUISize": 24,
+			"OrgAddress": "One Jake Brown Road\\nOld Bridge    08857\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Blonder Tongue Laboratories, Inc",
+			"Source": "IEEE"
 		}
 	]
 }

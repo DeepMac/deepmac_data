@@ -32,6 +32,17 @@
 			"OrgCountry": "CANADA",
 			"OrgName": "EPIC DATA INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "00A0A1",
+			"OUISize": 24,
+			"OrgAddress": "7280 RIVER ROAD\\nCANADA  V6X  1X5\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "EPIC DATA INC.",
+			"Source": "IEEE"
 		}
 	]
 }

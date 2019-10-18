@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "049DFE",
+			"OUISize": 24,
+			"OrgAddress": "816 Kranz-techno Bldg. 388 dunchondaero, jun\\nGyeonggi-do    KSXX0024\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Hivesystem",
+			"Source": "IEEE"
+		}
+	]
+}

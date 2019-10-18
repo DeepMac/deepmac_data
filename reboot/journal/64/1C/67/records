@@ -43,6 +43,17 @@
 			"OrgCountry": "BR",
 			"OrgName": "DIGIBRAS INDUSTRIA DO BRASILS/A",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "641C67",
+			"OUISize": 24,
+			"OrgAddress": "Rua Tambaqui, 180-B - MANAUS - AM Â¨C BRAZIL\\nmanaus  MANAUS  69075-210\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "DIGIBRAS INDUSTRIA DO BRASILS/A",
+			"Source": "IEEE"
 		}
 	]
 }

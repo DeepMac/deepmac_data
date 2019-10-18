@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-05",
+			"EventType": "add",
+			"OUI": "4011754",
+			"OUISize": 28,
+			"OrgAddress": "6101 Baker Rd STE 206\\nMinnetonka  MN  55345\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Table Trac Inc",
+			"Source": "IEEE"
+		}
+	]
+}

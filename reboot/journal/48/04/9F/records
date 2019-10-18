@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-05",
+			"EventType": "add",
+			"OUI": "48049F",
+			"OUISize": 24,
+			"OrgAddress": "9FLand Axis Tower.1-1 fushimi machi,4-chome chuoku\\nosaka    5418765\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "ELECOM CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

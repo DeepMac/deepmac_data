@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "4C4BF9B",
+			"OUISize": 28,
+			"OrgAddress": "1840 Industrial Circle\\nLongmont  CO  80501\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Stored Energy Systems",
+			"Source": "IEEE"
+		}
+	]
+}

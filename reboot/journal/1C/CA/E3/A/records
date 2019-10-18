@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "1CCAE3A",
+			"OUISize": 28,
+			"OrgAddress": "69 Rue de L'industrie\\nCASTRES  Midi-PyrÃ©nÃ©e  81100\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "1CCAE3A",

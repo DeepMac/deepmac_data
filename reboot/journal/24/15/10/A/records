@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-01",
+			"EventType": "add",
+			"OUI": "241510A",
+			"OUISize": 28,
+			"OrgAddress": "7th floor,Building 7,ZhongYunTai industy Park, Tangtou 1st Road,Bao'an District.\\nShenzhen  Guangdong  518108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Unitronux(Shenzhen) Intelligence Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -10,17 +10,6 @@
 			"OrgCountry": "UNITED KINGDOM",
 			"OrgName": "LoNAP Limited",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2013-04-03",
-			"EventType": "change",
-			"OUI": "0050C2466",
-			"OUISize": 36,
-			"OrgAddress": "5 Fleet Place\\nLondon EC4M 7RD\\n\\n",
-			"OrgCountry": "UNITED KINGDOM",
-			"OrgName": "LONAP Limited",
-			"Source": "IEEE"
 		}
 	]
 }

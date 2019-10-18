@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "TechniSat Digital GmbH Daun",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0008C9",
+			"OUISize": 24,
+			"OrgAddress": "Gewerbepark Merbitz Nr. 5\\nDresden    01156\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "TechniSat Digital GmbH Daun",
+			"Source": "IEEE"
 		}
 	]
 }

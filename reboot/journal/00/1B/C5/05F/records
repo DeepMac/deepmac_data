@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC505F",
+			"OUISize": 36,
+			"OrgAddress": "Auerbacher Str. 268\\nKlingenthal  Saxony  08248\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC505F",

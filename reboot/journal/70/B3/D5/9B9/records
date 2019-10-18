@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-06",
+			"EventType": "add",
+			"OUI": "70B3D59B9",
+			"OUISize": 36,
+			"OrgAddress": "63 Crane Lake Drive\\nHalifax  NS  B3S 1B5\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Aethera Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

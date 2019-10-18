@@ -32,28 +32,6 @@
 			"OrgCountry": "CN",
 			"OrgName": "Shenzhen Cultraview Digital Technology Co., Ltd",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "B0D568",
-			"OUISize": 24,
-			"OrgAddress": "F6,M6,Maqueling, High-tech park, Nanshan district\\nShenzhen  Guangdong  518057\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "Shenzhen Cultraview Digital Technology Co., Ltd",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-22",
-			"EventType": "add",
-			"OUI": "B0D568",
-			"OUISize": 24,
-			"OrgAddress": "F6,M6,Maqueling, High-tech park, Nanshan district\\nShenzhen  Guangdong  518057\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "Shenzhen Cultraview Digital Technology Co., Ltd",
-			"Source": "IEEE"
 		}
 	]
 }

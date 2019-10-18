@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-13",
+			"EventType": "add",
+			"OUI": "541589",
+			"OUISize": 24,
+			"OrgAddress": "A-1701, Munjeong-dong, SK V1 GL Metro City, 128, Beobwon-ro, Songpa-gu,\\nseoul  seoul  05854\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "MCS Logic Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

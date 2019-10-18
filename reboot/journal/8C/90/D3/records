@@ -43,6 +43,28 @@
 			"OrgCountry": "CA",
 			"OrgName": "Nokia",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-08",
+			"EventType": "change",
+			"OUI": "8C90D3",
+			"OUISize": 24,
+			"OrgAddress": "600 March Road\\n\\n\\n",
+			"OrgCountry": "Kanata  Ontario  K2K 2E6",
+			"OrgName": "Nokia",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-09",
+			"EventType": "change",
+			"OUI": "8C90D3",
+			"OUISize": 24,
+			"OrgAddress": "600 March Road\\nKanata  Ontario  K2K 2E6\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Nokia",
+			"Source": "IEEE"
 		}
 	]
 }

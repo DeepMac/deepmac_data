@@ -54,6 +54,17 @@
 			"OrgCountry": "GB",
 			"OrgName": "3COM EUROPE LTD",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "005099",
+			"OUISize": 24,
+			"OrgAddress": "BOUNDARY WAY\\nHERTS. HP2 7YU      vvvvvv\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "3COM EUROPE LTD",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-01",
+			"EventType": "add",
+			"OUI": "70B3D5DCD",
+			"OUISize": 36,
+			"OrgAddress": "Teknopark Ä°stanbul, TGB, Sanayi Mah. Teknopark BulvarÄ±, No:1, Blok:1 Kat:2, KurtkÃ¶y-Pendik 34912, Ä°STANBUL\\n\\n\\n",
+			"OrgCountry": "Istanbul    34912",
+			"OrgName": "C Tech BiliÅim Teknolojileri San. ve Tic. AÅ",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-11",
+			"EventType": "change",
+			"OUI": "70B3D5DCD",
+			"OUISize": 36,
+			"OrgAddress": "Teknopark Ä°stanbul, TGB, Sanayi Mah. Teknopark BulvarÄ±, No:1, Blok:1 Kat:2, KurtkÃ¶y-Pendik 34912, Ä°STANBUL\\nIstanbul    34912\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "C Tech BiliÅim Teknolojileri San. ve Tic. AÅ",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-10",
+			"EventType": "add",
+			"OUI": "F81E6F",
+			"OUISize": 24,
+			"OrgAddress": "Oberste-Wilms-StraÃe 15a\\nDortmund  Nordrhein-Westfalen  44309\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EBG compleo GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

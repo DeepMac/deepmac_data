@@ -10,6 +10,28 @@
 			"OrgCountry": "CANADA",
 			"OrgName": "Powell Industries",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "A43BFA2",
+			"OUISize": 28,
+			"OrgAddress": "201-55 Gostick Place\\nNorth Vancouver  British Columbia  V7M 3N2\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A43BFA2",
+			"OUISize": 28,
+			"OrgAddress": "201-55 Gostick Place\\nNorth Vancouver  British Columbia  V7M 3N2\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "Powell Industries",
+			"Source": "IEEE"
 		}
 	]
 }

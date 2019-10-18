@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-22",
+			"EventType": "add",
+			"OUI": "4403770",
+			"OUISize": 28,
+			"OrgAddress": "39-5 Daizen,Ueta-cho\\nToyohashi  Aichi  441-8560\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Musashi Seimitsu Industry Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

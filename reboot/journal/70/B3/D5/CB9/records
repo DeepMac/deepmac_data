@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-20",
+			"EventType": "add",
+			"OUI": "70B3D5CB9",
+			"OUISize": 36,
+			"OrgAddress": "1, bld.2, Timiryazevskaya str.\\nMoscow    127422\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "JSC Â«SATIS-TL-94Â»",
+			"Source": "IEEE"
+		}
+	]
+}

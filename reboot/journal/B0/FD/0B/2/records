@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-13",
+			"EventType": "add",
+			"OUI": "B0FD0B2",
+			"OUISize": 28,
+			"OrgAddress": "53345 Columbia Drive\\nElkhart  IN  46514\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Vista Manufacturing",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-23",
+			"EventType": "add",
+			"OUI": "70B3D5832",
+			"OUISize": 36,
+			"OrgAddress": "1609 Park 370 Place\\nHazelwood  MO  63042\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Potter Electric Signal Co. LLC",
+			"Source": "IEEE"
+		}
+	]
+}

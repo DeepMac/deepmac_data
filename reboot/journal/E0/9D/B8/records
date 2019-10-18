@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "PLANEX COMMUNICATIONS INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "E09DB8",
+			"OUISize": 24,
+			"OrgAddress": "Planex Volta Bldg., 2-11-9 Ebisu-Nishi,Shibuya-ku,\\n00000    1500021\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "PLANEX COMMUNICATIONS INC.",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-27",
+			"EventType": "add",
+			"OUI": "54A4939",
+			"OUISize": 28,
+			"OrgAddress": "No. 107, Wenjian St., Fengshan Dist.\\nKaohsiung    83067\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Do Easy International Limited",
+			"Source": "IEEE"
+		}
+	]
+}

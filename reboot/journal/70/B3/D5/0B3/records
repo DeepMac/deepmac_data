@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D50B3",
+			"OUISize": 36,
+			"OrgAddress": "#10 - 3716 56 ave SE\\nCalgary  Alberta  T2C2B5\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D50B3",

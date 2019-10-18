@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-06",
+			"EventType": "add",
+			"OUI": "58EAFC",
+			"OUISize": 24,
+			"OrgAddress": "32 Journey\\nAliso Viejo  CA  92656\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ELL-IoT Inc",
+			"Source": "IEEE"
+		}
+	]
+}

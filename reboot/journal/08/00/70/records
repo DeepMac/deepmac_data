@@ -87,6 +87,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "Mitsubishi Precision Co.,LTd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "080070",
+			"OUISize": 24,
+			"OrgAddress": "325 KAMIMACHIYA\\n000    00\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Mitsubishi Precision Co.,LTd.",
+			"Source": "IEEE"
 		}
 	]
 }

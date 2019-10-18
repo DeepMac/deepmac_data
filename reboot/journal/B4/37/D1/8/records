@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B437D18",
+			"OUISize": 28,
+			"OrgAddress": "303 Parishram Building, 5/B Rashmi Society\\nAhmedabad  Gujarat  380009\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B437D18",

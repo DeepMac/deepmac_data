@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B01F817",
+			"OUISize": 28,
+			"OrgAddress": "1A2-A08, No.1, Lising 1st RD.\\nHsinchu City  Hsinchu  30078\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B01F817",

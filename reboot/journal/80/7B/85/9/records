@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "807B859",
+			"OUISize": 28,
+			"OrgAddress": "4d Palm Grove, Berhampore\\nWellington    6023\\n\\n",
+			"OrgCountry": "NZ",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "807B859",

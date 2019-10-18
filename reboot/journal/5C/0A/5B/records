@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "SAMSUNG ELECTRO MECHANICS CO., LTD.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "5C0A5B",
+			"OUISize": 24,
+			"OrgAddress": "314, Maetan3-Dong, Yeongtong-Gu\\nSuwon    443-743\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SAMSUNG ELECTRO MECHANICS CO., LTD.",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC506D",
+			"OUISize": 36,
+			"OrgAddress": "#65, 35th Main, 100 feet Ring Road,\\nBangalore  Karnataka  560068\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC506D",

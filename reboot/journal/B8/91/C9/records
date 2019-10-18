@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-19",
+			"EventType": "add",
+			"OUI": "B891C9",
+			"OUISize": 24,
+			"OrgAddress": "#1203 Ace High-end Tower II, 61, Digital-ro 26-gil, Guro-Gu\\nSeoul    08389\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Handreamnet",
+			"Source": "IEEE"
+		}
+	]
+}

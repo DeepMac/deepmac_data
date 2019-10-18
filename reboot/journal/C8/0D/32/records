@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-23",
+			"EventType": "add",
+			"OUI": "C80D32",
+			"OUISize": 24,
+			"OrgAddress": "Ringbahnstr. 12, Hof A2\\nBerlin    12099\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Holoplot GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

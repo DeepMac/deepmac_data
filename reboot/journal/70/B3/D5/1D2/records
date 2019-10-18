@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-04",
+			"EventType": "add",
+			"OUI": "70B3D51D2",
+			"OUISize": 36,
+			"OrgAddress": "Tower East 28F,Umeda Sky Building,1-1-88,Oyodonaka,Kita-ku\\nOsaka  Osaka  531-6048\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Xacti Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

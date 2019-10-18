@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "D05F64B",
+			"OUISize": 28,
+			"OrgAddress": "3727 Greenbriar Dr.  Suite 119\\nStafford  TX  77477\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "North American Blue Tiger Company, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

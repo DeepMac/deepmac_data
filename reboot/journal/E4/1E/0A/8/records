@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "add",
+			"OUI": "E41E0A8",
+			"OUISize": 28,
+			"OrgAddress": "Two Sage Way\\nFaribault  MN  55021\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SAGE Glass",
+			"Source": "IEEE"
+		}
+	]
+}

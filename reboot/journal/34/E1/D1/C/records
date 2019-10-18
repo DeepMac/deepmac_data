@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-10",
+			"EventType": "add",
+			"OUI": "34E1D1C",
+			"OUISize": 28,
+			"OrgAddress": "14 Arrow St, Floor 4\\nCambridge  MA  02138\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CREW by True Rowing, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

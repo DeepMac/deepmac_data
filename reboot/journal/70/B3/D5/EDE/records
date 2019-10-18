@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-22",
+			"EventType": "add",
+			"OUI": "70B3D5EDE",
+			"OUISize": 36,
+			"OrgAddress": "Steinklippenstrasse 10\\nBarsinghausen  Low Saxonia  30890\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Agrident GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

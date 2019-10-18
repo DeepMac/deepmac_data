@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B01F814",
+			"OUISize": 28,
+			"OrgAddress": "Building NO.22,23, Fifth Region, Baiwangxin Industrial Park, Songbai Rd., Nanshan\\nShenzhen  Guangdong  518108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B01F814",

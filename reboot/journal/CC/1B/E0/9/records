@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "CC1BE09",
+			"OUISize": 28,
+			"OrgAddress": "Rm. 209, 2F., No. 99-1, Anzhong Rd., Xindian Dist.\\nNew Taipei City  Taiwn  23154\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "CC1BE09",

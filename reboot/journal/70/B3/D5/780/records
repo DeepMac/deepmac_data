@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-13",
+			"EventType": "add",
+			"OUI": "70B3D5780",
+			"OUISize": 36,
+			"OrgAddress": "Boulevard Marcellin Leroy zone industriel angoulÃªme\\nAngoulÃªme    16800\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "NIDEC LEROY-SOMER",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-22",
+			"EventType": "add",
+			"OUI": "70B3D5DBD",
+			"OUISize": 36,
+			"OrgAddress": "6644 ANTOINE DRIVE\\nHOUSTON  TX  77091\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "TRANSLITE GLOBAL LLC",
+			"Source": "IEEE"
+		}
+	]
+}

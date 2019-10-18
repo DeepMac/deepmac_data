@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-27",
+			"EventType": "add",
+			"OUI": "8CBE24",
+			"OUISize": 24,
+			"OrgAddress": "Room 903, Building 5, Minggu Science Park,No. 7001, Zhong Chun Road, Minhang District ,Shanghai 201101, P.R. China\\nShanghai    123456\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Tashang Semiconductor(Shanghai) Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

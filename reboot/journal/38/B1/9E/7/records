@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-24",
+			"EventType": "add",
+			"OUI": "38B19E7",
+			"OUISize": 28,
+			"OrgAddress": "Building B2,Dongsheng Park, 66 Xixiaokou Road, Haidian\\nBeijing  Beijing  100192\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Memblaze Technology Co Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

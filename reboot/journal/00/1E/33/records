@@ -32,28 +32,6 @@
 			"OrgCountry": "TW",
 			"OrgName": "Inventec Corporation",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-02-03",
-			"EventType": "change",
-			"OUI": "001E33",
-			"OUISize": 24,
-			"OrgAddress": "Inventec Building, 66 Hou-Kang Street\\nTaipei    111\\n\\n",
-			"OrgCountry": "TW",
-			"OrgName": "INVENTEC Corporation",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-05-24",
-			"EventType": "change",
-			"OUI": "001E33",
-			"OUISize": 24,
-			"OrgAddress": "Inventec Building, 66 Hou-Kang Street\\nTaipei    111\\n\\n",
-			"OrgCountry": "TW",
-			"OrgName": "INVENTEC CORPORATION",
-			"Source": "IEEE"
 		}
 	]
 }

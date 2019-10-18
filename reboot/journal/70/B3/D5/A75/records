@@ -32,28 +32,6 @@
 			"OrgCountry": "KR",
 			"OrgName": "Taejin InforTech",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-19",
-			"EventType": "delete",
-			"OUI": "70B3D5A75",
-			"OUISize": 36,
-			"OrgAddress": "40, Imi-ro, A-411\\nUiwang-si  Gyeonggi-do  16006\\n\\n",
-			"OrgCountry": "KR",
-			"OrgName": "Taejin InforTech",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-21",
-			"EventType": "add",
-			"OUI": "70B3D5A75",
-			"OUISize": 36,
-			"OrgAddress": "40, Imi-ro, A-411\\nUiwang-si  Gyeonggi-do  16006\\n\\n",
-			"OrgCountry": "KR",
-			"OrgName": "Taejin InforTech",
-			"Source": "IEEE"
 		}
 	]
 }

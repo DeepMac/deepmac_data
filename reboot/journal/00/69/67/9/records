@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-25",
+			"EventType": "add",
+			"OUI": "0069679",
+			"OUISize": 28,
+			"OrgAddress": "Room 405, Building 2, No. 31, Science and Technology Avenue, Yuhang Street, Yuhang District\\nHangzhou  Zhejiang  310012\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou Wise IOT Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

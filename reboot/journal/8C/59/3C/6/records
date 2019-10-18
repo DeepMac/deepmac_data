@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-06",
+			"EventType": "add",
+			"OUI": "8C593C6",
+			"OUISize": 28,
+			"OrgAddress": "26F.-12, No.99, Sec. 1, Xintai 5th Rd., Xizhi Dist.,\\nNew Taipei     22175\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Qbic Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

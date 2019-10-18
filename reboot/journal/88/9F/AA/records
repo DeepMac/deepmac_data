@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-30",
+			"EventType": "add",
+			"OUI": "889FAA",
+			"OUISize": 24,
+			"OrgAddress": "Am Krebsbach 2\\nIhringen   Baden WÃ¼rttemberg  79241\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Hella Gutmann Solutions GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

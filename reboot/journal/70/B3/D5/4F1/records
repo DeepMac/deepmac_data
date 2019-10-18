@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "70B3D54F1",
+			"OUISize": 36,
+			"OrgAddress": "Science Park W5, 10, Magokjungang 10-ro, Gangseo-gu\\nSeoul    07796\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LG Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

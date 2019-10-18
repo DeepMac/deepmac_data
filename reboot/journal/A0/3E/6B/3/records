@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "A03E6B3",
+			"OUISize": 28,
+			"OrgAddress": "217A, 2/F, Enterprise Place\\nHong Kong  Hong Kong  000000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "A03E6B3",

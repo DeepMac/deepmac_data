@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-13",
+			"EventType": "add",
+			"OUI": "208593D",
+			"OUISize": 28,
+			"OrgAddress": "15/F,NO3003,Baoyang Road,Baoshan District\\nShanghai  Shanghai  201201\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Kenmyond Industrial Network Equipment Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

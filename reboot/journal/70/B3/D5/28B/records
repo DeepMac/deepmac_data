@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Arnouse Digital Devices, Corp.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D528B",
+			"OUISize": 36,
+			"OrgAddress": "1983 Marcus Ave., Suite 104\\nLake Success  null  11042\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Arnouse Digital Devices, Corp.",
+			"Source": "IEEE"
 		}
 	]
 }

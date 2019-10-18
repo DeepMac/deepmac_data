@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "add",
+			"OUI": "70B3D5F1C",
+			"OUISize": 36,
+			"OrgAddress": "Rehbichler Weg 26\\nPfronten  Bayern  87459\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Bavaria Digital Technik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

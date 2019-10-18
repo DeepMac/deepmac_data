@@ -101,17 +101,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2013-04-03",
-			"EventType": "change",
-			"OUI": "0050C2B88",
-			"OUISize": 36,
-			"OrgAddress": "Ruth-Hallensleben-StraÃe 4\\nKÃ¶ln  50739\\n\\n",
-			"OrgCountry": "GERMANY",
-			"OrgName": "Gigatronik  KÃ¶ln GmbH",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2013-09-08",
 			"EventType": "change",
 			"OUI": "0050C2B88",

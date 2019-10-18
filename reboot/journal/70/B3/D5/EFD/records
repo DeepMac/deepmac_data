@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-07",
+			"EventType": "add",
+			"OUI": "70B3D5EFD",
+			"OUISize": 36,
+			"OrgAddress": "125 middlesex turnpike\\nbedford  MA  01730\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cambridge Technology, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

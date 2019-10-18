@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-29",
+			"EventType": "add",
+			"OUI": "70B3D5414",
+			"OUISize": 36,
+			"OrgAddress": "1602 Wagner Ave.\\nErie  PA  16514\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Smith Meter, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

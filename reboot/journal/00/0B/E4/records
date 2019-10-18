@@ -21,6 +21,28 @@
 			"OrgCountry": "JP",
 			"OrgName": "Hosiden Corporation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-27",
+			"EventType": "change",
+			"OUI": "000BE4",
+			"OUISize": 24,
+			"OrgAddress": "4-33\\n\\n\\n",
+			"OrgCountry": "Yao-city  Osaka  581-0071",
+			"OrgName": "Hosiden Corporation",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-02",
+			"EventType": "change",
+			"OUI": "000BE4",
+			"OUISize": 24,
+			"OrgAddress": "4-33\\nYao-city  Osaka  581-0071\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Hosiden Corporation",
+			"Source": "IEEE"
 		}
 	]
 }

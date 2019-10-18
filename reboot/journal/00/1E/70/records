@@ -32,6 +32,17 @@
 			"OrgCountry": "GB",
 			"OrgName": "Cobham Defence Communications Ltd",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-09-28",
+			"EventType": "change",
+			"OUI": "001E70",
+			"OUISize": 24,
+			"OrgAddress": "Cobham Centre, Fourth Avenue\\nMarlow  Buckinghamshire  SL7 1TF\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "Cobham Antenna Systems",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-26",
+			"EventType": "add",
+			"OUI": "2852F9",
+			"OUISize": 24,
+			"OrgAddress": "3rd Floor,Building 46,Cuigang Industrial Zone 5,Fuyong Street,Baoan District\\nShenzhen  Guangdong  518103\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zhongxin Intelligent Times (Shenzhen) Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-27",
+			"EventType": "add",
+			"OUI": "ACBB61",
+			"OUISize": 24,
+			"OrgAddress": "Room 1715,17/F North Star Times Tower,Chaoyang District,Beijing.\\nBeijing    100101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "YSTen Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

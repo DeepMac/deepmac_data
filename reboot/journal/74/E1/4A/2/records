@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "74E14A2",
+			"OUISize": 28,
+			"OrgAddress": "Nadborna 2a\\nSolec Kujawski  Kujawsko-Pomorskie  86-050\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "74E14A2",

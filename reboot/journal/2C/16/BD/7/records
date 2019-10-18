@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-19",
+			"EventType": "add",
+			"OUI": "2C16BD7",
+			"OUISize": 28,
+			"OrgAddress": "Floor 9, Block B, Building 7, Shenzhen Bay Technology Ecological Park, Nanshan District\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SCT OPTRONICS CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

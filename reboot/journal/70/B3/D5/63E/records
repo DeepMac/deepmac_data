@@ -10,17 +10,6 @@
 			"OrgCountry": "JP",
 			"OrgName": "RIKEN OPTECH CORPORATION",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2017-08-22",
-			"EventType": "change",
-			"OUI": "70B3D563E",
-			"OUISize": 36,
-			"OrgAddress": "5615-1 Taguchi\\nSaku-city  Nagano  384-0412\\n\\n",
-			"OrgCountry": "JP",
-			"OrgName": "RIKEN OPTECH CORPORATION",
-			"Source": "IEEE"
 		}
 	]
 }

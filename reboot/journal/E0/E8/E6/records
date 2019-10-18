@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-31",
+			"EventType": "add",
+			"OUI": "E0E8E6",
+			"OUISize": 24,
+			"OrgAddress": "#601, Fl6, Bldg F, No.1008 Â Yangguang Community, Xili, Nanshan\\nShenzhen  Guangdong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen C-Data Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "add",
+			"OUI": "0050C7",
+			"OUISize": 24,
+			"OrgName": "Private",
+			"Source": "IEEE"
+		}
+	]
+}

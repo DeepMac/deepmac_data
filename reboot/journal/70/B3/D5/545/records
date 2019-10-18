@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-30",
+			"EventType": "add",
+			"OUI": "70B3D5545",
+			"OUISize": 36,
+			"OrgAddress": "1505 Woodside Rd\\nRedwood City  CA  94061\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Airity Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

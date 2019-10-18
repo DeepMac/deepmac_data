@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-13",
+			"EventType": "add",
+			"OUI": "4CF19E",
+			"OUISize": 24,
+			"OrgAddress": "Ideal Boilers, National Ave\\nHull  East Yorkshire  HU5 4JB\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "Groupe Atlantic",
+			"Source": "IEEE"
+		}
+	]
+}

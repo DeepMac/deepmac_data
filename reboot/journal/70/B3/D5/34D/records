@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-19",
+			"EventType": "add",
+			"OUI": "70B3D534D",
+			"OUISize": 36,
+			"OrgAddress": "Akihabara Daibiru 7F, 1-18-13 Sotokanda\\nChiyoda-ku  Tokyo  101-0021\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Equos Research Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

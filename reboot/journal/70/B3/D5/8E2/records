@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "70B3D58E2",
+			"OUISize": 36,
+			"OrgAddress": "No. 1117, Pioneer Road, High-tech Zone\\nJinan City  Shandong Province  250101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": " Zhiye Electronics Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

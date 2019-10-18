@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "B4A2EBB",
+			"OUISize": 28,
+			"OrgAddress": "Elisabethenstr. 3a\\nHofheim am Taunus  Hessen  65719\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Quantitec GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

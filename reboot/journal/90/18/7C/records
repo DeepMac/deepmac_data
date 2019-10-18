@@ -21,17 +21,6 @@
 			"OrgCountry": "KR",
 			"OrgName": "Samsung Electro Mechanics co., LTD.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-05-25",
-			"EventType": "change",
-			"OUI": "90187C",
-			"OUISize": 24,
-			"OrgAddress": "314, Maetan3-Dong, Yeongtong-Gu\\nSuwon  KYUNGGI-DO  443-743\\n\\n",
-			"OrgCountry": "KR",
-			"OrgName": "SAMSUNG ELECTRO MECHANICS CO., LTD.",
-			"Source": "IEEE"
 		}
 	]
 }

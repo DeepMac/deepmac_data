@@ -21,6 +21,17 @@
 			"OrgCountry": "DK",
 			"OrgName": "Nokia Danmark A/S",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0002EE",
+			"OUISize": 24,
+			"OrgAddress": "Frederikskaj, Copenhagen V\\ncopenhagen    12345\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Nokia Danmark A/S",
+			"Source": "IEEE"
 		}
 	]
 }

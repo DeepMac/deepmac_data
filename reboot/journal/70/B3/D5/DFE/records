@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-13",
+			"EventType": "add",
+			"OUI": "70B3D5DFE",
+			"OUISize": 36,
+			"OrgAddress": "Auf der Langwies 20\\nHÃ¼nstetten    65510\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "microtec Sicherheitstechnik GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

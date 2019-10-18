@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-26",
+			"EventType": "add",
+			"OUI": "48A73C",
+			"OUISize": 24,
+			"OrgAddress": "No.198, section 1, xueshan avenue, jinyuan town, dayi county\\nchengdu  sichuan  611330\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Sichuan tianyi kanghe communications co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

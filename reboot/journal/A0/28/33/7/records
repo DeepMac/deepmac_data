@@ -21,6 +21,17 @@
 			"OrgCountry": "BR",
 			"OrgName": "Kryptus Information Security S/A",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-15",
+			"EventType": "change",
+			"OUI": "A028337",
+			"OUISize": 28,
+			"OrgAddress": "Rua Maria Tereza Dias da Silva 270\\nCidade Universitaria  Campinas-SP  CEP 13083-820\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Kryptus Information Security S/A",
+			"Source": "IEEE"
 		}
 	]
 }

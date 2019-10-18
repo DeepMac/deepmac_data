@@ -65,6 +65,17 @@
 			"OrgCountry": "TW",
 			"OrgName": "LOOP TELECOMMUNICATION INTERNATIONAL, INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-21",
+			"EventType": "change",
+			"OUI": "0050C6",
+			"OUISize": 24,
+			"OrgAddress": "7F, No. 8, Hsin Ann Road\\nHsinchu    -\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "LOOP TELECOMMUNICATION INTERNATIONAL, INC.",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -109,6 +109,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "GEMAC Gesellschaft fÃ¼r Mikroelektronikanwendung Chemnitz mbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-02",
+			"EventType": "change",
+			"OUI": "001F53",
+			"OUISize": 24,
+			"OrgAddress": "Zwickauer StraÃe 227\\nChemnitz  Sachsen  09116\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "GEMAC Chemnitz GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

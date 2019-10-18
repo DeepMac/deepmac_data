@@ -76,6 +76,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Arista Networks",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "001C73",
+			"OUISize": 24,
+			"OrgAddress": "5470 Great America Pkwy\\nSanta Clara    95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Arista Networks",
+			"Source": "IEEE"
 		}
 	]
 }

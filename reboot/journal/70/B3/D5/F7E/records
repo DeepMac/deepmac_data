@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5F7E",
+			"OUISize": 36,
+			"OrgAddress": "Strada Antolini 2/a\\nCollecchio  Parma  43044\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5F7E",

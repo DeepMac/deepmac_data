@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-30",
+			"EventType": "add",
+			"OUI": "FCA47AA",
+			"OUISize": 28,
+			"OrgAddress": "F/6, Tower A, Zhihuichuangxin Center Bldg,Qianjin Road, XixiangTown, Baoâan District\\nshenzhen  GUANGDONG  518126\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": " Shenzhen Elebao Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

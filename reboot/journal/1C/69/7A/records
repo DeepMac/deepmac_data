@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-30",
+			"EventType": "add",
+			"OUI": "1C697A",
+			"OUISize": 24,
+			"OrgAddress": "No.239, Sec. 2, TiDing Blvd. Nei-Hu Dist.\\nTaipei  Taiwan  11439\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "EliteGroup Computer Systems Co., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

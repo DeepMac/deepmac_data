@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-27",
+			"EventType": "add",
+			"OUI": "70B3D5CDB",
+			"OUISize": 36,
+			"OrgAddress": "NO.C3-8F,Software Park,Optics Valley,East Lake Development Zone,Wuhan,Hubei,China\\nWuhan  Hubei  430074\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Wuhan Xingtuxinke ELectronic Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

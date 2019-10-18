@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2002-06-05",
-			"EventType": "change",
-			"OUI": "00905D",
-			"OUISize": 24,
-			"OrgAddress": "BOPPSTRASSE 38\\n55118 MAINZ\\n\\n",
-			"OrgCountry": "GERMANY",
-			"OrgName": "NETCOM SICHERHEITSTECHNIK GmbH",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "00905D",

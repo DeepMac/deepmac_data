@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-24",
+			"EventType": "add",
+			"OUI": "70B3D52B8",
+			"OUISize": 36,
+			"OrgAddress": "Vollsveien 13C\\nLysaker    1366\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "WideNorth AS",
+			"Source": "IEEE"
+		}
+	]
+}

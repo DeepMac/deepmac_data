@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-13",
+			"EventType": "add",
+			"OUI": "70B3D55A7",
+			"OUISize": 36,
+			"OrgAddress": "Via Pisani 16\\nMilano  MI  20124\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "ABB S.p.A.",
+			"Source": "IEEE"
+		}
+	]
+}

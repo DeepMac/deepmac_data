@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-28",
+			"EventType": "add",
+			"OUI": "70B3D59C4",
+			"OUISize": 36,
+			"OrgAddress": "via matteotti,22\\ngaggiano  milano  20083\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "aelettronica group srl",
+			"Source": "IEEE"
+		}
+	]
+}

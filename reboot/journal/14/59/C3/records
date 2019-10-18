@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-09",
+			"EventType": "add",
+			"OUI": "1459C3",
+			"OUISize": 24,
+			"OrgAddress": "Im BubenstÃ¼ck 1\\nBingen  Rheinland-Pfalz  55411\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Creative Chips GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

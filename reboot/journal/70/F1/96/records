@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Actiontec Electronics, Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-24",
+			"EventType": "change",
+			"OUI": "70F196",
+			"OUISize": 24,
+			"OrgAddress": "3301 Olcott St.\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Actiontec Electronics, Inc",
+			"Source": "IEEE"
 		}
 	]
 }

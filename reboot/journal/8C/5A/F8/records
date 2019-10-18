@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "add",
+			"OUI": "8C5AF8",
+			"OUISize": 24,
+			"OrgAddress": "Building C, QingHe ShunShiJiaYe Technology Park, #66 ZhuFang Rd, HaiDian District\\nBeijing  Beijing  10085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Xiaomi Electronics Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B437D14",
+			"OUISize": 28,
+			"OrgAddress": "SERIF ALI MAH. TURKER CAD. MIRAS SOK.\\nISTANBUL  UMRANIYE  34775\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B437D14",

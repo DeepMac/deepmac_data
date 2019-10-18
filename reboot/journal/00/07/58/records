@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2001-12-14",
-			"EventType": "change",
-			"OUI": "000758",
-			"OUISize": 24,
-			"OrgAddress": "600-411 Leggett Drive,\\nSuite 600\\nKanata, Ontario K2K 3C9\\n",
-			"OrgCountry": "CANADA",
-			"OrgName": "Dragonwave",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "000758",
@@ -31,6 +20,17 @@
 			"OrgAddress": "600-411 Leggett Drive,\\nKanata,  Ontario  K2K 3C9\\n\\n",
 			"OrgCountry": "CA",
 			"OrgName": "Dragonwave",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "000758",
+			"OUISize": 24,
+			"OrgAddress": "600-411 Leggett Drive,\\nKanata,  Ontario  K2K 3C9\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "DragonWave Inc.",
 			"Source": "IEEE"
 		}
 	]

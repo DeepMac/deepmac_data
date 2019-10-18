@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-24",
+			"EventType": "add",
+			"OUI": "D42DC5",
+			"OUISize": 24,
+			"OrgAddress": "4-1-62 Minoshima, Hakata-ku\\nFukuoka City     812-8531\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Panasonic i-PRO Sensing Solutions Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

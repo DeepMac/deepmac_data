@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-19",
+			"EventType": "add",
+			"OUI": "78E2BD",
+			"OUISize": 24,
+			"OrgAddress": "via Astico 41\\nVarese  Italy/VA  21100\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Vodafone Automotive S.p.A.",
+			"Source": "IEEE"
+		}
+	]
+}

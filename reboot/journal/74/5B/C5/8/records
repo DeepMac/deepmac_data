@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-13",
+			"EventType": "add",
+			"OUI": "745BC58",
+			"OUISize": 28,
+			"OrgAddress": "Obertorplatz 2\\nLandau  Deutschland (DEU)  76829\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "EDOMO Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

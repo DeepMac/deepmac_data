@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "F802781",
+			"OUISize": 28,
+			"OrgAddress": "Rua Joaquim Carneiro, 192\\nFlorianÃ³polis  Santa Catarina  8811120\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "F802781",

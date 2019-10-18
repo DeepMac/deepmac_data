@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "II-VI Incorporated",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "C4EEF5",
+			"OUISize": 24,
+			"OrgAddress": "Network Solutions,343 Daniel Zenker Dr., Suite 102\\nHorseheads  NY  14845\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "II-VI Incorporated",
+			"Source": "IEEE"
 		}
 	]
 }

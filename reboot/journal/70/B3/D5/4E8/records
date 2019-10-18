@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-19",
+			"EventType": "add",
+			"OUI": "70B3D54E8",
+			"OUISize": 36,
+			"OrgAddress": "83 Hartwell Ave, Suite 150\\nLexington  MA  02421\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Copious Imaging LLC",
+			"Source": "IEEE"
+		}
+	]
+}

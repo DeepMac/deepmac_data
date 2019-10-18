@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "3C39E7E",
+			"OUISize": 28,
+			"OrgAddress": "VIA SALICETO 13\\nBENTIVOGLIO  BOLOGNA  40010\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "3C39E7E",

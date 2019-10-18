@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-21",
+			"EventType": "add",
+			"OUI": "BC9740A",
+			"OUISize": 28,
+			"OrgAddress": "A051, No.01, 3/F, No.55 Suzhou Street, Haidian District\\nBeijing  Beijing  100080\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Amap Information Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

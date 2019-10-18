@@ -13,17 +13,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2001-12-14",
-			"EventType": "change",
-			"OUI": "000548",
-			"OUISize": 24,
-			"OrgAddress": "14-3 Higashi Kojiya 2-chome\\nOta-ku Tokyo 144-8650\\n\\n",
-			"OrgCountry": "JAPAN",
-			"OrgName": "Disco Corporation",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2007-03-01",
 			"EventType": "change",
 			"OUI": "000548",

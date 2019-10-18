@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5087",
+			"OUISize": 36,
+			"OrgAddress": "Albert I-straat 40\\nSchepdaal  n/a  1703\\n\\n",
+			"OrgCountry": "BE",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5087",

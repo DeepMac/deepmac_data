@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-22",
+			"EventType": "add",
+			"OUI": "24DFA7",
+			"OUISize": 24,
+			"OrgAddress": "Room 101,1/F,Unit C,Building 1,No.57 Jiang'er Road,Changhe Street,Binjiang District,Hangzhou,Zhejiang,P.R.China\\nHangzhou  Zhejiang  310052\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou BroadLink Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

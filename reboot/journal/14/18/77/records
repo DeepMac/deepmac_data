@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Dell Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "141877",
+			"OUISize": 24,
+			"OrgAddress": "One Dell way\\nRound Rock    78682\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Dell Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

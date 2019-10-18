@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-30",
+			"EventType": "add",
+			"OUI": "70B3D5143",
+			"OUISize": 36,
+			"OrgAddress": "ul. Baumana 57a-31\\nKemerovo    650040\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "A & T Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

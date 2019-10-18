@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-31",
+			"EventType": "add",
+			"OUI": "F83CBF",
+			"OUISize": 24,
+			"OrgAddress": "c-1-2, JALAN BK5A/2B 47180,BANDAR KINRARA\\nPUCHONG  SELANGOR  47180\\n\\n",
+			"OrgCountry": "MY",
+			"OrgName": "BOTATO ELECTRONICS SDN BHD",
+			"Source": "IEEE"
+		}
+	]
+}

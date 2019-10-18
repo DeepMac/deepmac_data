@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "F40E11E",
+			"OUISize": 28,
+			"OrgAddress": "Goricica pri Ihanu 44\\nDomzale    1230\\n\\n",
+			"OrgCountry": "SI",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "F40E11E",

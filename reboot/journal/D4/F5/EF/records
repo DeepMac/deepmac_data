@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-12",
+			"EventType": "add",
+			"OUI": "D4F5EF",
+			"OUISize": 24,
+			"OrgAddress": "8000 Foothills Blvd.\\nRoseville  CA  95747\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Hewlett Packard Enterprise",
+			"Source": "IEEE"
+		}
+	]
+}

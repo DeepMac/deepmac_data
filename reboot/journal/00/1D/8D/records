@@ -21,6 +21,17 @@
 			"OrgCountry": "DE",
 			"OrgName": "Raytek GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-26",
+			"EventType": "change",
+			"OUI": "001D8D",
+			"OUISize": 24,
+			"OrgAddress": "Blankenburger Str. 135\\nBerlin    13127\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Fluke Process Instruments GmbH",
+			"Source": "IEEE"
 		}
 	]
 }

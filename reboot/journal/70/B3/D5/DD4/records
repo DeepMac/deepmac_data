@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-17",
+			"EventType": "add",
+			"OUI": "70B3D5DD4",
+			"OUISize": 36,
+			"OrgAddress": "Ripa di Porta Ticinese, 39\\nMilano  Mi  20143\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "ResIOT UBLSOFTWARE SRL",
+			"Source": "IEEE"
+		}
+	]
+}

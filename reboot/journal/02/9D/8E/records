@@ -43,6 +43,17 @@
 			"OrgCountry": "GB",
 			"OrgName": "CARDIAC RECORDERS, INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "029D8E",
+			"OUISize": 24,
+			"OrgAddress": "34 SCARBORO RD\\nUK  UNITED  KINGDOM\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "CARDIAC RECORDERS, INC.",
+			"Source": "IEEE"
 		}
 	]
 }

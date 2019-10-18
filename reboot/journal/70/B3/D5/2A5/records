@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D52A5",
+			"OUISize": 36,
+			"OrgAddress": "Elielinaukio aukio 3\\nHelsinki    00100\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D52A5",

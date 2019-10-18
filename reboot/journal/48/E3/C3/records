@@ -32,28 +32,6 @@
 			"OrgCountry": "DE",
 			"OrgName": "JENOPTIK Advanced Systems GmbH",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "48E3C3",
-			"OUISize": 24,
-			"OrgAddress": "Feldstrasse 155\\nWedel  Schleswig-Holstein  22880\\n\\n",
-			"OrgCountry": "DE",
-			"OrgName": "JENOPTIK Advanced Systems GmbH",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-22",
-			"EventType": "add",
-			"OUI": "48E3C3",
-			"OUISize": 24,
-			"OrgAddress": "Feldstrasse 155\\nWedel  Schleswig-Holstein  22880\\n\\n",
-			"OrgCountry": "DE",
-			"OrgName": "JENOPTIK Advanced Systems GmbH",
-			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "94D299",
+			"OUISize": 24,
+			"OrgAddress": "9F., No.529, Zhongzheng Rd., Xindian Dist., New Taipei City 231, Taiwan\\nNew Taipei City     231\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Techmation Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

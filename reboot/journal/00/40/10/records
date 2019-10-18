@@ -2,8 +2,19 @@
 	"recs": [
 		{
 			"DeepMac": "registry",
-			"EventDate": "2000-09-08",
+			"EventDate": "1998-04-22",
 			"EventType": "add",
+			"OUI": "004010",
+			"OUISize": 24,
+			"OrgAddress": "575 PASTORIA NORTH AVENUE\\nSUNNYVALE   CA\\n 940867\\n",
+			"OrgCountry": "",
+			"OrgName": "SONIC SYSTEMS, INC.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
 			"OUI": "004010",
 			"OUISize": 24,
 			"OrgAddress": "575 PASTORIA NORTH AVENUE\\nSUNNYVALE   CA   940867\\n\\n",

@@ -54,6 +54,17 @@
 			"OrgCountry": "US",
 			"OrgName": "SAMSUNG ELECTRO-MECHANICS(THAILAND)",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "88329B",
+			"OUISize": 24,
+			"OrgAddress": "93Moo5T. Bangsamak\\nBangpakong    24180\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SAMSUNG ELECTRO-MECHANICS(THAILAND)",
+			"Source": "IEEE"
 		}
 	]
 }

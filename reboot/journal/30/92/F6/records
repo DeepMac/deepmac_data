@@ -21,6 +21,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "3092F6",
+			"OUISize": 24,
+			"OrgAddress": "Suite 604-605,Xing Yuan Technology Plaza\\n00000  ShangHai  200233\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHANGHAI SUNMON COMMUNICATION TECHNOGY CO.,LTD",
+			"Source": "IEEE"
 		}
 	]
 }

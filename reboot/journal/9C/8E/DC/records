@@ -21,6 +21,17 @@
 			"OrgCountry": "IN",
 			"OrgName": "Teracom Limited",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "9C8EDC",
+			"OUISize": 24,
+			"OrgAddress": "123456\\nNoida  Uttar Pradesh  201301\\n\\n",
+			"OrgCountry": "IN",
+			"OrgName": "Teracom Limited",
+			"Source": "IEEE"
 		}
 	]
 }

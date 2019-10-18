@@ -76,6 +76,17 @@
 			"OrgCountry": "TW",
 			"OrgName": "ASKEY COMPUTER CORP",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "009096",
+			"OUISize": 24,
+			"OrgAddress": "2F, NO. 2, LANE 497\\nTAIPEI  23136    12345\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "ASKEY COMPUTER CORP",
+			"Source": "IEEE"
 		}
 	]
 }

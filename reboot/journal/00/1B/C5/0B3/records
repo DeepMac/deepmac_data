@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC50B3",
+			"OUISize": 36,
+			"OrgAddress": "Granatny per 2/9-73\\nMoscow  Moscow  123001\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC50B3",

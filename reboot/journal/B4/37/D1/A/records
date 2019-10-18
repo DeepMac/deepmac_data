@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B437D1A",
+			"OUISize": 28,
+			"OrgAddress": "5915 Wallace St.\\nMississauga  ON  L4Z1Z8\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B437D1A",

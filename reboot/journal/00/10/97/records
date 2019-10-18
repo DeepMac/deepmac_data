@@ -2,8 +2,19 @@
 	"recs": [
 		{
 			"DeepMac": "registry",
-			"EventDate": "2000-09-08",
+			"EventDate": "1998-04-22",
 			"EventType": "add",
+			"OUI": "001097",
+			"OUISize": 24,
+			"OrgAddress": "COMMUNICATIONS SYSTEMS, INC.\\n661 EAST ARQUES AVE.\\nSUNNYVALE  CA\\n94086",
+			"OrgCountry": "",
+			"OrgName": "WINNET METROPOLITAN",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2000-09-08",
+			"EventType": "change",
 			"OUI": "001097",
 			"OUISize": 24,
 			"OrgAddress": "COMMUNICATIONS SYSTEMS, INC.\\n661 EAST ARQUES AVE.\\nSUNNYVALE  CA   94086\\n",

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5D46",
+			"OUISize": 36,
+			"OrgAddress": "Jiskrova 4\\nKoÅ¡ice  -  040 01\\n\\n",
+			"OrgCountry": "SK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5D46",

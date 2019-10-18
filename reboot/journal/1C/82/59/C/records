@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-12",
+			"EventType": "add",
+			"OUI": "1C8259C",
+			"OUISize": 28,
+			"OrgAddress": "Salorankatu 5-7\\nSalo    24240\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Evondos Oy",
+			"Source": "IEEE"
+		}
+	]
+}

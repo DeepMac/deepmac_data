@@ -32,28 +32,6 @@
 			"OrgCountry": "CN",
 			"OrgName": "LEAX Arkivator Telecom",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "D05157",
-			"OUISize": 24,
-			"OrgAddress": "NanShan District YueHaiMen Street\\nShenZhen  GuangDong  518061\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "LEAX Arkivator Telecom",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-22",
-			"EventType": "add",
-			"OUI": "D05157",
-			"OUISize": 24,
-			"OrgAddress": "NanShan District YueHaiMen Street\\nShenZhen  GuangDong  518061\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "LEAX Arkivator Telecom",
-			"Source": "IEEE"
 		}
 	]
 }

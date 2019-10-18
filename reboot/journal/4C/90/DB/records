@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-11",
+			"EventType": "add",
+			"OUI": "4C90DB",
+			"OUISize": 24,
+			"OrgAddress": "10369 N Commerce Pkwy\\nMirimar  FL  33025\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "JL Audio",
+			"Source": "IEEE"
+		}
+	]
+}

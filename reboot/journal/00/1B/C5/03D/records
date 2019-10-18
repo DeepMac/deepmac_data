@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC503D",
+			"OUISize": 36,
+			"OrgAddress": "Im Grund 15\\nBaden-DÃ¤ttwil  AG  5405\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC503D",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "add",
+			"OUI": "D8860BE",
+			"OUISize": 28,
+			"OrgAddress": "13th Floor,Jia'anda Building, No.110 Huafan Road,Tongsheng Community, Dalang Street,Longhua District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Yidong Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

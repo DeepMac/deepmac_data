@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "add",
+			"OUI": "E05A9F4",
+			"OUISize": 28,
+			"OrgAddress": "607 NW 27th Ave\\nOcala  FL  34475\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Hale Products",
+			"Source": "IEEE"
+		}
+	]
+}

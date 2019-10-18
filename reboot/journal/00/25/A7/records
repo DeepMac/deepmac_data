@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Comverge, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0025A7",
+			"OUISize": 24,
+			"OrgAddress": "5390 Triangle Parkway\\nNorcross  GA  30092\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "itron",
+			"Source": "IEEE"
 		}
 	]
 }

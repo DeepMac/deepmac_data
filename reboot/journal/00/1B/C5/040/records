@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC5040",
+			"OUISize": 36,
+			"OrgAddress": "Bolshaya Pochtovaya 36 Bldg 10\\nMoscow    105082\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC5040",

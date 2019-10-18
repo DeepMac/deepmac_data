@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-20",
+			"EventType": "add",
+			"OUI": "E05A9F9",
+			"OUISize": 28,
+			"OrgAddress": "3300 Acorn Street\\nWilliamsburg  VA  23188\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Gemalto Document Readers",
+			"Source": "IEEE"
+		}
+	]
+}

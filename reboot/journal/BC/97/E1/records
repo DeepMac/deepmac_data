@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-13",
+			"EventType": "add",
+			"OUI": "BC97E1",
+			"OUISize": 24,
+			"OrgAddress": "15191 Alton Parkway\\nIrvine  CA  92618\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Broadcom Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-17",
+			"EventType": "add",
+			"OUI": "C4954DD",
+			"OUISize": 28,
+			"OrgAddress": "No. 1, Linkong 2 Road,North Wenhuaying Village, Gaoliying Town, Shunyi District, Beijing\\nBeijing    101303\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Newland Era Edu Hi-Tech(BeiJing)Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

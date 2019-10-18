@@ -32,6 +32,17 @@
 			"OrgCountry": "FR",
 			"OrgName": "INVENTEL",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "00073A",
+			"OUISize": 24,
+			"OrgAddress": "35, rue Toumefort\\n000    0000\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "INVENTEL",
+			"Source": "IEEE"
 		}
 	]
 }

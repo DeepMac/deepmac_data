@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "4C4BF9C",
+			"OUISize": 28,
+			"OrgAddress": "8304 Esters Boulevard, Suite 850\\nIrving  TX  75063\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Connected IO",
+			"Source": "IEEE"
+		}
+	]
+}

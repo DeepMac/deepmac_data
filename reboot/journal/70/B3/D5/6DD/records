@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-30",
+			"EventType": "add",
+			"OUI": "70B3D56DD",
+			"OUISize": 36,
+			"OrgAddress": "P. O.  Box 6863 RodelÃ¸kka\\nOslo  Oslo  0504\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "Abbott Diagnostics Technologies AS",
+			"Source": "IEEE"
+		}
+	]
+}

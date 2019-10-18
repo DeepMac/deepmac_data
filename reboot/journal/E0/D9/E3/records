@@ -10,6 +10,17 @@
 			"OrgCountry": "RU",
 			"OrgName": "Eltex Enterprise Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-05",
+			"EventType": "change",
+			"OUI": "E0D9E3",
+			"OUISize": 24,
+			"OrgAddress": "Okruzhnaya st. 29v\\nNovosibirsk    630020\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Eltex Enterprise Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

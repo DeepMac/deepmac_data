@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-30",
+			"EventType": "add",
+			"OUI": "FCA47AB",
+			"OUISize": 28,
+			"OrgAddress": "9th Floor, B Block, Fuhua Technology Building, No 9116 Beihuan  Road, Xili Street, Nanshan District,\\nShenzhen    518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Nokelock Technology Co, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

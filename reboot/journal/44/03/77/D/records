@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-21",
+			"EventType": "add",
+			"OUI": "440377D",
+			"OUISize": 28,
+			"OrgAddress": "7th Floor, No. 10, Lane 30, Lane 358, Ruiguang Road, Neihu District, Taipei, Taiwan\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "OMNISENSE SYSTEMS PRIVATE LIMITED TAIWAN BRANCH",
+			"Source": "IEEE"
+		}
+	]
+}

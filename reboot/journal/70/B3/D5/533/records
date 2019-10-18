@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-11",
+			"EventType": "add",
+			"OUI": "70B3D5533",
+			"OUISize": 36,
+			"OrgAddress": "14-1, Ogawa-cho\\nYokosuka  Kanagawa  2380004\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Nippon Marine Enterprises, Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

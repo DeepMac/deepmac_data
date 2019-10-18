@@ -43,17 +43,6 @@
 			"OrgCountry": "US",
 			"OrgName": "QUANTUM CORPORATION",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-04-05",
-			"EventType": "change",
-			"OUI": "00E09E",
-			"OUISize": 24,
-			"OrgAddress": "500 McCarthy Boulevard\\nMilpitas  CA  95035\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Quantum Corporation",
-			"Source": "IEEE"
 		}
 	]
 }

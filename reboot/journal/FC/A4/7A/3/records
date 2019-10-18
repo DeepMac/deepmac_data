@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-25",
+			"EventType": "add",
+			"OUI": "FCA47A3",
+			"OUISize": 28,
+			"OrgAddress": "ROD VICE PREF HERMENEGILDO TONOLI, 2285\\nITUPEVA  SAO PAULO  13295000\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Cliptech Industria e Comercio Ltda",
+			"Source": "IEEE"
+		}
+	]
+}

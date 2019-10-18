@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D534A",
+			"OUISize": 36,
+			"OrgAddress": "Teknopark Ä°stanbul Ar-Ge BinalarÄ±. 1.Blok\\nÄ°STANBUL  PENDÄ°K  34349\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D534A",

@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "7C70BC7",
+			"OUISize": 28,
+			"OrgAddress": "2nd Floor, Baltic Chambers,\\nNewcastle upon Tyne    NE1 3DQ\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "7C70BC7",

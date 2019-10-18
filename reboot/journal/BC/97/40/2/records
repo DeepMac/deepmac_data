@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-23",
+			"EventType": "add",
+			"OUI": "BC97402",
+			"OUISize": 28,
+			"OrgAddress": "BlytÃ¦kkervej 10\\nHillerÃ¸d    3400\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Lattec I/S",
+			"Source": "IEEE"
+		}
+	]
+}

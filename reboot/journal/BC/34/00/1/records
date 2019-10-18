@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "BC34001",
+			"OUISize": 28,
+			"OrgAddress": "8F-5, No. 347, Jingsin St.\\nNew Taipei City    23582\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "BC34001",

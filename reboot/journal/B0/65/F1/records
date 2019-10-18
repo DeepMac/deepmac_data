@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-24",
+			"EventType": "add",
+			"OUI": "B065F1",
+			"OUISize": 24,
+			"OrgAddress": "15/F OTB Building, 160 Glocester Road\\nHong Kong    00000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "WIO Manufacturing HK Limited",
+			"Source": "IEEE"
+		}
+	]
+}

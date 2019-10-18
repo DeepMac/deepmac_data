@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "549A119",
+			"OUISize": 28,
+			"OrgAddress": "Hefbrugweg\\nAlmere  Netherlands  1332AP\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "549A119",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-07",
+			"EventType": "add",
+			"OUI": "70B3D5B52",
+			"OUISize": 36,
+			"OrgAddress": "5700 Stoneridge Drive, Suite 102\\nPleasanton  CA  94588\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AEye, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

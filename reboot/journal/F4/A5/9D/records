@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-28",
+			"EventType": "add",
+			"OUI": "F4A59D",
+			"OUISize": 24,
+			"OrgAddress": "No.2 of Xincheng Road, Songshan Lake Zone\\n\\n\\n",
+			"OrgCountry": "Dongguan  Guangdong  523808",
+			"OrgName": "Huawei Device Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-10-01",
+			"EventType": "change",
+			"OUI": "F4A59D",
+			"OUISize": 24,
+			"OrgAddress": "No.2 of Xincheng Road, Songshan Lake Zone\\nDongguan  Guangdong  523808\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Huawei Device Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

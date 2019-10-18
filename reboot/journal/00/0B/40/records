@@ -54,6 +54,28 @@
 			"OrgCountry": "US",
 			"OrgName": "Oclaro",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-12",
+			"EventType": "change",
+			"OUI": "000B40",
+			"OUISize": 24,
+			"OrgAddress": "2560 Junction Avenue\\nSan Jose  New Jersey  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cambridge Industries Group (CIG)",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "000B40",
+			"OUISize": 24,
+			"OrgAddress": "2560 Junction Avenue\\nSan Jose    95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cambridge Industries Group (CIG)",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-06",
+			"EventType": "add",
+			"OUI": "8C593CD",
+			"OUISize": 28,
+			"OrgAddress": "VIA BELLINI 2\\nSAN CESARIO SUL PANARO  ITALY/MODENA  41018\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "IDRO-ELETTRICA S.P.A.",
+			"Source": "IEEE"
+		}
+	]
+}

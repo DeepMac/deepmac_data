@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-28",
+			"EventType": "add",
+			"OUI": "6802B8",
+			"OUISize": 24,
+			"OrgAddress": "13F., No.1, Taiyuan 1st St.\\nZhubei City  Hsinchu County  30265\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Compal Broadband Networks, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

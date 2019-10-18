@@ -32,17 +32,6 @@
 			"OrgCountry": "TW",
 			"OrgName": "ASUSTek Computer Inc.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-09-01",
-			"EventType": "change",
-			"OUI": "00112F",
-			"OUISize": 24,
-			"OrgAddress": "No.150, Li-Te Rd., Peitou\\nTaipei    112\\n\\n",
-			"OrgCountry": "TW",
-			"OrgName": "ASUSTek COMPUTER INC.",
-			"Source": "IEEE"
 		}
 	]
 }

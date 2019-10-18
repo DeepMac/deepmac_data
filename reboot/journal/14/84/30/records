@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-07",
+			"EventType": "add",
+			"OUI": "148430",
+			"OUISize": 24,
+			"OrgAddress": "3F., NO.1, R&D ROAD 2, HSINCHU SCIENCE PARK\\nHSINCHU    30076\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "MITAC COMPUTING TECHNOLOGY CORPORATION",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Centripetal Networks, Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-10",
+			"EventType": "change",
+			"OUI": "2C5BE1",
+			"OUISize": 24,
+			"OrgAddress": "2251 Corporate Park Drive, Suite 150\\nHerndon  VA  201715806\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Centripetal Networks, Inc",
+			"Source": "IEEE"
 		}
 	]
 }

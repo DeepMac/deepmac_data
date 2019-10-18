@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "A0BB3ED",
+			"OUISize": 28,
+			"OrgAddress": "105~107,1/F,Bldg T3,Shenzhen SW Park,No 011,High-teh South 7th Road, Nanshan District,Shenzhen\\nShenzhen  Guangdong  518040\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "A0BB3ED",

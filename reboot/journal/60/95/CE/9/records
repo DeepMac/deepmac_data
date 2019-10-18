@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-19",
+			"EventType": "add",
+			"OUI": "6095CE9",
+			"OUISize": 28,
+			"OrgAddress": "D-502#,Tongan logistics center,Sanwei hangkong 30#,Xiang street,Baoan,\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Jlztlink Industry(ShenZhen)Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

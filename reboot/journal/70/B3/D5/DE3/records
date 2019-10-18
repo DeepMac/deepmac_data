@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-30",
+			"EventType": "add",
+			"OUI": "70B3D5DE3",
+			"OUISize": 36,
+			"OrgAddress": "Konrad-Zuse-Str. 2\\nMauerstetten  Bavaria  87665\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ETL Elektrotechnik Lauter GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

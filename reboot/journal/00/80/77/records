@@ -57,11 +57,11 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2015-11-03",
+			"EventDate": "2019-07-02",
 			"EventType": "change",
 			"OUI": "008077",
 			"OUISize": 24,
-			"OrgAddress": "RESEARCH LABORATORY\\n\\n\\n",
+			"OrgAddress": "RESEARCH LABORATORY\\npiscatawa    12345\\n\\n",
 			"OrgCountry": "JP",
 			"OrgName": "Brother industries, LTD.",
 			"Source": "IEEE"

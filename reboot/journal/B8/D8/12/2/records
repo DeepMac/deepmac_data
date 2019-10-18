@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B8D8122",
+			"OUISize": 28,
+			"OrgAddress": "250-252 Soi 29 Somdet Prachaotaksin Road\\nBangkok  Bangkok  10600\\n\\n",
+			"OrgCountry": "TH",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B8D8122",

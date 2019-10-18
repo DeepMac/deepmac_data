@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-19",
+			"EventType": "add",
+			"OUI": "50F8A5",
+			"OUISize": 24,
+			"OrgAddress": "14F, 9, Teheran-ro 20-gil\\nGangnam-gu, Seoul    06236\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "eWBM Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-18",
+			"EventType": "add",
+			"OUI": "F43E66",
+			"OUISize": 24,
+			"OrgAddress": "Room 1902, 19/F, Lee Garden One 33 Hysan Avenue, Causeway Bay\\nHong Kong    100043\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Bee Computing (HK) Limited",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-01",
+			"EventType": "add",
+			"OUI": "E8ECA3",
+			"OUISize": 24,
+			"OrgAddress": "13th Floor South Building, Gosun Science Park, Hongtu Rd\\nDongguan  Dongguan  523073\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Dongguan Liesheng Electronic Co.Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			"OrgCountry": "CH",
 			"OrgName": "ModuNORM GmbH",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-08",
+			"EventType": "change",
+			"OUI": "003092",
+			"OUISize": 24,
+			"OrgAddress": "Riedstrasse 1\\nRotkreuz    CH-6343\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Kontron Electronics AG",
+			"Source": "IEEE"
 		}
 	]
 }

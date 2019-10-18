@@ -68,11 +68,11 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2016-04-27",
+			"EventDate": "2019-07-02",
 			"EventType": "change",
 			"OUI": "080051",
 			"OUISize": 24,
-			"OrgAddress": "88, RUE BRILLAT SAVARIN\\n\\n\\n",
+			"OrgAddress": "88, RUE BRILLAT SAVARIN\\n0000    0000\\n\\n",
 			"OrgCountry": "FR",
 			"OrgName": "ExperData",
 			"Source": "IEEE"

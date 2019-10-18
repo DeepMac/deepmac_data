@@ -76,6 +76,28 @@
 			"OrgCountry": "US",
 			"OrgName": "Aruba Networks",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-31",
+			"EventType": "change",
+			"OUI": "D8C7C8",
+			"OUISize": 24,
+			"OrgAddress": "3333 Scott Blvd\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Aruba, a Hewlett Packard Enterprise Company",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "change",
+			"OUI": "D8C7C8",
+			"OUISize": 24,
+			"OrgAddress": "3333 Scott Blvd\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Aruba, a Hewlett Packard Enterprise Company",
+			"Source": "IEEE"
 		}
 	]
 }

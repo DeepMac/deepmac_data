@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-23",
+			"EventType": "add",
+			"OUI": "70B3D5EAD",
+			"OUISize": 36,
+			"OrgAddress": "3624 Alta Vista Avenue\\nSanta Rosa  CA  95409\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Cobo, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

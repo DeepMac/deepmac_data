@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-26",
+			"EventType": "add",
+			"OUI": "54A493C",
+			"OUISize": 28,
+			"OrgAddress": "Rm2302,Block B,Haojing Building,Zhichun Road,Haidian District\\n\\n\\n",
+			"OrgCountry": "BeiJing  BeiJing  100086",
+			"OrgName": "BJ COTYTECH TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-27",
+			"EventType": "change",
+			"OUI": "54A493C",
+			"OUISize": 28,
+			"OrgAddress": "Rm2302,Block B,Haojing Building,Zhichun Road,Haidian District\\nBeiJing  BeiJing  100086\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "BJ COTYTECH TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-02",
+			"EventType": "add",
+			"OUI": "B00073",
+			"OUISize": 24,
+			"OrgAddress": "No.20,Park Avenue II,Hsinchu Science Park\\nHsin-Chu  R.O.C.  308\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Wistron Neweb Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

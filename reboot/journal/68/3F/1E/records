@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-06",
+			"EventType": "add",
+			"OUI": "683F1E",
+			"OUISize": 24,
+			"OrgAddress": "Kastanjelaan 400\\nEindhoven  Noord-Brabant  5616 LZ\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "EFFECT Photonics B.V.",
+			"Source": "IEEE"
+		}
+	]
+}

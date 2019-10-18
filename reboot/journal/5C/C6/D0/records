@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Skyworth Digital Technology(Shenzhen) Co.,Ltd",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-13",
+			"EventType": "change",
+			"OUI": "5CC6D0",
+			"OUISize": 24,
+			"OrgAddress": "7F,Block A,Skyworth Building,\\nShenzhen  Guangdong  518057\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Skyworth Digital Technology(Shenzhen) Co.,Ltd",
+			"Source": "IEEE"
 		}
 	]
 }

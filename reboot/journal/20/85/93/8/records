@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-19",
+			"EventType": "add",
+			"OUI": "2085938",
+			"OUISize": 28,
+			"OrgAddress": "153 RUE MICHEL CARRE\\n\\n\\n",
+			"OrgCountry": "ARGENTEUIL    95100",
+			"OrgName": "AASSET SECURITY",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-22",
+			"EventType": "change",
+			"OUI": "2085938",
+			"OUISize": 28,
+			"OrgAddress": "153 RUE MICHEL CARRE\\nARGENTEUIL    95100\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "AASSET SECURITY",
+			"Source": "IEEE"
+		}
+	]
+}

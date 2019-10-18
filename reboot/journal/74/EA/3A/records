@@ -21,17 +21,6 @@
 			"OrgCountry": "CN",
 			"OrgName": "TP-LINK Technologies Co.,Ltd.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-09-02",
-			"EventType": "change",
-			"OUI": "74EA3A",
-			"OUISize": 24,
-			"OrgAddress": "Building 7, Second Part, Honghualing Industrial Zone\\nShenzhen  Guangdong  518000\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "TP-LINK TECHNOLOGIES CO.,LTD.",
-			"Source": "IEEE"
 		}
 	]
 }

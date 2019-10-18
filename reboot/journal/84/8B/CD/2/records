@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-28",
+			"EventType": "add",
+			"OUI": "848BCD2",
+			"OUISize": 28,
+			"OrgAddress": "408 - 11 Rosemount Ave.\\nOttawa  Ontario  K1Y 4R8\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "CCX Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

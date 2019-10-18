@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "add",
+			"OUI": "E41E0A3",
+			"OUISize": 28,
+			"OrgAddress": "Pikrtova 1737/1a\\nPrague 4    14000\\n\\n",
+			"OrgCountry": "CZ",
+			"OrgName": "Avast Software s.r.o.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-22",
+			"EventType": "add",
+			"OUI": "70B3D5C50",
+			"OUISize": 36,
+			"OrgAddress": "Ryttermarken 5\\nFarum    3520\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Combilent",
+			"Source": "IEEE"
+		}
+	]
+}

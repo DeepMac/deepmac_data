@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-13",
+			"EventType": "add",
+			"OUI": "70B3D52E6",
+			"OUISize": 36,
+			"OrgAddress": "377 Simarano Drive\\nMarlborough  MA  01752\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "IPG Photonics Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

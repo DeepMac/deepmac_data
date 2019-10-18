@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "0055DA2",
+			"OUISize": 28,
+			"OrgAddress": "F15 Block 7(Jing Xi Financial Science and Technology Building)No.30 Shi Xing St,Shijingshan District Beijing, China,100041\\nBeijing  Beijing  100041\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0055DA2",

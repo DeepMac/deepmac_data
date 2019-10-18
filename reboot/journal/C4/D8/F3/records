@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-21",
+			"EventType": "add",
+			"OUI": "C4D8F3",
+			"OUISize": 24,
+			"OrgAddress": "60 Hampshire St\\nCambridge  MA  02139\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "iZotope",
+			"Source": "IEEE"
+		}
+	]
+}

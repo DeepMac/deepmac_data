@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5FA4",
+			"OUISize": 36,
+			"OrgAddress": "4901 Central Plaza, 18 Harbour Road\\nWanchai  Hong Kong  0000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5FA4",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-05",
+			"EventType": "add",
+			"OUI": "D425CC5",
+			"OUISize": 28,
+			"OrgAddress": "Mithatpasa Mah. Serin Cikmazi No:4 C Blok Kemerburgaz, Eyupsultan\\nIstanbul  Istanbul  34075\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "bvk technology",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-17",
+			"EventType": "add",
+			"OUI": "CCD39D2",
+			"OUISize": 28,
+			"OrgAddress": "2150 Miller Drive  Suite A\\nLongmont  CO  80501\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Continental Control Systems",
+			"Source": "IEEE"
+		}
+	]
+}

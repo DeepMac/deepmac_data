@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-22",
+			"EventType": "add",
+			"OUI": "0069677",
+			"OUISize": 28,
+			"OrgAddress": "774, Yuseong-daero, Yuseong-gu,\\nDaejeon  Daejeon  34171\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "PANGAEA SOLUTION INC",
+			"Source": "IEEE"
+		}
+	]
+}

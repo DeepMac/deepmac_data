@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-09",
+			"EventType": "add",
+			"OUI": "D8AF81",
+			"OUISize": 24,
+			"OrgAddress": "Filippovskiy per., 8/1\\nMoscow    119019\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "   ZAO NPK Rotek",
+			"Source": "IEEE"
+		}
+	]
+}

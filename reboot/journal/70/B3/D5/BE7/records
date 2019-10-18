@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-26",
+			"EventType": "add",
+			"OUI": "70B3D5BE7",
+			"OUISize": 36,
+			"OrgAddress": "industrie 21\\nSainte-Croix    1450\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "Syscom Instruments SA",
+			"Source": "IEEE"
+		}
+	]
+}

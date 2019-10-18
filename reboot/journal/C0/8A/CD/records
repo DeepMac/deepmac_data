@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-06",
+			"EventType": "add",
+			"OUI": "C08ACD",
+			"OUISize": 24,
+			"OrgAddress": "No.6, 4th Yunpu Road, Yunpu industry District\\nGuangzhou  Guangdong  510530\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangzhou Shiyuan Electronic Technology Company Limited",
+			"Source": "IEEE"
+		}
+	]
+}

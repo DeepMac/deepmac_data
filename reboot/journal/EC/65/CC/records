@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Panasonic Automotive Systems Company of America",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "EC65CC",
+			"OUISize": 24,
+			"OrgAddress": "776 Highway 74 South\\nPeachtree City  null  30269\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Panasonic Automotive Systems Company of America",
+			"Source": "IEEE"
 		}
 	]
 }

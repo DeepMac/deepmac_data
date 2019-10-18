@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-29",
+			"EventType": "add",
+			"OUI": "48D875",
+			"OUISize": 24,
+			"OrgAddress": "Qianfang Building, Phase I, Zhongguancun Software Park, 8 Wangxi Road, Haidian District\\nBeijing    100085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "China TransInfo Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

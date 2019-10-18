@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-19",
+			"EventType": "add",
+			"OUI": "94E6F7",
+			"OUISize": 24,
+			"OrgAddress": "Lot 8, Jalan Hi-Tech 2/3\\nKulim  Kedah  09000\\n\\n",
+			"OrgCountry": "MY",
+			"OrgName": "Intel Corporate",
+			"Source": "IEEE"
+		}
+	]
+}

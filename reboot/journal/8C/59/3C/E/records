@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-11",
+			"EventType": "add",
+			"OUI": "8C593CE",
+			"OUISize": 28,
+			"OrgAddress": "Guangming New District Gongming Office Yulu Community No. 6 Industrial Zone Building 26\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Tian-Power Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

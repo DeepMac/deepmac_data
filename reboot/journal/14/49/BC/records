@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-15",
+			"EventType": "add",
+			"OUI": "1449BC",
+			"OUISize": 24,
+			"OrgAddress": "No. 26, Fushing Rd., Hukou, Hsinchu Industrial Park,\\nHsinchu county    30352\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "DrayTek Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

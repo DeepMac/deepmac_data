@@ -24,6 +24,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "001BC5026",
+			"OUISize": 36,
+			"OrgAddress": "Av. Mofarrej, 840\\nSÃ£o Paulo    05311000\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "001BC5026",

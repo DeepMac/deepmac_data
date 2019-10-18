@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-17",
+			"EventType": "add",
+			"OUI": "4403771",
+			"OUISize": 28,
+			"OrgAddress": "286 Madison Ave, 8th floor\\nNew York  NY  10017\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Atari, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

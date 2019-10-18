@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "2C6A6F9",
+			"OUISize": 28,
+			"OrgAddress": "Holmboes Alle 14\\nHorsens  DK  8700\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "2C6A6F9",

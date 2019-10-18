@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-27",
+			"EventType": "add",
+			"OUI": "FCA47A7",
+			"OUISize": 28,
+			"OrgAddress": "15353 NE 90th Street\\nRedmond   WA  98052\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Innovative Advantage",
+			"Source": "IEEE"
+		}
+	]
+}

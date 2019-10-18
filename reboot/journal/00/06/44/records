@@ -68,17 +68,6 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2014-10-29",
-			"EventType": "change",
-			"OUI": "000644",
-			"OUISize": 24,
-			"OrgAddress": "KKS Higashi-Sapporo Bldg.\\n3-5-3-24, Higashi-Sapporo\\nShiroishi-ku, Sapporo-city Hokkaido 003-0003\\n",
-			"OrgCountry": "JAPAN",
-			"OrgName": "neix,Inc",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "000644",

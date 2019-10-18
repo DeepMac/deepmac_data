@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "70B3D5E63",
+			"OUISize": 36,
+			"OrgAddress": "One Westinghouse Plaza\\nBoston  MA  02136\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Potomac Electric Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

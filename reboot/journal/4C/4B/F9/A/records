@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-04",
+			"EventType": "add",
+			"OUI": "4C4BF9A",
+			"OUISize": 28,
+			"OrgAddress": "RingvÃ¤gen 14\\nLjungby    34180\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Electrolux Professional AB",
+			"Source": "IEEE"
+		}
+	]
+}

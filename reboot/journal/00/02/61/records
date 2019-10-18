@@ -43,6 +43,17 @@
 			"OrgCountry": "SE",
 			"OrgName": "Tilgin AB",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "000261",
+			"OUISize": 24,
+			"OrgAddress": "Finlandsgatan 40\\nkista    12345\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Tilgin AB",
+			"Source": "IEEE"
 		}
 	]
 }

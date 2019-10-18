@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Lexmark International Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-17",
+			"EventType": "change",
+			"OUI": "0021B7",
+			"OUISize": 24,
+			"OrgAddress": "740 West New Circle Road\\nLexington  KY  40550\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "LEXMARK INTERNATIONAL, INC.",
+			"Source": "IEEE"
 		}
 	]
 }

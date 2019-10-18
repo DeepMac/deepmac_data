@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-17",
+			"EventType": "add",
+			"OUI": "105932",
+			"OUISize": 24,
+			"OrgAddress": "150 Winchester Circle\\nLos Gatos  CA  95032\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Roku, Inc",
+			"Source": "IEEE"
+		}
+	]
+}

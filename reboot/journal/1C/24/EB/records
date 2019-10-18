@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-24",
+			"EventType": "add",
+			"OUI": "1C24EB",
+			"OUISize": 24,
+			"OrgAddress": "1501 S Sunset Street\\nLongmont  CO  80501\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Burlywood",
+			"Source": "IEEE"
+		}
+	]
+}

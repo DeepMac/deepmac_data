@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-12",
+			"EventType": "add",
+			"OUI": "B899AE",
+			"OUISize": 24,
+			"OrgAddress": "Chudong science and technology park, 111 shaxin road, tangxia town,\\n\\n\\n",
+			"OrgCountry": "dongguan city  guangdong province  523710",
+			"OrgName": "Shenzhen MiaoMing  Intelligent Technology Co.,Ltd",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-14",
+			"EventType": "change",
+			"OUI": "B899AE",
+			"OUISize": 24,
+			"OrgAddress": "Chudong science and technology park, 111 shaxin road, tangxia town,\\ndongguan city  guangdong province  523710\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen MiaoMing  Intelligent Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

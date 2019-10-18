@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "add",
+			"OUI": "70B3D50F6",
+			"OUISize": 36,
+			"OrgAddress": "FrÃ¼hlingstraÃe 31-33\\nIngolstadt    85055\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "KSE GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-19",
+			"EventType": "add",
+			"OUI": "70B3D5BFD",
+			"OUISize": 36,
+			"OrgAddress": "460 N McCarthy Blvd\\nMilpitas  CA  95035\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Lumentum",
+			"Source": "IEEE"
+		}
+	]
+}

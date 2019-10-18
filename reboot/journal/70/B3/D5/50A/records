@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-07",
+			"EventType": "add",
+			"OUI": "70B3D550A",
+			"OUISize": 36,
+			"OrgAddress": "Schneeberger Str. 5\\nAue    08280\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AMEDTEC Medizintechnik Aue GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

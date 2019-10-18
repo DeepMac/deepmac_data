@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-06",
+			"EventType": "add",
+			"OUI": "D0D003",
+			"OUISize": 24,
+			"OrgAddress": "129, Samsung-ro, Youngtongl-Gu\\n\\n\\n",
+			"OrgCountry": "Suwon  Gyeonggi-Do  16677",
+			"OrgName": "Samsung Electronics Co.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-11",
+			"EventType": "change",
+			"OUI": "D0D003",
+			"OUISize": 24,
+			"OrgAddress": "129, Samsung-ro, Youngtongl-Gu\\nSuwon  Gyeonggi-Do  16677\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Samsung Electronics Co.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

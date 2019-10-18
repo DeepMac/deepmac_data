@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-04",
+			"EventType": "add",
+			"OUI": "70B3D51AA",
+			"OUISize": 36,
+			"OrgAddress": "100 Carpenter Drive\\nSterling  VA  20164\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Echo Ridge, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

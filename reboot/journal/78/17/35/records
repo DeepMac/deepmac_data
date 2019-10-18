@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-13",
+			"EventType": "add",
+			"OUI": "781735",
+			"OUISize": 24,
+			"OrgAddress": "No.388 Ning Qiao Road,Jin Qiao Pudong Shanghai\\nShanghai     201206\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nokia Shanghai Bell Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-22",
+			"EventType": "add",
+			"OUI": "4CBC984",
+			"OUISize": 28,
+			"OrgAddress": "B-834, 164 Tancheonsangro, Bundang\\nSeongnam  Gyeonggi  13631\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Nemon Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "CC1BE0D",
+			"OUISize": 28,
+			"OrgAddress": "UNIT 1005,10/F PROSPEROUS BLDG 48-52 DES VOEUX ROAD GENTRAL HONG KONG\\nHONGKONG  HONGKONG  999077\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "CC1BE0D",

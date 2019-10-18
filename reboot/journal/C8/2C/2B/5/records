@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-06",
+			"EventType": "add",
+			"OUI": "C82C2B5",
+			"OUISize": 28,
+			"OrgAddress": "Industriestr. 28\\nVolketswil  ZH  8604\\n\\n",
+			"OrgCountry": "CH",
+			"OrgName": "DALCO AG",
+			"Source": "IEEE"
+		}
+	]
+}

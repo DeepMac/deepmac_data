@@ -54,6 +54,17 @@
 			"OrgCountry": "CA",
 			"OrgName": "HYPERCHIP Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0005A7",
+			"OUISize": 24,
+			"OrgAddress": "180 Peel Street - Ste. #333\\n123    H3C 2G7\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "HYPERCHIP Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

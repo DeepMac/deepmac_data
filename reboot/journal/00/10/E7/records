@@ -54,6 +54,17 @@
 			"OrgCountry": "IL",
 			"OrgName": "Breezecom, Ltd.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0010E7",
+			"OUISize": 24,
+			"OrgAddress": "PO Box 13139\\nTel-Aviv    12345\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Breezecom, Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

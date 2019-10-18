@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-13",
+			"EventType": "add",
+			"OUI": "B4A2EB4",
+			"OUISize": 28,
+			"OrgAddress": "Camino a Santa Teresa\\nTlalpan    14010\\n\\n",
+			"OrgCountry": "MX",
+			"OrgName": "Softel SA de CV",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "MEI",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-11",
+			"EventType": "change",
+			"OUI": "EC7D9D",
+			"OUISize": 24,
+			"OrgAddress": "3222 Phoenixville Pike Suite 200\\nMalvern  PA  19355\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "CPI",
+			"Source": "IEEE"
 		}
 	]
 }

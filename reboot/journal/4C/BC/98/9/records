@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-27",
+			"EventType": "add",
+			"OUI": "4CBC989",
+			"OUISize": 28,
+			"OrgAddress": "1441 Hastings Cres. SE\\nCalgary  Alberta  T2G 4C8\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Airtex Manufacturing Partnership",
+			"Source": "IEEE"
+		}
+	]
+}

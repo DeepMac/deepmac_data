@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-24",
+			"EventType": "add",
+			"OUI": "D8CF89",
+			"OUISize": 24,
+			"OrgAddress": "Room 819-158,Floor 8,XinCaiLiao Chuangye Building,No.7 FengHuiZhong Road, Haidian District\\nBeijing    100094\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing DoSee Science and Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

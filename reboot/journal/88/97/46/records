@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-28",
+			"EventType": "add",
+			"OUI": "889746",
+			"OUISize": 24,
+			"OrgAddress": "Anzhou,Industrial Park\\nAnzhou,Industrial Park  Sichuan  621000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SichuanÂ AI-LinkÂ TechnologyÂ Co.,Â Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

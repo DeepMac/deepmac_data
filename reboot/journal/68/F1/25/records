@@ -21,6 +21,28 @@
 			"OrgCountry": "JP",
 			"OrgName": "Data Controls Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-23",
+			"EventType": "change",
+			"OUI": "68F125",
+			"OUISize": 24,
+			"OrgAddress": "Fukashiro Bldg, 8F\\n\\n\\n",
+			"OrgCountry": "Taito-ku  Tokyo  111-0052",
+			"OrgName": "Data Controls Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-24",
+			"EventType": "change",
+			"OUI": "68F125",
+			"OUISize": 24,
+			"OrgAddress": "Fukashiro Bldg, 8F\\nTaito-ku  Tokyo  111-0052\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Data Controls Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

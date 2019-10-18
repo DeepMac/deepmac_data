@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-27",
+			"EventType": "add",
+			"OUI": "0052C2",
+			"OUISize": 24,
+			"OrgAddress": "Max-Planck-Strasse 28-32\\nFriedrichsdorf    61381\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "peiker acustic GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

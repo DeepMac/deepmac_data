@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Progress Rail Services, Inspection and Information Systems",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "2C48350",
+			"OUISize": 28,
+			"OrgAddress": "3801-1 South Selsa Road\\nIndependence  null  64057\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Progress Rail Services, Inspection and Information Systems",
+			"Source": "IEEE"
 		}
 	]
 }

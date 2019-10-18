@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-28",
+			"EventType": "add",
+			"OUI": "70B3D5B9F",
+			"OUISize": 36,
+			"OrgAddress": "Ikitelli Osb Mah., TU Ikitelli Teknopark Sok. 1/Z18\\nIstanbul  Basaksehir  34490\\n\\n",
+			"OrgCountry": "TR",
+			"OrgName": "Yuksek Kapasite Radyolink Sistemleri San. ve Tic. A.S.",
+			"Source": "IEEE"
+		}
+	]
+}

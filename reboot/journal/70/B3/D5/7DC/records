@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Software Systems Plus",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D57DC",
+			"OUISize": 36,
+			"OrgAddress": "9924 N. Ash Avenue\\nKansas City  null  64157\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Software Systems Plus",
+			"Source": "IEEE"
 		}
 	]
 }

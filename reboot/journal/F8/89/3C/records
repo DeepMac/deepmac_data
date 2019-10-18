@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-26",
+			"EventType": "add",
+			"OUI": "F8893C",
+			"OUISize": 24,
+			"OrgAddress": "37 Wugong 5th road, New Taipei Industrial Park,\\nNew Taipei City  Wugu District  24890\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Inventec Appliances Corp.",
+			"Source": "IEEE"
+		}
+	]
+}

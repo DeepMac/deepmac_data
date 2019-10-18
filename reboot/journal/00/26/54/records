@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "3COM",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "002654",
+			"OUISize": 24,
+			"OrgAddress": "5353 Betsy Ross Drive\\nSanta Clara    95054-1162\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "3COM",
+			"Source": "IEEE"
 		}
 	]
 }

@@ -21,6 +21,17 @@
 			"OrgCountry": "FR",
 			"OrgName": "LABEL",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-10",
+			"EventType": "change",
+			"OUI": "1CFD089",
+			"OUISize": 28,
+			"OrgAddress": "18 Rue de MontrÃ©al\\nANNEMASSE  Ville-la-Grand  74108\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "Cobham Slip Rings",
+			"Source": "IEEE"
 		}
 	]
 }

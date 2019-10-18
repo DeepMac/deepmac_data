@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-13",
+			"EventType": "add",
+			"OUI": "1C2AA3",
+			"OUISize": 24,
+			"OrgAddress": "B#2F Shuangjinhui Industrial Park, Yonghe Road, Heping Village, Fuyong Town, Bao'an Dis\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen HongRui Optical Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

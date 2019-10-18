@@ -54,6 +54,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Honeywell International HPS",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "004084",
+			"OUISize": 24,
+			"OrgAddress": "consolidation\\nFort Washington  PA  19034\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Honeywell International HPS",
+			"Source": "IEEE"
 		}
 	]
 }

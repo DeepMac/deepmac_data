@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-22",
+			"EventType": "add",
+			"OUI": "9806379",
+			"OUISize": 28,
+			"OrgAddress": "3-62-30 utukushigaoka aoba-ku\\nYokohama-city  KANAGAWA-KEN  2250002\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NAB co,.LTD",
+			"Source": "IEEE"
+		}
+	]
+}

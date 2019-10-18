@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-09",
+			"EventType": "add",
+			"OUI": "CCEF03",
+			"OUISize": 24,
+			"OrgAddress": "No. 19 Building, CEC Software Park, No. 39 jianshan Rd\\nChangsha  Hunan  410205\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hunan Keyshare Communication Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-12",
+			"EventType": "add",
+			"OUI": "B8D526",
+			"OUISize": 24,
+			"OrgAddress": "No. 6 Innovation Road II, Science Park\\nHsichu  Taiwan  300\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Zyxel Communications Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

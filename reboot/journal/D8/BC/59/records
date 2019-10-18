@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-28",
+			"EventType": "add",
+			"OUI": "D8BC59",
+			"OUISize": 24,
+			"OrgAddress": "Room B 503, No.2 Building, Tianâan Digital New Town, Huangge Middle Road, Longgang District\\nShenzhen  Guangdong  518100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen DAPU Microelectronics Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

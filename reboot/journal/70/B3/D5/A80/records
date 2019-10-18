@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-22",
+			"EventType": "add",
+			"OUI": "70B3D5A80",
+			"OUISize": 36,
+			"OrgAddress": "VIA FELTRE N. 81\\nSEDICO  BELLUNO  32036\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "EVCO SPA",
+			"Source": "IEEE"
+		}
+	]
+}

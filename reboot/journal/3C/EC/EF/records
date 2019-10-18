@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-25",
+			"EventType": "add",
+			"OUI": "3CECEF",
+			"OUISize": 24,
+			"OrgAddress": "980 Rock Ave\\nSan Jose  CA  95131\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Super Micro Computer, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

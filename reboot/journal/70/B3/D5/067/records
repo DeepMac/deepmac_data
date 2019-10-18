@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-24",
+			"EventType": "add",
+			"OUI": "70B3D5067",
+			"OUISize": 36,
+			"OrgAddress": "Rua Paulo EmÃ­dio Barbosa, 485 - sala 302\\nRio de Janeiro  Rio de Janeiro  21941-907\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "NEOPATH INTEGRATED SYSTEMS LTDA",
+			"Source": "IEEE"
+		}
+	]
+}

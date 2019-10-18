@@ -32,17 +32,6 @@
 			"OrgCountry": "JP",
 			"OrgName": "HAMAMATSU PHOTONICS K.K.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-02-19",
-			"EventType": "change",
-			"OUI": "009006",
-			"OUISize": 24,
-			"OrgAddress": "812 JOKO-CHO\\nHAMAMATSU    431-3196\\n\\n",
-			"OrgCountry": "JP",
-			"OrgName": "Hamamatsu Photonics K.K.",
-			"Source": "IEEE"
 		}
 	]
 }

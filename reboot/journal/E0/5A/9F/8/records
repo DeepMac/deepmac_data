@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "add",
+			"OUI": "E05A9F8",
+			"OUISize": 28,
+			"OrgAddress": "Newland Science & Technology Park, No.1 Rujiang West Rd,Mawei,Fuzhou, P.R.China\\nFuzhou  Fujian  350015\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Fujian Newland Auto-ID Tech. Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

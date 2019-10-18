@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Corsair Components",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-19",
+			"EventType": "change",
+			"OUI": "807B1E",
+			"OUISize": 24,
+			"OrgAddress": "47100 Bayside Parkway\\nFremont  CA  94538\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Corsair Memory, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

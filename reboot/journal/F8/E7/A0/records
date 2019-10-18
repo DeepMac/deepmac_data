@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-27",
+			"EventType": "add",
+			"OUI": "F8E7A0",
+			"OUISize": 24,
+			"OrgAddress": "#283,BBK Road\\nWusha,Chang'An  DongGuan City,Guangdong,  523860\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "vivo Mobile Communication Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

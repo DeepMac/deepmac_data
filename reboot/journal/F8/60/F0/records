@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-13",
+			"EventType": "add",
+			"OUI": "F860F0",
+			"OUISize": 24,
+			"OrgAddress": "3333 Scott Blvd\\nSanta Clara  CA  95054\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Aruba, a Hewlett Packard Enterprise Company",
+			"Source": "IEEE"
+		}
+	]
+}

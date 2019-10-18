@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-26",
+			"EventType": "add",
+			"OUI": "54A4935",
+			"OUISize": 28,
+			"OrgAddress": "929 108TH AVE NE STE 1200, BELLEVUE, WA, 98004-4787, UNITED STATES\\nBELLEVUE  WA  98004\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AUSOUNDS INTELLIGENCE, LLC",
+			"Source": "IEEE"
+		}
+	]
+}

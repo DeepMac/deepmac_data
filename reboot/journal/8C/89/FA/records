@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-19",
+			"EventType": "add",
+			"OUI": "8C89FA",
+			"OUISize": 24,
+			"OrgAddress": "No. 9, Fucai Road, Longyou Industrial Zone\\nQuzhou  Zhejiang  324000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zhejiang Hechuan Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

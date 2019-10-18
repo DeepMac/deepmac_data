@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D51AD",
+			"OUISize": 36,
+			"OrgAddress": "Unit 1705, 17/F, Nanyang Plaza, 57 Hung To Road,\\nHong Kong  N/A  N/A\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D51AD",

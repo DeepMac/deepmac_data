@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-13",
+			"EventType": "add",
+			"OUI": "90F891",
+			"OUISize": 24,
+			"OrgAddress": "884-3, Seongnam-daero, Bundang-gu\\nSeongnam-si  Gyeonggi-do  13517\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Kaonmedia CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-10-01",
+			"EventType": "add",
+			"OUI": "70B3D5EE2",
+			"OUISize": 36,
+			"OrgAddress": "Via Armando Sarti 6\\nBologna    40132\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "MONTRADE SPA",
+			"Source": "IEEE"
+		}
+	]
+}

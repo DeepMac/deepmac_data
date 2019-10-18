@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "4C917A8",
+			"OUISize": 28,
+			"OrgAddress": "Ogrodowa 2A\\nSolec Kujawski  Bydgoszcz  86-050\\n\\n",
+			"OrgCountry": "PL",
+			"OrgName": "Camsat PrzemysÅaw Gralak",
+			"Source": "IEEE"
+		}
+	]
+}

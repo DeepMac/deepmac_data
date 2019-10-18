@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-09",
+			"EventType": "add",
+			"OUI": "4011753",
+			"OUISize": 28,
+			"OrgAddress": "Room 306, 3F, No.16, Shangdi 5 Street, Haidian District\\nBeijing  Beijing  100085\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing Hexinruitong Electric Power Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

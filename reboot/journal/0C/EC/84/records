@@ -32,28 +32,6 @@
 			"OrgCountry": "CN",
 			"OrgName": "Shenzhen TINNO Mobile Technology Corp.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "0CEC84",
-			"OUISize": 24,
-			"OrgAddress": "4/F, H-3 Building, Qiao Cheng Eastern Industrial Park, Overseas Chinese Town, Shenzhen\\nShenzhen   guangdong  518053\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "Shenzhen TINNO Mobile Technology Corp.",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-22",
-			"EventType": "add",
-			"OUI": "0CEC84",
-			"OUISize": 24,
-			"OrgAddress": "4/F, H-3 Building, Qiao Cheng Eastern Industrial Park, Overseas Chinese Town, Shenzhen\\nShenzhen   guangdong  518053\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "Shenzhen TINNO Mobile Technology Corp.",
-			"Source": "IEEE"
 		}
 	]
 }

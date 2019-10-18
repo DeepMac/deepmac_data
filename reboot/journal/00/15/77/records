@@ -43,6 +43,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Allied Telesis, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "001577",
+			"OUISize": 24,
+			"OrgAddress": "3200 North First Street\\nSan Jose    95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Allied Telesis, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

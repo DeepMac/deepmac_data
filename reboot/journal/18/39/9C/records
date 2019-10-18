@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-22",
+			"EventType": "add",
+			"OUI": "18399C",
+			"OUISize": 24,
+			"OrgAddress": "7401 Snaproll St NE\\nAlbuquerque  NM  87109\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Skorpios Technologies",
+			"Source": "IEEE"
+		}
+	]
+}

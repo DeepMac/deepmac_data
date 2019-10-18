@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-09",
+			"EventType": "add",
+			"OUI": "14A1BF",
+			"OUISize": 24,
+			"OrgAddress": "10f of JEI PLATZ Bldg., 186, Gasandigital 1-ro\\nGeumcheon-gu  Seoul  08502\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "ASSA ABLOY Korea Co., Ltd Unilock",
+			"Source": "IEEE"
+		}
+	]
+}

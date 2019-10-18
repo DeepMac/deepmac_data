@@ -21,6 +21,28 @@
 			"OrgCountry": "US",
 			"OrgName": "Safety Vision",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-26",
+			"EventType": "change",
+			"OUI": "0022AF",
+			"OUISize": 24,
+			"OrgAddress": "6100 W. Sam Houston Pkwy. North\\nHouston  Texas  77041\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Safety Vision, LLC",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0022AF",
+			"OUISize": 24,
+			"OrgAddress": "6100 W. Sam Houston Pkwy. North\\nHouston    77041\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Safety Vision, LLC",
+			"Source": "IEEE"
 		}
 	]
 }

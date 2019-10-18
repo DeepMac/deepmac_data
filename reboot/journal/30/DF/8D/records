@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-05",
+			"EventType": "add",
+			"OUI": "30DF8D",
+			"OUISize": 24,
+			"OrgAddress": "SONGGANG\\nSHENZHEN  GUANGDONG  518105\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN GONGJIN ELECTRONICS CO.,LT",
+			"Source": "IEEE"
+		}
+	]
+}

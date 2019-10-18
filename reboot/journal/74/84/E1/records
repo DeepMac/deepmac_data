@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-19",
+			"EventType": "add",
+			"OUI": "7484E1",
+			"OUISize": 24,
+			"OrgAddress": "NO.161 Kejizhong RoadLiuwu Shijie Town\\nDongguan  Guangdong  523290\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Dongguan Haoyuan Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

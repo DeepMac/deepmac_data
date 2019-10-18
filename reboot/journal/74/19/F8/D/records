@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "7419F8D",
+			"OUISize": 28,
+			"OrgAddress": "4 Bldg., Pinglan Indl. Park, Nanping,\\nZhuhai  Guangdong  519060\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "7419F8D",

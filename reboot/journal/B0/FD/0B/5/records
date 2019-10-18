@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-16",
+			"EventType": "add",
+			"OUI": "B0FD0B5",
+			"OUISize": 28,
+			"OrgAddress": "Building 4, Fengxiang Road, Tai'an Development Zone\\nTaiâan  Shandong  271000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Taian Yuqi Communication Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

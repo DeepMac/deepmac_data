@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-08",
+			"EventType": "add",
+			"OUI": "F4BCDA",
+			"OUISize": 24,
+			"OrgAddress": "3/F,A5 Building Zhiyuan Community No.1001,Xueyuan Road Nanshan District\\nShenzhen  Guangdong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Jingxun Software Telecommunication Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

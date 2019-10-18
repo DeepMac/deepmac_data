@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "add",
+			"OUI": "70B3D5A68",
+			"OUISize": 36,
+			"OrgAddress": "Shilin Industrial Zone,Xinshi, Deqing,Zhejiang,China\\nDeqing  Zhejiang  313200\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zhejiang Zhaolong Interconnect Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

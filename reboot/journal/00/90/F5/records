@@ -65,6 +65,17 @@
 			"OrgCountry": "TW",
 			"OrgName": "CLEVO CO.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0090F5",
+			"OUISize": 24,
+			"OrgAddress": "35, WU-GON 6TH ROAD\\nTAIPEI HSIEN    12345\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "CLEVO CO.",
+			"Source": "IEEE"
 		}
 	]
 }

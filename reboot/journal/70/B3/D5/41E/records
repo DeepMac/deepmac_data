@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D541E",
+			"OUISize": 36,
+			"OrgAddress": "Hamelacha St., 8 ,New Industrial Zone\\nNetanya  Israel  42815\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D541E",

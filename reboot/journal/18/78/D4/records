@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-03",
+			"EventType": "add",
+			"OUI": "1878D4",
+			"OUISize": 24,
+			"OrgAddress": "One Verizon Way\\nBasking Ridge  NJ  07920\\n\\n",
+			"OrgCountry": "UNITED STATES",
+			"OrgName": "Verizon",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-08",
+			"EventType": "change",
+			"OUI": "1878D4",
+			"OUISize": 24,
+			"OrgAddress": "One Verizon Way\\nBasking Ridge  NJ  07920\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Verizon",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-28",
+			"EventType": "add",
+			"OUI": "70B3D5A42",
+			"OUISize": 36,
+			"OrgAddress": "Im Reihersbruch 3\\nSt. Ingbert  Saarland  66386\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "iMAR Navigation GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

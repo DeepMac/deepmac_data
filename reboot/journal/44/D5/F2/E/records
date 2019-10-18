@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-18",
+			"EventType": "add",
+			"OUI": "44D5F2E",
+			"OUISize": 28,
+			"OrgAddress": "Proezd 4922, Dom 4, Stroenie 2\\nZelenograd  Moscow  124498\\n\\n",
+			"OrgCountry": "RU",
+			"OrgName": "Joint-Stock Company Research and Development Center ELVEES",
+			"Source": "IEEE"
+		}
+	]
+}

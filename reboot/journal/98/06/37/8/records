@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-29",
+			"EventType": "add",
+			"OUI": "9806378",
+			"OUISize": 28,
+			"OrgAddress": "601-602, 6/F, Antenna Building, No 17, Keji North 1st Road, Nanshan District\\nShenzhen    518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shenzhen Y&D Electronics Information Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

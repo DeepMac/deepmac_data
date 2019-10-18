@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-23",
+			"EventType": "add",
+			"OUI": "2C16BD9",
+			"OUISize": 28,
+			"OrgAddress": "4F , No 85, Lane 1198, North Qin Zhou Road, Xu Hui District\\nShanghai  Shanghai  200233\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Walktech Information Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

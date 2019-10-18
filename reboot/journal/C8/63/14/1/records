@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-17",
+			"EventType": "add",
+			"OUI": "C863141",
+			"OUISize": 28,
+			"OrgAddress": "4-14-26, Shimo-Muneoka\\nShiki  Saitama  3530003\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Autonics Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

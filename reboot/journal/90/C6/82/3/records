@@ -13,13 +13,13 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2015-01-22",
+			"EventDate": "2015-08-25",
 			"EventType": "change",
 			"OUI": "90C6823",
 			"OUISize": 28,
-			"OrgAddress": "IET House\\nChesnut Close\\nPotten End Herts HP42RN\\n",
-			"OrgCountry": "UNITED KINGDOM",
-			"OrgName": "Innovative Electronic Technology",
+			"OrgAddress": "IET House\\nPotten End  Herts  HP42RN\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "",
 			"Source": "IEEE"
 		},
 		{

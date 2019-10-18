@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-20",
+			"EventType": "add",
+			"OUI": "00B600",
+			"OUISize": 24,
+			"OrgAddress": "70, Seotan-ro, Jinwi-myeon\\nPyeongtaek-si  Gyeonggi-do  17706\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "VOIM Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Connected IO Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-20",
+			"EventType": "change",
+			"OUI": "34049E1",
+			"OUISize": 28,
+			"OrgAddress": "573 University Ave\\nLos Gatos  CA  95032\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Connected IO",
+			"Source": "IEEE"
 		}
 	]
 }

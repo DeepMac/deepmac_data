@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-31",
+			"EventType": "add",
+			"OUI": "609B2D",
+			"OUISize": 24,
+			"OrgAddress": "11F, KM Nishi-Umeda bldg., 7-20-1 Fukushima, Fukushima-ku\\nOsaka-city  Osaka  553-0003\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "JMACS Japan Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

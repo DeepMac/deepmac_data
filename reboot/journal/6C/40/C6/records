@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Nimbus Data Systems, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-08",
+			"EventType": "change",
+			"OUI": "6C40C6",
+			"OUISize": 24,
+			"OrgAddress": "5151 California Ave, Ste 100\\nIrvine  CA  92617\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Nimbus Data, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

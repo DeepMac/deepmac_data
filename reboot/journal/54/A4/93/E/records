@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-31",
+			"EventType": "add",
+			"OUI": "54A493E",
+			"OUISize": 28,
+			"OrgAddress": "Sydhamnsgatan 2\\nHelsingborg  Sweden  252 28\\n\\n",
+			"OrgCountry": "SE",
+			"OrgName": "Nederman Holding AB",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "add",
+			"OUI": "A4817A",
+			"OUISize": 24,
+			"OrgAddress": "5th Floor, Building 8 No 2388 Chenhang Road\\nSHANGHAI    201114\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "CIG SHANGHAI CO LTD",
+			"Source": "IEEE"
+		}
+	]
+}

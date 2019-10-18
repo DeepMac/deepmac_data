@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "70B3D572F",
+			"OUISize": 36,
+			"OrgAddress": "45 East Cordova St, AVA Technologies Inc.\\nVancouver  BC  V6A 1K3\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "AVA Technologies Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

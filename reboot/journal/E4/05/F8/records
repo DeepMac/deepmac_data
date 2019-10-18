@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-04",
+			"EventType": "add",
+			"OUI": "E405F8",
+			"OUISize": 24,
+			"OrgAddress": "China Digital Kingdom Building, Chaoyang District\\nBeijing  Beijing  100102\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Delta Innovation Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

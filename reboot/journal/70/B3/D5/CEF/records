@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-22",
+			"EventType": "add",
+			"OUI": "70B3D5CEF",
+			"OUISize": 36,
+			"OrgAddress": "Linnapellontie 18\\nHalikko    24910\\n\\n",
+			"OrgCountry": "FI",
+			"OrgName": "Ellego Powertec Oy",
+			"Source": "IEEE"
+		}
+	]
+}

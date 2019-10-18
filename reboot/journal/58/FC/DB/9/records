@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "58FCDB9",
+			"OUISize": 28,
+			"OrgAddress": "Plant 202, BLDG 13, Tian'An HQ Center, No.555 North Panyu RD. Donghuan Block,\\nGuangzhou  Guangdong  511400\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "58FCDB9",

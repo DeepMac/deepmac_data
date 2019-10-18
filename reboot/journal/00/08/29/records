@@ -21,6 +21,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "Aval Nagasaki Corporation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-08",
+			"EventType": "change",
+			"OUI": "000829",
+			"OUISize": 24,
+			"OrgAddress": "6-42 Tsukuba-machi, Isahaya-shi\\nNagasaki  Kyushu  854-0065\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "TOKYO ELECTRON DEVICE NAGASAKI LIMITED",
+			"Source": "IEEE"
 		}
 	]
 }

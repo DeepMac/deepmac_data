@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-27",
+			"EventType": "add",
+			"OUI": "70B3D5456",
+			"OUISize": 36,
+			"OrgAddress": "18A Cong Hoa street\\nHo Chi Minh city  Ho Chi Minh city  700000\\n\\n",
+			"OrgCountry": "VN",
+			"OrgName": "Technological Application and Production One Member Liability Company (Tecapro company)",
+			"Source": "IEEE"
+		}
+	]
+}

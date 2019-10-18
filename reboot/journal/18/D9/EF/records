@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-02",
+			"EventType": "add",
+			"OUI": "18D9EF",
+			"OUISize": 24,
+			"OrgAddress": "No. 30 Lane 76, Rei Kuang Rd\\nTaipei    114\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Shuttle Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

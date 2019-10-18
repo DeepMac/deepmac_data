@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-21",
+			"EventType": "add",
+			"OUI": "440377B",
+			"OUISize": 28,
+			"OrgAddress": "No.7 Xiyuan Rd, Sandun Town, Westlake District\\nHangzhou  Zhejiang  310000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Hangzhou Asia Infrastructure Tech. Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

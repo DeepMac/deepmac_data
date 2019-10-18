@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-20",
+			"EventType": "add",
+			"OUI": "70B3D589A",
+			"OUISize": 36,
+			"OrgAddress": "Via P. Gobetti, 16F\\nMaggiora  NO  28014\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Algodue Elettronica Srl",
+			"Source": "IEEE"
+		}
+	]
+}

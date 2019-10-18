@@ -46,11 +46,11 @@
 		},
 		{
 			"DeepMac": "registry",
-			"EventDate": "2016-08-30",
+			"EventDate": "2019-07-02",
 			"EventType": "change",
 			"OUI": "000048",
 			"OUISize": 24,
-			"OrgAddress": "80 HIROOKA SHIOJIRI-CITY\\nJAPAN  399-07\\n\\n",
+			"OrgAddress": "80 HIROOKA SHIOJIRI-CITY\\njapan  JAPAN  399-07\\n\\n",
 			"OrgCountry": "JP",
 			"OrgName": "Seiko Epson Corporation",
 			"Source": "IEEE"

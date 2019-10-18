@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-30",
+			"EventType": "add",
+			"OUI": "9C99CD",
+			"OUISize": 24,
+			"OrgAddress": "Via di Passolombardo 35\\nRome     00133\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Voippartners",
+			"Source": "IEEE"
+		}
+	]
+}

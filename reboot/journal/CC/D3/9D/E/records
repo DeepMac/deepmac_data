@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-19",
+			"EventType": "add",
+			"OUI": "CCD39DE",
+			"OUISize": 28,
+			"OrgAddress": "Floor 2, building 1, liqin building, No.1885, metropolis road, minhang district\\nShanghai  Shanghai  201108\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai tongli information technology co. LTD",
+			"Source": "IEEE"
+		}
+	]
+}

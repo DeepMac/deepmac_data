@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-18",
+			"EventType": "add",
+			"OUI": "847C9B",
+			"OUISize": 24,
+			"OrgAddress": "Midea Global Innovation Center,Beijiao Town,Shunde\\nFoshan  Guangdong  528311\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GD Midea Air-Conditioning Equipment Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

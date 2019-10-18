@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "add",
+			"OUI": "6CDFFB6",
+			"OUISize": 28,
+			"OrgAddress": "2425 Yukon Ave\\nTulsa  OK  74107\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AAON",
+			"Source": "IEEE"
+		}
+	]
+}

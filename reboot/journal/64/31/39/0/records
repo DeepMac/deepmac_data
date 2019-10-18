@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-07",
+			"EventType": "add",
+			"OUI": "6431390",
+			"OUISize": 28,
+			"OrgAddress": "Unit 2C,Building A6,Guangming Science Park,Guangming Road 3009\\n\\n\\n",
+			"OrgCountry": "Shenzhen  Guangdong  518000",
+			"OrgName": "SHENZHEN EMEET INTELLIGENT TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-10",
+			"EventType": "change",
+			"OUI": "6431390",
+			"OUISize": 28,
+			"OrgAddress": "Unit 2C,Building A6,Guangming Science Park,Guangming Road 3009\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN EMEET INTELLIGENT TECHNOLOGY CO., LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

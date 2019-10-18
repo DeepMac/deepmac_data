@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-11",
+			"EventType": "add",
+			"OUI": "643139A",
+			"OUISize": 28,
+			"OrgAddress": "1145 E. Cliff Rd\\nBurnsville  MN  55337\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Product Development Associates, Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-20",
+			"EventType": "add",
+			"OUI": "4403779",
+			"OUISize": 28,
+			"OrgAddress": "504, Building B ,Guangming Industrial Park, Zhonghua  Road, Minzhi, Longhua District\\n\\n\\n",
+			"OrgCountry": "SHENZHEN  GUANGDONG  518131",
+			"OrgName": "SHENZHEN UT-KING TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-22",
+			"EventType": "change",
+			"OUI": "4403779",
+			"OUISize": 28,
+			"OrgAddress": "504, Building B ,Guangming Industrial Park, Zhonghua  Road, Minzhi, Longhua District\\nSHENZHEN  GUANGDONG  518131\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN UT-KING TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-28",
+			"EventType": "add",
+			"OUI": "A0224ED",
+			"OUISize": 28,
+			"OrgAddress": "6F, No.89, Xinhu 1st Rd., Neihu Dist.\\nTaipei City     11494\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Digifocus Technology Inc.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-10-02",
+			"EventType": "change",
+			"OUI": "A0224ED",
+			"OUISize": 28,
+			"OrgAddress": "6F, No.89, Xinhu 1st Rd., Neihu Dist.\\n\\n\\n",
+			"OrgCountry": "Taipei City     11494",
+			"OrgName": "Digifocus Technology Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

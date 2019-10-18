@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-25",
+			"EventType": "add",
+			"OUI": "5CB4E2",
+			"OUISize": 24,
+			"OrgAddress": "No. 1036, Langchao Road\\nJinan  Shandong  250101\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Inspur Software Group Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

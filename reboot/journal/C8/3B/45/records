@@ -32,6 +32,17 @@
 			"OrgCountry": "FR",
 			"OrgName": "JRI",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "C83B45",
+			"OUISize": 24,
+			"OrgAddress": "16 rue louis rameau\\nBezons Cedex    95872\\n\\n",
+			"OrgCountry": "FR",
+			"OrgName": "JRI",
+			"Source": "IEEE"
 		}
 	]
 }

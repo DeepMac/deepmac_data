@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-23",
+			"EventType": "add",
+			"OUI": "D0C857D",
+			"OUISize": 28,
+			"OrgAddress": "National Intelligent Speech High-tech Industrialization Base, No. 666, Wangjiang Road West,\\nHeifei  An hui  230088\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "IFLYTEK CO.,LTD.",
+			"Source": "IEEE"
+		}
+	]
+}

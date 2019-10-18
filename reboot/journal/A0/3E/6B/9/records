@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "A03E6B9",
+			"OUISize": 28,
+			"OrgAddress": "ROTERMANI 8\\nTallin  Estonia  10111\\n\\n",
+			"OrgCountry": "EE",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "A03E6B9",

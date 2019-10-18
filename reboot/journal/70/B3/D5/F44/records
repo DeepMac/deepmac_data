@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-19",
+			"EventType": "add",
+			"OUI": "70B3D5F44",
+			"OUISize": 36,
+			"OrgAddress": "Viale Aldo Borletti 61/63\\nCorbetta  MI  20011\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Magneti Marelli S.p.A. Electronics",
+			"Source": "IEEE"
+		}
+	]
+}

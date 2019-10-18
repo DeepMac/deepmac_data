@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-09",
+			"EventType": "add",
+			"OUI": "C4E0DE",
+			"OUISize": 24,
+			"OrgAddress": "Tianli building A, wisdom park, no. 139, yangjin road, jinshui district\\nZhengzhou  Henan  450003\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Zhengzhou XindaJiean Information Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

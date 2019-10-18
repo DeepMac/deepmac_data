@@ -21,6 +21,17 @@
 			"OrgCountry": "JAPAN",
 			"OrgName": "OPTEC DAIICHI DENKO CO., LTD.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "004039",
+			"OUISize": 24,
+			"OrgAddress": "FIBER OPTICS & TELECOM. DIV.\\nJAPAN\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "OPTEC DAIICHI DENKO CO., LTD.",
+			"Source": "IEEE"
 		}
 	]
 }

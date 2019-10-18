@@ -32,17 +32,6 @@
 			"OrgCountry": "JP",
 			"OrgName": "BROTHER INDUSTRIES, LTD.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-11-03",
-			"EventType": "change",
-			"OUI": "001BA9",
-			"OUISize": 24,
-			"OrgAddress": "Printing & Solutions Company, Development Management Dept.\\nNagoya  Aichi  467-8561\\n\\n",
-			"OrgCountry": "JP",
-			"OrgName": "Brother industries, LTD.",
-			"Source": "IEEE"
 		}
 	]
 }

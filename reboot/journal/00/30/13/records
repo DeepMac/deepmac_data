@@ -21,6 +21,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "NEC Corporation",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "003013",
+			"OUISize": 24,
+			"OrgAddress": "1-10 Nisshincho, Fuchu\\nTokyo 183-8501    0000\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "NEC Corporation",
+			"Source": "IEEE"
 		}
 	]
 }

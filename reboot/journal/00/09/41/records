@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "Allied Telesis R&D Center K.K.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "000941",
+			"OUISize": 24,
+			"OrgAddress": "Technical Center/No.2 TOC Bldg.\\nShinagawa-ku    141-0031\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Allied Telesis R&D Center K.K.",
+			"Source": "IEEE"
 		}
 	]
 }

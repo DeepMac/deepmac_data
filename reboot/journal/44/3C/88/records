@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-11",
+			"EventType": "add",
+			"OUI": "443C88",
+			"OUISize": 24,
+			"OrgAddress": "Zone Franche Technopolis Rocade Rabat-SalÃ© 11103 Sala Al Jadida - SalÃ©\\nSalÃ©    11103\\n\\n",
+			"OrgCountry": "MA",
+			"OrgName": "FICOSA MAROC INTERNATIONAL",
+			"Source": "IEEE"
+		}
+	]
+}

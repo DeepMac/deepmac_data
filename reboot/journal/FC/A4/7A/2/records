@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-27",
+			"EventType": "add",
+			"OUI": "FCA47A2",
+			"OUISize": 28,
+			"OrgAddress": "801-10,8th Floor B Section,556Xixi Road,XihuDistrict,\\nHangzhouCity  ZhejiangProvince  310007\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Ant Financialï¼Hang Zhouï¼Network Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

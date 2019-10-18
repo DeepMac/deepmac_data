@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-01",
+			"EventType": "add",
+			"OUI": "0CF475",
+			"OUISize": 24,
+			"OrgAddress": "Sverigesgade 6\\nAarhus    8000\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "Zliide Technologies ApS",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-18",
+			"EventType": "add",
+			"OUI": "D05F64C",
+			"OUISize": 28,
+			"OrgAddress": "No.11 Runfa Road, Dongshan Industry Gathering Zone, Jiangning District\\nNanjing  Jiangsu  210000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanjing Huamai Technology Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

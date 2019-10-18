@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-09",
+			"EventType": "add",
+			"OUI": "1C82592",
+			"OUISize": 28,
+			"OrgAddress": "Grand Front Osaka Tower-B 28F, 3-1 ofuka-cho, kita-ku\\nOsaka  Osaka  530-0011\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Diatrend Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-13",
+			"EventType": "add",
+			"OUI": "401175E",
+			"OUISize": 28,
+			"OrgAddress": "Rua Julio Dinis 265 1D\\nTrofa    4785-330\\n\\n",
+			"OrgCountry": "PT",
+			"OrgName": "NIBBLE",
+			"Source": "IEEE"
+		}
+	]
+}

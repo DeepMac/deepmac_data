@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-19",
+			"EventType": "add",
+			"OUI": "FCD2B63",
+			"OUISize": 28,
+			"OrgAddress": "Via Civesio 12\\nSan Donato Milanese  Mi  20097\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Coet Costruzioni Elettrotecniche",
+			"Source": "IEEE"
+		}
+	]
+}

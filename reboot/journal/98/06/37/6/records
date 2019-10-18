@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-23",
+			"EventType": "add",
+			"OUI": "9806376",
+			"OUISize": 28,
+			"OrgAddress": "5905 LEGACY DR, SUITE 325\\nPLANO  TX  75024\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BOEING SSG",
+			"Source": "IEEE"
+		}
+	]
+}

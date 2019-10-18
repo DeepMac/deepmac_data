@@ -21,6 +21,17 @@
 			"OrgCountry": "US",
 			"OrgName": "ADB Broadband Italia",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "008C54",
+			"OUISize": 24,
+			"OrgAddress": "VIALE SARCA 336\\nMILANO    20126\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ADB Broadband Italia",
+			"Source": "IEEE"
 		}
 	]
 }

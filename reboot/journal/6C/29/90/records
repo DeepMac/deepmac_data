@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-21",
+			"EventType": "add",
+			"OUI": "6C2990",
+			"OUISize": 24,
+			"OrgAddress": "Room 3805, 148 Electric Road\\nHong Kong  0000  0000\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "WiZ Connected Lighting Company Limited",
+			"Source": "IEEE"
+		}
+	]
+}

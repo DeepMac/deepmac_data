@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-27",
+			"EventType": "add",
+			"OUI": "FCA47AD",
+			"OUISize": 28,
+			"OrgAddress": "No.205,2F,17th Block,PingShan Industrial District,TaoYuan Street, NanShan\\nShenZhen  GuangDong  518055\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "SHENZHEN KUKU TECHNOLOGY CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

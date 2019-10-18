@@ -32,17 +32,6 @@
 			"OrgCountry": "US",
 			"OrgName": "INTEL CORPORATION",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-10-17",
-			"EventType": "change",
-			"OUI": "009027",
-			"OUISize": 24,
-			"OrgAddress": "HF1-06\\nHILLSBORO  OR  97124\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Intel Corporation",
-			"Source": "IEEE"
 		}
 	]
 }

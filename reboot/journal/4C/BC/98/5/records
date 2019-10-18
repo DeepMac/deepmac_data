@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-27",
+			"EventType": "add",
+			"OUI": "4CBC985",
+			"OUISize": 28,
+			"OrgAddress": "Hilpertswiese 7\\nBirstein    63633\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Gronic Systems GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

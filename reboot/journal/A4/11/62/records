@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-28",
+			"EventType": "add",
+			"OUI": "A41162",
+			"OUISize": 24,
+			"OrgAddress": "350 East Plumeria Drive\\nsan jose  CA  95134\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Arlo Technology",
+			"Source": "IEEE"
+		}
+	]
+}

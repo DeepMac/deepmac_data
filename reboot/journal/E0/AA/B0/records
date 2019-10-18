@@ -32,6 +32,28 @@
 			"OrgCountry": "CN",
 			"OrgName": "GENERAL VISION ELECTRONICS CO. LTD.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-01",
+			"EventType": "change",
+			"OUI": "E0AAB0",
+			"OUISize": 24,
+			"OrgAddress": "No. 6 ALY 3,LN 64 XINGFU RD, XINZHUNAG DISTRICT\\nNEW TAIPEI CITY    242\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Suntaii Enterprise Co., Ltd.",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-14",
+			"EventType": "change",
+			"OUI": "E0AAB0",
+			"OUISize": 24,
+			"OrgAddress": "No. 6 ALY 3,LN 64 XINGFU RD, XINZHUNAG DISTRICT\\nNEW TAIPEI CITY    242\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "SUNTAILI ENTERPRISE CO. LTD,",
+			"Source": "IEEE"
 		}
 	]
 }

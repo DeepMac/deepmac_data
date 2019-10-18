@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-08",
+			"EventType": "add",
+			"OUI": "745BC54",
+			"OUISize": 28,
+			"OrgAddress": "602 Gabriola Way\\nOttawa  Ontario  K2T 0M2\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "uGrid Network Inc.",
+			"Source": "IEEE"
+		}
+	]
+}

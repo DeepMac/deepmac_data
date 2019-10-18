@@ -32,6 +32,17 @@
 			"OrgCountry": "CA",
 			"OrgName": "Technical Solutions Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-14",
+			"EventType": "change",
+			"OUI": "0014FB",
+			"OUISize": 24,
+			"OrgAddress": "101-7188 Progress Way\\nDelta  BC  V4G 1M6\\n\\n",
+			"OrgCountry": "CA",
+			"OrgName": "Technical Solutions Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

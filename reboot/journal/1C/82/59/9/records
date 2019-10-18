@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-05",
+			"EventType": "add",
+			"OUI": "1C82599",
+			"OUISize": 28,
+			"OrgAddress": "Room 503, Building B, NO. 2305, Zuchongzhi Road\\nShanghai  Shanghai  201203\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Xiaoyan Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

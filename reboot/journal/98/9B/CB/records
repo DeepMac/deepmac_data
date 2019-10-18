@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-14",
+			"EventType": "add",
+			"OUI": "989BCB",
+			"OUISize": 24,
+			"OrgAddress": "Alt-Moabit 95\\nBerlin  Berlin  10559\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "AVM Audiovisuelles Marketing und Computersysteme GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -10,6 +10,17 @@
 			"OrgCountry": "DK",
 			"OrgName": "COMM-connect A/S",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D5EED",
+			"OUISize": 36,
+			"OrgAddress": "Raasigvangen 2\\nSlangerup    DK-3550\\n\\n",
+			"OrgCountry": "DK",
+			"OrgName": "COMM-connect A/S",
+			"Source": "IEEE"
 		}
 	]
 }

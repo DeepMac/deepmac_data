@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-27",
+			"EventType": "add",
+			"OUI": "FCA47A8",
+			"OUISize": 28,
+			"OrgAddress": "FLAT/RM 705 7/F SUNBEAM PLAZA 1155 CANTON ROAD MONGKOK KL\\nHong Kong    999077\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "KARRY COMMUNICATION LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

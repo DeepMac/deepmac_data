@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-11",
+			"EventType": "add",
+			"OUI": "CCDC55",
+			"OUISize": 24,
+			"OrgAddress": "Room 601-2, 6/F, IC Development Centre, No. 6 Science Park West Avenue, Hong Kong Science Park, Shatin, N.T.\\nHong Kong    NA\\n\\n",
+			"OrgCountry": "HK",
+			"OrgName": "Dragonchip Limited",
+			"Source": "IEEE"
+		}
+	]
+}

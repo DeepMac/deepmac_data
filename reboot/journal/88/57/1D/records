@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-03",
+			"EventType": "add",
+			"OUI": "88571D",
+			"OUISize": 24,
+			"OrgAddress": "54-33, Dongtanhana 1-gil\\nHwaseong-si  Gyeonggi-do  18423\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Seongji Industry Company",
+			"Source": "IEEE"
+		}
+	]
+}

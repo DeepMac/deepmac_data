@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-05",
+			"EventType": "add",
+			"OUI": "1CB3E9",
+			"OUISize": 24,
+			"OrgAddress": "6C jiajiahao commercial building, Shennan avenue\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": " Shenzhen Zhongke United Communication Technology",
+			"Source": "IEEE"
+		}
+	]
+}

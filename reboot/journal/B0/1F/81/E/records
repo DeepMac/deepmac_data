@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B01F81E",
+			"OUISize": 28,
+			"OrgAddress": "5F, No. 3-2, Industry East 9th Road, Hsinchu Science Park,\\nHsinchu City  Hsinchu  30075\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B01F81E",

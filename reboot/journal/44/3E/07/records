@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-20",
+			"EventType": "add",
+			"OUI": "443E07",
+			"OUISize": 24,
+			"OrgAddress": "Corso Lino Zanussi 24\\nPorcia  PORDENONE  33080\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Electrolux",
+			"Source": "IEEE"
+		}
+	]
+}

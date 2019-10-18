@@ -10,6 +10,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "Active Brains",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-26",
+			"EventType": "change",
+			"OUI": "70B3D52BA",
+			"OUISize": 36,
+			"OrgAddress": "Yokohama Dia BLDG 8F 1-7 Kinkocho Kanagawa-ku\\nYokohama  Kanagawa  221-0056\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "Active Brains",
+			"Source": "IEEE"
 		}
 	]
 }

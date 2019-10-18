@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-28",
+			"EventType": "add",
+			"OUI": "A86D5F",
+			"OUISize": 24,
+			"OrgAddress": "No. 11, East Area, No. 10 Block, East Xibeiwang Road\\nBeijing    100094\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Raisecom Technology CO., LTD",
+			"Source": "IEEE"
+		}
+	]
+}

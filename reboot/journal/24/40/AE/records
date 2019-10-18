@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-30",
+			"EventType": "add",
+			"OUI": "2440AE",
+			"OUISize": 24,
+			"OrgAddress": "Room 8218, Building 3#B, No. 268 Furong Road, Jingkai District\\nHefei    230601\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "NIIC Technology Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-16",
+			"EventType": "add",
+			"OUI": "083A2F",
+			"OUISize": 24,
+			"OrgAddress": "NO.9, street 3, HengLing industrial zone, Tangdong, tianhe district\\nGuangzhou  Guangdong  CN 510000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Guangzhou Juan Intelligent Tech Joint Stock Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

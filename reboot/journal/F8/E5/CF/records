@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-05",
+			"EventType": "add",
+			"OUI": "F8E5CF",
+			"OUISize": 24,
+			"OrgAddress": "20 Fenchurch Street, 14th Floor\\nLondon    EC3M 3BY\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "CGI IT UK LIMITED",
+			"Source": "IEEE"
+		}
+	]
+}

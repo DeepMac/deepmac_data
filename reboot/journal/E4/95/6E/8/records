@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "E4956E8",
+			"OUISize": 28,
+			"OrgAddress": "Jalan Jembatan Dua Raya no.16/2\\nJakarta  14450\\n\\n",
+			"OrgCountry": "ID",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "E4956E8",

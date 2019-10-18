@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-26",
+			"EventType": "add",
+			"OUI": "70B3D5719",
+			"OUISize": 36,
+			"OrgAddress": "802 Greenview Drive\\nGrand Prairie  TX  75050\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "2M Technology",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-01",
+			"EventType": "add",
+			"OUI": "ACF6F7",
+			"OUISize": 24,
+			"OrgAddress": "60-39, Gasan-dong, Geumcheon-gu\\nSeoul    153-801\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "LG Electronics (Mobile Communications)",
+			"Source": "IEEE"
+		}
+	]
+}

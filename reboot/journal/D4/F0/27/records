@@ -21,6 +21,17 @@
 			"OrgCountry": "GB",
 			"OrgName": "Navetas Energy Management",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "change",
+			"OUI": "D4F027",
+			"OUISize": 24,
+			"OrgAddress": "13 Berkley Street\\nLondon    W1J 8DU\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "Trust Power Ltd.",
+			"Source": "IEEE"
 		}
 	]
 }

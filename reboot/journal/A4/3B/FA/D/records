@@ -10,6 +10,28 @@
 			"OrgCountry": "RUSSIAN FEDERATION",
 			"OrgName": "JSC âComponent-ASUâ",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "A43BFAD",
+			"OUISize": 28,
+			"OrgAddress": "Severnyi proezd 1, k. 5/6\\nChernogolovka  Moscow Region  142432\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "A43BFAD",
+			"OUISize": 28,
+			"OrgAddress": "Severnyi proezd 1, k. 5/6\\nChernogolovka  Moscow Region  142432\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "JSC âComponent-ASUâ",
+			"Source": "IEEE"
 		}
 	]
 }

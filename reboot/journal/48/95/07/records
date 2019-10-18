@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-05",
+			"EventType": "add",
+			"OUI": "489507",
+			"OUISize": 24,
+			"OrgAddress": "NO.18 HAIBIN ROAD,\\nDONG GUAN  GUANG DONG  523860\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

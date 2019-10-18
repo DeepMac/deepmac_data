@@ -54,6 +54,17 @@
 			"OrgCountry": "IL",
 			"OrgName": "Radware",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "0003B2",
+			"OUISize": 24,
+			"OrgAddress": "8 Hamrpe Hochvim\\n000    0000\\n\\n",
+			"OrgCountry": "IL",
+			"OrgName": "Radware",
+			"Source": "IEEE"
 		}
 	]
 }

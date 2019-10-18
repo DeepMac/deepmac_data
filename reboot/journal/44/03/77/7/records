@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-15",
+			"EventType": "add",
+			"OUI": "4403777",
+			"OUISize": 28,
+			"OrgAddress": "Avenida Stara 519\\nNÃ£o-Me-Toque  Rio Grande do Sul  99470000\\n\\n",
+			"OrgCountry": "BR",
+			"OrgName": "Stara S/A IndÃºstria de Implementos AgrÃ­colas",
+			"Source": "IEEE"
+		}
+	]
+}

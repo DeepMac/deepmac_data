@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-10",
+			"EventType": "add",
+			"OUI": "70B3D54FF",
+			"OUISize": 36,
+			"OrgAddress": "No.309 room 2445 14C?Tanggu Road?Hongkou District\\nShanghai    200080\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai AiGentoo Information Technology Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

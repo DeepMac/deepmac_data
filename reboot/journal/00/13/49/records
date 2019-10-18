@@ -43,17 +43,6 @@
 			"OrgCountry": "TW",
 			"OrgName": "ZyXEL Communications Corporation",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2017-08-26",
-			"EventType": "change",
-			"OUI": "001349",
-			"OUISize": 24,
-			"OrgAddress": "No. 6 Innovation Road II, Science Park\\nHsichu  Taiwan  300\\n\\n",
-			"OrgCountry": "TW",
-			"OrgName": "Zyxel Communications Corporation",
-			"Source": "IEEE"
 		}
 	]
 }

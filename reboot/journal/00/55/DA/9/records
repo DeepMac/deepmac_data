@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "0055DA9",
+			"OUISize": 28,
+			"OrgAddress": "D3 Innovation Industrial Park, No. 800 Wangjiang West Road, Hefei Hi-tech Industrial Development Zone, Hefei City, Anhui Province, China\\nHefei  Anhui  230088\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "0055DA9",

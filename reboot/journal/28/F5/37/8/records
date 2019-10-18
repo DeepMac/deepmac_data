@@ -10,6 +10,17 @@
 			"OrgCountry": "CN",
 			"OrgName": "1MORE, INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-11-08",
+			"EventType": "change",
+			"OUI": "28F5378",
+			"OUISize": 28,
+			"OrgAddress": "TianliaoBuilding F14\\nNew Materials Industrial Park,Xueyuan Blvd  Shenzhen, Nanshan District  518005\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "1MORE",
+			"Source": "IEEE"
 		}
 	]
 }

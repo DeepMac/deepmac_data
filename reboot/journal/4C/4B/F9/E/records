@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-04",
+			"EventType": "add",
+			"OUI": "4C4BF9E",
+			"OUISize": 28,
+			"OrgAddress": "The building of Navinfo ,at the intersection Yongfeng road and Beiqing road,Haidian District\\nBeijing  Beijing  100094\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Beijing AutoAi Technology co. LTD",
+			"Source": "IEEE"
+		}
+	]
+}

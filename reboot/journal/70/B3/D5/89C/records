@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-01",
+			"EventType": "add",
+			"OUI": "70B3D589C",
+			"OUISize": 36,
+			"OrgAddress": "1, Shin-nakahara-cho, Isogo-ku\\nYokohama  Kanagawa  235-8501\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "IHI Rotating Machinery Engineering Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

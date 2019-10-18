@@ -32,6 +32,17 @@
 			"OrgCountry": "US",
 			"OrgName": "The Chamberlain Group, Inc",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-01",
+			"EventType": "change",
+			"OUI": "645299",
+			"OUISize": 24,
+			"OrgAddress": "300 Windsor Drive\\nOak Brook  IL  60523\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "The Chamberlain Group, Inc",
+			"Source": "IEEE"
 		}
 	]
 }

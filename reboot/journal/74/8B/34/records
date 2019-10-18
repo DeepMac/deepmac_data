@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-09",
+			"EventType": "add",
+			"OUI": "748B34",
+			"OUISize": 24,
+			"OrgAddress": "Room 902C-1, 560 Shengxia Road, Zhangjiang Hi-Tech Park, Shanghai 201203, China\\nShanghai  Shanghai  201210\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Shanghai Smart System Technology Co., Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

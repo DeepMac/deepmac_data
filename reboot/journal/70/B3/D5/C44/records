@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-24",
+			"EventType": "add",
+			"OUI": "70B3D5C44",
+			"OUISize": 36,
+			"OrgAddress": "Franz-Kessler-Str. 2\\nBad Buchau  Baden-Wuerttemberg  88422\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "Franz Kessler GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

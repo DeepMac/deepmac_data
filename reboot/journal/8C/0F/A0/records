@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-10",
+			"EventType": "add",
+			"OUI": "8C0FA0",
+			"OUISize": 24,
+			"OrgAddress": "Steinbeisstrasse 6\\nUrbach    73660\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "di-soric GmbH & Co. KG",
+			"Source": "IEEE"
+		}
+	]
+}

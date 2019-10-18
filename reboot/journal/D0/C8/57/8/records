@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-26",
+			"EventType": "add",
+			"OUI": "D0C8578",
+			"OUISize": 28,
+			"OrgAddress": "14th Floor, Building 3, No. 89 Shengli Road, Jiangning Economic and Technological Development Zone\\nNanjing  Jiangsu  211100\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Nanjing Magewell Electronics Co.,Ltd",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-21",
+			"EventType": "add",
+			"OUI": "70B3D5F29",
+			"OUISize": 36,
+			"OrgAddress": "2100 Geng Rd #103\\nPalo Alto  CA  94303\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "SamabaNova Systems",
+			"Source": "IEEE"
+		}
+	]
+}

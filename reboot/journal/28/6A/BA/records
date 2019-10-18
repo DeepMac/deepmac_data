@@ -415,17 +415,6 @@
 			"OrgCountry": "US",
 			"OrgName": "Apple, Inc.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2017-09-29",
-			"EventType": "change",
-			"OUI": "286ABA",
-			"OUISize": 24,
-			"OrgAddress": "1 Infinite Loop\\nCupertino  CA  95014\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Apple, Inc.",
-			"Source": "IEEE"
 		}
 	]
 }

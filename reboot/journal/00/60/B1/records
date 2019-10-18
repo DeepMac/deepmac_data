@@ -32,17 +32,6 @@
 			"OrgCountry": "US",
 			"OrgName": "INPUT/OUTPUT, INC.",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-02-03",
-			"EventType": "change",
-			"OUI": "0060B1",
-			"OUISize": 24,
-			"OrgAddress": "12300 PARC CREST DRIVE\\nSTAFFORD  TX  77477-2416\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Input/Output, Inc.",
-			"Source": "IEEE"
 		}
 	]
 }

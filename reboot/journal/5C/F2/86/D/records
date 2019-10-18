@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "BrightSky, LLC",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "5CF286D",
+			"OUISize": 28,
+			"OrgAddress": "5121 Castello Drive\\nNaples  null  34103-1927\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "BrightSky, LLC",
+			"Source": "IEEE"
 		}
 	]
 }

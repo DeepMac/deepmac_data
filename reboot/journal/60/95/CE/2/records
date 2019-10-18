@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-03-19",
+			"EventType": "add",
+			"OUI": "6095CE2",
+			"OUISize": 28,
+			"OrgAddress": "#201,170 Seonyu-ro, Yeongdeungpo-gu\\nSeoul  Korea  07255\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "Q-SENTECH Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

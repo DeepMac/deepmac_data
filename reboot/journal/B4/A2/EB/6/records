@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-13",
+			"EventType": "add",
+			"OUI": "B4A2EB6",
+			"OUISize": 28,
+			"OrgAddress": "Room 2406, Northwestern Polytechnical University, Gaoxin South Nine Road,Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "ShenZhen Lark Acoustics Co., Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

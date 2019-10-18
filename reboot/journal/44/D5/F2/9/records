@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-05-17",
+			"EventType": "add",
+			"OUI": "44D5F29",
+			"OUISize": 28,
+			"OrgAddress": "17F, Building 3, China Science and Technology Development Park, No. 009, 1st South Gaoxin Road, Nanshan District\\nShenzhen  Guangdong  518000\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "Auctus Technologies Co.,Ltd.",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D599F",
+			"OUISize": 36,
+			"OrgAddress": "Beurtschipper 2-4\\nNijkerk  n.a.  3861SC\\n\\n",
+			"OrgCountry": "NL",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D599F",

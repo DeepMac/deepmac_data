@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-27",
+			"EventType": "change",
+			"OUI": "04F938",
+			"OUISize": 24,
+			"OrgAddress": "D1,Huawei Industrial Base,Bantian,Longgang,Shenzhen\\nShenzhen  Guangdong  518129\\n\\n",
+			"OrgCountry": "",
+			"OrgName": "HUAWEI TECHNOLOGIES CO.,LTD",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-09-01",
 			"EventType": "change",
 			"OUI": "04F938",

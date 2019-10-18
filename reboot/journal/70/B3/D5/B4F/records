@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-20",
+			"EventType": "add",
+			"OUI": "70B3D5B4F",
+			"OUISize": 36,
+			"OrgAddress": "Viale Zaccagna 6\\nCarrara    54033\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "AvMap srlu",
+			"Source": "IEEE"
+		}
+	]
+}

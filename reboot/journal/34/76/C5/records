@@ -21,6 +21,17 @@
 			"OrgCountry": "JP",
 			"OrgName": "I-O DATA DEVICE, INC.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-17",
+			"EventType": "change",
+			"OUI": "3476C5",
+			"OUISize": 24,
+			"OrgAddress": "3-10, SAKURADA-MACHI\\nKANAZAWA  ISHIKAWA  920-8512\\n\\n",
+			"OrgCountry": "JP",
+			"OrgName": "I-O DATA DEVICE,INC.",
+			"Source": "IEEE"
 		}
 	]
 }

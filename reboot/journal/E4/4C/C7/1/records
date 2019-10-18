@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-04",
+			"EventType": "add",
+			"OUI": "E44CC71",
+			"OUISize": 28,
+			"OrgAddress": "Science Park 2\\nSaarbrÃ¼cken    66123\\n\\n",
+			"OrgCountry": "DE",
+			"OrgName": "ACS-Solutions GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-12-20",
+			"EventType": "add",
+			"OUI": "6061DF",
+			"OUISize": 24,
+			"OrgAddress": "8365 Quay Drive\\nArvada  CO  80003\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Z-meta Research LLC",
+			"Source": "IEEE"
+		}
+	]
+}

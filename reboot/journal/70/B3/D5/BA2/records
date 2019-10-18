@@ -10,6 +10,17 @@
 			"OrgCountry": "US",
 			"OrgName": "MAMAC Systems, Inc.",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-02",
+			"EventType": "change",
+			"OUI": "70B3D5BA2",
+			"OUISize": 36,
+			"OrgAddress": "8189 Century Blvd.\\nChanhassen  null  55317-8002\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "MAMAC Systems, Inc.",
+			"Source": "IEEE"
 		}
 	]
 }

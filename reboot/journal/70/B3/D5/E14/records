@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-02-28",
+			"EventType": "add",
+			"OUI": "70B3D5E14",
+			"OUISize": 36,
+			"OrgAddress": "Via Carducci 705\\nCaronno Pertusella  Varese  21042\\n\\n",
+			"OrgCountry": "IT",
+			"OrgName": "Automata Spa",
+			"Source": "IEEE"
+		}
+	]
+}

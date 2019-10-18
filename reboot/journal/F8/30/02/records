@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-03",
+			"EventType": "add",
+			"OUI": "F83002",
+			"OUISize": 24,
+			"OrgAddress": "12500 TI Blvd\\nDallas  TX  75243\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Texas Instruments",
+			"Source": "IEEE"
+		}
+	]
+}

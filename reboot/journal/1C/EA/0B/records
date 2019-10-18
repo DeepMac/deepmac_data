@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-26",
+			"EventType": "add",
+			"OUI": "1CEA0B",
+			"OUISize": 24,
+			"OrgAddress": "1 Creation RD 3.\\nHsinchu    30077\\n\\n",
+			"OrgCountry": "TW",
+			"OrgName": "Edgecore Networks Corporation",
+			"Source": "IEEE"
+		}
+	]
+}

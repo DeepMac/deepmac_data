@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-01-10",
+			"EventType": "add",
+			"OUI": "18F18E",
+			"OUISize": 24,
+			"OrgAddress": "907 University Ave#299\\nMiddleton  WI  53562\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "ChipER Technology co. ltd",
+			"Source": "IEEE"
+		}
+	]
+}

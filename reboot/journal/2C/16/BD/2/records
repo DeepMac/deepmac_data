@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-04-19",
+			"EventType": "add",
+			"OUI": "2C16BD2",
+			"OUISize": 28,
+			"OrgAddress": "10000 SE Pine St\\nPortland  OR  97216\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "AIMCO",
+			"Source": "IEEE"
+		}
+	]
+}

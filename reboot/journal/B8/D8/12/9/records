@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "B8D8129",
+			"OUISize": 28,
+			"OrgAddress": "Unit 3, South Stanmore Stables,\\nNewbury  Berks  RG20 8SR\\n\\n",
+			"OrgCountry": "GB",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "B8D8129",

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-08-13",
+			"EventType": "add",
+			"OUI": "388E7A",
+			"OUISize": 24,
+			"OrgAddress": "212, Gasan digital 1-ro\\nSeoul  Geumcheon-gu  08502\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "AUTOIT",
+			"Source": "IEEE"
+		}
+	]
+}

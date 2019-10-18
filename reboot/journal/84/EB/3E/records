@@ -10,28 +10,6 @@
 			"OrgCountry": "US",
 			"OrgName": "Vivint Smart Home",
 			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-20",
-			"EventType": "delete",
-			"OUI": "84EB3E",
-			"OUISize": 24,
-			"OrgAddress": "4931 N. 300 W.\\nProvo  UT  84604\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Vivint Smart Home",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-09-22",
-			"EventType": "add",
-			"OUI": "84EB3E",
-			"OUISize": 24,
-			"OrgAddress": "4931 N. 300 W.\\nProvo  UT  84604\\n\\n",
-			"OrgCountry": "US",
-			"OrgName": "Vivint Smart Home",
-			"Source": "IEEE"
 		}
 	]
 }

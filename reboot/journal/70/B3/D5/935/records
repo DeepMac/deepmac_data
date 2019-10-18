@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5935",
+			"OUISize": 36,
+			"OrgAddress": "Nordre KullerÃ¸d 21\\nSandefjord    3241\\n\\n",
+			"OrgCountry": "NO",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5935",

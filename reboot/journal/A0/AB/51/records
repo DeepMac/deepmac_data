@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-07-18",
+			"EventType": "add",
+			"OUI": "A0AB51",
+			"OUISize": 24,
+			"OrgAddress": "Gaoxin 2 Road, Free Trade Zone,Weifang,Shandong,261205,P.R.China\\nWeifang  Shandong  261205\\n\\n",
+			"OrgCountry": "CN",
+			"OrgName": "WEIFANG GOERTEK ELECTRONICS CO.,LTD",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-09-06",
+			"EventType": "add",
+			"OUI": "70B3D5EB8",
+			"OUISize": 36,
+			"OrgAddress": "7901 Shaffer Pkwy\\nLittleton  CO  80127\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Emporia Renewable Energy Corp",
+			"Source": "IEEE"
+		}
+	]
+}

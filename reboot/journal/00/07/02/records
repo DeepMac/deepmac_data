@@ -21,6 +21,28 @@
 			"OrgCountry": "US",
 			"OrgName": "Varian Medical Systems",
 			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-12",
+			"EventType": "change",
+			"OUI": "000702",
+			"OUISize": 24,
+			"OrgAddress": "2599 Garcia Avenue\\nMountain View  CA  94043\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Varex Imaging",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
+			"EventDate": "2018-10-16",
+			"EventType": "change",
+			"OUI": "000702",
+			"OUISize": 24,
+			"OrgAddress": "1678 South Pioneer Road\\nSalt Lake City  UT  84104\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Varex Imaging",
+			"Source": "IEEE"
 		}
 	]
 }

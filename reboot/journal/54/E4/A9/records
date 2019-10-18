@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-19",
+			"EventType": "add",
+			"OUI": "54E4A9",
+			"OUISize": 24,
+			"OrgAddress": "Georg-Franz-Koller-StraÃe 18\\nBisamberg    2102\\n\\n",
+			"OrgCountry": "AT",
+			"OrgName": "BHR Tech GmbH",
+			"Source": "IEEE"
+		}
+	]
+}

@@ -13,6 +13,17 @@
 		},
 		{
 			"DeepMac": "registry",
+			"EventDate": "2015-08-25",
+			"EventType": "change",
+			"OUI": "70B3D5079",
+			"OUISize": 36,
+			"OrgAddress": "jiksan-eup, Seobuk-gu 28, 4sandan 5-gil\\nCheonan-si  Chungcheongnam-do  331-814\\n\\n",
+			"OrgCountry": "KR",
+			"OrgName": "",
+			"Source": "IEEE"
+		},
+		{
+			"DeepMac": "registry",
 			"EventDate": "2015-08-27",
 			"EventType": "change",
 			"OUI": "70B3D5079",

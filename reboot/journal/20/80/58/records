@@ -1,0 +1,15 @@
+{
+	"recs": [
+		{
+			"DeepMac": "registry",
+			"EventDate": "2019-06-19",
+			"EventType": "add",
+			"OUI": "208058",
+			"OUISize": 24,
+			"OrgAddress": "7035 Ridge Road\\nHanover  MD  21076\\n\\n",
+			"OrgCountry": "US",
+			"OrgName": "Ciena Corporation",
+			"Source": "IEEE"
+		}
+	]
+}
