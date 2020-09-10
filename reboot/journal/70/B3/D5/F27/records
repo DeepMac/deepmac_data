@@ -1,15 +1,0 @@
-{
-	"recs": [
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-07-12",
-			"EventType": "add",
-			"OUI": "70B3D5F27",
-			"OUISize": 36,
-			"OrgAddress": "2-Ð¹ ÐÐ¾Ð¶ÑÑÐ¾Ð²ÑÐºÐ¸Ð¹ Ð¿ÑÐ¾ÐµÐ·Ð´, Ð´.12, ÑÑÑ.2\\nMoscow    115432\\n\\n",
-			"OrgCountry": "RU",
-			"OrgName": "NIRIT- Xinwei  Telecom Technology Co., Ltd.",
-			"Source": "IEEE"
-		}
-	]
-}

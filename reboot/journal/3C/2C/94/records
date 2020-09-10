@@ -1,26 +1,0 @@
-{
-	"recs": [
-		{
-			"DeepMac": "registry",
-			"EventDate": "2014-10-23",
-			"EventType": "add",
-			"OUI": "3C2C94",
-			"OUISize": 24,
-			"OrgAddress": "tianmushan road no.398,Xihu District, hangzhou city, zhejiang province, China\\nHangzhou ZheJiang 310013\\n\\n",
-			"OrgCountry": "CHINA",
-			"OrgName": "æ­å·å¾·æ¾ç§ææéå¬å¸ï¼HangZhou Delan Technology Co.,Ltdï¼",
-			"Source": "IEEE"
-		},
-		{
-			"DeepMac": "registry",
-			"EventDate": "2015-08-27",
-			"EventType": "change",
-			"OUI": "3C2C94",
-			"OUISize": 24,
-			"OrgAddress": "tianmushan road no.398,Xihu District, hangzhou city, zhejiang province, China\\nHangzhou  ZheJiang  310013\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "æ­å·å¾·æ¾ç§ææéå¬å¸ï¼HangZhou Delan Technology Co.,Ltdï¼",
-			"Source": "IEEE"
-		}
-	]
-}

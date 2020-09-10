@@ -1,15 +1,0 @@
-{
-	"recs": [
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-07-21",
-			"EventType": "add",
-			"OUI": "1CFD08C",
-			"OUISize": 28,
-			"OrgAddress": "399 keyuan Rd, Pudong New District\\nShanghai    201203\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "Shanghai YottaTech Co Ltd (ä¸æµ·å°§å®ç§ææéå¬å¸ï¼",
-			"Source": "IEEE"
-		}
-	]
-}

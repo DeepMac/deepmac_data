@@ -1,15 +1,0 @@
-{
-	"recs": [
-		{
-			"DeepMac": "registry",
-			"EventDate": "2016-01-12",
-			"EventType": "add",
-			"OUI": "986D35B",
-			"OUISize": 28,
-			"OrgAddress": "1F No. 45, Wanghai Road / Software Park Phase â¡, Xiamen, China\\nXiamen  Fujian  361008\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "INTECH",
-			"Source": "IEEE"
-		}
-	]
-}

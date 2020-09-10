@@ -1,15 +1,0 @@
-{
-	"recs": [
-		{
-			"DeepMac": "registry",
-			"EventDate": "2018-06-23",
-			"EventType": "add",
-			"OUI": "300A601",
-			"OUISize": 28,
-			"OrgAddress": "Blk 6,Rm 602,Noble Centerâ¡ï¼No.1 Automotive Museum East Lane,South Fourth Ring Road, Fengtai District\\nBeijing  Beijing  100070\\n\\n",
-			"OrgCountry": "CN",
-			"OrgName": "Beijing Ruiteng Zhongtian TECH Ltd.,Co",
-			"Source": "IEEE"
-		}
-	]
-}
